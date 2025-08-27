@@ -10,6 +10,9 @@ About
 Contact
 Trading
 Available Positions:
+Portfolio Manager
+Trader
+Software Engineer (C++)
 About Us
 Technology
 Culture & Careers

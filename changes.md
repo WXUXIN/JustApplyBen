@@ -1,6 +1,6 @@
 # Latest Scraper Results
 
-## 2025-08-26 03:42:11
+## 2025-08-27 03:35:37
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
@@ -16,18 +16,9 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Portfolio Manager
-- Software Engineer (C++)
-- Trader
-```
-
----
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
-
-**Line changes detected!**
-
-```diff
-+ Doha, Qatar
++ Portfolio Manager
++ Software Engineer (C++)
++ Trader
 ```
 
 ---
@@ -36,8 +27,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 11
-- 2
+- 11
++ 4
 ```
 
 ---
