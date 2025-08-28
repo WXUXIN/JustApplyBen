@@ -1,24 +1,33 @@
 # Latest Scraper Results
 
-## 2025-08-27 03:35:37
+## 2025-08-28 03:35:50
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Chicago
+- London
+- Software Engineer – Cumberland/FICC Options Tools Engineering
+- Software Engineer – Cumberland/FICCO Tools Engineering
 ```
 
 ---
-### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
 
 **Line changes detected!**
 
 ```diff
-+ Portfolio Manager
-+ Software Engineer (C++)
-+ Trader
+- , x3
+- 2025 - Internship, Data Engineering
+- 2025 - Internship, Quantitative Developer
+- 2025 - Internship, Quantitative Research/Trading
+- Dubai
+- London x3
+- Paris
+- View opportunity x3
+- Zurich
 ```
 
 ---
@@ -27,8 +36,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- 11
-+ 4
+- 4
++ 7
 ```
 
 ---
