@@ -28,7 +28,6 @@ Honolulu, HI
 London, United Kingdom
 Madrid, Spain
 New York, NY
-North America
 Oslo, Norway
 Ottawa, Canada
 Palo Alto, CA
@@ -66,7 +65,6 @@ All
 Fixed-Term
 Full-time
 Internship
-Scholarship
 Delta
 Apply
 Forward Deployed Software Engineer, Internship - Commercial
