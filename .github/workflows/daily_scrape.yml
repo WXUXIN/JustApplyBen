@@ -43,16 +43,29 @@ jobs:
       - name: Commit changes
         id: commit
         run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add changes.md text_storage
+          set -euo pipefail
+          BRANCH="${GITHUB_REF_NAME:-main}"
+
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add changes.md text_storage || true
+
           if git diff --staged --quiet; then
-            echo "no_changes=true" >> $GITHUB_OUTPUT
-          else
-            git commit -m "🔄 Daily scrape update: $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
-            git push
-            echo "no_changes=false" >> $GITHUB_OUTPUT
+            echo "no_changes=true" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
+
+          git commit -m "🔄 Daily scrape update: $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+
+          # Rebase on latest remote to avoid 'rejected - fetch first'
+          git fetch origin "$BRANCH"
+          git pull --rebase origin "$BRANCH"
+
+          # Push committed changes back to the same branch
+          git push origin HEAD:"$BRANCH"
+
+          echo "no_changes=false" >> "$GITHUB_OUTPUT"
 
       - name: Send Telegram notification
         if: steps.commit.outputs.no_changes == 'false'
