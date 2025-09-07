@@ -1,22 +1,16 @@
 # Latest Scraper Results
 
-## 2025-09-06 18:54:30
+## 2025-09-07 03:34:27
 
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
-
-**Line changes detected!**
-
-```diff
-No previous version found
-```
-
----
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No previous version found
+- Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
++ Site Reliability Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
++ Technology
+- Technology - Data mining
 ```
 
 ---
@@ -25,8 +19,8 @@ No previous version found
 **Line changes detected!**
 
 ```diff
-- 0
-+ 3
++ 2
+- 3
 ```
 
 ---
