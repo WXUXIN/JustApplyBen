@@ -178,7 +178,7 @@ def append_to_markdown(results: list[tuple[str, bool, str]]) -> None:
     timestamp = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
 
     # Create new content
-    new_content = f"# Latest Scraper Results\n\n## {timestamp}\n\n"
+    new_content = f"# Latest Frequent Scraper Results\n\n## {timestamp}\n\n"
 
     # Check if any URLs have changes
     has_any_changes = any(has_changes for _, has_changes, _ in results)
@@ -195,10 +195,10 @@ def append_to_markdown(results: list[tuple[str, bool, str]]) -> None:
                 new_content += "\n---\n"
     else:
         # If no changes detected for any URL, show a single message
-        new_content += "**No changes for today**\n\n---\n"
+        new_content += "**No changes detected**\n\n---\n"
 
     # Write new content, completely replacing the file
-    with open('changes.md', 'w', encoding='utf-8') as f:
+    with open('frequent_changes.md', 'w', encoding='utf-8') as f:
         f.write(new_content)
 
 
@@ -234,27 +234,14 @@ def process_urls(urls: list[str]) -> None:
 
 
 def main():
-    # URLs for daily monitoring (less frequent updates expected)
+    # High-priority URLs that need frequent monitoring (every 6 hours)
     urls = [
-        "https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University",
-        "https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK",
-        "https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA",
-        "https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software",
-        "https://caladan.xyz/careers/",
-        "https://grasshopperasia.com/job/trading/",
-        "https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads",
-        "https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads",
-        "https://www.quantedge.com/careers",
-        "https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&",
-        "https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney",
         "https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory",
         "https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0",
-        "https://jobs.lever.co/palantir?commitment=Internship",
-        "https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&"
     ]
 
     process_urls(urls)
-    print("\nText storage and comparison completed. Check changes.md for the log.")
+    print("\nFrequent scraper completed. Check frequent_changes.md for the log.")
 
 
 if __name__ == "__main__":

@@ -1,15 +1,15 @@
-name: Daily Scraper (Once Per Day)
+name: Frequent Scraper (Every 6 Hours)
 
 on:
   schedule:
-    - cron: "0 3 * * *"      # Every day at 03:00 UTC
+    - cron: "0 */6 * * *"    # Every 6 hours at minute 0
   workflow_dispatch:         # Allow manual run
 
 permissions:
   contents: write
 
 jobs:
-  run-daily-scraper:
+  run-frequent-scraper:
     runs-on: ubuntu-latest
 
     steps:
@@ -36,9 +36,9 @@ jobs:
           mkdir -p /tmp/chrome-user-data
           chmod 755 /tmp/chrome-user-data
 
-      - name: Run daily scraper
+      - name: Run frequent scraper
         run: |
-          python daily_scraper.py
+          python frequent_scraper.py
 
       - name: Commit changes
         id: commit
@@ -49,14 +49,14 @@ jobs:
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add changes.md text_storage || true
+          git add frequent_changes.md text_storage || true
 
           if git diff --staged --quiet; then
             echo "no_changes=true" >> "$GITHUB_OUTPUT"
             exit 0
           fi
 
-          git commit -m "📅 Daily scrape update: $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
+          git commit -m "⚡ Frequent scrape update: $(date -u '+%Y-%m-%d %H:%M:%S') UTC"
 
           # Rebase on latest remote to avoid 'rejected - fetch first'
           git fetch origin "$BRANCH"
@@ -70,8 +70,8 @@ jobs:
       - name: Send Telegram notification
         if: steps.commit.outputs.no_changes == 'false'
         run: |
-          # Read the changes.md file
-          CHANGES_CONTENT=$(cat changes.md)
+          # Read the frequent_changes.md file
+          CHANGES_CONTENT=$(cat frequent_changes.md)
           
           # Function to send Telegram message
           send_telegram_message() {
@@ -91,13 +91,13 @@ jobs:
           CURRENT_CHUNK=""
           CHUNK_NUMBER=1
           
-          # Read changes.md line by line and build chunks
+          # Read frequent_changes.md line by line and build chunks
           while IFS= read -r line; do
             # If adding this line would exceed max length, send current chunk and start new one
             if [ ${#CURRENT_CHUNK} -gt 0 ] && [ $((${#CURRENT_CHUNK} + ${#line} + 200)) -gt $MAX_LENGTH ]; then
               # Format current chunk with your preferred format
               TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S')
-              MESSAGE="📅 <b>Daily Scraper Update</b>\n\n<b>Changes detected:</b>\n<pre><code>$CURRENT_CHUNK</code></pre>\n\n<i>Updated at: $TIMESTAMP UTC</i>"
+              MESSAGE="⚡ <b>Frequent Scraper Update</b>\n\n<b>Changes detected:</b>\n<pre><code>$CURRENT_CHUNK</code></pre>\n\n<i>Updated at: $TIMESTAMP UTC</i>"
               send_telegram_message "$MESSAGE"
               CURRENT_CHUNK=""
               CHUNK_NUMBER=$((CHUNK_NUMBER + 1))
@@ -110,13 +110,11 @@ jobs:
             else
               CURRENT_CHUNK="$CURRENT_CHUNK\n$line"
             fi
-          done < changes.md
+          done < frequent_changes.md
           
           # Send the last chunk if there's anything left
           if [ ${#CURRENT_CHUNK} -gt 0 ]; then
             TIMESTAMP=$(date -u '+%Y-%m-%d %H:%M:%S')
-            MESSAGE="📅 <b>Daily Scraper Update</b>\n\n<b>Changes detected:</b>\n<pre><code>$CURRENT_CHUNK</code></pre>\n\n<i>Updated at: $TIMESTAMP UTC</i>"
+            MESSAGE="⚡ <b>Frequent Scraper Update</b>\n\n<b>Changes detected:</b>\n<pre><code>$CURRENT_CHUNK</code></pre>\n\n<i>Updated at: $TIMESTAMP UTC</i>"
             send_telegram_message "$MESSAGE"
           fi
-
-
