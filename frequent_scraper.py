@@ -65,7 +65,12 @@ def main():
         "https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY" 
         "https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY",
         "https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0",
-        "https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0" 
+        "https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0",
+        # Past week, how many jobs posted by ByteDance f_TPR is the http request parameter
+        # Week: 60 * 60 * 24 * 7 = 604800
+        # Day: 60 * 60 * 24 = 86400
+        # Hour: 60 * 60 * 6 = 21600
+        "https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company" 
     ]
 
     process_urls(urls)
