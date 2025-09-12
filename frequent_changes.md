@@ -1,20 +1,22 @@
 # Latest Frequent Scraper Results
 
-## 2025-09-12 12:32:04
+## 2025-09-12 18:23:27
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-+ Bachelor/Master Graduates- 2026 Start
-- Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-- Intern
-+ Regular
-+ Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
-+ Technology
-- Technology - Data mining
-- Undergraduate/Master Intern- 2026 Start
+No line changes.
+```
+
+---
+### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+No line changes.
 ```
 
 ---
@@ -23,71 +25,61 @@
 **Line changes detected!**
 
 ```diff
-- 1 hour ago x7
-- 4 hours ago
-- 8
-- 8 jobs in Worldwide
-+ Agree & Join
-- Allied Universal (269)
-+ Already on Linkedin?
-- Any time (1,085)
-- Application Security Engineer, Global Monetization x2
-- Application Security Engineer- Global E-Commerce x2
-- Be an early applicant x8
-- Business Red Team Engineer - Global E-Commerce x2
-+ By clicking Agree & Join, you agree to the LinkedIn
-- By clicking Continue to join or sign in, you agree to LinkedIn’s
-- ByteDance x9
-- ByteDance (8)
-- Clear text x6
-+ Continue with Google x2
-- Data Security Engineer, Global E-Commerce x2
-- Done x5
-+ Email
-- Environment Agency (650)
-- Expand search
-- Experience level
-+ First name
-- Full-time (8)
-- Hybrid (1)
-- Incident Response Engineer, Global E-Commerce x2
-- Internship (1)
-- Job type
-- Jobs
-- Jobs in Worldwide
-+ Join LinkedIn
-- Join now x2
-+ Last name
-- Learning
-- Mid-Senior level (1)
-- New to LinkedIn? x2
-+ New to Linkedin?
-+ Not you?
-- On-site (7)
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (432)
-- Past 24 hours (8)
-- Past month (972)
-- Past week (561)
-- People
-- Remote
-+ Remove photo
-- Research Scientist Graduate (Applied Machine Learning - ML System) - 2026 Start (BS/MS) x2
-- Reset
-- SASE Architect, SealSuite x2
-- San Jose, CA x2
-+ Security verification
-- Senior Indirect Tax Manager - US (San Jose) x2
-+ Sign Up | LinkedIn
-- Sign in to view more jobs
-- Singapore, Singapore x6
-- Spirit Halloween (359)
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- Walmart (675)
-- Welcome back
-- Worldwide
-- You've viewed all jobs for this search
++ 2
++ 2 jobs in Worldwide
++ 4 hours ago
++ 6 hours ago
+- Agree & Join
+- Already on Linkedin?
++ Any time (1,084)
++ Be an early applicant x2
+- By clicking Agree & Join, you agree to the LinkedIn
++ By clicking Continue to join or sign in, you agree to LinkedIn’s
++ ByteDance x3
++ ByteDance (2)
++ Clear text x6
+- Continue with Google x2
++ Done x4
++ EY (1,930)
+- Email
++ Environment Agency (1,053)
++ Expand search
++ Experience level
+- First name
++ Internship (1)
++ Jobs
++ Jobs in Worldwide
+- Join LinkedIn
++ Join now x2
+- Last name
++ Learning
++ MCN Project Intern (E-commerce) - 2025 Start (BS/MS) x2
++ New to LinkedIn? x2
+- New to Linkedin?
+- Not you?
++ On-site (2)
+- Password (6+ characters)
++ Past 24 hours
++ Past 24 hours (2)
++ Past 24 hours (39)
++ Past month (965)
++ Past week (568)
++ People
++ Peraton (948)
++ Product Compliance Officer - Global Payment x2
++ PwC (674)
++ Remote
+- Remove photo
++ Reset
+- Security verification
+- Sign Up | LinkedIn
++ Sign in to view more jobs
++ Singapore, Singapore
++ Taguig, National Capital Region, Philippines
++ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ Welcome back
++ Worldwide
++ You've viewed all jobs for this search
 ```
 
 ---
