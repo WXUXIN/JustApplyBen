@@ -1,14 +1,26 @@
 # Latest Scraper Results
 
-## 2025-09-11 03:34:00
+## 2025-09-12 03:27:32
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-+ London
-+ Software Engineer - Compliance, Inquiry and Audit
+- London
+- Software Developer - Equity Index Options
+```
+
+---
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+
+**Line changes detected!**
+
+```diff
+- Kuala Lumpur
+- Settlement Operations
+- View Details
+- We are looking for a hands-on Settlement Operations Analyst responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions
 ```
 
 ---
@@ -17,20 +29,11 @@
 **Line changes detected!**
 
 ```diff
-- We
-+ We celebrate
-- inspire
-- joy
-+ our differences
-```
-
----
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-+ Chicago
++ We
+- We celebrate
++ inspire
++ joy
+- our differences
 ```
 
 ---
@@ -39,17 +42,8 @@
 **Line changes detected!**
 
 ```diff
-- 1
-+ 5
-```
-
----
-### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
-
-**Line changes detected!**
-
-```diff
-No previous version found
++ 11
+- 5
 ```
 
 ---
