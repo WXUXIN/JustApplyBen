@@ -1,20 +1,35 @@
 # Latest Scraper Results
 
-## 2025-09-15 03:41:06
+## 2025-09-16 03:29:46
 
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
++ Full Stack Software Developer
++ Montréal
+```
+
+---
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
+
+**Line changes detected!**
+
+```diff
++ Point72
++ | x3
+- © 2025 Point72, L.P.    All Rights Reserved
++ © 2025 Point72. All Rights Reserved
+```
+
+---
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-+ Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-+ Intern
-- Regular
-- Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
-- Technology
-+ Technology - Data mining
-+ Undergraduate/Master Intern- 2026 Start
+No line changes.
 ```
 
 ---
@@ -23,8 +38,8 @@
 **Line changes detected!**
 
 ```diff
-- 0
-+ 6
++ 2
+- 6
 ```
 
 ---
