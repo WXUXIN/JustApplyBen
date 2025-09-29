@@ -1,14 +1,14 @@
 # Latest Frequent Scraper Results
 
-## 2025-09-29 06:27:08
+## 2025-09-29 12:34:27
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Show 12 out of 98 open roles
-+ Show 12 out of 99 open roles
++ Show 12 out of 97 open roles
+- Show 12 out of 99 open roles
 ```
 
 ---
@@ -17,7 +17,25 @@
 **Line changes detected!**
 
 ```diff
-- Keep me logged in
++ Keep me logged in
+```
+
+---
+### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+- Backend Software Engineer Intern (Libra Platform) - 2026 Start (BS/MS)
+- Intern
++ Machine Learning Engineer(Global Payment - Data Intelligence) - 2026 Start (PhD)
++ PhD Graduates- 2026 Start
++ Regular
++ Show 12 out of 76 open roles
+- Show 12 out of 78 open roles
+- Technology
++ Technology - Machine learning
+- Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
@@ -26,16 +44,16 @@
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-+ Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-+ Intern
-- Regular
-- Show 12 out of 88 open roles
-+ Show 12 out of 89 open roles
-- Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
-- Technology
-+ Technology - Data mining
-+ Undergraduate/Master Intern- 2026 Start
++ Bachelor/Master Graduates- 2026 Start
+- Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+- Intern
++ Regular
++ Show 12 out of 87 open roles
+- Show 12 out of 89 open roles
++ Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
++ Technology
+- Technology - Data mining
+- Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
