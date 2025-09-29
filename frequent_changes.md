@@ -1,41 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2025-09-29 12:34:27
+## 2025-09-29 18:24:54
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 97 open roles
-- Show 12 out of 99 open roles
-```
-
----
-### [https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY](https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY)
-
-**Line changes detected!**
-
-```diff
-+ Keep me logged in
-```
-
----
-### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-- Backend Software Engineer Intern (Libra Platform) - 2026 Start (BS/MS)
-- Intern
-+ Machine Learning Engineer(Global Payment - Data Intelligence) - 2026 Start (PhD)
-+ PhD Graduates- 2026 Start
-+ Regular
-+ Show 12 out of 76 open roles
-- Show 12 out of 78 open roles
-- Technology
-+ Technology - Machine learning
-- Undergraduate/Master Intern- 2026 Start
+No line changes.
 ```
 
 ---
@@ -44,16 +16,70 @@
 **Line changes detected!**
 
 ```diff
-+ Bachelor/Master Graduates- 2026 Start
-- Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-- Intern
-+ Regular
-+ Show 12 out of 87 open roles
-- Show 12 out of 89 open roles
-+ Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
-+ Technology
-- Technology - Data mining
-- Undergraduate/Master Intern- 2026 Start
+No line changes.
+```
+
+---
+### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
+
+**Line changes detected!**
+
+```diff
++ 2
++ 2 hours ago x2
++ 2 jobs in Worldwide
++ Actively Hiring
+- Agree & Join
+- Already on Linkedin?
++ Any time (1,062)
++ Aston Carter (750)
++ BairesDev (865)
++ Be an early applicant
+- By clicking Agree & Join, you agree to the LinkedIn
++ By clicking Continue to join or sign in, you agree to LinkedIn’s
++ ByteDance x3
++ ByteDance (2)
++ Clear text x6
+- Continue with Google x2
++ Done x4
+- Email
++ Encompass Health (1,922)
++ Expand search
++ Experience level
+- First name
++ Frontend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS) x2
++ Internship (2)
++ Jobs
++ Jobs in Worldwide
++ Jobster (942)
+- Join LinkedIn
++ Join now x2
+- Last name
++ Learning
++ Machine Learning Engineer(Global Payment - Data Intelligence) - 2026 Start (PhD) x2
++ New to LinkedIn? x2
+- New to Linkedin?
+- Not you?
++ On-site (2)
+- Password (6+ characters)
++ Past 24 hours
++ Past 24 hours (2)
++ Past 24 hours (34)
++ Past month (960)
++ Past week (168)
++ People
++ Remote
+- Remove photo
++ Reset
++ Seattle, WA
+- Security verification
+- Sign Up | LinkedIn
++ Sign in to view more jobs
++ Singapore
++ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ Welcome back
++ Worldwide
++ You've viewed all jobs for this search
 ```
 
 ---
