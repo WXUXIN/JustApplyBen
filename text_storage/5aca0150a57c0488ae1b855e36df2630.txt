@@ -1,133 +1,168 @@
-Internal error!
+Stripe Jobs
 Stripe logo
-Products
-Solutions
-Developers
-Startups
-Enterprise
-Pricing
-Sign in
-Contact sales
+Jobs
+Our opportunity
+Life at Stripe
+Benefits
+University
+See open roles
 Open mobile navigation
-Stripe logo
-Back
+Jobs
+Our opportunity
+Life at Stripe
+Benefits
+University
+See open roles
 Close mobile navigation
+Expand economic access across the globe
+Bridge open roles
+Privy open roles
+Opens the multi-select filter menu
+Teams
+Administrative
+Communications
+Corporate Development
+Corporate Security
+Corporate Strategy
+Data & Data Science
+Data Platform
+Design
+Executive
+Finance
+Controllership
+Finance & Strategy
+Internal Audit
+Investor Relations
+Tax
+Treasury
+Workplace
+Global Partnerships
+Go-to-Market
+Customer Success
+Global Strategic Pursuits
+GTM Partnerships
+Marketing
+Revenue Operations
+Sales
+Scaled Sales
+Solutions Architect
+Infrastructure & Corporate Tech
+Legal
+Machine Learning
+Operations
+People
+Recruiting
+People Functions
 Products
-Solutions
-Developers
-Resources
-Startups
-Enterprise
-Contact sales
-Pricing
-Global payments
-Money Management
-Revenue and Finance Automation
-More
-Payment methods
-Access to 100+ globally
-By use case
+Banking as a Service
+Climate
+Connect
 Crypto
-Ecommerce
-Embedded finance
-Finance automation
-Global businesses
-Marketplaces
-Platforms
-SaaS
-By industry
-AI companies
-Creator economy
-Hospitality, travel, and leisure
-Insurance
-Media and entertainment
-Nonprofits
-Retail
-Ecosystem
-Stripe App Marketplace
-Partners
-Documentation
-Get started
-Prebuilt checkout
-Libraries and SDKs
-App integrations
-Guides
-Accept online payments
-Manage subscriptions
-Send payments
-Full API reference
-API status
-API changelog
-Build on Stripe Apps
-Support center
-Support plans
-Guides
-Customer stories
-Blog
-Sessions
-Contact sales
-Professional services
-Jobs
-Newsroom
-Stripe Press
-Become a partner
-Sign in
-More products
-By use case
-Crypto
-Ecommerce
-Embedded finance
-Finance automation
-Global businesses
-Marketplaces
-Platforms
-SaaS
-By industry
-AI companies
-Creator economy
-Hospitality, travel, and leisure
-Insurance
-Media and entertainment
-Nonprofits
-Retail
-Ecosystem
-Stripe App Marketplace
-Partners
-Documentation
-Start integrating Stripe’s products and tools
-Get started
-Prebuilt checkout
-Libraries and SDKs
-App integrations
-Code samples
-Guides
-Accept online payments
-Manage subscriptions
-Send payments
-Set up in-person payments
-Full API reference
-API status
-API changelog
-Build on Stripe Apps
-Support center
-Support plans
-Guides
-Customer stories
-Blog
-Sessions
-Contact sales
-Professional services
-Jobs
-Newsroom
-Stripe Press
-Become a partner
-Internal error!
-Sorry, an internal error occurred. We've been notified and are on it!
-You can
-return to our front page
-, or
-drop us a line
-if you can't find what you're looking for.
+Mobile
+Money Movement and Storage
+New Financial Products
+Payments
+Platform
+Professional Services
+Revenue & Financial Automation
+Stripe Tax
+Terminal
+Risk
+Security
+Tech Programs
+University
+Opens the multi-select filter menu
+Office Locations (1)
+North America
+Atlanta
+Chicago
+New York
+New York Privy HQ
+Seattle
+South San Francisco HQ
+San Francisco Bridge HQ
+Washington DC
+Toronto
+Mexico City
+Asia Pacific
+Sydney
+Melbourne
+Jakarta
+Bengaluru
+Tokyo
+Singapore
+Bangkok
+Europe
+Paris
+Berlin
+London
+Dublin HQ
+Amsterdam
+Warsaw
+Bucharest
+Madrid
+Barcelona
+Stockholm
+Latin America
+São Paulo
+Mexico City
+Middle East
+Dubai
+Opens the multi-select filter menu
+Remote Locations
+North America
+United States
+Canada
+Mexico
+Asia Pacific
+Australia
+Hong Kong
+Indonesia
+India
+Japan
+Malaysia
+New Zealand
+South Korea
+Thailand
+Europe
+Austria
+Belgium
+Czechia
+Estonia
+France
+Germany
+Great Britain
+Ireland
+Israel
+Italy
+Netherlands
+Poland
+Portugal
+Romania
+Spain
+Sweden
+Switzerland
+Latin America
+Argentina
+Brazil
+Chile
+Mexico
+Opens the multi-select filter menu
+Tags (1)
+Bridge
+Privy
+University
+Showing roles across across 1 location and all teams. 1 tag selected.
+Clear all filters
+Role
+Team
+Location
+Software Engineer, Intern
+University
+Singapore
+Software Engineering, New Grad
+University
+Singapore
 Stripe logo
 United States (English)
 Australia
@@ -313,6 +348,7 @@ Licenses
 Sitemap
 Cookie settings
 Your privacy choices
+Coverage transparency
 More resources
 Company
 Jobs
