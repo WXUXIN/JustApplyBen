@@ -1,13 +1,24 @@
 # Latest Scraper Results
 
-## 2025-10-05 03:37:45
+## 2025-10-06 03:36:05
 
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
+- Amsterdam
+- Software Developer
+```
+
+---
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Show 12 out of 97 open roles
++ Show 12 out of 98 open roles
 ```
 
 ---
@@ -16,8 +27,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 2
-- 8
+- 2
++ 6
 ```
 
 ---
