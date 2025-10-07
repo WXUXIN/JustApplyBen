@@ -1,24 +1,34 @@
 # Latest Scraper Results
 
-## 2025-10-06 03:36:05
+## 2025-10-07 03:31:44
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- Amsterdam
-- Software Developer
+No line changes.
 ```
 
 ---
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
 
 **Line changes detected!**
 
 ```diff
-- Show 12 out of 97 open roles
-+ Show 12 out of 98 open roles
+- Caladan is a data-driven quantitative trading firm active in the exciting and emerging field of digital assets
+- DevOps Engineer
+- Ho Chi Minh City
+- View Details
+```
+
+---
+### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
+
+**Line changes detected!**
+
+```diff
++ Junior Software Engineer (C++)
 ```
 
 ---
@@ -27,8 +37,8 @@
 **Line changes detected!**
 
 ```diff
-- 2
-+ 6
++ 1
+- 6
 ```
 
 ---
