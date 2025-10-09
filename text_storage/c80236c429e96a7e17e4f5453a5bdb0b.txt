@@ -45,7 +45,7 @@ Program
 Bachelor/Master Graduates & Internships
 MBA Graduates & Internships
 PhD Graduates & Internships
-Top Talent Program
+Soaring Star Talent Program
 Project Intern
 Location
 Ashburn
@@ -88,16 +88,21 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Site Reliability Engineer, Traffic Platform - Traffic SRE - 2025 Start
 Technology
 Bachelor/Master Graduates- 2025 Start
 Singapore
 Regular
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
 Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -108,9 +113,9 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Backend Engineer, Applied Machine Learning Platform - 2025 Start
 Technology
-Bachelor/Master Graduates- 2026 Start
+Bachelor/Master Graduates- 2025 Start
 Singapore
 Regular
 Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
@@ -123,11 +128,6 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Engineer, Applied Machine Learning Platform - 2025 Start
-Technology
-Bachelor/Master Graduates- 2025 Start
-Singapore
-Regular
 Software Engineer (SRE - Platform Services) Intern (Infrastructure Engineering), 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -138,11 +138,11 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Site Reliability Engineer, Traffic Platform - 2025 Start
+Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
 Technology
-Bachelor/Master Graduates- 2025 Start
+Undergraduate/Master Intern- 2026 Start
 Singapore
-Regular
+Intern
 Show 12 out of 86 open roles
 1
 2
