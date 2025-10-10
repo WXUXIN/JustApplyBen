@@ -83,13 +83,13 @@ Taguig
 Tokyo
 Warsaw
 Washington D.C.
-Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Data mining
+Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
+Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
@@ -98,12 +98,12 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -143,7 +143,7 @@ Technology - Backend
 2026 Soaring Star Talent Program
 Singapore
 Regular
-Show 12 out of 77 open roles
+Show 12 out of 76 open roles
 1
 2
 3
