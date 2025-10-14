@@ -1,18 +1,39 @@
 # Latest Scraper Results
 
-## 2025-10-13 03:43:56
+## 2025-10-14 03:35:05
 
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2025 Start
-+ Intern
-- Regular
-+ Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
-- Site Reliability Engineer, Traffic Platform - 2025 Start
-+ Undergraduate/Master Intern- 2026 Start
+No line changes.
+```
+
+---
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+
+**Line changes detected!**
+
+```diff
++ Credit Risk
+- Credit Risk Associate
+```
+
+---
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
+
+**Line changes detected!**
+
+```diff
++ 10 Open Roles
+- 9 Open Roles
++ Corporate Access Intern
++ Corporate Communications
++ FOCUS
++ Hong Kong
++ LOCATION
++ ROLE
 ```
 
 ---
@@ -21,8 +42,8 @@
 **Line changes detected!**
 
 ```diff
-- 1
-+ 4
+- 4
++ 6
 ```
 
 ---
