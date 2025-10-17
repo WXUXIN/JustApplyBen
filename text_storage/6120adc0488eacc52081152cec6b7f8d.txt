@@ -7,7 +7,7 @@ Privacy Notice
 This website uses cookies to improve your web experience. By clicking
 Accept
 , you agree to the use of cookies.
-Palantir Cookie Policy
+Cookie Policy
 Deny
 Accept
 Location type
@@ -30,7 +30,6 @@ New York, NY
 Ottawa, Canada
 Palo Alto, CA
 Raleigh, NC
-Remote: US - South
 San Diego, CA
 Seattle, WA
 Seoul, South Korea
