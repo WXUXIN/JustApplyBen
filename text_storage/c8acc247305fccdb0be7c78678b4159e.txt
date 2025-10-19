@@ -103,16 +103,16 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD)
 Technology
 PhD Intern- 2026 Start
 Singapore
 Intern
+Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Assistant Project Manager Project Intern (Data Center Development, Global Delivery) - 2026 Start (BS/MS)
 Technology - Infrastructure
 Project Intern
