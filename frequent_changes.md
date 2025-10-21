@@ -1,14 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2025-10-21 12:35:40
+## 2025-10-21 18:24:22
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 93 open roles
-- Show 12 out of 95 open roles
+No line changes.
 ```
 
 ---
@@ -17,16 +16,7 @@
 **Line changes detected!**
 
 ```diff
-+ 2026 Soaring Star Talent Program
-- Assistant Project Manager Project Intern (Data Center Development, Global Delivery) - 2026 Start (BS/MS)
-- Intern
-+ Large Model Application Algorithm Research Scientist-International Content Security Algorithm Research-Soaring Star Talent Program
-- Project Intern
-+ Regular
-+ Show 12 out of 74 open roles
-- Show 12 out of 76 open roles
-+ Technology - Algorithm
-- Technology - Infrastructure
+No line changes.
 ```
 
 ---
@@ -35,9 +25,7 @@
 **Line changes detected!**
 
 ```diff
-- 8
-+ Show 12 out of 83 open roles
-- Show 12 out of 85 open roles
+No line changes.
 ```
 
 ---
@@ -46,55 +34,67 @@
 **Line changes detected!**
 
 ```diff
-- 2
-+ 2 hours ago x2
-- 2 jobs in Worldwide
-- 3 hours ago
-+ 4
-+ 4 jobs in Worldwide
-+ 5 hours ago
-+ Actively Hiring x3
-- Any time (1,011)
-+ Any time (1,012)
-- Associate (1)
+- 2 hours ago x3
+- 4
+- 4 jobs in Worldwide
+- 5 hours ago
+- Actively Hiring x3
++ Agree & Join
++ Already on Linkedin?
+- Any time (1,012)
 - Be an early applicant
-- Beijing, Beijing, China
-+ ByteDance x2
-- ByteDance (2)
-+ ByteDance (4)
-- Done
-- EMK CONSULTORIA (540)
-+ Employee Relations Partner - APAC x2
-+ Federal Express Corporation (814)
-+ Frontend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS) x2
-- Full-time (2)
-+ Hybrid (1)
-+ Internship (3)
-- Job type
-- Jobster (533)
-+ Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
-+ Live Nation Entertainment (1,033)
-+ Machine Learning Engineer(Global Payment - Data Intelligence) - 2026 Start (PhD) x2
-- On-site (2)
-+ On-site (3)
-- Past 24 hours (2)
-+ Past 24 hours (20)
-- Past 24 hours (39)
-+ Past 24 hours (4)
-+ Past month (923)
-- Past month (925)
-+ Past week (186)
-- Past week (189)
-- PwC (1,552)
-+ PwC (2,581)
-+ Seattle, WA
-- Shanghai, Shanghai, China
-+ Singapore x2
-+ Software Engineer Intern (Global Payment - Compliance) - 2026 Start (BS/MS) x2
-+ UPS (546)
-- Valeo (678)
-- 商家工作台产品经理-TikTok Shop x2
-- 餐饮运营经理（北京） x2
++ By clicking Agree & Join, you agree to the LinkedIn
+- By clicking Continue to join or sign in, you agree to LinkedIn’s
+- ByteDance x5
+- ByteDance (4)
+- Clear text x6
++ Continue with Google x2
+- Done x4
++ Email
+- Employee Relations Partner - APAC x2
+- Expand search
+- Experience level
+- Federal Express Corporation (814)
++ First name
+- Frontend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS) x2
+- Hybrid (1)
+- Internship (3)
+- Jobs
+- Jobs in Worldwide
++ Join LinkedIn
+- Join now x2
+- Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
++ Last name
+- Learning
+- Live Nation Entertainment (1,033)
+- Machine Learning Engineer(Global Payment - Data Intelligence) - 2026 Start (PhD) x2
+- Mid-Senior level (1)
+- New to LinkedIn? x2
++ New to Linkedin?
++ Not you?
+- On-site (3)
++ Password (6+ characters)
+- Past 24 hours
+- Past 24 hours (20)
+- Past 24 hours (4)
+- Past month (923)
+- Past week (186)
+- People
+- PwC (2,581)
+- Remote
++ Remove photo
+- Reset
+- Seattle, WA
++ Security verification
++ Sign Up | LinkedIn
+- Sign in to view more jobs
+- Singapore x2
+- Software Engineer Intern (Global Payment - Compliance) - 2026 Start (BS/MS) x2
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
+- UPS (546)
+- Welcome back
+- Worldwide
+- You've viewed all jobs for this search
 ```
 
 ---
