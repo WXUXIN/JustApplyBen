@@ -1,21 +1,13 @@
 LinkedIn Login, Sign in | LinkedIn
 Sign in
-Stay updated on your professional world.
+Sign in with Apple
+or
 Email or phone
 Password
 Show
 Forgot password?
 Keep me logged in
 Sign in
-or
-By clicking Continue, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Sign in with Apple
 We’ve emailed a one-time link to your primary email address
 Click on the link to sign in instantly to your LinkedIn account.
 If you don’t see the email in your inbox, check your spam folder.
