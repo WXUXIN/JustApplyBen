@@ -89,14 +89,14 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Site Reliability Engineer, Traffic Platform - Traffic SRE - 2025 Start
-Technology
-Bachelor/Master Graduates- 2025 Start
-Singapore
-Regular
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Site Reliability Engineer, Traffic Platform - Traffic SRE - 2025 Start
+Technology
+Bachelor/Master Graduates- 2025 Start
 Singapore
 Regular
 Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
@@ -114,11 +114,6 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -144,7 +139,12 @@ Technology
 Bachelor/Master Graduates- 2025 Start
 Singapore
 Regular
-Show 12 out of 83 open roles
+Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Data mining
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
+Show 12 out of 82 open roles
 1
 2
 3
