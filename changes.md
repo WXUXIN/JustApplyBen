@@ -1,14 +1,23 @@
 # Latest Scraper Results
 
-## 2025-10-27 03:53:35
+## 2025-10-28 03:43:09
 
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-- Kuala Lumpur | Singapore
-+ Singapore
+- New York Privy HQ
+```
+
+---
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
+- London
+- Software Engineer
 ```
 
 ---
@@ -17,7 +26,17 @@
 **Line changes detected!**
 
 ```diff
-- Connect x2
+- Connect
++ Discover
+```
+
+---
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+No line changes.
 ```
 
 ---
@@ -26,8 +45,8 @@
 **Line changes detected!**
 
 ```diff
-+ 0
-- 1
+- 0
++ 7
 ```
 
 ---
@@ -36,135 +55,89 @@
 **Line changes detected!**
 
 ```diff
-- 115
-- 115 jobs in Worldwide
-- 17 hours ago x40
-- 18 hours ago x11
-+ 20
-+ 20 jobs in Worldwide
-+ 7 hours ago x6
-+ 8 hours ago x5
-- Actively Hiring x54
-- Allied Universal (321)
-- Any time (1,015)
-+ Any time (1,027)
-- Associate (1)
-+ Associate (4)
-+ Backend Software Engineer (Graph Neural Network System), Cloud Infrastructure Intern - 2025 Start x2
-- Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2026 Start (BS/MS) x2
-- Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS) x2
-- Backend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS) x4
-+ Be an early applicant x7
-+ Best Buy (557)
-- Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS) x2
-- Brand Partnerships & Data Analytics Project Intern (GBS-APAC-PH) 2025 Start (BS/MS) x2
-- ByteDance x40
-- ByteDance (115)
-+ ByteDance (20)
-- Cloud Network Engineer Graduate(Physical Network Infra) - 2026 Start (BS/ MS) x2
-- Content & Creator Strategy Manager - Lemon8 Japan x2
-- Content Operations Graduate (CapCut) - 2026 Start (BS/MS) x2
-+ Country Tax Manager - Jakarta x2
-+ Data Analyst - Global Payments (Third-party Contractor) x2
-- Data Engineer Graduate (Corporate Service System) - 2026 Start (BS/MS) x2
-- Data Scientist Intern (TikTok Ads)- 2025 Fall (BS/MS) x2
-- Dubai, Dubai, United Arab Emirates
-- Early Careers Project Intern - 2025 Start (BS/MS） x2
-- Entry level (3)
-- Environment Agency (1,103)
-+ Environment Agency (966)
-+ Executive (1)
-- Frontend Software Engineer Graduate (Global E-commerce) - 2026 Start (BS/MS) x2
-+ Game Community Manager - Japan Game Publishing x2
-- Gurgaon, Haryana, India
-+ HR Business Partner - Global E-Commerce Operations - Ho Chi Minh x2
-+ Ho Chi Minh City, Ho Chi Minh City, Vietnam
-- Hong Kong, Hong Kong SAR
-- Human Resources Apprenticeship Program, ByteDance – Trust & Safety India - 2025 Start x2
-- Hybrid (2)
-+ Hybrid (5)
-- Internship (109)
-+ Internship (5)
-- Jobs via Dice (2,809)
-+ Jobster (1,502)
-- Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
-+ Lidl in Germany (795)
-+ Los Angeles, CA x2
-+ MCN Project Intern (E-commerce) - 2025 Start (BS/MS) x2
-+ Machine Learning Engineer (Compliance) - Global Payment - Singapore x2
-- Machine Learning Engineer Graduate (E-Commerce Knowledge Graph - CV/Multimodal/NLP) -2026 Start (BS/MS) x2
-- Machine Learning Engineer Graduate (E-Commerce Knowledge Graph - CV/Multimodal/NLP) -2026 Start (PhD) x2
-- Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (BS/MS) x2
-- Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (Phd) x2
-- Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2026 Start (BS/MS) x2
-- Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2026 Start (Phd) x2
-- Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (PhD) x2
-- Machine Learning Engineer Intern (Applied Machine Learning-Algorithm) - 2025 Summer/Fall (PhD) x2
-+ Machine Learning Engineer Intern (E-commerce-Conversational AI) - 2026 Start (PhD) x2
-- Machine Learning Engineer Intern (E-commerce-Recommendation) - 2026 Start (PhD) x2
-- Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2025 Summer/Fall (MS) x2
-- Machine Learning Graduate (eCommerce Recommendation) - 2026 Start (BS/MS) x2
-- Machine Learning Researcher (Reasoning Agent) Intern - 2025 Start x2
-- Mid-Senior level (1)
-+ Mid-Senior level (9)
-+ Model Safety Analyst - Seed Global Data x2
-- Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS) x2
-- Network Software Development Engineer, Graduate (High Speed Network) - 2025 Start (PhD) x2
-- On-site (113)
-+ On-site (15)
-- Organizational Culture Project Intern (Organization Culture) - 2025 Start (BS/MS) x2
-- Pasig, National Capital Region, Philippines
-- Past 24 hours (115)
-+ Past 24 hours (20)
-+ Past month (927)
-- Past month (931)
-- Past week (467)
-+ Past week (472)
-+ Product Manager, Payment Solutions - Global Payment - Singapore x2
-- Product Marketing Graduate (BytePlus) - 2026 (BS/MS) x2
-- Product Operation Manager Intern-Customer Service Platform-2025 Start x2
-- Project Management Office (PMO) Intern (BytePlus) - 2026 (BS/MS) x2
-- Quality Analyst (QA) - CapCut x2
-- Research Scientist Graduate (Applied Machine Learning - ML System) - 2026 Start (BS/MS) x2
-- Research Scientist Graduate (Foundation Model, Generative AI) - 2025 Start (PhD) x4
-+ Research Scientist Graduate (Video Quality Analysis&Coding Strategy) - 2026 Start (PHD) x2
-- Research Scientist Graduate - (Seed Multimodal Interaction and World Model - Reinforcement Learning) - 2026 Start (PhD) x2
-- Research Scientist Graduate- (Foundation Model, Vision and Language) - 2025 Start (PhD) x2
-- Research Scientist Intern - Computational Biology (Seed AI-for-Science) - 2026 Start (PhD) x2
-- Risk Control Business Partner Graduate (Internal Control) - 2026 Start (BS/MS) x2
-- Riyadh, Riyadh, Saudi Arabia
-- San Jose, CA x19
-- Seattle, WA x16
-- See more jobs
-+ Senior Accounting Manager, Accounting & Reporting AMS x2
-+ Senior Backend Engineer – Global Payment x2
-+ Senior Network Software Engineer, RDMA x2
-- Singapore x9
-+ Singapore, Singapore x6
-- Site Reliability Engineer Graduate (Technical Infrastructure) - 2025 Start (BS/MS) x2
-- Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS) x4
-+ Software Engineer (Payment Network) - Global Payment - Singapore x2
-- Software Engineer - Applied Machine Learning, Engine x2
-- Software Engineer Graduate (Applied Machine Learning - Inference) - 2026 Start (MS) x2
-- Software Engineer Graduate (Applied Machine Learning - Training) - 2026 Start (MS) x2
-- Software Engineer Graduate (Data Security-US) - 2026 Start (BS/MS) x2
-- Software Engineer Intern (AI Platform) - 2026 Summer (BS/MS) x2
-- Software Engineer Intern (Applied Machine Learning-Enterprise) - 2026 Fall (BS/MS) x2
-- Software Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (PhD) x2
-- Software Engineer Intern (Inference Infrastructure) - 2026 Summer (MS/BS) x4
-- Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS) x4
-- Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS) x2
-- Software Engineer in ML Systems Graduate (AML - Machine Learning Systems) - 2026 Start (BS/MS) x2
-+ Software Engineer,  Global Payment x2
-- Software Engineer, Large Model System Graduate (Machine Learning Sys-US) - 2026 Start (BS/MS) x2
-- Solutions Architect, Byteplus x2
-+ Student Researcher [Seed LLM - Scientific Coding Agent (LLMs × Physics/Chemistry; RL preferred)] – 2026 Start (PhD) x2
-+ Taguig, National Capital Region, Philippines
-- Talent Acquisition Project Intern (DataAILab) - 2025 Start (BS/MS) x2
-+ Tech Lead Software Engineer, 3D Graphics x2
-+ Technology Internal Audit Lead x4
-- Test Software Engineer Graduate (Intelligent Creation) - 2026 Start (BS/MS) x2
-- myGwork - LGBTQ+ Business Community (606)
+- 18 hours ago x5
+- 20
+- 20 jobs in Worldwide
+- 7 hours ago x10
+- 8 hours ago x5
++ Agree & Join
++ Already on Linkedin?
+- Any time (1,027)
+- Associate (4)
+- Backend Software Engineer (Graph Neural Network System), Cloud Infrastructure Intern - 2025 Start x2
+- Be an early applicant x13
+- Best Buy (557)
++ By clicking Agree & Join, you agree to the LinkedIn
+- By clicking Continue to join or sign in, you agree to LinkedIn’s
+- ByteDance x21
+- ByteDance (20)
+- Clear text x6
++ Continue with Google x2
+- Country Tax Manager - Jakarta x2
+- Data Analyst - Global Payments (Third-party Contractor) x2
+- Done x4
++ Email
+- Environment Agency (966)
+- Executive (1)
+- Expand search
+- Experience level
++ First name
+- Game Community Manager - Japan Game Publishing x2
+- HR Business Partner - Global E-Commerce Operations - Ho Chi Minh x2
+- Ho Chi Minh City, Ho Chi Minh City, Vietnam
+- Hybrid (5)
+- Internship (5)
+- Jakarta, Jakarta, Indonesia
+- Jobs
+- Jobs in Worldwide
+- Jobster (1,502)
++ Join LinkedIn
+- Join now x2
++ Last name
+- Learning
+- Lidl in Germany (795)
+- Los Angeles, CA x2
+- MCN Project Intern (E-commerce) - 2025 Start (BS/MS) x2
+- Machine Learning Engineer (Compliance) - Global Payment - Singapore x2
+- Machine Learning Engineer Intern (E-commerce-Conversational AI) - 2026 Start (PhD) x2
+- Mid-Senior level (9)
+- Model Safety Analyst - Seed Global Data x2
+- New to LinkedIn? x2
++ New to Linkedin?
++ Not you?
+- On-site (15)
++ Password (6+ characters)
+- Past 24 hours
+- Past 24 hours (20)
+- Past month (927)
+- Past week (472)
+- People
+- Product Manager, Payment Solutions - Global Payment - Singapore x2
+- Remote
++ Remove photo
+- Research Scientist Graduate (Video Quality Analysis&Coding Strategy) - 2026 Start (PHD) x2
+- Reset
+- San Jose, CA x6
+- Seattle, WA
++ Security verification
+- Senior Accounting Manager, Accounting & Reporting AMS x2
+- Senior Backend Engineer – Global Payment x2
+- Senior Network Software Engineer, RDMA x2
++ Sign Up | LinkedIn
+- Sign in to view more jobs
+- Singapore
+- Singapore, Singapore x6
+- Software Engineer (Payment Network) - Global Payment - Singapore x2
+- Software Engineer,  Global Payment x2
+- Student Researcher [Seed LLM - Scientific Coding Agent (LLMs × Physics/Chemistry; RL preferred)] – 2026 Start (PhD) x2
+- Taguig, National Capital Region, Philippines
+- Tech Lead Software Engineer, 3D Graphics x2
+- Technology Internal Audit Lead x4
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
+- Tokyo, Japan
+- Welcome back
+- Worldwide
+- You've viewed all jobs for this search
 ```
 
 ---
