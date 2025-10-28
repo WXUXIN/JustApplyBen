@@ -1,6 +1,13 @@
 LinkedIn Login, Sign in | LinkedIn
 Sign in
 Sign in with Apple
+By clicking Continue, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
 or
 Email or phone
 Password
