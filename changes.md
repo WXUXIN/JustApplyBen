@@ -1,13 +1,41 @@
 # Latest Scraper Results
 
-## 2025-10-28 03:43:09
+## 2025-10-29 03:49:39
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
 
 **Line changes detected!**
 
 ```diff
-- New York Privy HQ
+- 0 x2
++ 1 x2
++ 1‑1 of 1
++ ; +6 more x2
++ ; +7 more x2
++ ; Berlin, Germany x2
+- Clear filters
++ Copy link
++ Currently pursuing a Bachelor’s, Master’s, or PhD degree in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences, or equivalent practical experience.
++ Email a friend
++ Experience in one area of computer science (e.g., Natural Language Understanding, Human Computer Interactions, Generative Media, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
++ Google
++ Google |
++ Intern & Apprentice
++ Learn more
++ Minimum qualifications
+- No results
+- Search again or try updating your filters
++ Student Researcher, 2026
++ Zürich, Switzerland x2
++ bar_chart
++ corporate_fare
++ email
++ job matched x2
+- jobs matched x2
++ link
++ place
+- search
++ share
 ```
 
 ---
@@ -16,18 +44,34 @@
 **Line changes detected!**
 
 ```diff
-- London
-- Software Engineer
++ Chicago
++ Software Engineer - Compliance, Inquiry, and Audit
 ```
 
 ---
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
 
 **Line changes detected!**
 
 ```diff
-- Connect
-+ Discover
++ Quantitative Researcher
+```
+
+---
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
+
+**Line changes detected!**
+
+```diff
+- 10 Open Roles
++ 11 Open Roles
++ 2026 Economist Summer Intern, Singapore
++ Data Sourcing & Strategy
++ FOCUS
++ LOCATION
++ Load More
++ ROLE
++ Singapore
 ```
 
 ---
@@ -36,7 +80,7 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
++ San Francisco
 ```
 
 ---
@@ -45,99 +89,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- 0
-+ 7
-```
-
----
-### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
-
-**Line changes detected!**
-
-```diff
-- 18 hours ago x5
-- 20
-- 20 jobs in Worldwide
-- 7 hours ago x10
-- 8 hours ago x5
-+ Agree & Join
-+ Already on Linkedin?
-- Any time (1,027)
-- Associate (4)
-- Backend Software Engineer (Graph Neural Network System), Cloud Infrastructure Intern - 2025 Start x2
-- Be an early applicant x13
-- Best Buy (557)
-+ By clicking Agree & Join, you agree to the LinkedIn
-- By clicking Continue to join or sign in, you agree to LinkedIn’s
-- ByteDance x21
-- ByteDance (20)
-- Clear text x6
-+ Continue with Google x2
-- Country Tax Manager - Jakarta x2
-- Data Analyst - Global Payments (Third-party Contractor) x2
-- Done x4
-+ Email
-- Environment Agency (966)
-- Executive (1)
-- Expand search
-- Experience level
-+ First name
-- Game Community Manager - Japan Game Publishing x2
-- HR Business Partner - Global E-Commerce Operations - Ho Chi Minh x2
-- Ho Chi Minh City, Ho Chi Minh City, Vietnam
-- Hybrid (5)
-- Internship (5)
-- Jakarta, Jakarta, Indonesia
-- Jobs
-- Jobs in Worldwide
-- Jobster (1,502)
-+ Join LinkedIn
-- Join now x2
-+ Last name
-- Learning
-- Lidl in Germany (795)
-- Los Angeles, CA x2
-- MCN Project Intern (E-commerce) - 2025 Start (BS/MS) x2
-- Machine Learning Engineer (Compliance) - Global Payment - Singapore x2
-- Machine Learning Engineer Intern (E-commerce-Conversational AI) - 2026 Start (PhD) x2
-- Mid-Senior level (9)
-- Model Safety Analyst - Seed Global Data x2
-- New to LinkedIn? x2
-+ New to Linkedin?
-+ Not you?
-- On-site (15)
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (20)
-- Past month (927)
-- Past week (472)
-- People
-- Product Manager, Payment Solutions - Global Payment - Singapore x2
-- Remote
-+ Remove photo
-- Research Scientist Graduate (Video Quality Analysis&Coding Strategy) - 2026 Start (PHD) x2
-- Reset
-- San Jose, CA x6
-- Seattle, WA
-+ Security verification
-- Senior Accounting Manager, Accounting & Reporting AMS x2
-- Senior Backend Engineer – Global Payment x2
-- Senior Network Software Engineer, RDMA x2
-+ Sign Up | LinkedIn
-- Sign in to view more jobs
-- Singapore
-- Singapore, Singapore x6
-- Software Engineer (Payment Network) - Global Payment - Singapore x2
-- Software Engineer,  Global Payment x2
-- Student Researcher [Seed LLM - Scientific Coding Agent (LLMs × Physics/Chemistry; RL preferred)] – 2026 Start (PhD) x2
-- Taguig, National Capital Region, Philippines
-- Tech Lead Software Engineer, 3D Graphics x2
-- Technology Internal Audit Lead x4
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- Tokyo, Japan
-- Welcome back
-- Worldwide
-- You've viewed all jobs for this search
++ 1
+- 7
 ```
 
 ---
