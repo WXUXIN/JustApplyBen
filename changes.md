@@ -1,26 +1,39 @@
 # Latest Scraper Results
 
-## 2025-11-03 03:52:12
+## 2025-11-04 03:45:46
 
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
++ Montréal
++ Software Developer (Data Analytics)
+```
+
+---
 ### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
 
 **Line changes detected!**
 
 ```diff
 - Kraków
-- Post Trade Operations
+- Operations x2
+- Technical Product Owner
 - View Details
-- We are looking for a hands-on Post Trade Operations Specialist responsible for executing and monitoring crypto and fiat settlements, running daily reconciliations, and resolving exceptions
+- We are looking for a hands-on (Junior) Technical Product Owner to join our Back/Middle Office team
 ```
 
 ---
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
 
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 91 open roles
-- Show 12 out of 92 open roles
++ 2026 Economist Summer Intern
+- 2026 Economist Summer Intern, Singapore
++ Hong Kong   |   Singapore
+- Singapore
 ```
 
 ---
@@ -29,8 +42,8 @@
 **Line changes detected!**
 
 ```diff
-- 10
-+ 7
++ 2
+- 7
 ```
 
 ---
