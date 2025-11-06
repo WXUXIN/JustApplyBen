@@ -58,6 +58,7 @@ Chon Buri
 Dubai
 Dublin
 Gurgaon
+Hamar
 Hanoi
 Hillsboro
 Ho Chi Minh City
@@ -72,7 +73,6 @@ Luxembourg
 Mexico City
 Miami
 New York
-Oslo
 Pasig
 Riyadh
 San Diego

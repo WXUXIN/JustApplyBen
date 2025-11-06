@@ -58,6 +58,7 @@ Chon Buri
 Dubai
 Dublin
 Gurgaon
+Hamar
 Hanoi
 Hillsboro
 Ho Chi Minh City
@@ -72,7 +73,6 @@ Luxembourg
 Mexico City
 Miami
 New York
-Oslo
 Pasig
 Riyadh
 San Diego
@@ -102,12 +102,12 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
