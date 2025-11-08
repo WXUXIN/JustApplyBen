@@ -1,7 +1,19 @@
 # Latest Scraper Results
 
-## 2025-11-07 03:45:41
+## 2025-11-08 03:37:18
 
+### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
+
+**Line changes detected!**
+
+```diff
++ @2025 Meta
++ Learn more about this
++ Notice Regarding Automated Employment Decision Tools in New York City
++ here
+```
+
+---
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
@@ -11,36 +23,13 @@ No line changes.
 ```
 
 ---
-### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Fundamental Equities x3
-- Long/Short Equity x3
-```
-
----
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-No line changes.
-```
-
----
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
-
-**Line changes detected!**
-
-```diff
-- Apply
-- Information Security
-- Information Security Engineer, Internship
-- Internship
-- New York, NY
-- On-site —
++ Connect
+- Discover
 ```
 
 ---
@@ -49,8 +38,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 1
-- 11
+- 1
++ 8
 ```
 
 ---
