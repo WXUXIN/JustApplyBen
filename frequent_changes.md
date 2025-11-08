@@ -1,23 +1,28 @@
 # Latest Frequent Scraper Results
 
-## 2025-11-08 06:23:36
+## 2025-11-08 12:31:02
 
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
-
-**Line changes detected!**
-
-```diff
-- Connect
-+ Discover
-```
-
----
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Bachelor/Master Graduates- 2025 Start
++ Bachelor/Master Graduates- 2026 Start
+- Site Reliability Engineer, Traffic Platform - Traffic SRE - 2025 Start
++ Software Engineer Graduate (Stability Platform) - 2026 Start (BS/MS)
+```
+
+---
+### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+- Bachelor/Master Graduates- 2025 Start
++ Bachelor/Master Graduates- 2026 Start
+- Site Reliability Engineer, Traffic Platform - Traffic SRE - 2025 Start
++ Software Engineer Graduate (Stability Platform) - 2026 Start (BS/MS)
 ```
 
 ---
@@ -26,49 +31,49 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 0 jobs in Worldwide
-- Agree & Join
-- Already on Linkedin?
-+ Any time (1,070)
-+ Aya Healthcare (375)
-- By clicking Agree & Join, you agree to the LinkedIn
-+ By clicking Continue to join or sign in, you agree to LinkedIn’s
-+ ByteDance x2
-+ Clear text x6
-- Continue with Google x2
-+ Done x2
-- Email
-+ Expand search
-- First name
-+ Invisible Expert Marketplace (320)
-+ Jobs
-+ Jobs via Dice (1,161)
-- Join LinkedIn
-+ Join now
-- Last name
-+ Learning
-+ New to LinkedIn? x2
-- New to Linkedin?
-- Not you?
-- Password (6+ characters)
-+ Past 24 hours x2
-+ Past 24 hours (18)
-+ Past month (970)
-+ Past week (227)
-+ People
-+ Please make sure your keywords are spelled correctly
-+ Register now
-- Remove photo
-+ Reset
-- Security verification
-- Sign Up | LinkedIn
-+ Sign in to view more jobs
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-+ We couldn’t find a match for
-+ Welcome back
-+ Worldwide
-+ jobs in Worldwide
-+ myGwork - LGBTQ+ Business Community (360)
+- 0 jobs in Worldwide
++ Agree & Join
++ Already on Linkedin?
+- Any time (1,070)
+- Aya Healthcare (375)
++ By clicking Agree & Join, you agree to the LinkedIn
+- By clicking Continue to join or sign in, you agree to LinkedIn’s
+- ByteDance x2
+- Clear text x6
++ Continue with Google x2
+- Done x2
++ Email
+- Expand search
++ First name
+- Invisible Expert Marketplace (320)
+- Jobs
+- Jobs via Dice (1,161)
++ Join LinkedIn
+- Join now
++ Last name
+- Learning
+- New to LinkedIn? x2
++ New to Linkedin?
++ Not you?
++ Password (6+ characters)
+- Past 24 hours x2
+- Past 24 hours (18)
+- Past month (970)
+- Past week (227)
+- People
+- Please make sure your keywords are spelled correctly
+- Register now
++ Remove photo
+- Reset
++ Security verification
++ Sign Up | LinkedIn
+- Sign in to view more jobs
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
+- We couldn’t find a match for
+- Welcome back
+- Worldwide
+- jobs in Worldwide
+- myGwork - LGBTQ+ Business Community (360)
 ```
 
 ---

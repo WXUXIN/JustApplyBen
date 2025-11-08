@@ -102,12 +102,12 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -142,9 +142,9 @@ Technology
 Bachelor/Master Graduates- 2025 Start
 Singapore
 Regular
-Site Reliability Engineer, Traffic Platform - Traffic SRE - 2025 Start
+Software Engineer Graduate (Stability Platform) - 2026 Start (BS/MS)
 Technology
-Bachelor/Master Graduates- 2025 Start
+Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
 Show 12 out of 91 open roles
