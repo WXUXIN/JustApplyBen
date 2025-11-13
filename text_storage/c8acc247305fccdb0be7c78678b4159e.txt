@@ -102,12 +102,12 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -117,14 +117,14 @@ Technology
 PhD Intern- 2026 Start
 Singapore
 Intern
-Machine Learning Engineer(Global Payment - Data Intelligence) - 2026 Start (PhD)
-Technology - Machine learning
-PhD Graduates- 2026 Start
-Singapore
-Regular
 Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
 Technology - Algorithm
 2026 Soaring Star Talent Program
+Singapore
+Regular
+Machine Learning Engineer(Global Payment - Data Intelligence) - 2026 Start (PhD)
+Technology - Machine learning
+PhD Graduates- 2026 Start
 Singapore
 Regular
 Machine Learning System Engineer- Data AML- Soaring Star Talent Program
