@@ -1,42 +1,30 @@
 # Latest Scraper Results
 
-## 2025-11-14 03:47:13
+## 2025-11-15 03:42:08
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Risk
++ Risk & Financial Crimes
+- Singapore
+- Software Engineer, Intern
+- University
 ```
 
 ---
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
+### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
 
 **Line changes detected!**
 
 ```diff
-+ Kuala Lumpur
-+ Legal & Compliance x2
-+ Legal Counsel (Corporate Generalist)
-+ View Details
-+ We’re looking for a versatile and proactive Legal Counsel (Corporate Generalist) to join our legal team
-```
-
----
-### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
-
-**Line changes detected!**
-
-```diff
-+ 11 Open Roles
-- 12 Open Roles
-- FOCUS
-- LOCATION
-- New York   |   Hong Kong   |   Paris
-- Quantitative Software Developer Intern
-- ROLE
-- Systematic Investing
++ Engineering
++ Internship
++ Software Engineering Internship - NYC
++ United States - NY New York
++ View role x2
 ```
 
 ---
@@ -45,8 +33,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 86 open roles
-- Show 12 out of 87 open roles
+No line changes.
 ```
 
 ---
@@ -55,8 +42,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- 1
-+ 7
++ 6
+- 7
 ```
 
 ---
@@ -65,125 +52,135 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- 16 hours ago x2
-- 17 hours ago x4
-- 20 hours ago
-- 21 hours ago
-- 43
-- 43 jobs in Worldwide
-- 6 hours ago x2
-- 6 minutes ago
-- 7 hours ago x32
-- Actively Hiring x16
-+ Agree & Join
-- Algorithm Engineer - Enterprise Solution RD - San Jose x2
-- Allied Universal (482)
-+ Already on Linkedin?
-- Any time (1,056)
-- Application Security Engineer Graduate (Global E-Commerce) - 2026 Start (BS/MS) x2
-- Application Security Engineer- Global E-Commerce x2
-- Ashburn, VA
-- Associate (4)
-- Backend Software Engineer Intern (Graph Neural Network System, Cloud Infrastructure) - 2026 Start (BS/MS) x2
-- Backend Software Engineer- Network Security - San Jose x2
-- Bangkok, Bangkok City, Thailand
-- Be an early applicant x27
-- Benefits Operations Program Manager - HR Operations - AMS x2
-- Benefits Operations Program Manager - HR Operations - AMS -SJ x2
-- Business Development Manager, SMB x2
-- Business Red Team Engineer - Global E-Commerce x2
-+ By clicking Agree & Join, you agree to the LinkedIn
-- By clicking Continue to join or sign in, you agree to LinkedIn’s
-- ByteDance x44
-- ByteDance (43)
-- Cash Management Specialist, Treasury Management - AMS x2
-- Clear text x6
-- Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS) x2
-- Cloud Optical Transport Network (OTN) Engineer - Physical Network Infrastructure x2
-+ Continue with Google x2
-- Data Center Facility QA/QC Engineer, Infrastructure Engineering x2
-- Datacenter Commissioning Engineer - Infrastructure Engineering x2
-- Datacenter Operation Lead, Infrastructure Engineering x2
-- Digital Payment Product Manager - Global Payment - Singapore x2
-- Done x5
-- Dubai, Dubai, United Arab Emirates
-- EY (1,789)
-- Electrical Design Engineer Graduate (PICO)- 2026 Start (MS) x2
-+ Email
-- Executive (2)
-- Expand search
-- Experience level
-- Financial Accountant, Brazil - Global Payment x2
-+ First name
-- Frontend Software Engineer Project Intern (Corporate Service System) - 2026 Start (BS/MS) x2
-- Global E-Commerce - Program Manager (Buyer Experience & Seller Governance) x2
-- Global E-Commerce Compliance Manager Intern (LATAM) - 2026 Summer (BS/MS) x2
-- Greater São Paulo Area x2
-- Gurgaon, Haryana, India
-- HR Operations Advisor - HR Lifecycle Operations - Jakarta x2
-- HR on Call Specialist - HR Operations (Third-party Associate) x2
-- Head of Marketing, Lark APAC x2
-- Hybrid (13)
-- ICT Risk Manager - Global Payment - Luxembourg x2
-- Incident Response Engineer, Global E-Commerce x2
-- Indirect Tax Manager - US (Los Angeles) x2
-- Indirect Tax Manager - US (San Jose) x2
-- Internship (3)
-- Internship (7)
-- Jakarta, Jakarta, Indonesia
-- Job type
-- Jobs
-- Jobs in Worldwide
-+ Join LinkedIn
-- Join now x2
-- Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia x2
-+ Last name
-- Learning
-- London, England, United Kingdom x2
-- Los Angeles, CA x3
-- Luxembourg, Luxembourg, Luxembourg
-- Mid-Senior level (22)
-- Network Software Development Engineer, High Speed Network x4
-- New to LinkedIn? x2
-+ New to Linkedin?
-+ Not you?
-- On-site (30)
-- Operation Specialist Graduate (Global Payment) - 2026 Start (BS/MS) x2
-- Optum (831)
-- Partner Operations Manager - Trust & Safety x2
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (43)
-- Past month (960)
-- Past week (187)
-- People
-- Procurement Operations Specialist, LATAM x2
-- Product Operation Specialist, Trust and Safety, Japan x2
-- Remote
-+ Remove photo
-- Reset
-- San Jose, CA x11
-- Search Operations Specialist - Evaluation & Investigation x2
-- Seattle, WA
-- Security Tech Lead, Global E-Commerce Security Platform x2
-+ Security verification
-- Senior Indirect Tax Manager - US (San Jose) x2
-- Senior Organisational Culture Partner - Diversity & Inclusion x4
-- Senior Site Reliability Engineer - Applied Machine Learning x2
-+ Sign Up | LinkedIn
-- Sign in to view more jobs
-- Singapore x3
-- Singapore, Singapore x9
-- Site Reliability Engineer, Security Engineering x2
-- São Paulo, São Paulo, Brazil
-- Taguig, National Capital Region, Philippines x2
-- Technical Program Manager, Public Cloud x4
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- Tokyo, Japan
-- Varsity Tutors, a Nerdy Company (22,911)
-- Welcome back
-- Worldwide
-- You've viewed all jobs for this search
++ 16 hours ago x28
++ 17 hours ago x23
++ 171
++ 171 jobs in Worldwide
++ 3 hours ago x8
++ 4 hours ago
+- Agree & Join
+- Already on Linkedin?
++ Any time (1,064)
++ Associate (4)
++ Backend Development Engineer Intern (Infrastructure Platform Delivery)- 2026 Summer (BS/MS) x2
++ Backend Engineer Intern, Video-On-Demand - 2025 Start x2
++ Backend Engineer, Applied Machine Learning Platform - 2025 Start x2
++ Backend Engineer, Video-On-Demand - 2025 Start x2
++ Backend Software Engineer Graduate (CapCut) - 2026 Start (BS/MS) x2
++ Backend Software Engineer Graduate (Global E-commerce) - 2026 Start (BS/MS) x2
++ Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS) x2
++ Backend Software Engineer Graduate (SealSuite) - 2026 Start (BS/MS) x2
++ Be an early applicant x12
++ Benefit Operations Partner - San Jose x2
++ Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS) x2
++ Business Intelligence Project Intern (GBS-Monetization Strategy and Operations - Market Research) - 2026 Start (BS/MS） x2
+- By clicking Agree & Join, you agree to the LinkedIn
++ By clicking Continue to join or sign in, you agree to LinkedIn’s
++ ByteDance x61
++ ByteDance (171)
++ Clear text x6
++ Client Engineer (Real Time Communication) - 2025 Start x2
++ Cloud Network Engineer Graduate(Physical Network Infra) - 2026 Start (BS/ MS) x2
+- Continue with Google x2
++ Country Director, Financial Services - Global Payment (PH) x2
++ Deutsche Bahn (650)
++ Director (1)
++ Done x4
++ EHS Technician/Specialist, LATAM x2
+- Email
++ Engineer Graduate: (Machine Learning Engineer, Data-Search-Recommendation TikTok.US - Seattle) - 2026 Start (BS/MS) x2
++ Entry level (4)
++ Expand search
++ Experience level
++ Facilities Manager - Real Estate & Facilities - Malaysia x2
+- First name
++ Frontend Development Intern (BytePlus) - 2026 Start (BS/MS) x2
++ General Procurement Specialist, AMS x2
++ Graphic Designer Project Intern (Organization Culture) - 2025 Start (BS/MS) x2
++ Greater São Paulo Area
++ Gurgaon, Haryana, India
++ HR Operations Advisor - PH x2
++ Hong Kong, Hong Kong SAR
++ Hybrid (11)
++ Internship (145)
++ Jobs
++ Jobs in Worldwide
+- Join LinkedIn
++ Join for free
++ Join now
++ KPMG US (836)
++ Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+- Last name
++ Learning
++ Lowe's Companies, Inc. (477)
++ Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (BS/MS) x2
++ Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (Phd) x2
++ Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics)- 2026 Start (PhD) x4
++ Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (BS/MS) x2
++ Machine Learning Engineer Intern (Applied Machine Learning-Algorithm) - 2025 Summer/Fall (MS) x2
++ Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2025 Summer/Fall (PhD) x2
++ Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2026 Start (PhD) x2
++ Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2026 Summer (MS) x2
++ Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2026 Summer (BS/MS) x2
++ Marketing Intern, BytePlus - 2025 Start x2
++ Mid-Senior level (15)
++ NLP Engineer Intern - 2025 Start x2
++ Network Engineer Graduate (Physical Network Infra) - 2026 Start (BS/ MS) x2
++ Network Software Development Engineer Intern(Network Observation) - 2026 Summer (BS/ MS) x2
++ New York, United States
++ New to LinkedIn? x2
+- New to Linkedin?
+- Not you?
++ On-site (160)
++ Operations Analyst Apprenticeship Program - Trust & Safety - India x2
+- Password (6+ characters)
++ Past 24 hours
++ Past 24 hours (171)
++ Past month (968)
++ Past week (382)
++ Payroll Analyst - HR Operations - PH x2
++ People
++ Remote
+- Remove photo
++ Research Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS) x2
++ Research Scientist Graduate- (Foundation Model, Vision and Language) - 2025 Start (PhD) x2
++ Research Scientist Intern (Doubao (Seed) - Machine Learning System) - 2025 Start (MS) x2
++ Researcher Graduate (Applied Machine Learning - Enterprise) - 2026 Start (BS/MS) x2
++ Reset
++ Risk Control Business Partner Graduate (Risk Control-Global Business)- 2026 Start (BS/MS) x2
++ San Jose, CA x20
++ Seattle, WA x14
+- Security verification
++ See more jobs
+- Sign Up | LinkedIn
++ Sign in to view more jobs
++ Singapore x16
++ Singapore, Singapore
++ Site Reliability Engineer Graduate (Technical Infrastructure) - 2025 Start (BS/MS) x2
++ Software Development Engineer Graduate (Intent-Based Networking) - 2026 Start (BS/ MS) x2
++ Software Engineer Graduate (Applied Machine Learning - Orchestration) - 2026 Start (MS) x2
++ Software Engineer Graduate (Dev Infra) - 2026 Start (BS/MS) x2
++ Software Engineer Graduate (Edge Platform) - 2026 Start (BS/MS) x2
++ Software Engineer Graduate (Stability Platform) - 2026 Start (BS/MS) x2
++ Software Engineer Intern (AI Platform) 2025 Summer (BS/MS) x2
++ Software Engineer Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS) x2
++ Software Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (MS) x2
++ Software Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (PhD) x2
++ Software Engineer Intern (Payment Architecture) - Global Payment - 2026 Summer(BS/MS) x2
++ Software Engineer in ML Systems Graduate (AML - Machine Learning Systems) - 2026 Start (BS/MS) x2
++ Solutions Architect Intern - 2025 Start x2
++ Strategy Intern (BytePlus) - 2026 Start (BS/MS) x2
++ Strategy Intern, BytePlus - 2025 Start x2
++ Taguig, National Capital Region, Philippines x3
++ Talent Acquisition Partner - Data - Singapore x2
++ Talent Acquisition Specialist Graduate (Data & AI) - 2026 Start (BS/MS) x2
++ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ Tokyo, Tokyo, Japan
++ Varsity Tutors, a Nerdy Company (20,488)
++ Welcome back
++ Workplace Planning Manager, AMS x2
++ Worldwide
++ You've viewed all jobs for this search
 ```
 
 ---
