@@ -87,12 +87,12 @@ Taguig
 Tokyo
 Warsaw
 Washington D.C.
-Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS)
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -117,12 +117,12 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Software Engineer (SRE - Platform Services) Intern (Infrastructure Engineering), 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Software Engineer (SRE - Platform Services) Intern (Infrastructure Engineering), 2026 Start (BS/MS)
+Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
