@@ -1,14 +1,55 @@
 # Latest Scraper Results
 
-## 2025-11-17 03:50:29
+## 2025-11-18 03:48:06
 
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
+
+**Line changes detected!**
+
+```diff
+- 1‑4 of 4
++ 1‑5 of 5
+- 4 x2
++ 5 x2
++ A design portfolio that demonstrates design principles.
++ Copy link
++ Currently enrolled in a Bachelor's degree or Master's degree in Design, Human-Computer Interaction, Product Design, Visual Communication, Interaction Design, Interactive Media or related field.
++ Email a friend
++ Experience conducting user interviews or surveys. Experience applying user-centered principles in intern, work, or project setting.
++ Experience with design tools (e.g., Figma, Adobe, etc.).
++ Google
++ Google |
++ Intern & Apprentice
++ Learn more
++ Minimum qualifications
++ Singapore x2
++ User Experience Design Summer Intern, 2026
++ bar_chart
++ corporate_fare
++ email
++ link
++ place
++ share
+```
+
+---
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
+- Singapore
+- Software Developer (C++)
+```
+
+---
 ### [https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&](https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&)
 
 **Line changes detected!**
 
 ```diff
-- 10
-+ 11
+- 11
++ 6
 ```
 
 ---
@@ -17,129 +58,87 @@
 **Line changes detected!**
 
 ```diff
-- 109
-- 109 jobs in Worldwide
-- 16 hours ago x24
-- 17 hours ago x29
-- 3 hours ago x7
-+ Agree & Join
-+ Already on Linkedin?
-- Any time (1,051)
-- Associate (1)
-- Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS) x2
-- Backend Software Engineer Intern (Global E-Commerce) - 2026 Summer (BS/MS) x4
-- Be an early applicant x11
-- Benefits Business Partner -  P&I - San Jose x2
-- Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS) x2
-- Brand Partnerships & Data Analytics Project Intern (GBS-APAC-PH) 2025 Start (BS/MS) x2
-+ By clicking Agree & Join, you agree to the LinkedIn
-- By clicking Continue to join or sign in, you agree to LinkedIn’s
-- ByteDance x61
-- ByteDance (109)
-- Clear text x6
-- Cloud Network Engineer Graduate(Physical Network Infra) - 2026 Start (BS/ MS) x2
-- Content Operations Graduate (CapCut) - 2026 Start (BS/MS) x2
-- Content Operations Manager (AI) - CapCut x2
-+ Continue with Google x2
-- Data Center Facility QA/QC Engineer, Infrastructure Engineering x2
-- Deutsche Bahn (611)
-- Done x5
-- Early Careers Project Intern - 2025 Start (BS/MS） x2
-+ Email
-- Entry level (2)
-- Expand search
-- Experience level
-+ First name
-- Frontend Software Engineer Graduate (Global E-commerce) - 2026 Start (BS/MS) x2
-- Full-time (56)
-- General Procurement Manager, AMS x2
-- Hybrid (2)
-- Integrated Marketing Intern (Lark) - 2025 Start (BS/MS) x2
-- Internship (98)
-- Job type
-- Jobs
-- Jobs in Worldwide
-+ Join LinkedIn
-- Join now x2
-- Kulai, Johore, Malaysia
-+ Last name
-- Learning
-- London, England, United Kingdom
-- Los Angeles, CA
-- Machine Learning Engineer Graduate (E-Commerce Knowledge Graph - CV/Multimodal/NLP) -2026 Start (BS/MS) x2
-- Machine Learning Engineer Graduate (E-Commerce Knowledge Graph - CV/Multimodal/NLP) -2026 Start (PhD) x2
-- Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (BS/MS) x2
-- Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (Phd) x2
-- Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2026 Start (BS/MS) x2
-- Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2026 Start (Phd) x2
-- Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (PhD) x2
-- Machine Learning Engineer Intern (Applied Machine Learning-Algorithm) - 2025 Summer/Fall (PhD) x2
-- Machine Learning Engineer Intern (E-commerce-Recommendation) - 2026 Start (PhD) x2
-- Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2025 Summer/Fall (MS) x2
-- Machine Learning Graduate (eCommerce Recommendation) - 2026 Start (BS/MS) x2
-- Machine Learning Platform Engineer x2
-- Machine Learning Researcher (Reasoning Agent) Intern - 2025 Start x2
-- Mid-Senior level (8)
-- Network Engineer Graduate (Edge Network) - 2026 Start (BS/ MS) x2
-- Network Software Development Engineer, Graduate (High Speed Network) - 2025 Start (PhD) x2
-- New York, United States
-- New to LinkedIn? x2
-+ New to Linkedin?
-+ Not you?
-- On-site (107)
-- Organizational Culture Project Intern (Organization Culture) - 2025 Start (BS/MS) x2
-- Pasig, National Capital Region, Philippines
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (109)
-- Past month (955)
-- Past week (461)
-- Payment Network Product Manager - Global Payment - Singapore x2
-- People
-- Project Management Office (PMO) Intern (BytePlus) - 2026 (BS/MS) x2
-- Regional Operations Manager, Global Fire Safety - AMS x2
-- Remote
-+ Remove photo
-- Research Scientist Graduate (Applied Machine Learning - ML System) - 2026 Start (BS/MS) x2
-- Research Scientist Graduate (Foundation Model, Generative AI) - 2025 Start (PhD) x2
-- Research Scientist Graduate (Foundation Model, Video Generation) - 2025 Start (PhD) x2
-- Research Scientist Graduate - (Seed Multimodal Interaction and World Model - Reinforcement Learning) - 2026 Start (PhD) x2
-- Research Scientist Graduate- (Foundation Model, Vision and Language) - 2025 Start (PhD) x2
-- Research Scientist Intern - Computational Biology (Seed AI-for-Science) - 2026 Start (PhD) x2
-- Research Scientist, LLM Model Evaluation(Seed), PhD Graduates- 2025 Start x2
-- Reset
-- Risk Control Business Partner Graduate (Internal Control) - 2026 Start (BS/MS) x2
-- San Jose, CA x28
-- Seattle, WA x17
-+ Security verification
-- See more jobs
-+ Sign Up | LinkedIn
-- Sign in to view more jobs
-- Singapore x9
-- Singapore, Singapore
-- Site Reliability Engineer Graduate (Technical Infrastructure) - 2025 Start (BS/MS) x2
-- Software Development Engineer Intern (Network Automation)- 2026 Summer (BS/ MS) x4
-- Software Engineer Graduate (Applied Machine Learning - Inference) - 2026 Start (MS) x2
-- Software Engineer Graduate (Applied Machine Learning - Training) - 2026 Start (MS) x2
-- Software Engineer Graduate (Data Security-US) - 2026 Start (BS/MS) x2
-- Software Engineer Intern (AI Platform) - 2026 Summer (BS/MS) x2
-- Software Engineer Intern (Applied Machine Learning-Enterprise) - 2026 Fall (BS/MS) x2
-- Software Engineer Intern (Doubao (Seed) - Machine Learning System) - 2025 Summer (PhD) x2
-- Software Engineer Intern (Inference Infrastructure) - 2026 Summer (MS/BS) x4
-- Software Engineer Intern (NoSQL Databases) - 2026 Summer (BS/MS) x4
-- Software Engineer Intern (Relational Database) - 2026 Summer (BS/MS) x2
-- Software Engineer Intern (Traffic Platform)- 2026 Summer (BS/MS) x2
-- Software Engineer in ML Systems Graduate (AML - Machine Learning Systems) - 2026 Start (BS/MS) x2
-- Software Engineer, Large Model System Graduate (Machine Learning Sys-US) - 2026 Start (BS/MS) x2
-- Talent Acquisition Project Intern (DataAILab) - 2025 Start (BS/MS) x2
-- Test Software Engineer Graduate (Intelligent Creation) - 2026 Start (BS/MS) x2
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- Varsity Tutors, a Nerdy Company (508)
-- Walmart (1,047)
-- Welcome back
-- Worldwide
-- You've viewed all jobs for this search
-- myGwork - LGBTQ+ Business Community (547)
++ 1 hour ago
++ 14
++ 14 jobs in Worldwide
++ 17 hours ago x3
++ 21 hours ago
++ 3 hours ago x7
++ 4 hours ago x2
++ Actively Hiring x3
+- Agree & Join
+- Already on Linkedin?
++ Any time (1,044)
++ Associate (1)
++ Be an early applicant x11
++ Beijing, Beijing, China
+- By clicking Agree & Join, you agree to the LinkedIn
++ By clicking Continue to join or sign in, you agree to LinkedIn’s
++ ByteDance x15
++ ByteDance (14)
++ Category Manager, Grocery (Philippines, eCommerce) x2
++ Chipotle Mexican Grill (7,052)
++ Clear text x6
++ Content Strategy Operations Manager- Lemon8 x2
+- Continue with Google x2
++ Done x5
+- Email
++ Expand search
++ Experience level
+- First name
++ Full-time (14)
++ HR Business Partner - HR & Management - AMS - Los Angeles x2
++ HR Business Partner - HR & Management - AMS - New York x2
++ HR Business Partner - HR & Management - AMS - San Jose x2
++ Hybrid (4)
++ Insider Risk Specialist, Security Governance and Compliance x2
++ Internship (2)
++ Job type
++ Jobs
++ Jobs in Worldwide
++ Jobs via Dice (2,423)
+- Join LinkedIn
++ Join for free
++ Join now
+- Last name
++ Learning
++ Los Angeles, CA x2
++ Lowe's Companies, Inc. (504)
++ Machine Learning Engineer Graduate (Global Payment) - 2026 Start (BS/MS) x2
++ Mercor (5,173)
++ Mid-Senior level (9)
++ Network Engineer, High Performance GPU Network Direction - San Jose x2
++ Network Implementation Engineer, Physical Network Infrastructure - 2025 start x2
++ New York, United States
++ New to LinkedIn? x2
+- New to Linkedin?
+- Not you?
++ On-site (10)
+- Password (6+ characters)
++ Past 24 hours
++ Past 24 hours (14)
++ Past month (939)
++ Past week (449)
++ People
++ Real Estate Program Manager, AMS x2
++ Remote
+- Remove photo
++ Reset
++ San Jose, CA x3
+- Security verification
+- Sign Up | LinkedIn
++ Sign in to view more jobs
++ Singapore x2
++ Singapore, Singapore x4
++ Software Engineer, Distributed Storage System - Infrastructure x2
++ Taguig, National Capital Region, Philippines
++ Technical Project Manager - Server Planning and Delivery x2
++ Test Development Engineer - Global Payment x2
++ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ Welcome back
++ Worldwide
++ You've viewed all jobs for this search
++ 财务精益运营专家（AI审核方向）-财务共享中心 x2
 ```
 
 ---
