@@ -85,11 +85,6 @@ Sydney
 Taguig
 Tokyo
 Warsaw
-Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Data mining
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -115,11 +110,6 @@ Technology
 PhD Intern- 2026 Start
 Singapore
 Intern
-Machine Learning Engineer(Global Payment - Data Intelligence) - 2026 Start (PhD)
-Technology - Machine learning
-PhD Graduates- 2026 Start
-Singapore
-Regular
 Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
 Technology - Algorithm
 2026 Soaring Star Talent Program
@@ -145,7 +135,17 @@ Technology - Algorithm
 2026 Soaring Star Talent Program
 Singapore
 Regular
-Show 12 out of 68 open roles
+Backend Software Engineer Graduate (Libra Platform) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Backend Software Engineer Intern (Libra Platform) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
+Show 12 out of 62 open roles
 1
 2
 3

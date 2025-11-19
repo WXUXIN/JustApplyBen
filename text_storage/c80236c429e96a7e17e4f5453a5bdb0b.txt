@@ -130,11 +130,6 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Data mining
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Site Reliability Engineer, Traffic Platform - 2025 Start
 Technology
 Bachelor/Master Graduates- 2025 Start
@@ -145,14 +140,18 @@ Technology
 Bachelor/Master Graduates- 2025 Start
 Singapore
 Regular
-Show 12 out of 77 open roles
+Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Show 12 out of 66 open roles
 1
 2
 3
 4
 5
 6
-7
 Life at ByteDance
 Early Careers
 Americas
