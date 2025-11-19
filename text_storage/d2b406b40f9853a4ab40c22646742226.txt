@@ -95,12 +95,12 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -130,11 +130,6 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Data mining
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Site Reliability Engineer, Traffic Platform - 2025 Start
 Technology
 Bachelor/Master Graduates- 2025 Start
@@ -145,7 +140,12 @@ Technology
 Bachelor/Master Graduates- 2025 Start
 Singapore
 Regular
-Show 12 out of 86 open roles
+Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Show 12 out of 74 open roles
 1
 2
 3
@@ -153,7 +153,6 @@ Show 12 out of 86 open roles
 5
 6
 7
-8
 Life at ByteDance
 Early Careers
 Americas
