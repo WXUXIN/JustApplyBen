@@ -123,12 +123,12 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Site Reliability Engineer, Traffic Platform - 2025 Start
+Backend Engineer, Applied Machine Learning Platform - 2025 Start
 Technology
 Bachelor/Master Graduates- 2025 Start
 Singapore
 Regular
-Backend Engineer, Applied Machine Learning Platform - 2025 Start
+Site Reliability Engineer, Traffic Platform - 2025 Start
 Technology
 Bachelor/Master Graduates- 2025 Start
 Singapore
