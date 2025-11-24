@@ -113,6 +113,11 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Backend Engineer, Applied Machine Learning Platform - 2025 Start
+Technology
+Bachelor/Master Graduates- 2025 Start
+Singapore
+Regular
 Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -123,11 +128,6 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Engineer, Applied Machine Learning Platform - 2025 Start
-Technology
-Bachelor/Master Graduates- 2025 Start
-Singapore
-Regular
 Site Reliability Engineer, Traffic Platform - 2025 Start
 Technology
 Bachelor/Master Graduates- 2025 Start
@@ -138,11 +138,11 @@ Technology
 Bachelor/Master Graduates- 2025 Start
 Singapore
 Regular
-Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+Backend Engineer Intern, Video-On-Demand - 2025 Start
 Technology
-Bachelor/Master Graduates- 2026 Start
+Undergraduate/Master Intern- 2025 Start
 Singapore
-Regular
+Intern
 Show 12 out of 66 open roles
 1
 2
