@@ -1,22 +1,16 @@
 # Latest Frequent Scraper Results
 
-## 2025-11-25 06:28:03
+## 2025-11-25 12:36:46
 
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-No line changes.
-```
-
----
 ### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Backend Engineer Intern, Video-On-Demand - 2025 Start
++ Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
+- Undergraduate/Master Intern- 2025 Start
++ Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
@@ -25,70 +19,62 @@ No line changes.
 **Line changes detected!**
 
 ```diff
++ 1 hour ago
 + 2 hours ago
-+ 3 hours ago x2
-+ 4
-+ 4 jobs in Worldwide
-+ 57 minutes ago
-- Agree & Join
-- Already on Linkedin?
-+ Any time (1,033)
-+ Be an early applicant x4
-+ Beijing, Beijing, China
-- By clicking Agree & Join, you agree to the LinkedIn
-+ By clicking Continue to join or sign in, you agree to LinkedIn’s
-+ ByteDance x5
-+ ByteDance (4)
-+ Canonical (258)
-+ Clear text x6
-- Continue with Google x2
-+ Domino's (3,570)
-+ Done x5
-- Email
-+ Expand search
-+ Experience level
-- First name
-+ Full-time (4)
-+ Hilti Group (260)
-+ Hybrid (1)
-+ Internship (1)
-+ Job type
-+ Jobs
-+ Jobs in Worldwide
-+ Jobster (459)
-- Join LinkedIn
-+ Join now
-+ Join now for free
-- Last name
-+ Learning
-+ Mid-Senior level (2)
-+ New to LinkedIn? x2
-- New to Linkedin?
-- Not you?
-+ On-site (3)
-- Password (6+ characters)
-+ Past 24 hours
-+ Past 24 hours (4)
-+ Past 24 hours (40)
-+ Past month (927)
-+ Past week (198)
-+ People
-+ Remote
-- Remove photo
-+ Research Scientist in Code Generation, Seed-PhD Graduates- 2026 Start x2
-+ Reset
-+ San Jose, CA x2
-- Security verification
-+ Senior Software Engineer - Applied Machine Learning, Engine x2
-- Sign Up | LinkedIn
-+ Sign in to view more jobs
-+ Singapore, Singapore
-+ Tax Manager / Tax Senior Manager (Country Tax BP, Singapore) x2
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-+ Welcome back
-+ Worldwide
-+ You've viewed all jobs for this search
-+ 外汇管理专家 x2
+- 3 hours ago
+- 4
++ 4 hours ago x3
+- 4 jobs in Worldwide
+- 57 minutes ago
++ 7
++ 7 jobs in Worldwide
++ AML Operation and Strategy Analyst Graduate (Global Payment) - 2026 Start (BS/MS) x2
++ Actively Hiring x4
++ Any time (1,029)
+- Any time (1,033)
+- Be an early applicant
++ ByteDance x3
+- ByteDance (4)
++ ByteDance (7)
+- Canonical (258)
++ Deloitte (448)
+- Domino's (3,570)
+- Done
++ Executive (1)
+- Full-time (4)
++ Graduate Development Program (E-Commerce) - 2026 Start (BS/MS) x2
++ Greater São Paulo Area
+- Hilti Group (260)
+- Internship (1)
++ Internship (3)
+- Job type
+- Jobster (459)
++ LATAM Senior Financial Accounting Manager - PIPO x2
++ Machine Learning Engineer Graduate (E-Commerce Knowledge Graph - CV/Multimodal/NLP) -2026 Start (PhD) x2
++ O'Reilly Auto Parts (477)
+- On-site (3)
++ On-site (6)
++ Past 24 hours (24)
+- Past 24 hours (4)
+- Past 24 hours (40)
++ Past 24 hours (7)
++ Past month (926)
+- Past month (927)
++ Past week (192)
+- Past week (198)
+- Research Scientist in Code Generation, Seed-PhD Graduates- 2026 Start x2
++ Ross Stores, Inc. (3,805)
+- San Jose, CA x2
++ Seattle, WA
+- Senior Software Engineer - Applied Machine Learning, Engine x2
++ Shanghai, Shanghai, China
++ Singapore
++ Taguig, National Capital Region, Philippines
+- Tax Manager / Tax Senior Manager (Country Tax BP, Singapore) x2
++ Threat Intelligence Engineer, Security Assurance x2
++ adesso SE (642)
+- 外汇管理专家 x2
++ 税务系统化专家 x4
 ```
 
 ---
