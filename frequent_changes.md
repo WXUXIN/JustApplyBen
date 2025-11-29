@@ -1,6 +1,6 @@
 # Latest Frequent Scraper Results
 
-## 2025-11-29 01:15:22
+## 2025-11-29 06:25:07
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
@@ -8,15 +8,6 @@
 
 ```diff
 No line changes.
-```
-
----
-### [https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY](https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY)
-
-**Line changes detected!**
-
-```diff
-- Stay updated on your professional world.
 ```
 
 ---
@@ -34,75 +25,60 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 3 hours ago x5
-+ 4 hours ago x3
-+ 8
-+ 8 jobs in Worldwide
-+ Accounts Payable Specialist - AMS x2
-- Agree & Join
-- Already on Linkedin?
-+ Any time (1,053)
-+ Associate (4)
-+ Be an early applicant x8
-+ Bending Spoons (259)
-+ Bold Steps Behavioral Health (251)
-- By clicking Agree & Join, you agree to the LinkedIn
-+ By clicking Continue to join or sign in, you agree to LinkedIn’s
-+ ByteDance x9
-+ ByteDance (8)
-+ Campus Marketing Manager, Code AI Apps x2
-+ Category Manager, Furnishing and Home Supplies (Philippines, eCommerce) x2
-+ Clear text x6
-- Continue with Google x2
-+ Creator Manager, FMCG, Personal Care & Beauty (Philippines E-Commerce) x2
-+ Done x5
-- Email
-+ Event Marketing Manager, Code AI Apps x2
-+ Executive (1)
-+ Expand search
-+ Experience level
-- First name
-+ Full-time (8)
-+ Health Care Administrators Association® (HCAA) (251)
-+ Hybrid (2)
-+ Influencer Marketing Manager, Code AI Apps x2
-+ Job type
-+ Jobs
-+ Jobs in Worldwide
-+ Jobster (1,396)
-- Join LinkedIn
-+ Join now x2
-- Last name
-+ Learning
-+ Los Angeles, CA
-+ Mid-Senior level (3)
-+ New to LinkedIn? x2
-- New to Linkedin?
-- Not you?
-+ On-site (6)
-- Password (6+ characters)
++ 0 jobs in Worldwide
+- 3 hours ago x5
+- 4 hours ago x3
+- 8
+- 8 jobs in Worldwide
+- Accounts Payable Specialist - AMS x2
++ Any time (1,036)
+- Any time (1,053)
+- Associate (4)
+- Be an early applicant x8
+- Bending Spoons (259)
+- Bold Steps Behavioral Health (251)
+- ByteDance x7
+- ByteDance (8)
+- Campus Marketing Manager, Code AI Apps x2
+- Category Manager, Furnishing and Home Supplies (Philippines, eCommerce) x2
++ Continuum Therapy Partners, LLC (459)
++ Create an account
+- Creator Manager, FMCG, Personal Care & Beauty (Philippines E-Commerce) x2
+- Done x3
+- Event Marketing Manager, Code AI Apps x2
+- Executive (1)
+- Experience level
+- Full-time (8)
+- Health Care Administrators Association® (HCAA) (251)
+- Hybrid (2)
+- Influencer Marketing Manager, Code AI Apps x2
+- Job type
+- Jobs in Worldwide
++ Jobs via Dice (278)
+- Jobster (1,396)
+- Join now
+- Los Angeles, CA
+- Mid-Senior level (3)
+- On-site (6)
 + Past 24 hours
-+ Past 24 hours (19)
-+ Past 24 hours (8)
-+ Past month (934)
-+ Past week (205)
-+ People
-+ Remote
-- Remove photo
-+ Reset
-+ San Francisco, CA x3
-+ San Jose, CA
-- Security verification
-+ Senior Integrated Communications Planner - Organizational Culture x2
-+ Senior Security Tech Lead Manager - Security Engineering - San Jose x2
-- Sign Up | LinkedIn
-+ Sign in to view more jobs
-+ Singapore, Singapore
-+ Taguig, National Capital Region, Philippines x2
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-+ Welcome back
-+ Worldwide
-+ You've viewed all jobs for this search
++ Past 24 hours (18)
+- Past 24 hours (19)
+- Past 24 hours (8)
++ Past month (927)
+- Past month (934)
++ Please make sure your keywords are spelled correctly
+- Remote
+- San Francisco, CA x3
+- San Jose, CA
+- Senior Integrated Communications Planner - Organizational Culture x2
+- Senior Security Tech Lead Manager - Security Engineering - San Jose x2
+- Singapore, Singapore
+- Taguig, National Capital Region, Philippines x2
++ Taskify AI (322)
++ We couldn’t find a match for
+- You've viewed all jobs for this search
++ jobs in Worldwide
++ myGwork - LGBTQ+ Business Community (309)
 ```
 
 ---
