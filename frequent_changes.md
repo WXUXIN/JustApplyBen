@@ -1,13 +1,18 @@
 # Latest Frequent Scraper Results
 
-## 2025-12-01 06:29:59
+## 2025-12-01 12:37:53
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Bachelor/Master Graduates- 2026 Start
+- Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
+- Intern
++ Regular
++ Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+- Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
@@ -16,7 +21,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Stay updated on your professional world.
+- Stay updated on your professional world.
 ```
 
 ---
@@ -25,10 +30,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
-- Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
-+ Site Reliability Engineer Graduate (Video Infrastructure) - 2026 Start (BS/MS)
-- Software Engineer (SRE - Platform Services) Intern (Infrastructure Engineering), 2026 Start (BS/MS)
++ Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+- Site Reliability Engineer Graduate (Video Infrastructure) - 2026 Start (BS/MS)
 ```
 
 ---
