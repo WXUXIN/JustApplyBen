@@ -1,8 +1,206 @@
 # Latest Scraper Results
 
-## 2025-12-01 04:12:58
+## 2025-12-02 03:54:42
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Line changes detected!**
+
+```diff
+- 1
+- 2
+- 3
+- 4
+- 5
+- AI/ML Engineering Manager, Payment Intelligence
+- AMER GTM Finance & Strategy Segment Lead x2
+- AMER Sales Strategy and Operations Analyst
+- APAC Integration Engineer (Customer facing)
+- APAC People Consultant
+- APAC Product Marketing Lead x3
+- Account Executive - Enterprise
+- Account Executive -Mexico (SSMB)
+- Account Executive, AI Sales x2
+- Account Executive, AI Startups - Existing Business
+- Account Executive, BaaS Product Sales (German Speaking) x2
+- Account Executive, Benelux & Nordics - Existing Business
+- Account Executive, Commercial (Existing Business) x2
+- Account Executive, Commercial (New Business)
+- Account Executive, Commercial - DACH x2
+- Account Executive, Commercial - German Speaking
+- Account Executive, Enterprise x2
+- Account Executive, Enterprise (Existing Business) x5
+- Account Executive, Enterprise (New Business) x4
+- Account Executive, Enterprise - Public Sector (New Business) x5
+- Account Executive, Enterprise AUNZ x2
+- Account Executive, Enterprise Japan
+- Account Executive, Enterprise Platforms, Hunter x3
+- Account Executive, Existing Business - Startups x2
+- Account Executive, Funded Startups x2
+- Account Executive, Funded Startups (Existing Business) x2
+- Account Executive, Iberia
+- Account Executive, Platforms
+- Account Executive, Platforms (Existing Business) x2
+- Account Executive, Platforms (French Speaking)
+- Account Executive, Platforms (Grower) x2
+- Account Executive, Platforms (New Business)
+- Account Executive, Platforms (Spanish - Speaking)
+- Account Executive, Platforms (Strategics)
+- Account Executive, Platforms, New Zealand
+- Account Executive, Product (Crypto Sales) x2
+- Account Executive, Product - Disputes
+- Account Executive, Product Sales (Radar) x4
+- Account Executive, Product Sales - Radar
+- Account Executive, Product Sales, Radar (NYC) x3
+- Account Executive, SMB (French Speaking)
+- Account Executive, SMB Platforms (New Business) x2
+- Account Executive, Startup Platforms (Existing Business) x2
+- Account Executive, Startup SaaS Platforms - German Speaking
+- Account Executive, Startups/ SMB, Grower, New Zealand
+- Accounting - Legal Entity Controller
+- Accounting Analyst - Product Accounting - MaaS Accounting
+- Accounting Analyst - Product Accounting - Processing Cost
+- Accounting Analyst - Revenue
+- Accounts Receivable Manager
++ Administrative
++ Amsterdam
+- Analytics Lead, Privy
+- Android Engineer, Link
++ Argentina
++ Asia Pacific x2
+- Associate, Services Consulting
++ Atlanta
++ Australia
++ Austria
+- Backend / API Engineer, Payouts
+- Backend Engineer
+- Backend Engineer, Core Tech, Canada
+- Backend Engineer, Core Technology x3
+- Backend Engineer, DEeP
+- Backend Engineer, Data x2
+- Backend Engineer, Infrastructure
+- Backend Engineer, Payments and Risk x2
++ Bangkok
++ Banking as a Service
++ Barcelona
++ Belgium
+- Bengaluru x4
+- Berlin
++ Brazil
++ Bridge
++ Canada
+- Chicago x11
++ Chile
++ Clear all filters
++ Climate
++ Communications
++ Connect
+- Controllership x4
++ Corporate Development
++ Corporate Security
++ Corporate Strategy
++ Customer Success
++ Czechia
++ Data & Data Science
+- Data Platform
++ Design
++ Dubai
+- Dublin HQ x8
++ Estonia
++ Europe x2
++ Executive
++ Finance
+- Finance & Strategy
++ France
++ GTM Partnerships
++ Germany
++ Global Partnerships
++ Global Strategic Pursuits
++ Go-to-Market
++ Great Britain
++ Hong Kong
++ India
++ Indonesia
+- Infrastructure & Corporate Tech x5
++ Internal Audit
++ Investor Relations
++ Ireland
++ Israel
++ Italy
++ Jakarta
++ Japan
+- Last
++ Latin America x2
++ Legal
+- London x2
++ Machine Learning
++ Malaysia
+- Marketing x2
+- Melbourne x2
++ Mexico x2
++ Middle East
++ Mobile
++ Money Movement and Storage
++ Netherlands
++ New Financial Products
+- New York x13
++ New Zealand
+- Next
++ North America x2
++ Office Locations (1)
++ Opens the multi-select filter menu x4
++ Operations
++ Paris
+- Payments x3
++ People
++ Poland
++ Portugal
++ Privy
++ Products
+- Professional Services
++ Recruiting
++ Remote Locations
+- Remote in Canada x2
+- Remote in Germany
+- Remote in New Zealand x2
+- Remote in United States x12
++ Revenue & Financial Automation
++ Risk & Financial Crimes
++ Romania
+- Sales x70
++ San Francisco Bridge HQ
++ Scaled Sales
+- Seattle x2
++ Security
++ Showing roles across across 1 location and all teams. 1 tag selected.
+- Singapore x3
++ Software Engineering, New Grad
++ Solutions Architect
++ South Korea
+- South San Francisco HQ x12
++ Spain
++ Stockholm
++ Stripe Tax
++ Sweden
++ Switzerland
+- Sydney x2
++ São Paulo
++ Tags (1)
++ Tax
++ Teams
++ Tech Programs
++ Terminal
++ Thailand
+- Toronto x4
++ Treasury
++ United States
++ University x3
++ Warsaw
++ Workplace
+```
+
+---
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
@@ -11,15 +209,19 @@ No line changes.
 ```
 
 ---
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
 
 **Line changes detected!**
 
 ```diff
-+ Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
-- Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
-+ Site Reliability Engineer Graduate (Video Infrastructure) - 2026 Start (BS/MS)
-- Software Engineer (SRE - Platform Services) Intern (Infrastructure Engineering), 2026 Start (BS/MS)
+- 11 Open Roles
++ 12 Open Roles
++ FOCUS
++ Hong Kong
++ LOCATION
++ Long/Short Equity Support Research Intern, Hong Kong (12weeks summer internship)
++ ROLE
++ Trading Research
 ```
 
 ---
@@ -28,100 +230,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- 3
-+ 4
-```
-
----
-### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
-
-**Line changes detected!**
-
-```diff
-- 16 hours ago x2
-- 17
-- 17 hours ago x4
-- 17 jobs in Worldwide
-- 7 hours ago x9
-- 8 hours ago x2
-- AI Product Operation Analyst (Evaluation) - Flow x2
-- Actively Hiring x7
-+ Agree & Join
-- Allied Universal (328)
-+ Already on Linkedin?
-- Any time (1,046)
-- Associate (3)
-- BNPL Solution Lead (EU) - Global Payment x2
-- Be an early applicant x10
-+ By clicking Agree & Join, you agree to the LinkedIn
-- By clicking Continue to join or sign in, you agree to LinkedIn’s
-- ByteDance x18
-- ByteDance (17)
-- Clear text x6
-- Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Start(PHD) x2
-- Content & Creator Operations Specialist Graduate (CapCut) - 2026 Start (BS/MS) x2
-+ Continue with Google x2
-- Data Analyst - Global Payment - Singapore x2
-- Director (1)
-- Domino's (1,050)
-- Done x4
-+ Email
-- Executive (2)
-- Expand search
-- Experience level
-+ First name
-- Growth Partnerships Manager, Philippines x2
-- Hybrid (4)
-- Internship (6)
-- Jobs
-- Jobs in Worldwide
-+ Join LinkedIn
-- Join for free
-- Join now
-- LATAM Business Development Manager, Credit - Global payment x2
-- LATAM Lending Product Manager - Global Payment x2
-+ Last name
-- Learning
-- Los Angeles, CA
-- Mid-Senior level (5)
-- Model Safety Evaluation Project Intern (Seed-Global Data) - 2025 Start (BS/MS) x2
-- New to LinkedIn? x2
-+ New to Linkedin?
-+ Not you?
-- On-site (13)
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (17)
-- Past month (929)
-- Past week (195)
-- Payment Scheme & Wallet Expansion Manager - Global payment x2
-- People
-- Platform Campaign Planning & Operations Specialist - Integrated Marketing & Communications (Philippines E-commerce) x2
-- Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS) x2
-- Remote
-+ Remove photo
-- Research Scientist Intern (AI Infrastructure)- 2026 Start (PhD) x2
-- Reset
-- San Jose, CA
-- Schülerhilfe GmbH & Co. KG (503)
-- Search Operation Specialist - Evaluation and Investigation - Search Operation - Japan x2
-- Seattle, WA x3
-+ Security verification
-+ Sign Up | LinkedIn
-- Sign in to view more jobs
-- Singapore
-- Singapore, Singapore x5
-- Software Engineer Intern (Payment Network) - Global Payment - 2026 Summer(BS/MS) x2
-- Strategy & Special Projects, E-commerce Operations (Philippines) x2
-- São Paulo, São Paulo, Brazil x2
-- Taguig, National Capital Region, Philippines x3
-- TalentPop App (397)
-- Technical Program Manager, Edge Security Infrastructure x2
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- Tokyo, Japan
-- Welcome back
-- Worldwide
-- You've viewed all jobs for this search
++ 1
+- 4
 ```
 
 ---
