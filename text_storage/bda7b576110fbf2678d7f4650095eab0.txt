@@ -77,7 +77,7 @@ AMER_recruit@bloomberg.net
 EMEA_recruit@bloomberg.net
 (Europe, the Middle East and Africa), or
 APAC_recruit@bloomberg.net
-(Asia-Pacific), based on the region you are submitting an application for.
+(Asia-Pacific), based on the region you are submitting an application for. We may share your information with a third party provider of accommodations services who may use this information to reach out to you for the purposes of accommodating your application.
 Equal Opportunity
 Bloomberg is an equal opportunity employer and prohibits discrimination in employment. It is Bloomberg’s policy to provide equal opportunity and access for all persons, and the Company is committed to attracting, retaining, developing, and promoting the most qualified individuals without regard to age, ancestry, color, gender identity or expression, genetic predisposition or carrier status, marital status, national or ethnic origin, race, religion or belief, sex, sexual orientation, self-identified or perceived sex, sexual and other reproductive health decisions, parental or caring status, physical or mental disability, pregnancy, childbirth or related medical conditions, or parental leave, protected veteran status, status as a victim of domestic violence, or any other classification protected by applicable law (each, a “Protected Characteristic”). Bloomberg prohibits treating applicants or employees less favorably in connection with the terms and conditions of employment, in all phases of the employment process, because of one or more Protected Characteristics.
 © 2025
@@ -92,4 +92,4 @@ Additional Policies
 |
 Cookie Preferences
 https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&
-2
+4
