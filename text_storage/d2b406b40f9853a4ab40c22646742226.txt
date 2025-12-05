@@ -71,6 +71,7 @@ Luxembourg
 Mexico City
 Miami
 New York
+Paris
 Pasig
 Riyadh
 San Diego
@@ -134,12 +135,12 @@ Technology - Client
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
+Recommendation Algorithm Engineer-TikTok Algorithm-Soaring Star Talent Program
+Technology - Algorithm
+2026 Soaring Star Talent Program
 Singapore
 Regular
-Site Reliability Engineer Graduate (Video Infrastructure) - 2026 Start (BS/MS)
+Software Engineer Graduate (Stability Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
