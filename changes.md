@@ -1,16 +1,7 @@
 # Latest Scraper Results
 
-## 2025-12-05 03:53:40
+## 2025-12-06 03:44:22
 
-### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
-
-**Line changes detected!**
-
-```diff
-- X
-```
-
----
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
@@ -20,13 +11,13 @@ No line changes.
 ```
 
 ---
-### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-+ 2026 Long/Short Equity Support Research intern, Hong Kong (12 weeks)
-- Long/Short Equity Support Research Intern, Hong Kong (12weeks summer internship)
++ Site Reliability Engineer Graduate (Video Infrastructure) - 2026 Start (BS/MS)
+- Software Engineer Graduate (Stability Platform) - 2026 Start (BS/MS)
 ```
 
 ---
@@ -35,8 +26,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 1
-- 4
+- 1
++ 9
 ```
 
 ---
