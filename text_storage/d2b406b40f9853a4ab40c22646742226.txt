@@ -48,6 +48,7 @@ PhD Graduates & Internships
 Soaring Star Talent Program
 Project Intern
 Location
+Amsterdam
 Ashburn
 Austin
 Bangkok
@@ -110,13 +111,13 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
-Technology
+Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Data mining
+Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
+Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
@@ -145,7 +146,7 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Show 12 out of 76 open roles
+Show 12 out of 77 open roles
 1
 2
 3
