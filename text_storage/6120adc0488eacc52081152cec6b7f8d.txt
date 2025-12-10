@@ -18,7 +18,6 @@ Remote
 Location
 All
 Abu Dhabi, United Arab Emirates
-Amsterdam, Netherlands
 Chicago, IL
 Copenhagen, Denmark
 Denver, CO
