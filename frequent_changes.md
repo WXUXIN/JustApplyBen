@@ -1,22 +1,22 @@
 # Latest Frequent Scraper Results
 
-## 2025-12-13 06:26:13
+## 2025-12-13 12:33:22
 
 ### [https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY](https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY)
 
 **Line changes detected!**
 
 ```diff
-+ ) on and off LinkedIn. Learn more in our
-+ . x2
-+ Accept
-+ Cookie Policy
-+ LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including
-+ Reject
-+ Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
-- Your California Privacy Choices
-+ professional and job ads
-+ settings
+- ) on and off LinkedIn. Learn more in our
+- . x2
+- Accept
+- Cookie Policy
+- LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including
+- Reject
+- Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
++ Your California Privacy Choices
+- professional and job ads
+- settings
 ```
 
 ---
@@ -34,17 +34,17 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ ) on and off LinkedIn. Learn more in our
-+ . x2
-+ Accept
-+ Cookie Policy
-+ LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including
-+ LinkedIn respects your privacy
-+ Reject
-+ Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
-- Your California Privacy Choices
-+ professional and job ads
-+ settings
+- ) on and off LinkedIn. Learn more in our
+- . x2
+- Accept
+- Cookie Policy
+- LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including
+- LinkedIn respects your privacy
+- Reject
+- Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
++ Your California Privacy Choices
+- professional and job ads
+- settings
 ```
 
 ---
