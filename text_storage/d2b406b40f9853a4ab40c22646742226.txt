@@ -116,13 +116,13 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Data mining
+Site Reliability Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
+Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Site Reliability Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
-Technology
+Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
