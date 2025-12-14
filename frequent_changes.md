@@ -1,13 +1,14 @@
 # Latest Frequent Scraper Results
 
-## 2025-12-13 18:23:36
+## 2025-12-14 01:26:26
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
+- Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
 ```
 
 ---
@@ -16,7 +17,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
+- Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
 ```
 
 ---
@@ -25,49 +27,49 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 0 jobs in Worldwide
-- Agree & Join
-- Already on Linkedin?
-+ Any time (963)
-- By clicking Agree & Join, you agree to the LinkedIn
-+ By clicking Continue to join or sign in, you agree to LinkedIn’s
-+ ByteDance x2
-+ Clear text x6
-- Continue with Google x2
-+ Deloitte (1,340)
-+ Done x2
-+ EY (968)
-- Email
-+ Expand search
-- First name
-+ Jobs
-- Join LinkedIn
-+ Join for free
-+ Join now
-- Last name
-+ Learning
-+ New to LinkedIn? x2
-- New to Linkedin?
-- Not you?
-+ Panda Restaurant Group (1,280)
-- Password (6+ characters)
-+ Past 24 hours x2
-+ Past 24 hours (36)
-+ Past month (844)
-+ Past week (202)
-+ People
-+ Please make sure your keywords are spelled correctly
-+ PwC Acceleration Center India (1,645)
-- Remove photo
-+ Reset
-- Security verification
-- Sign Up | LinkedIn
-+ Sign in to view more jobs
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-+ We couldn’t find a match for
-+ Welcome back
-+ Worldwide
-+ jobs in Worldwide
+- 0 jobs in Worldwide
++ Agree & Join
++ Already on Linkedin?
+- Any time (963)
++ By clicking Agree & Join, you agree to the LinkedIn
+- By clicking Continue to join or sign in, you agree to LinkedIn’s
+- ByteDance x2
+- Clear text x6
++ Continue with Google x2
+- Deloitte (1,340)
+- Done x2
+- EY (968)
++ Email
+- Expand search
++ First name
+- Jobs
++ Join LinkedIn
+- Join for free
+- Join now
++ Last name
+- Learning
+- New to LinkedIn? x2
++ New to Linkedin?
++ Not you?
+- Panda Restaurant Group (1,280)
++ Password (6+ characters)
+- Past 24 hours x2
+- Past 24 hours (36)
+- Past month (844)
+- Past week (202)
+- People
+- Please make sure your keywords are spelled correctly
+- PwC Acceleration Center India (1,645)
++ Remove photo
+- Reset
++ Security verification
++ Sign Up | LinkedIn
+- Sign in to view more jobs
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
+- We couldn’t find a match for
+- Welcome back
+- Worldwide
+- jobs in Worldwide
 ```
 
 ---
