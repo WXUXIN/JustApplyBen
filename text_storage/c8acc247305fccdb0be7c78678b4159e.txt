@@ -69,6 +69,7 @@ Kulai
 London
 Los Angeles
 Luxembourg
+Madrid
 Mexico City
 Miami
 New York

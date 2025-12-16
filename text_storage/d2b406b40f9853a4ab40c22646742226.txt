@@ -69,6 +69,7 @@ Kulai
 London
 Los Angeles
 Luxembourg
+Madrid
 Mexico City
 Miami
 New York
@@ -116,13 +117,13 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Site Reliability Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
-Technology
+Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Data mining
+Site Reliability Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
+Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
@@ -141,11 +142,11 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
+Software Engineer Graduate (Stability Platform) - 2026 Start (BS/MS)
 Technology
-Undergraduate/Master Intern- 2026 Start
+Bachelor/Master Graduates- 2026 Start
 Singapore
-Intern
+Regular
 Show 12 out of 66 open roles
 1
 2
