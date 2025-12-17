@@ -1,14 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2025-12-16 18:28:27
+## 2025-12-17 01:16:53
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Show 12 out of 66 open roles
-+ Show 12 out of 67 open roles
+No line changes.
 ```
 
 ---
@@ -17,7 +16,7 @@
 **Line changes detected!**
 
 ```diff
-- Keep me logged in
++ Keep me logged in
 ```
 
 ---
@@ -26,8 +25,7 @@
 **Line changes detected!**
 
 ```diff
-- Show 12 out of 58 open roles
-+ Show 12 out of 59 open roles
+No line changes.
 ```
 
 ---
