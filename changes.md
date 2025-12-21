@@ -1,13 +1,14 @@
 # Latest Scraper Results
 
-## 2025-12-20 03:50:26
+## 2025-12-21 04:02:51
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
++ Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
 ```
 
 ---
@@ -16,8 +17,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 10
-- 6
+- 10
++ 3
 ```
 
 ---
