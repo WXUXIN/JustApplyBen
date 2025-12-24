@@ -1,6 +1,6 @@
 # Latest Scraper Results
 
-## 2025-12-23 04:02:39
+## 2025-12-24 04:00:05
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
@@ -16,8 +16,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
-- Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
+No line changes.
 ```
 
 ---
@@ -26,8 +25,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 1
-- 3
+- 1
++ 6
 ```
 
 ---
