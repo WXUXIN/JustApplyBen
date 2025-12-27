@@ -1,13 +1,14 @@
 # Latest Frequent Scraper Results
 
-## 2025-12-26 18:26:17
+## 2025-12-27 01:19:36
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
+- Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
 ```
 
 ---
@@ -16,7 +17,12 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Bachelor/Master Graduates- 2026 Start
+- Backend Software Engineer Graduate (Libra Platform) - 2026 Start (BS/MS)
++ Backend Software Engineer Intern (Libra Platform) - 2026 Start (BS/MS)
++ Intern
+- Regular
++ Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
@@ -25,7 +31,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
+- Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
 ```
 
 ---
@@ -34,49 +41,76 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 0 jobs in Worldwide
-- Agree & Join
-- Already on Linkedin?
-+ Any time (999)
-- By clicking Agree & Join, you agree to the LinkedIn
-+ By clicking Continue to join or sign in, you agree to LinkedIn’s
++ ** *** **** ****, ** *** **** ****, *******
++ ** ******** ******* - ****** *-******** ********** - ** *** **** x2
++ *** ****, ****** ******
++ **** ******* - ****** ******** (*****-***** **********) x2
++ ****** ******* ******** ******* ******* - ****** ******* - ********* x2
++ ******* *********** *******, *** x2
++ ********* x4
++ *********, ********* x2
++ , x2
++ , and x2
++ . x2
+- 0 jobs in Worldwide
++ 16
++ 16 jobs in Worldwide
++ 4 hours ago x3
++ 5 hours ago x4
++ Accenture in India (368)
++ Actively Hiring
++ Any time (1,009)
+- Any time (999)
++ Associate (4)
++ Be an early applicant x6
++ By clicking Continue to join or sign in, you agree to LinkedIn’s x2
 + ByteDance x2
-+ Clear text x6
-- Continue with Google x2
-+ Done x2
-+ EY (1,501)
-- Email
-+ Expand search
-- First name
-+ Jobs
-- Join LinkedIn
-+ Join for free
++ ByteDance (16)
++ Cookie Policy x2
++ Done x3
+- EY (1,501)
++ Email or phone
++ Executive (1)
++ Experience level
++ Forgot password?
++ Full-time (15)
++ General Procurement Specialist, AMS x2
++ HR Business Partner - Human Resources and Management - Singapore x2
++ Hybrid (1)
++ Job type
++ Jobs in Worldwide
++ Jobster (629)
 + Join now
-- Last name
-+ Learning
-+ New to LinkedIn? x2
-- New to Linkedin?
-- Not you?
-- Password (6+ characters)
-+ Past 24 hours x2
-+ Past 24 hours (38)
-+ Past month (884)
-+ Past week (186)
-+ People
-+ Please make sure your keywords are spelled correctly
-+ PwC (2,875)
-- Remove photo
-+ Reset
-- Security verification
-- Sign Up | LinkedIn
-+ Sign in to view more jobs
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-+ Turing (778)
-+ Walmart (636)
-+ We couldn’t find a match for
++ Marriott International (932)
++ Mid-Senior level (11)
++ New York, United States
++ New to LinkedIn?
++ On-site (15)
++ Password
+- Past 24 hours
++ Past 24 hours (16)
+- Past 24 hours (38)
++ Past 24 hours (44)
+- Past month (884)
++ Past month (888)
+- Please make sure your keywords are spelled correctly
++ Privacy Policy x2
+- PwC (2,875)
++ Remote
++ SEGULA Technologies (1,110)
++ San Jose, CA
++ Show
++ Sign in x2
++ Sign in to view all job postings
++ Singapore, Singapore
++ Software Engineer,  Global Payment x2
+- Turing (778)
++ User Agreement x2
+- Walmart (636)
+- We couldn’t find a match for
 + Welcome back
-+ Worldwide
-+ jobs in Worldwide
+- jobs in Worldwide
++ or x2
 ```
 
 ---
