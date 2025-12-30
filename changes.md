@@ -1,14 +1,35 @@
 # Latest Scraper Results
 
-## 2025-12-29 04:11:37
+## 2025-12-30 04:03:42
 
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
+No line changes.
+```
+
+---
+### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
+
+**Line changes detected!**
+
+```diff
++ Internship
++ Investment and Client Solutions
++ Product & Capital Strategy Intern [Summer 2026]
++ United States - NY New York
++ View role x2
+```
+
+---
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 69 open roles
-- Show 12 out of 70 open roles
+No line changes.
 ```
 
 ---
@@ -17,8 +38,8 @@
 **Line changes detected!**
 
 ```diff
-+ 0
-- 2
+- 0
++ 1
 ```
 
 ---
@@ -27,91 +48,72 @@
 **Line changes detected!**
 
 ```diff
-+ **** **** ***
-+ ******* ******* - ******* & ********* x2
-+ ******* ******** ******** ******** (****** *-******** - ************** **)-**** ***** (**/**) x2
-+ ******** ********: (******* ******** ********, ****-******-************** ******.** - *******) - **** ***** (**/**) x2
-+ ********* x4
-+ ********, ********, *****
-+ *******, ** x2
-+ , x2
-+ , and x2
-+ . x2
-+ 1 hour ago
-+ 110
-+ 110 jobs in Worldwide
-+ 17 hours ago x3
-+ 8 hours ago x3
-- Agree & Join
-- Already on Linkedin?
-+ Any time (1,008)
-+ Associate (9)
-+ Be an early applicant x3
-- By clicking Agree & Join, you agree to the LinkedIn
-+ By clicking Continue to join or sign in, you agree to LinkedIn’s x3
-+ ByteDance x4
-+ ByteDance (110)
-+ Clear text x6
-+ Cone Health (716)
-- Continue with Google x2
-+ Contract (1)
-+ Cookie Policy x2
-+ Domino's (705)
-+ Done x5
-- Email
-+ Email or phone
-+ Entry level (3)
-+ Expand search
-+ Experience level
-- First name
-+ Forgot password?
-+ Full-time (67)
-+ Hybrid (3)
-+ Inside Higher Ed (845)
-+ Internship (92)
-+ Jakarta, Jakarta, Indonesia
-+ Job type
-+ Jobs
-+ Jobs in Worldwide
-- Join LinkedIn
-+ Join now x2
-+ Join now for free
-- Last name
-+ Learning
-+ Mid-Senior level (4)
-+ New to LinkedIn? x3
-- New to Linkedin?
-- Not you?
-+ On-site (107)
-+ Password
-- Password (6+ characters)
-+ Past 24 hours
-+ Past 24 hours (110)
-+ Past month (885)
-+ Past week (347)
-+ Payroll Analyst - HR Operations - Indonesia x2
-+ People
-+ Privacy Policy x2
-+ Project Management Office (PMO) Intern (BytePlus) - 2026 (BS/MS) x2
-+ Remote
-- Remove photo
-+ Reset
-- Security verification
-+ Show
-- Sign Up | LinkedIn
-+ Sign in x2
-+ Sign in to view all job postings
-+ Sign in to view more jobs
-+ Singapore
-+ Singapore, Singapore
-+ Talent Acquisition Sourcer - HR & Management - Singapore (Third-party Associate) x2
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-+ User Agreement x2
-+ Walmart (1,196)
-+ Welcome back x2
-+ Worldwide
-+ or x2
-+ 品牌广告产品策略运营（中国出海/亚太区域/中东区域/拉美区域）-****** ******** ********* x2
++ *** *********, ** x2
++ *** ****, ** x2
+- **** **** ***
++ ***** ********* *******, **** ** **** x2
++ ****** ********* *******, **** ** **** x2
+- ******* ******* - ******* & ********* x2
+- ******* ******** ******** ******** (****** *-******** - ************** **)-**** ***** (**/**) x2
++ ******* ******** ******** ******** (*-******** **************/****** ********)- **** ***** (**/**) x2
++ ******** ********* ******** (******* ******* ******** - ** ******) - **** ***** (**/**) x2
+- ******** ********: (******* ******** ********, ****-******-************** ******.** - *******) - **** ***** (**/**) x2
+- ********, ********, *****
+- *******, ** x2
+- 1 hour ago
+- 110
+- 110 jobs in Worldwide
+- 17 hours ago
++ 21 minutes ago
++ 48
++ 48 jobs in Worldwide
++ 7 hours ago x2
+- 8 hours ago
++ Allied Universal (346)
++ Any time (1,006)
+- Any time (1,008)
++ Associate (4)
+- Associate (9)
++ Be an early applicant
+- ByteDance (110)
++ ByteDance (48)
+- Cone Health (716)
++ Consumer Finance Business Analyst - Global Payment x2
+- Contract (1)
++ Domino's (1,149)
+- Domino's (705)
++ Entry level (1)
+- Entry level (3)
++ Ethics Office Leader x2
++ Executive (2)
++ Finance Business Partner, TikTok Live x2
++ Full-time (36)
+- Full-time (67)
+- Hybrid (3)
++ Hybrid (4)
+- Inside Higher Ed (845)
++ Internship (28)
+- Internship (92)
+- Jakarta, Jakarta, Indonesia
++ Los Angeles, CA x2
++ Marriott International (1,516)
++ Mid-Senior level (12)
+- Mid-Senior level (4)
+- On-site (107)
++ On-site (44)
++ PPG (680)
+- Past 24 hours (110)
++ Past 24 hours (48)
+- Past month (885)
++ Past month (891)
+- Past week (347)
++ Past week (351)
+- Payroll Analyst - HR Operations - Indonesia x2
+- Project Management Office (PMO) Intern (BytePlus) - 2026 (BS/MS) x2
+- Singapore
+- Talent Acquisition Sourcer - HR & Management - Singapore (Third-party Associate) x2
+- Walmart (1,196)
+- 品牌广告产品策略运营（中国出海/亚太区域/中东区域/拉美区域）-****** ******** ********* x2
 ```
 
 ---
