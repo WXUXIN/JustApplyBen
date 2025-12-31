@@ -116,11 +116,6 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Data mining
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Site Reliability Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -128,6 +123,11 @@ Singapore
 Intern
 Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
 Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
+Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
@@ -141,8 +141,8 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
-Technology
+Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Backend
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
