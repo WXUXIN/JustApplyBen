@@ -1,16 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2025-12-31 01:22:33
+## 2025-12-31 06:29:29
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
-+ Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-- Technology
-+ Technology - Backend
+No line changes.
 ```
 
 ---
@@ -19,10 +16,7 @@
 **Line changes detected!**
 
 ```diff
-- Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
-+ Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-- Technology
-+ Technology - Backend
+No line changes.
 ```
 
 ---
