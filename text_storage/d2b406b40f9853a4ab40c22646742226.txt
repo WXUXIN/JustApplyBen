@@ -121,13 +121,13 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Data mining
+Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
+Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
-Technology
+Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
@@ -146,7 +146,7 @@ Technology - Backend
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Show 12 out of 69 open roles
+Show 12 out of 70 open roles
 1
 2
 3
