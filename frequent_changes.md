@@ -1,32 +1,14 @@
 # Latest Frequent Scraper Results
 
-## 2026-01-04 06:28:29
+## 2026-01-04 12:35:03
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Connect
-- Discover
-```
-
----
-### [https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY](https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY)
-
-**Line changes detected!**
-
-```diff
-+ Keep me logged in
-```
-
----
-### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-No line changes.
+- Connect
++ Discover
 ```
 
 ---
@@ -35,89 +17,84 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- ******* ********* - ********** ********* ***** x2
-- ******** ******** (**********) - ****** ******* x2
-- ********* x4
-- ********* ******* ********* - ********** ********* ***** (**) x2
-- ********** ****** ********, ************** *********** x2
-- *********, ********* x2
-- ******, *******, ****** *******
-- *ã* *****, *ã* *****, ******
-- , x2
-- , and x2
-- . x2
-- 14
-- 14 jobs in Worldwide
-- 5 hours ago x5
-- 6 hours ago x2
-- Actively Hiring x2
-+ Agree & Join
-+ Already on Linkedin?
-- Any time (1,013)
-- Bankers Life (465)
-- Be an early applicant x5
-+ By clicking Agree & Join, you agree to the LinkedIn
-- By clicking Continue to join or sign in, you agree to LinkedIn’s x3
-- ByteDance x4
-- ByteDance (14)
-- Clear text x6
-+ Continue with Google x2
-- Cookie Policy x2
-- Data Scientist - Game Security x2
-- Domino's (533)
-- Done x5
-- Dubai, Dubai, United Arab Emirates
-+ Email
-- Email or phone
-- Entry level (2)
-- Expand search
-- Experience level
-+ First name
-- Forgot password?
-- Full-time (14)
-- Hybrid (6)
-- Job type
-- Jobs
-- Jobs in Worldwide
-- Jobs via Dice (821)
-- Jobster (3,063)
-+ Join LinkedIn
-- Join for free
-- Join now x2
-+ Last name
-- Learning
-- Mid-Senior level (9)
-- New to LinkedIn? x3
-+ New to Linkedin?
-+ Not you?
-- On-site (8)
-- Password
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (14)
-- Past 24 hours (22)
-- Past month (888)
-- Past week (256)
-- People
-- Privacy Policy x2
-- Remote
-+ Remove photo
-- Reset
-- San Jose, CA
-+ Security verification
-- Show
-+ Sign Up | LinkedIn
-- Sign in x2
-- Sign in to view all job postings
-- Sign in to view more jobs
-- Singapore, Singapore
-- Software Engineer - Applied Machine Learning, Engine x2
-- Technical Account Manager - BytePlus x2
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- User Agreement x2
-- Welcome back x2
-- Worldwide
-- or x2
++ 1 hour ago x3
++ 19
++ 19 jobs in Worldwide
++ 2 hours ago x9
++ 3 hours ago
++ 4 hours ago x2
++ 5 hours ago x4
++ AI大模型平台产品负责人-Data AML x6
++ Actively Hiring x7
+- Agree & Join
+- Already on Linkedin?
++ Any time (1,018)
++ Be an early applicant x12
++ Beijing, Beijing, China x4
+- By clicking Agree & Join, you agree to the LinkedIn
++ By clicking Continue to join or sign in, you agree to LinkedIn’s
++ ByteDance x20
++ ByteDance (19)
++ Clear text x6
++ Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Start(PHD) x2
+- Continue with Google x2
++ Create an account
++ DataAnnotation (1,792)
++ Deloitte (1,967)
++ Done x4
+- Email
++ Expand search
++ Experience level
+- First name
++ Graphic Design Project Intern (Organization Culture) - 2026 Start (BS/MS) x2
++ Hangzhou-Shaoxing Metropolitan Area x2
++ Internship (9)
++ Jobs
++ Jobs in Worldwide
+- Join LinkedIn
++ Join now
+- Last name
++ Learning
++ Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2026 Start (PhD) x2
++ Mid-Senior level (10)
++ New to LinkedIn? x2
+- New to Linkedin?
+- Not you?
++ On-site (19)
+- Password (6+ characters)
++ Past 24 hours
++ Past 24 hours (19)
++ Past 24 hours (35)
++ Past month (899)
++ Past week (182)
++ People
++ Product Management Intern (Global Payment) - 2026 Start (BS/MS) x2
++ Remote
+- Remove photo
++ Research Engineer Graduate (Seed-Infra-Platform-US) - 2026 Start (PhD) x2
++ Reset
++ San Diego, CA
++ San Jose, CA x5
++ Seattle, WA
+- Security verification
++ Shanghai, Shanghai, China x3
++ Shenzhen, Guangdong, China
+- Sign Up | LinkedIn
++ Sign in to view more jobs
++ Signet Jewelers (411)
++ Singapore x2
++ Site Reliability Engineer Graduate (Edge Services) - 2026 Start (PhD) x2
++ Software Engineer Intern (Traffic Infrastructure Product Management)- 2026 Summer (BS/MS) x2
++ Student Researcher (Seed - Infra - Inference) - 2026 Start (PhD) x2
++ Student Researcher(Video Compression Standard) - 2026 Start (PhD) x2
++ Thales (2,240)
++ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ Welcome back
++ Worldwide
++ You've viewed all jobs for this search
++ 向量数据库高级产品经理-Data AML x2
++ 机器学习平台产品解决方案架构师-火山引擎 x8
++ 资深AI大模型产品经理-Data AML x4
 ```
 
 ---
