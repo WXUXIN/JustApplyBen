@@ -141,8 +141,8 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Frontend Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Frontend
+Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Backend
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
