@@ -26,6 +26,7 @@ Dubai, United Arab Emirates
 Honolulu, HI
 London, United Kingdom
 New York, NY
+North America
 Palo Alto, CA
 Raleigh, NC
 San Diego, CA
@@ -62,6 +63,7 @@ All
 Fixed-Term
 Full-time
 Internship
+Scholarship
 Business Development
 Apply
 Corporate Affairs Intern

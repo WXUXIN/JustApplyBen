@@ -1,26 +1,27 @@
 # Latest Scraper Results
 
-## 2026-01-06 04:04:26
+## 2026-01-07 04:04:49
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-+ Montréal
-+ Software Developer Intern
+- Chicago x2
++ London
++ New York City
+- Senior Software Engineer - Analytics Front Office
++ Senior Software Engineer, Pricing and Derived Data
 ```
 
 ---
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
 
 **Line changes detected!**
 
 ```diff
-- Frontend Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-+ Technology - Client
-- Technology - Frontend
-+ iOS Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
++ North America
++ Scholarship
 ```
 
 ---
@@ -29,8 +30,8 @@
 **Line changes detected!**
 
 ```diff
-+ 10
-- 7
+- 10
++ 3
 ```
 
 ---
