@@ -19,7 +19,6 @@ Location
 All
 Abu Dhabi, United Arab Emirates
 Chicago, IL
-Copenhagen, Denmark
 Denver, CO
 Doha, Qatar
 Dubai, United Arab Emirates
@@ -36,7 +35,6 @@ Seoul, South Korea
 Singapore, Singapore
 Stockholm, Sweden
 Tokyo, Japan
-Vilnius, Lithuania
 Warsaw, Poland
 Washington, D.C.
 Team
