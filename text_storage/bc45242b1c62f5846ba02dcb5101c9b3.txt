@@ -1,8 +1,17 @@
-7 jobs in Worldwide
+9 jobs in Worldwide
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
 Skip to main content
 LinkedIn
 Worldwide
 Expand search
+Jobs
 This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
 Jobs
 People
@@ -13,80 +22,76 @@ Clear text
 Clear text
 Clear text
 Sign in
-Create an account
+Register now
 ByteDance
 Clear text
-ByteDance (7)
-Henkel (1,027)
-Aya Healthcare (863)
-Marriott International (623)
-KPMG US (551)
+ByteDance (9)
+Walmart (953)
+EY (564)
+Checkers & Rally’s Drive-In Restaurants (315)
+Concentrix (294)
 Done
 Past 24 hours
-Any time (1,066)
-Past month (932)
-Past week (251)
+Any time (1,069)
+Past month (938)
+Past week (234)
 Past 24 hours (45)
-Past 24 hours (7)
-Done
-Job type
-Full-time (6)
-Internship (1)
+Past 24 hours (9)
 Done
 Experience level
 Internship (2)
-Associate (1)
-Mid-Senior level (4)
+Associate (3)
+Mid-Senior level (3)
+Executive (1)
 Done
 Remote
-On-site (6)
-Hybrid (1)
+On-site (9)
 Done
 Reset
-7
+9
 Jobs in Worldwide
-User Researcher - Global Payment
-User Researcher - Global Payment
+Supply Chain Manager - Global Logistics
+Supply Chain Manager - Global Logistics
+ByteDance
+Chon Buri, Chon Buri, Thailand
+Be an early applicant
+4 hours ago
+Data Engineer, Information System, Dubai
+Data Engineer, Information System, Dubai
+ByteDance
+Dubai, Dubai, United Arab Emirates
+Actively Hiring
+5 hours ago
+Sanctions Operations Analyst - Global Payment
+Sanctions Operations Analyst - Global Payment
 ByteDance
 Singapore, Singapore
 Be an early applicant
-1 hour ago
-KYC/KYB Analyst - Global Payment
-KYC/KYB Analyst - Global Payment
-ByteDance
-Singapore, Singapore
-Be an early applicant
-1 hour ago
-Field Marketing Manager - BytePlus - Hong Kong
-Field Marketing Manager - BytePlus - Hong Kong
-ByteDance
-Hong Kong SAR
-Be an early applicant
-3 hours ago
-搜索增长产品******-******
-搜索增长产品******-******
+6 hours ago
+*** ********* *********** ******** - ****** *******
+*** ********* *********** ******** - ****** *******
 *********
-*******, *******, *****
+*********, *********
+Actively Hiring
+4 hours ago
+********** ******** ******* - ****** *******
+********** ******** ******* - ****** *******
+*********
+*********, *********
 Be an early applicant
-2 hours ago
-******** ********* ******** (********** *****, ********** **) - **** ***** (***)
-******** ********* ******** (********** *****, ********** **) - **** ***** (***)
+6 hours ago
+*********** ********** ******* - ****** *******
+*********** ********** ******* - ****** *******
+*********
+*********, *********
+Be an early applicant
+6 hours ago
+** ******* *** ********** ********** - **** - *** ****
+** ******* *** ********** ********** - **** - *** ****
 *********
 *** ****, **
 Be an early applicant
-2 hours ago
-模型训练产品经理-****
-模型训练产品经理-****
-*********
-*******, *******, *****
-Be an early applicant
 4 hours ago
-******** ******** ******** ******* ****** (******** *********) - **** ***** (**/**)
-******** ******** ******** ******* ****** (******** *********) - **** ***** (**/**)
-*********
-*********
-Be an early applicant
-2 hours ago
 Sign in to view all job postings
 Sign in
 Welcome back
@@ -113,6 +118,142 @@ Privacy Policy
 , and
 Cookie Policy
 .
+Software Engineer - Service Platform
+ByteDance
+Singapore, Singapore
+4 months ago
+Be among the first 25 applicants
+See who ByteDance has hired for this role
+No longer accepting applications
+Report this job
+Use AI to assess how you fit
+Get AI-powered advice on this job and more exclusive features.
+Am I a good fit for this job?
+Tailor my resume
+Sign in to access AI-powered advices
+Sign in
+Welcome back
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+Sign in to evaluate your skills
+Sign in
+Welcome back
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+Sign in to tailor your resume
+Sign in
+Welcome back
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+New to LinkedIn?
+Join now
+Responsibilities
+About The Team
+The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
+Our mission is to enable safer deployment processes, expand deployment capabilities, and deliver robust control mechanisms to optimize business operations and reduce costs. As part of our drive for innovation, we are continuously expanding our PaaS offerings to support AI infrastructure development through next generation technologies with MCP and AI Sandbox.
+What you will be doing:
+- Design, develop, and optimize the core platform services and ecosystem components;
+- Collaborate with AI infrastructure teams to integrate specialized tooling and execution environments;
+- Continuously improve platform efficiency and cost-effectiveness through system optimization;
+- Establish and enforce platform engineering best practices across internal product lines;
+Qualifications
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+- Proficiency in Go/Python/Rust/Typescript and strong systems programming skills.
+- Deep understanding of Linux, networking (TCP/IP, HTTP), and distributed systems.
+- Experience in infrastructure products (e.g., monitoring, logging, service mesh, storage).
+- Familiarity with cloud-native technologies (Kubernetes, Docker) and large-scale system design.
+Preferred Qualifications:
+- Experience with PaaS platforms or service deployment systems
+- Knowledge of AI/ML platform infrastructure and tooling
+- Background in resource scheduling and optimization
+- Contributions to open-source infrastructure projects
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+Diversity & Inclusion​
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
+Show more
+Show less
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Technology, Information and Internet
+Referrals increase your chances of interviewing at ByteDance by 2x
+See who you know
 LinkedIn
 © 2026
 About
@@ -162,39 +303,7 @@ Tiếng Việt (Vietnamese)
 简体中文 (Chinese (Simplified))
 正體中文 (Chinese (Traditional))
 Language
-Agree & Join LinkedIn
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Sign in to view more jobs
+You’re signed out
+Sign in for the full experience.
 Sign in
-Welcome back
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-or
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-New to LinkedIn?
 Join now
-or
-New to LinkedIn?
-Join now
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
