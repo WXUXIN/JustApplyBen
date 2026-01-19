@@ -132,21 +132,21 @@ Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-Technology
-Project Intern
-Singapore
-Intern
-Frontend Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Frontend
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Site Reliability Engineer Graduate (Video Infrastructure) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
+Technology
+Project Intern
+Singapore
+Intern
 Show 12 out of 71 open roles
 1
 2
