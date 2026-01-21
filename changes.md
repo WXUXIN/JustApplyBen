@@ -1,24 +1,53 @@
 # Latest Scraper Results
 
-## 2026-01-20 04:08:53
+## 2026-01-21 04:09:51
 
-### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
 
 **Line changes detected!**
 
 ```diff
-+ Apply filters
-+ Clear filters
++ Showing 1 to 3 of 3 rows
 ```
 
 ---
-### [https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&](https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&)
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- 2
-+ 3
++ London
++ Python Software Engineer, Trading Platform
+```
+
+---
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
++ 2026 Graduate - Technology Business Analyst
++ London
++ View opportunity
+```
+
+---
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+
+**Line changes detected!**
+
+```diff
+- Connect
++ Discover
+```
+
+---
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+No line changes.
 ```
 
 ---
@@ -27,90 +56,73 @@
 **Line changes detected!**
 
 ```diff
-+ *** ****, ** x2
-+ ***** ******* ******** ********(******** ******* *****) - **** ***** (**/ **) x2
-+ ***** ******, ******* ********* ** ***** ******, ********
-+ ******* ******* - ** ********** - ***** x2
-+ ******* ******** ******** ****** (****** *-********) - **** ****** (**/**) x2
-+ ******** ********, ***** ***** ****** ******** (******* ******** ***-**) - **** ***** (**/**) x2
-+ ********* x4
-+ *******, **
-+ ,
-+ , and
-+ .
-+ 14 hours ago
-+ 17 hours ago x5
-+ 38
-+ 38 jobs in Worldwide
-+ 9 hours ago
-+ Actively Hiring x6
-- Agree & Join
-- Already on Linkedin?
-+ Any time (1,089)
-+ Be an early applicant
-- By clicking Agree & Join, you agree to the LinkedIn
-+ By clicking Continue to join or sign in, you agree to LinkedIn’s x2
-+ ByteDance x4
-+ ByteDance (38)
-+ Clear text x6
-- Continue with Google x2
-+ Cookie Policy
-+ Domino's (797)
-+ Done x5
-- Email
-+ Email or phone
-+ Entry level (2)
-+ Expand search
-+ Experience level
-- First name
-+ Forgot password?
-+ Full-time (26)
-+ Gurgaon, Haryana, India
-+ Hybrid (2)
-+ Innovation Tech Solution Sales - BytePlus - Gurgaon x2
-+ Internship (12)
-+ Internship (28)
-+ Job type
-+ Jobot (732)
-+ Jobs
-+ Jobs in Worldwide
-+ Jobs via Dice (1,799)
-- Join LinkedIn
-+ Join now x2
-- Last name
-+ Learning
-+ Lensa (3,036)
-+ Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (BS/MS) x2
-+ Mid-Senior level (6)
-+ New to LinkedIn? x2
-- New to Linkedin?
-- Not you?
-+ On-site (36)
-+ Password
-- Password (6+ characters)
-+ Past 24 hours
-+ Past 24 hours (38)
-+ Past month (957)
-+ Past week (403)
-+ People
-+ Privacy Policy
-+ Remote
-- Remove photo
-+ Research Scientist Graduate (Applied Machine Learning - ML System) - 2026 Start (BS/MS) x2
-+ Reset
-+ San Jose, CA x2
-- Security verification
-+ Show
-- Sign Up | LinkedIn
-+ Sign in
-+ Sign in to view all job postings
-+ Sign in to view more jobs
-+ Sign in with Email
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-+ User Agreement
-+ Welcome back
-+ Worldwide
-+ or
+- *** ****, **
+- ***** ******* ******** ********(******** ******* *****) - **** ***** (**/ **) x2
+- ***** ******, ******* ********* ** ***** ******, ********
++ ****** ******* ******* - ****** ******* - ********* x2
++ ****** *********** ******* - ********* ********* - ********* (*****-***** **********) x2
+- ******* ******* - ** ********** - ***** x2
+- ******* ******** ******** ****** (****** *-********) - **** ****** (**/**) x2
++ ******** ********* ******** ******* - ****** ******* x2
+- ******** ********, ***** ***** ****** ******** (******* ******** ***-**) - **** ***** (**/**) x2
++ ************** ********* - ********** ******** x2
++ *********, ********* x2
+- *******, **
++ *******, *******, *********
+- 14 hours ago
++ 17
+- 17 hours ago x5
++ 17 jobs in Worldwide
+- 38
+- 38 jobs in Worldwide
++ 7 hours ago
++ 8 hours ago x6
+- 9 hours ago
+- Actively Hiring x3
++ Allied Universal (7,282)
++ Any time (1,081)
+- Any time (1,089)
++ Associate (4)
++ Be an early applicant x3
++ ByteDance (17)
+- ByteDance (38)
++ Customer Success Manager - BytePlus (GenAI & SaaS) x2
+- Domino's (797)
++ Dubai, Dubai, United Arab Emirates x2
+- Entry level (2)
++ Full-time (15)
+- Full-time (26)
+- Gurgaon, Haryana, India
+- Hybrid (2)
++ Hybrid (3)
+- Innovation Tech Solution Sales - BytePlus - Gurgaon x2
++ Internship (1)
+- Internship (12)
++ Internship (2)
+- Internship (28)
++ Jobot (645)
+- Jobot (732)
+- Jobs via Dice (1,799)
+- Lensa (3,036)
+- Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (BS/MS) x2
++ Marriott International (991)
++ Metro Inc. (264)
+- Mid-Senior level (6)
++ Mid-Senior level (9)
++ On-site (14)
+- On-site (36)
++ Past 24 hours (17)
+- Past 24 hours (38)
++ Past month (953)
+- Past month (957)
++ Past week (395)
+- Past week (403)
+- Research Scientist Graduate (Applied Machine Learning - ML System) - 2026 Start (BS/MS) x2
++ Riyadh, Riyadh, Saudi Arabia
+- San Jose, CA x2
++ Technical Project Manager - BytePlus (GenAI & SaaS) x2
++ Technical Project Manager, BytePlus x2
++ Temporary (1)
 ```
 
 ---
