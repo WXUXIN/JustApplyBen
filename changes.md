@@ -1,34 +1,16 @@
 # Latest Scraper Results
 
-## 2026-01-21 04:09:51
+## 2026-01-22 04:12:26
 
-### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
-
-**Line changes detected!**
-
-```diff
-+ Showing 1 to 3 of 3 rows
-```
-
----
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-+ London
-+ Python Software Engineer, Trading Platform
-```
-
----
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
-
-**Line changes detected!**
-
-```diff
-+ 2026 Graduate - Technology Business Analyst
-+ London
-+ View opportunity
++ Chicago
++ Senior Software Engineer - Trading Systems (C++)
+- Software Developer Intern
++ Software Engineer
 ```
 
 ---
@@ -37,17 +19,18 @@
 **Line changes detected!**
 
 ```diff
-- Connect
-+ Discover
++ Connect
+- Discover
 ```
 
 ---
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+### [https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&](https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ 10
+- 3
 ```
 
 ---
@@ -57,72 +40,89 @@ No line changes.
 
 ```diff
 - *** ****, **
-- ***** ******* ******** ********(******** ******* *****) - **** ***** (**/ **) x2
-- ***** ******, ******* ********* ** ***** ******, ********
-+ ****** ******* ******* - ****** ******* - ********* x2
-+ ****** *********** ******* - ********* ********* - ********* (*****-***** **********) x2
-- ******* ******* - ** ********** - ***** x2
-- ******* ******** ******** ****** (****** *-********) - **** ****** (**/**) x2
-+ ******** ********* ******** ******* - ****** ******* x2
-- ******** ********, ***** ***** ****** ******** (******* ******** ***-**) - **** ***** (**/**) x2
-+ ************** ********* - ********** ******** x2
-+ *********, ********* x2
-- *******, **
-+ *******, *******, *********
-- 14 hours ago
-+ 17
-- 17 hours ago x5
-+ 17 jobs in Worldwide
-- 38
-- 38 jobs in Worldwide
-+ 7 hours ago
-+ 8 hours ago x6
-- 9 hours ago
+- ****** ******* ******* - ****** ******* - ********* x2
+- ****** *********** ******* - ********* ********* - ********* (*****-***** **********) x2
+- ******** ********* ******** ******* - ****** ******* x2
+- ********* x4
+- ************** ********* - ********** ******** x2
+- *********, ********* x2
+- *******, *******, *********
+- ,
+- , and
+- .
+- 17
+- 17 jobs in Worldwide
+- 7 hours ago
+- 8 hours ago x6
 - Actively Hiring x3
-+ Allied Universal (7,282)
-+ Any time (1,081)
-- Any time (1,089)
-+ Associate (4)
-+ Be an early applicant x3
-+ ByteDance (17)
-- ByteDance (38)
-+ Customer Success Manager - BytePlus (GenAI & SaaS) x2
-- Domino's (797)
-+ Dubai, Dubai, United Arab Emirates x2
-- Entry level (2)
-+ Full-time (15)
-- Full-time (26)
-- Gurgaon, Haryana, India
-- Hybrid (2)
-+ Hybrid (3)
-- Innovation Tech Solution Sales - BytePlus - Gurgaon x2
-+ Internship (1)
-- Internship (12)
-+ Internship (2)
-- Internship (28)
-+ Jobot (645)
-- Jobot (732)
-- Jobs via Dice (1,799)
-- Lensa (3,036)
-- Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (BS/MS) x2
-+ Marriott International (991)
-+ Metro Inc. (264)
-- Mid-Senior level (6)
-+ Mid-Senior level (9)
-+ On-site (14)
-- On-site (36)
-+ Past 24 hours (17)
-- Past 24 hours (38)
-+ Past month (953)
-- Past month (957)
-+ Past week (395)
-- Past week (403)
-- Research Scientist Graduate (Applied Machine Learning - ML System) - 2026 Start (BS/MS) x2
-+ Riyadh, Riyadh, Saudi Arabia
-- San Jose, CA x2
-+ Technical Project Manager - BytePlus (GenAI & SaaS) x2
-+ Technical Project Manager, BytePlus x2
-+ Temporary (1)
++ Agree & Join
+- Allied Universal (7,282)
++ Already on Linkedin?
+- Any time (1,081)
+- Associate (4)
+- Be an early applicant x4
++ By clicking Agree & Join, you agree to the LinkedIn
+- By clicking Continue to join or sign in, you agree to LinkedIn’s x2
+- ByteDance x4
+- ByteDance (17)
+- Clear text x6
++ Continue with Google x2
+- Cookie Policy
+- Customer Success Manager - BytePlus (GenAI & SaaS) x2
+- Done x5
+- Dubai, Dubai, United Arab Emirates x2
++ Email
+- Email or phone
+- Expand search
+- Experience level
++ First name
+- Forgot password?
+- Full-time (15)
+- Hybrid (3)
+- Internship (1)
+- Internship (2)
+- Job type
+- Jobot (645)
+- Jobs
+- Jobs in Worldwide
++ Join LinkedIn
+- Join now x2
++ Last name
+- Learning
+- Marriott International (991)
+- Metro Inc. (264)
+- Mid-Senior level (9)
+- New to LinkedIn? x2
++ New to Linkedin?
++ Not you?
+- On-site (14)
+- Password
++ Password (6+ characters)
+- Past 24 hours
+- Past 24 hours (17)
+- Past month (953)
+- Past week (395)
+- People
+- Privacy Policy
+- Remote
++ Remove photo
+- Reset
+- Riyadh, Riyadh, Saudi Arabia
++ Security verification
+- Show
++ Sign Up | LinkedIn
+- Sign in
+- Sign in to view all job postings
+- Sign in to view more jobs
+- Sign in with Email
+- Technical Project Manager - BytePlus (GenAI & SaaS) x2
+- Technical Project Manager, BytePlus x2
+- Temporary (1)
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
+- User Agreement
+- Welcome back
+- Worldwide
+- or
 ```
 
 ---
