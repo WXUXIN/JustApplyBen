@@ -1,6 +1,6 @@
 # Latest Frequent Scraper Results
 
-## 2026-01-23 12:40:46
+## 2026-01-23 18:29:37
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
@@ -16,7 +16,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Keep me logged in
++ Keep me logged in
 ```
 
 ---
@@ -25,7 +25,10 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
++ Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+- Technology
++ Technology - Backend
 ```
 
 ---
@@ -34,68 +37,71 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ ,
-+ , and
-+ .
-- 2
-- 2 jobs in Worldwide
-- 3 hours ago x2
-+ Agree & Join
-- Allied Universal (714)
-+ Already on Linkedin?
-- Any time (1,110)
-- Aya Healthcare (883)
-- Be an early applicant x2
-+ By clicking Agree & Join, you agree to the LinkedIn
-- ByteDance x3
-- ByteDance (2)
-- Clear text x6
-+ Continue with Google x2
-+ Cookie Policy
-- Done x5
-+ Email
-- Expand search
-- Experience level
-+ First name
-- Full-time (2)
-- Job type
-- Jobs
-- Jobs in Worldwide
-- Jobs via Dice (1,119)
-+ Join LinkedIn
-- Join now
-+ Last name
-- Learning
-- Marriott International (396)
-- Mid-Senior level (2)
-- New to LinkedIn?
-+ New to Linkedin?
-+ Not you?
-- On-site (2)
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (2)
-- Past 24 hours (32)
-- Past month (972)
-- Past week (374)
-- People
-+ Privacy Policy
-- Product Manager, E-Commerce Solution - Global Payment x2
-- Remote
-+ Remove photo
-- Reset
-- San Jose, CA x2
-+ Security verification
-+ Sign Up | LinkedIn
-+ Sign in
-- Sign in to view more jobs
-- Sign in with Email
-- Tech Lead Software Engineer, Programming Language x2
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-+ User Agreement
-- Worldwide
-- You've viewed all jobs for this search
-+ or
+- ,
+- , and
+- .
++ 2
++ 2 jobs in Worldwide
++ 4 hours ago
++ 5 hours ago
++ AEROCONTACT (562)
++ Actively Hiring
+- Agree & Join
+- Already on Linkedin?
++ Any time (1,118)
++ Be an early applicant
+- By clicking Agree & Join, you agree to the LinkedIn
++ ByteDance x3
++ ByteDance (2)
++ Clear text x6
+- Continue with Google x2
+- Cookie Policy
++ Done x5
+- Email
++ Expand search
++ Experience level
+- First name
++ Full-time (2)
++ Google (480)
++ International Tax Business Partner - Byteplus, Lark, Capcut (Tax BP-Global) x2
++ Job type
++ Jobs
++ Jobs in Worldwide
++ Jobster (714)
+- Join LinkedIn
++ Join now
+- Last name
++ Learning
++ MEA Regional Partnership Manager - BytePlus x2
++ Mid-Senior level (2)
++ New to LinkedIn?
+- New to Linkedin?
+- Not you?
++ On-site (2)
+- Password (6+ characters)
++ Past 24 hours
++ Past 24 hours (2)
++ Past 24 hours (44)
++ Past month (976)
++ Past week (375)
++ People
+- Privacy Policy
++ PwC (624)
++ Remote
+- Remove photo
++ Reset
++ Riyadh, Riyadh, Saudi Arabia
+- Security verification
+- Sign Up | LinkedIn
+- Sign in
++ Sign in to view more jobs
++ Sign in with Email
++ Singapore, Singapore
++ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
+- User Agreement
++ Worldwide
++ You've viewed all jobs for this search
+- or
 ```
 
 ---

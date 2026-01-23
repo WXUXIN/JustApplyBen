@@ -95,12 +95,12 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -135,8 +135,8 @@ Technology - Machine learning
 PhD Intern- 2026 Start
 Singapore
 Intern
-Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
-Technology
+Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Backend
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
