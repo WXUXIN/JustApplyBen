@@ -1,26 +1,64 @@
 # Latest Scraper Results
 
-## 2026-01-22 04:12:26
+## 2026-01-23 04:07:13
 
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Line changes detected!**
+
+```diff
+- Partner ecosystem
++ Stripe Partner ecosystem
+```
+
+---
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-+ Chicago
-+ Senior Software Engineer - Trading Systems (C++)
-- Software Developer Intern
-+ Software Engineer
+No line changes.
 ```
 
 ---
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
 
 **Line changes detected!**
 
 ```diff
-+ Connect
-- Discover
++ 2026 2H Technology / Quant Intern
++ As a Technology / Quant intern at Caladan, you will gain first-hand experience working closely with top engineers, quants and traders as part of small teams doing real work
++ Singapore
++ View Details
+```
+
+---
+### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
+
+**Line changes detected!**
+
+```diff
+- Software Engineer, C++
+```
+
+---
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
++ 2026 Internship - Regulatory Reporting
++ London
++ View opportunity
+```
+
+---
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+- Barcelona
 ```
 
 ---
@@ -29,100 +67,8 @@
 **Line changes detected!**
 
 ```diff
-+ 10
-- 3
-```
-
----
-### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
-
-**Line changes detected!**
-
-```diff
-- *** ****, **
-- ****** ******* ******* - ****** ******* - ********* x2
-- ****** *********** ******* - ********* ********* - ********* (*****-***** **********) x2
-- ******** ********* ******** ******* - ****** ******* x2
-- ********* x4
-- ************** ********* - ********** ******** x2
-- *********, ********* x2
-- *******, *******, *********
-- ,
-- , and
-- .
-- 17
-- 17 jobs in Worldwide
-- 7 hours ago
-- 8 hours ago x6
-- Actively Hiring x3
-+ Agree & Join
-- Allied Universal (7,282)
-+ Already on Linkedin?
-- Any time (1,081)
-- Associate (4)
-- Be an early applicant x4
-+ By clicking Agree & Join, you agree to the LinkedIn
-- By clicking Continue to join or sign in, you agree to LinkedIn’s x2
-- ByteDance x4
-- ByteDance (17)
-- Clear text x6
-+ Continue with Google x2
-- Cookie Policy
-- Customer Success Manager - BytePlus (GenAI & SaaS) x2
-- Done x5
-- Dubai, Dubai, United Arab Emirates x2
-+ Email
-- Email or phone
-- Expand search
-- Experience level
-+ First name
-- Forgot password?
-- Full-time (15)
-- Hybrid (3)
-- Internship (1)
-- Internship (2)
-- Job type
-- Jobot (645)
-- Jobs
-- Jobs in Worldwide
-+ Join LinkedIn
-- Join now x2
-+ Last name
-- Learning
-- Marriott International (991)
-- Metro Inc. (264)
-- Mid-Senior level (9)
-- New to LinkedIn? x2
-+ New to Linkedin?
-+ Not you?
-- On-site (14)
-- Password
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (17)
-- Past month (953)
-- Past week (395)
-- People
-- Privacy Policy
-- Remote
-+ Remove photo
-- Reset
-- Riyadh, Riyadh, Saudi Arabia
-+ Security verification
-- Show
-+ Sign Up | LinkedIn
-- Sign in
-- Sign in to view all job postings
-- Sign in to view more jobs
-- Sign in with Email
-- Technical Project Manager - BytePlus (GenAI & SaaS) x2
-- Technical Project Manager, BytePlus x2
-- Temporary (1)
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- User Agreement
-- Welcome back
-- Worldwide
-- or
+- 10
++ 8
 ```
 
 ---
