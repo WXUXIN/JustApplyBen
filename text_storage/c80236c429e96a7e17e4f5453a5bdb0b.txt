@@ -100,11 +100,6 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Site Reliability Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -130,12 +125,12 @@ Technology - Frontend
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
+Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -143,6 +138,11 @@ Regular
 Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
+Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
+Technology - Machine learning
+PhD Intern- 2026 Start
 Singapore
 Intern
 Show 12 out of 62 open roles
