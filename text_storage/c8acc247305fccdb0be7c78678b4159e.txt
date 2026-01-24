@@ -90,12 +90,17 @@ Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -113,11 +118,6 @@ Intern
 Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
 Technology - Algorithm
 2026 Soaring Star Talent Program
-Singapore
-Regular
-Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
 Machine Learning System Engineer - Data AML - Soaring Star Talent Program
