@@ -125,12 +125,12 @@ Technology - Frontend
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
+Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
+Technology - Machine learning
+PhD Intern- 2026 Start
 Singapore
-Regular
-Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
+Intern
+Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -140,11 +140,11 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
-Technology - Machine learning
-PhD Intern- 2026 Start
+Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
 Singapore
-Intern
+Regular
 Show 12 out of 62 open roles
 1
 2
