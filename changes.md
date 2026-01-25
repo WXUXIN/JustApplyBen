@@ -1,6 +1,6 @@
 # Latest Scraper Results
 
-## 2026-01-24 04:02:01
+## 2026-01-25 04:15:47
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
@@ -16,8 +16,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
-- Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
+No line changes.
 ```
 
 ---
@@ -26,8 +25,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 5
-- 8
++ 2
+- 5
 ```
 
 ---
