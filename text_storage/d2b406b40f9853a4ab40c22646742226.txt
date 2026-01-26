@@ -115,12 +115,12 @@ Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
@@ -140,11 +140,11 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
+Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
+Technology - Machine learning
+PhD Intern- 2026 Start
 Singapore
-Regular
+Intern
 Show 12 out of 73 open roles
 1
 2
