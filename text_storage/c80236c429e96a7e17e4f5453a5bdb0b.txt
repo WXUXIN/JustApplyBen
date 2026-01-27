@@ -140,7 +140,7 @@ Technology - Frontend
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
+Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
