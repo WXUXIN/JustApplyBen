@@ -130,21 +130,21 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Frontend Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
 Technology - Frontend
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
+Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
-Technology - Machine learning
-PhD Intern- 2026 Start
-Singapore
-Intern
 Show 12 out of 64 open roles
 1
 2

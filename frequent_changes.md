@@ -1,20 +1,20 @@
 # Latest Frequent Scraper Results
 
-## 2026-01-26 18:31:13
+## 2026-01-27 01:29:09
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-+ Intern
-+ Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
-+ PhD Intern- 2026 Start
-- Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
-- Regular
-- Technology
-+ Technology - Machine learning
++ Bachelor/Master Graduates- 2026 Start
+- Intern
+- Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
+- PhD Intern- 2026 Start
++ Regular
++ Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
++ Technology
+- Technology - Machine learning
 ```
 
 ---
@@ -23,7 +23,7 @@
 **Line changes detected!**
 
 ```diff
-- Keep me logged in
++ Keep me logged in
 ```
 
 ---
@@ -41,7 +41,16 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Bachelor/Master Graduates- 2026 Start
+- Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
+- Intern
+- Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
+- PhD Intern- 2026 Start
++ Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
++ Regular
++ Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
++ Technology
+- Technology - Machine learning
 ```
 
 ---
