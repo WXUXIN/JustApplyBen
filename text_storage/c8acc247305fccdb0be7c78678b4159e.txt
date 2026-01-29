@@ -120,6 +120,11 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Regular
 Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD)
 Technology
 PhD Intern- 2026 Start
@@ -140,17 +145,13 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Recommendation System Architecture Engineer- Soaring Star Talent Program
-Technology - Backend
-2026 Soaring Star Talent Program
-Singapore
-Regular
-Show 12 out of 60 open roles
+Show 12 out of 61 open roles
 1
 2
 3
 4
 5
+6
 Life at ByteDance
 Early Careers
 Americas

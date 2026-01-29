@@ -105,6 +105,11 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Regular
 Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
 Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
@@ -135,17 +140,12 @@ Technology - Frontend
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Show 12 out of 75 open roles
+Show 12 out of 76 open roles
 1
 2
 3
