@@ -28,6 +28,7 @@ London, United Kingdom
 Miami, FL
 New York, NY
 North America
+Ottawa, Canada
 Palo Alto, CA
 San Diego, CA
 Seattle, WA
@@ -71,11 +72,6 @@ On-site —
 Internship
 New York, NY
 Delta
-Apply
-Forward Deployed Software Engineer, Internship - Commercial
-On-site —
-Internship
-London, United Kingdom
 Apply
 Forward Deployed Software Engineer, Internship - UK Government
 On-site —

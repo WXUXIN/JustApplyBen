@@ -1,38 +1,16 @@
 # Latest Scraper Results
 
-## 2026-01-29 04:29:04
+## 2026-01-30 04:31:50
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-+ Junior Software Development Engineer in Test
-+ Singapore
-```
-
----
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
-
-**Line changes detected!**
-
-```diff
-+ Finance x2
-+ GL Accountant
-+ Kuala Lumpur
-+ View Details
-+ We are seeking a detail-oriented and highly organized General Ledger (GL) Accountant to manage and oversee the integrity of our financial records and reporting
-```
-
----
-### [https://www.quantedge.com/careers](https://www.quantedge.com/careers)
-
-**Line changes detected!**
-
-```diff
-+ 2026 - Risk Analyst - Singapore
-- We are currently recruiting for the following role:
-+ We are currently recruiting for the following roles:
+- London
+- Senior Software Engineer
+- Software Engineer x2
++ Software Engineer, Unified Platform x2
 ```
 
 ---
@@ -41,8 +19,22 @@
 **Line changes detected!**
 
 ```diff
-+ Fundamental Equities x2
-- Long/Short Investing x2
+- 2026 Equities Financing Trader Summer Intern, Singapore
++ 2026 Equity Financing Trader Summer Intern, Singapore
+```
+
+---
+### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
+
+**Line changes detected!**
+
+```diff
+- Apply
+- Forward Deployed Software Engineer, Internship - Commercial
+- Internship
+- London, United Kingdom
+- On-site —
++ Ottawa, Canada
 ```
 
 ---
@@ -51,156 +43,8 @@
 **Line changes detected!**
 
 ```diff
-- 5
-+ 6
-```
-
----
-### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
-
-**Line changes detected!**
-
-```diff
-+ ,
-+ , and
-+ .
-- 12 hours ago
-- 17 hours ago x12
-- 18 hours ago x4
-- 19 hours ago x4
-- 20 hours ago
-- 21 hours ago x2
-- 29 minutes ago x3
-- 3 hours ago x2
-- 3D Graphics Software Engineer Graduate (PICO Foundation) - 2026 Start (BS/MS) x2
-- 53
-- 53 jobs in Worldwide
-- 6 hours ago x2
-- 8 hours ago x22
-- AI产品经理-即梦 x2
-- AI算法工程师-即梦 x2
-- Account Executive - BytePlus GenAI Solutions (Turkish or Russian Speaking) x2
-- Account Executive-Innovative Technical Sales, BytePlus (GenAI & SaaS) x2
-+ Agree & Join
-+ Already on Linkedin?
-- Amsterdam, North Holland, Netherlands x2
-- Any time (1,125)
-- Ashburn, VA
-- Associate (3)
-- Backend Software Engineer (Distributed Block Storage) - Cloud Infrastructure x2
-- Backend Software Engineer (SRE) - Cloud Infrastructure x2
-- Backend Software Engineer Intern (Libra Platform) - 2026 Start (BS/MS) x2
-- Be an early applicant x37
-- Beijing, Beijing, China x3
-+ By clicking Agree & Join, you agree to the LinkedIn
-- ByteDance x54
-- ByteDance (53)
-- Campaign Strategy & Project Manager (Philippines E-Commerce) x2
-- Channel Partnership Manager (GenAI/LLM) x4
-- Clear text x6
-+ Continue with Google x2
-+ Cookie Policy
-- Country Lead, BytePlus x2
-- Creator Strategy Project Intern (Central Strategy & Special Projects, E-Commerce) - 2026 Start (BS/MS) x2
-- Data Security Program Manager - Global Payment x2
-- Datacenter Engineer (Field Engineering), Infrastructure Engineering x2
-- Design Verification Engineer Graduate (Video Silicon IP) - 2026 Start (BS/MS) x2
-- Done x5
-- Dubai, Dubai, United Arab Emirates
-- Dublin, County Dublin, Ireland
-+ Email
-- Ethics Specialist (Ethics Office) x4
-- Expand search
-- Experience level
-- FEA Engineer Intern (PICO) - 2026 Summer (PhD) x2
-+ First name
-- Frontend Software Engineer, Global E-commerce Supply Chain and Logistics x2
-- Full-time (40)
-- HRBP-飞书商业化（北京/上海） x2
-- Hong Kong SAR
-- Hybrid (7)
-- IDC Quality Manager, Supply Chain Quality x2
-- Infrastructure Engineer Intern (Compute Infrastructure - Cloud-Native ) - 2026 Start (PHD) x2
-- Internship (13)
-- Internship (19)
-- Job type
-- Jobs
-- Jobs in Worldwide
-- Jobs via Dice (3,011)
-+ Join LinkedIn
-- Join now
-- Key Account Client Solutions Manager (Mandarin Speaking) - GBS x2
-- Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
-- Kulai, Johore, Malaysia
-- Large Model Algorithm Engineer - Global Payment - Singapore x2
-+ Last name
-- Lead Production System Engineer - Ashburn x2
-- Learning
-- London, England, United Kingdom x3
-- MRG Exams (288)
-- Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (BS/MS) x2
-- Metro Inc. (272)
-- Mid-Senior level (30)
-- Network Engineering Manager, EMEA x2
-- New to LinkedIn?
-+ New to Linkedin?
-+ Not you?
-- On-site (46)
-- Optical Engineer Intern (PICO) - 2026 Summer (PhD) x2
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (53)
-- Past month (986)
-- Past week (238)
-- People
-+ Privacy Policy
-- Product Manager - Content & Community x2
-- Quality Analyst (Japanese Speaking) - Account & Youth Safety x2
-- Recommendation Algorithm Engineer-TikTok Algorithm-Soaring Star Talent Program x2
-- Remote
-+ Remove photo
-- Research Scientist Intern (Foundation Model, Vision and Language) - 2026 Start (PhD) x2
-- Research Scientist in Generative AI Graduate (Intelligent Creation) - 2026 Start (PhD) x2
-- Reset
-- Riyadh, Riyadh, Saudi Arabia
-- Sales Manager (AI), BytePlus - UK & US x2
-- Sales Operations Manager, Byteplus x2
-- San Jose, CA x14
-- Sanctions Operations Lead - Global Payment x2
-- Seattle, WA x5
-- Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS) x2
-+ Security verification
-- Senior Channel Operation Expert - Global Payment x2
-- Senior Software Engineer - XR Spatial Machine Learning x2
-- Shanghai, VA
-- Shenzhen, Guangdong, China
-+ Sign Up | LinkedIn
-+ Sign in
-- Sign in to view more jobs
-- Sign in with Email
-- Singapore x4
-- Singapore, Singapore x9
-- Site Reliability Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS) x2
-- Software Development Engineer in Test Graduate (Global E-commerce) - 2026 Start (BS/MS) x2
-- Software Development Engineer,  Network Monitoring & Alerts x2
-- Software Engineer (Payment Network) - Global Payment - Singapore x2
-- Software Engineer (SRE - Platform Services) Intern (Infrastructure Engineering), 2026 Start (BS/MS) x2
-- Software Engineer Project Intern (Security-Data) - 2026 Start (BS/MS) x2
-- Sr. AI Network Architect, Infrastructure x2
-- Student Researcher [Seed LLM Horizon – Memory, Personalization & Evolving Agent] - 2026 Start (PhD) x2
-- System Electrical Engineer Intern (PICO) - 2026 Summer (BS/MS) x2
-- Taguig, National Capital Region, Philippines x3
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- Tokyo, Japan
-- Tu Empleo RD (265)
-- UI Graphic Design Intern (PICO) - 2026 Summer (BS/MS) x2
-- US Payroll Tax Specialist - HROP - San Jose x2
-+ User Agreement
-- Worldwide
-- You've viewed all jobs for this search
-+ or
-- 财务BP-国际化短视频用户增长 x2
-- 财务BP-国际化短视频用户增长（上海） x2
++ 3
+- 6
 ```
 
 ---
