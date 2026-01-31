@@ -1,13 +1,20 @@
 # Latest Frequent Scraper Results
 
-## 2026-01-30 18:37:51
+## 2026-01-31 01:42:47
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Bachelor/Master Graduates- 2026 Start
+- Frontend Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+- Intern
++ Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
++ Regular
++ Technology
+- Technology - Frontend
+- Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
@@ -16,7 +23,14 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Bachelor/Master Graduates- 2026 Start
+- Frontend Software Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+- Intern
++ Red Team Engineer Graduate (Security Assurance) - 2026 Start (BS/MS)
++ Regular
++ Technology
+- Technology - Frontend
+- Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
