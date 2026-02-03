@@ -1,13 +1,34 @@
 # Latest Frequent Scraper Results
 
-## 2026-02-03 06:46:18
+## 2026-02-03 12:53:19
 
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
++ Show 12 out of 75 open roles
+- Show 12 out of 78 open roles
+```
+
+---
+### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
++ Show 12 out of 61 open roles
+- Show 12 out of 62 open roles
+```
+
+---
 ### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Show 12 out of 67 open roles
+- Show 12 out of 68 open roles
 ```
 
 ---
@@ -16,65 +37,72 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 1 hour ago x2
-+ 3
-+ 3 hours ago
-+ 3 jobs in Worldwide
-- 6 hours ago x9
-- 9
-- 9 jobs in Worldwide
-+ Any time (1,122)
-- Any time (1,126)
-- Associate (1)
-- Be an early applicant x6
-+ Beijing, Beijing, China
-- ByteDance x6
-+ ByteDance (3)
-- ByteDance (9)
-+ Capital One (1,248)
-- Circle K (411)
-- Content Designer - Global Payment (Third-party Associate) x2
-- Contract (1)
-- Domino's (969)
-+ EDUVIA Bildungsakademie GmbH (625)
-- Finance Business Partner, E-Commerce x2
-+ Full-time (3)
-- Full-time (8)
-- Global Finance Helpdesk Specialist (Mandarin Speaker, Night Shift) - Kuala Lumpur x2
-- Gurgaon, Haryana, India
-- Hybrid (2)
-+ Internship (2)
-- Japan Regional Game Marketing Manager - Game x2
-- Jobs via Dice (2,394)
-+ Jobster (6,940)
-- Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
-- Lensa (2,990)
-+ Mid-Senior level (1)
-- Mid-Senior level (8)
-- New York, United States
-+ On-site (3)
-- On-site (7)
-- Past 24 hours (19)
-+ Past 24 hours (21)
-+ Past 24 hours (3)
-- Past 24 hours (9)
-+ Past month (979)
-- Past month (984)
-+ Past week (195)
-- Past week (197)
-- Procurement Manager - Professional Services, AMS x4
-- Public Policy Manager, Philippines x2
-+ Research Scientist Graduate (Foundation Model, Video Generation) - 2026 Start (PhD) x2
-+ Research Scientist Graduate - (Multimodal Interaction and World Model - Pre-Training) - 2026 Start (PhD) x2
-+ San Jose, CA
-- Seattle, WA
-- Singapore, Singapore x2
-- Software Engineer, AI Infrastructure x2
-- Solutions Architect - BytePlus - India x2
-+ TEKsystems (477)
-- Taguig, National Capital Region, Philippines
-- Tokyo, Japan
-+ 出海商业产品策略运营（应用工具方向）-Global Business Solutions（北京/上海） x2
++ ,
++ , and
++ .
+- 1 hour ago x2
+- 3
+- 3 hours ago
+- 3 jobs in Worldwide
++ Agree & Join
++ Already on Linkedin?
+- Any time (1,122)
+- Be an early applicant x3
+- Beijing, Beijing, China
++ By clicking Agree & Join, you agree to the LinkedIn
+- ByteDance x4
+- ByteDance (3)
+- Capital One (1,248)
+- Clear text x6
++ Continue with Google x2
++ Cookie Policy
+- Done x5
+- EDUVIA Bildungsakademie GmbH (625)
++ Email
+- Expand search
+- Experience level
++ First name
+- Full-time (3)
+- Internship (2)
+- Job type
+- Jobs
+- Jobs in Worldwide
+- Jobster (6,940)
++ Join LinkedIn
+- Join now
++ Last name
+- Learning
+- Mid-Senior level (1)
+- New to LinkedIn?
++ New to Linkedin?
++ Not you?
+- On-site (3)
++ Password (6+ characters)
+- Past 24 hours
+- Past 24 hours (21)
+- Past 24 hours (3)
+- Past month (979)
+- Past week (195)
+- People
++ Privacy Policy
+- Remote
++ Remove photo
+- Research Scientist Graduate (Foundation Model, Video Generation) - 2026 Start (PhD) x2
+- Research Scientist Graduate - (Multimodal Interaction and World Model - Pre-Training) - 2026 Start (PhD) x2
+- Reset
+- San Jose, CA x2
++ Security verification
++ Sign Up | LinkedIn
++ Sign in
+- Sign in to view more jobs
+- Sign in with Email
+- TEKsystems (477)
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ User Agreement
+- Worldwide
+- You've viewed all jobs for this search
++ or
+- 出海商业产品策略运营（应用工具方向）-Global Business Solutions（北京/上海） x2
 ```
 
 ---
