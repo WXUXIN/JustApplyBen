@@ -27,7 +27,6 @@ Honolulu, HI
 London, United Kingdom
 Miami, FL
 New York, NY
-North America
 Ottawa, Canada
 Palo Alto, CA
 San Diego, CA
@@ -64,7 +63,6 @@ All
 Fixed-Term
 Full-time
 Internship
-Scholarship
 Business Development
 Apply
 Meritocracy Fellowship

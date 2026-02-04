@@ -1,75 +1,14 @@
 # Latest Scraper Results
 
-## 2026-02-03 04:47:26
+## 2026-02-04 04:30:57
 
-### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
-
-**Line changes detected!**
-
-```diff
-- 1 x2
-- 1‑1 of 1
-+ 1‑2 of 2
-+ 2 x2
-+ A design portfolio that demonstrates design principles.
-+ Copy link
-+ Currently enrolled in a Bachelor's degree or Master's degree in Design, Human-Computer Interaction, Product Design, Visual Communication, Interaction Design, Interactive Media, or a related field.
-+ Email a friend
-+ Experience conducting user interviews or surveys and in applying user-centered principles in intern, work, or project setting.
-+ Experience with design tools (e.g., Figma, Adobe, etc.).
-+ Google
-+ Google |
-+ Intern & Apprentice
-+ Learn more
-+ Minimum qualifications
-- Showing 1 to 1 of 1 rows
-+ Showing 1 to 2 of 2 rows
-+ Singapore x2
-+ User Experience Design Summer Intern, 2026
-+ bar_chart
-+ corporate_fare
-+ email
-- job matched x2
-+ jobs matched x2
-+ link
-+ place
-+ share
-```
-
----
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
-```
-
----
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
-
-**Line changes detected!**
-
-```diff
-+ 2026 Internship - Operations
-+ London
-+ View opportunity
-```
-
----
-### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
-
-**Line changes detected!**
-
-```diff
-- 2026 Equity Financing Trader Summer Intern, Singapore
-+ 7 Open Roles
-- 8 Open Roles
-- FOCUS
-- LOCATION
-- ROLE
-- Singapore
-- Trade Support & Reporting
+- Full Stack Software Developer
+- Montréal
 ```
 
 ---
@@ -82,13 +21,23 @@ No line changes.
 ```
 
 ---
+### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
+
+**Line changes detected!**
+
+```diff
+- North America
+- Scholarship
+```
+
+---
 ### [https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&](https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&)
 
 **Line changes detected!**
 
 ```diff
-+ 10
-- 6
+- 10
+- https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&
 ```
 
 ---
@@ -97,77 +46,135 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ ,
-+ , and
-+ .
-- 1 hour ago
-- 14 hours ago
-- 17 hours ago x2
-- 18 hours ago
-- 5
-- 5 jobs in Worldwide
-- Actively Hiring x4
-+ Agree & Join
-+ Already on Linkedin?
-- Any time (1,133)
-- Be an early applicant
-- Beijing, Beijing, China
-+ By clicking Agree & Join, you agree to the LinkedIn
-- ByteDance x6
-- ByteDance (5)
-- Clear text x6
-- Cloud Acceleration Engineer Intern (DPU & AI Infra)- 2026 Start(PHD) x2
-+ Continue with Google x2
-+ Cookie Policy
-- Domino's (888)
-- Done x5
-+ Email
-- Expand search
-- Experience level
-+ First name
-- Full-time (1)
-- Internship (4) x2
-- Job type
-- Jobs
-- Jobs in Worldwide
-+ Join LinkedIn
-- Join now
-+ Last name
-- Learning
-- Lensa (2,972)
-- Mid-Senior level (1)
-- Molina Healthcare (1,659)
-- New to LinkedIn?
-+ New to Linkedin?
-+ Not you?
-- On-site (5)
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (5)
-- Past month (985)
-- Past week (224)
-- People
-+ Privacy Policy
-- Product Manager Intern (Multi-Cloud CDN)- 2026 Start (BS/MS) x2
-- RD Saúde  (550)
-- Remote
-+ Remove photo
-- Research Scientist Intern (AI Infrastructure)- 2026 Start (PhD) x2
-- Reset
-- San Jose, CA
-- Seattle, WA x3
-+ Security verification
-+ Sign Up | LinkedIn
-+ Sign in
-- Sign in to view more jobs
-- Sign in with Email
-- Software Engineer Intern (Payment Network) - Global Payment - 2026 Summer(BS/MS) x2
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-+ User Agreement
-- Worldwide
-- You've viewed all jobs for this search
-+ or
-- 搜索策略产品经理（经验决策体验方向）-TikTok x2
+- ,
+- , and
+- .
++ 1 hour ago x2
++ 16 hours ago x2
++ 17 hours ago x3
++ 18 hours ago x4
++ 19 hours ago x2
++ 20 hours ago x4
++ 21 hours ago x2
++ 23 hours ago x2
++ 41
++ 41 jobs in Worldwide
++ 53 minutes ago
++ 6 hours ago
++ 8 hours ago x5
++ 9 hours ago x13
++ AML Quality Control Analyst - Global Payment x2
++ Account Executive - Innovative Technical Sales x2
++ Actively Hiring x6
+- Agree & Join
++ Algorithm Research Scientist x2
++ Allied Universal (1,576)
+- Already on Linkedin?
++ Any time (1,129)
++ Application Security Engineer, Global Monetization x2
++ Associate (1)
++ Be an early applicant x35
++ Beijing, Beijing, China x4
+- By clicking Agree & Join, you agree to the LinkedIn
++ ByteDance x42
++ ByteDance (41)
++ Cash Loan Solutions Product Manager - Global Payment x2
++ Clear text x6
++ Compliance Officer, Philippines - Global Payment x2
++ Content & Creator Operation - Lemon8 (Japan） x2
+- Continue with Google x2
+- Cookie Policy
++ Data Scientist - Game Security x2
++ Data Security Engineer, Global E-Commerce x2
++ Datacenter Engineer (Field Engineering), Infrastructure Engineering x2
++ Done x5
+- Email
++ Entry level (2)
++ Executive (1)
++ Executive Protection Specialist x2
++ Expand search
++ Experience level
+- First name
++ Full-time (37)
++ HR Operations Advisor Graduate (HR Operations-APAC-Lifecycle Operations) - 2026 Start (BS/MS) x2
++ Hanoi, Hanoi, Vietnam
++ Hong Kong SAR
++ Hybrid (3)
++ Integrated Marketing Operation Manager - Global Payment x2
++ Internship (4)
++ Internship (9)
++ Job type
++ Jobs
++ Jobs in Worldwide
+- Join LinkedIn
++ Join now
++ Key Account Manager (Director/Expert), Consumer Brands & Retail Services - Lark x2
++ Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia x2
+- Last name
++ Learning
++ London, England, United Kingdom x2
++ Lowe's Companies, Inc. (914)
++ Mid-Senior level (22)
++ Mitchells & Butlers PLC (1,542)
++ New to LinkedIn?
+- New to Linkedin?
+- Not you?
++ On-site (38)
++ Paris, Île-de-France, France
++ Pasig, National Capital Region, Philippines
+- Password (6+ characters)
++ Past 24 hours
++ Past 24 hours (41)
++ Past month (980)
++ Past week (183)
++ Payroll Analyst Graduate (HR Operations) - 2026 Start (BS/MS) x2
++ People
+- Privacy Policy
++ Production System Engineer, Infrastructure Engineering x2
++ Remote
+- Remove photo
++ Research Scientist Graduate (Foundation Model, Generative AI) - 2026 Start (PhD) x2
++ Research Scientist Graduate (Foundation Model, Video Generation) - 2026 Start (PhD) x2
++ Research Scientist Graduate - (Multimodal Interaction and World Model - Pre-Training) - 2026 Start (PhD) x2
++ Reset
++ Safelite (628)
++ Sales Development Representative - BytePlus - Vietnam & Philippines x2
++ San Jose, CA x9
++ Seattle, WA
++ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS) x2
+- Security verification
++ Senior Software Development Engineer, SDN-Traffic Intelligence & Control x2
++ Senior Software Engineer - AI for Security, Data/Application x2
++ Senior Transfer Pricing Manager - AMS (San Jose) x2
++ Shanghai, VA x3
++ Shenzhen, Guangdong, China
+- Sign Up | LinkedIn
+- Sign in
++ Sign in to view more jobs
++ Sign in with Email
++ Singapore x2
++ Singapore, Singapore x11
++ Software Engineer - Applied Machine Learning, Engine x2
++ Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS) x2
++ Solutions Architect, Byteplus x2
++ Strategic Account Executive - Innovative Technical Sales (AI) x2
++ Student Researcher (Seed - Infra - Training) - 2026 Start (PhD) x2
++ Student Researcher [Seed Vision – Long-Range Video Generation] – 2026 Start (PhD) x2
++ System Engineer (Operating System) - System Technologies and Engineering x2
++ São Paulo, São Paulo, Brazil
++ Talent Acquisition Sourcer - Data - Singapore (Third-party Associate) x2
++ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ Tokyo, Japan
+- User Agreement
++ Virtual Reality Producer - Douyin Operations - XR x2
++ Worldwide
++ You've viewed all jobs for this search
+- or
++ 市场拓展合作经理-飞书商业化 x6
++ 海外增长产品经理-飞书海外版 x4
++ 豆包大模型输入法产品经理-Seed x2
++ 财务流程质量管理专家 x2
++ 资深产品设计师-AI创新产品 x2
 ```
 
 ---
