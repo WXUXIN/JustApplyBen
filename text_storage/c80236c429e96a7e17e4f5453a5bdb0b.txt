@@ -76,6 +76,7 @@ Paris
 Pasig
 Riyadh
 San Diego
+San Francisco
 San Jose
 Sao Paulo
 Seattle
@@ -85,6 +86,7 @@ Sydney
 Taguig
 Tokyo
 Warsaw
+Washington D.C.
 AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
