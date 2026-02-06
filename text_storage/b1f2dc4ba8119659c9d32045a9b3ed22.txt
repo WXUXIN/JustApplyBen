@@ -12,10 +12,10 @@ LinkedIn
 Join LinkedIn
 Not you?
 Remove photo
-First name
-Last name
 Email
 Password (6+ characters)
+First name
+Last name
 By clicking Agree & Join, you agree to the LinkedIn
 User Agreement
 ,
