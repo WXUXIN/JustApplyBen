@@ -52,6 +52,7 @@ Location
 Amsterdam
 Ashburn
 Bangkok
+Barcelona
 Boston
 Chon Buri
 Dubai
@@ -70,7 +71,6 @@ Los Angeles
 Luxembourg
 Madrid
 Mexico City
-Miami
 New York
 Paris
 Pasig
