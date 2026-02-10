@@ -127,26 +127,26 @@ Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
-Technology - Backend
-PhD Graduates- 2026 Start
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
 Singapore
-Regular
+Intern
 Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
+Technology - Backend
+PhD Graduates- 2026 Start
+Singapore
+Regular
 Show 12 out of 66 open roles
 1
 2
