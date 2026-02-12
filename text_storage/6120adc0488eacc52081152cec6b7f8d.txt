@@ -18,7 +18,9 @@ Remote
 Location
 All
 Abu Dhabi, United Arab Emirates
+Amsterdam, Netherlands
 Chicago, IL
+Colorado Springs, CO
 Denver, CO
 Doha, Qatar
 Dubai, United Arab Emirates
@@ -27,6 +29,7 @@ Honolulu, HI
 London, United Kingdom
 Miami, FL
 New York, NY
+North America
 Ottawa, Canada
 Palo Alto, CA
 San Diego, CA
@@ -34,6 +37,7 @@ Seattle, WA
 Seoul, South Korea
 Singapore, Singapore
 Stockholm, Sweden
+Tokyo, Japan
 Warsaw, Poland
 Washington, D.C.
 Team
@@ -56,12 +60,14 @@ Product Development
 Product Support
 Recruiting
 Sales
+Scholarship
 Technical Operations
 Internship
 All
 Fixed-Term
 Full-time
 Internship
+Scholarship
 Business Development
 Apply
 Meritocracy Fellowship
