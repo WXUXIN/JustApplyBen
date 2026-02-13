@@ -122,16 +122,16 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Regular
 Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD)
 Technology
 PhD Intern- 2026 Start
 Singapore
 Intern
+Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Regular
 Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
 Technology - Algorithm
 2026 Soaring Star Talent Program
@@ -142,12 +142,12 @@ Technology - Algorithm
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Machine Learning System Engineer - Data AML - Soaring Star Talent Program
+Assistant Project Manager Program Intern (Data Center Development, Global Delivery) - 2026 Start (BS/MS)
 Technology - Infrastructure
-2026 Soaring Star Talent Program
+Undergraduate/Master Intern- 2026 Start
 Singapore
-Regular
-Show 12 out of 64 open roles
+Intern
+Show 12 out of 65 open roles
 1
 2
 3
