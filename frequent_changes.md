@@ -1,107 +1,121 @@
 # Latest Frequent Scraper Results
 
-## 2026-02-13 06:56:42
+## 2026-02-13 12:52:46
 
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+- Show 12 out of 75 open roles
++ Show 12 out of 77 open roles
+```
+
+---
+### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
++ MLLM Algorithm Engineer Graduate (Data-Search) - 2026 Start (BS/MS)
+- Show 12 out of 62 open roles
++ Show 12 out of 64 open roles
+- Software Engineer Graduate (Analytical Database) - 2026 Start (BS/MS)
+- Technology
++ Technology - Algorithm
+```
+
+---
+### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+- Show 12 out of 66 open roles
++ Show 12 out of 68 open roles
+```
+
+---
 ### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
 
 **Line changes detected!**
 
 ```diff
-+ ,
-+ , and
-+ .
-- 21
-- 21 jobs in Worldwide
-- 5 hours ago x6
-- 6 hours ago x15
-- Actively Hiring
-+ Agree & Join
-+ Already on Linkedin?
-- Any time (1,138)
-- Associate (5)
-- Be an early applicant x20
-- Business Red Team Engineer - Global E-Commerce x2
-+ By clicking Agree & Join, you agree to the LinkedIn
-- ByteDance x22
-- ByteDance (21)
-- Chon Buri, Chon Buri, Thailand
-- Clear text x6
-- Compliance Solution Manager - Global Payment x2
-+ Continue with Google x2
-- Contract (1)
-+ Cookie Policy
-- Data Center Facility QA/QC Engineer, Infrastructure Engineering x2
-- Data Engineer, Information System, Dubai x2
-- Datacenter Commissioning Engineer - Infrastructure Engineering x2
-- Domino's (1,009)
-- Done x5
-- Dubai, Dubai, United Arab Emirates
-+ Email
-- Entry level (1)
-- Executive (1)
-- Expand search
-- Experience level
-- Financial Accountant, Brazil - Global Payment x2
-+ First name
-- Full-time (20)
-- Global Finance Helpdesk Specialist x2
-- HR on Call Specialist - HR Operations (Third-party Associate) x2
-- Hybrid (4)
-- IP Campaign Planning & Operations Analyst, Integrated Marketing & Communications (Philippines E-commerce) x2
-- Incident Response Engineer, Global E-Commerce x2
-- Job type
-- Jobs
-- Jobs in Worldwide
-+ Join LinkedIn
-- Join now
-- KYC/KYB Expert - Global Payment x2
-- Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia x2
-+ Last name
-- Learning
-- Lensa (2,994)
-- Mid-Senior level (9)
-- New to LinkedIn?
-+ New to Linkedin?
-+ Not you?
-- NuWest Group (1,159)
-- On-site (17)
-+ Password (6+ characters)
-- Past 24 hours
-- Past 24 hours (21)
-- Past 24 hours (31)
-- Past month (985)
-- Past week (403)
-- People
-+ Privacy Policy
-- Red Team Engineer - Security Assurance x2
-- Remote
-+ Remove photo
-- Reset
-- SEA Strategic Partnership Director - Global Payment x2
-- San Jose, CA x2
-- Sanctions Operations Analyst - Global Payment x2
-+ Security verification
-- Senior Indirect Tax Manager - US (San Jose) x2
-- Seoul, Seoul, South Korea
-+ Sign Up | LinkedIn
-+ Sign in
-- Sign in to view more jobs
-- Sign in with Email
-- Singapore, Singapore x12
-- Site Reliability Engineer, Security Engineering x2
-- Solutions Architect - BytePlus - Seoul x2
-- Supply Chain Manager - Global Logistics x2
-- São Paulo, São Paulo, Brazil
-- Taguig, National Capital Region, Philippines
-- TalentPop App (898)
-- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- Transaction Monitoring Analyst - Global Payment x2
-- US Payroll Tax Compliance Researcher - HROP - San Jose x2
-+ User Agreement
-- User Researcher - Global Payment x2
-- Worldwide
-- You've viewed all jobs for this search
-+ or
+- ,
+- , and
+- .
++ 2 hours ago
++ 3 hours ago x4
++ 4 hours ago
++ 6
++ 6 jobs in Worldwide
++ Actively Hiring
+- Agree & Join
+- Already on Linkedin?
++ Any time (1,153)
++ Assistant Project Manager Program Intern (Data Center Development, Global Delivery) - 2026 Start (BS/MS) x2
++ Be an early applicant x5
++ Benefits Operation Data Analyst Project Intern - 2026 Start (BS) x2
+- By clicking Agree & Join, you agree to the LinkedIn
++ ByteDance x7
++ ByteDance (6)
++ Clear text x6
++ Cloud Solutions Architect (Automotive) - Enterprise Partnership & Solution x2
+- Continue with Google x2
+- Cookie Policy
++ Deloitte (779)
++ Done x5
+- Email
++ Expand search
++ Experience level
+- First name
++ Full-time (2)
++ Hong Kong SAR
++ Hybrid (1)
++ Internship (4) x2
++ Job type
++ Jobs
++ Jobs in Worldwide
+- Join LinkedIn
++ Join now
+- Last name
++ Learning
++ Machine Learning Engineer Intern (E-Commerce Knowledge Graph - CV/Multimodal/NLP) - 2026 Summer (BS/MS) x2
++ Mid-Senior level (2)
++ New to LinkedIn?
+- New to Linkedin?
+- Not you?
++ On-site (5)
+- Password (6+ characters)
++ Past 24 hours
++ Past 24 hours (32)
++ Past 24 hours (6)
++ Past month (979)
++ Past week (397)
++ People
+- Privacy Policy
++ Remote
+- Remove photo
++ Reset
++ San Jose, CA x2
++ Seattle, WA
+- Security verification
++ Shenzhen, Guangdong, China
+- Sign Up | LinkedIn
+- Sign in
++ Sign in to view more jobs
++ Sign in with Email
++ Singapore
++ Software Engineer Project Intern (AI Infrastructure) - 2026 Start (PhD) x2
++ The Retail Odyssey Company (251)
++ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ Toothio (251)
++ Turing (256)
+- User Agreement
++ Worldwide
++ You've viewed all jobs for this search
+- or
++ 对象存储研发工程师 x2
 ```
 
 ---
