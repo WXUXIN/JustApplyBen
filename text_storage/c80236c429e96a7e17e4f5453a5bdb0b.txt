@@ -112,11 +112,6 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)
-Technology
-Project Intern
-Singapore
-Intern
 Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -130,6 +125,11 @@ Regular
 Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
 Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
+Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)
+Technology
+Project Intern
 Singapore
 Intern
 Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
