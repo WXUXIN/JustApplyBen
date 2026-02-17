@@ -112,6 +112,11 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
+Technology - Big data
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -137,23 +142,20 @@ Technology
 PhD Intern- 2026 Start
 Singapore
 Intern
-MLLM Algorithm Engineer Graduate (Data-Search) - 2026 Start (BS/MS)
-Technology - Algorithm
+Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
+Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Machine Learning System Engineer - Data AML - Soaring Star Talent Program
-Technology - Infrastructure
-2026 Soaring Star Talent Program
-Singapore
-Regular
-Show 12 out of 70 open roles
+Show 12 out of 87 open roles
 1
 2
 3
 4
 5
 6
+7
+8
 Life at ByteDance
 Early Careers
 Americas

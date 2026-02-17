@@ -92,12 +92,12 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
@@ -137,17 +137,17 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
-Technology - Backend
-PhD Graduates- 2026 Start
-Singapore
-Regular
 Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Show 12 out of 83 open roles
+Backend Engineer Graduate (Search Architecture) - 2026 Start (BS/MS)
+Technology - Backend
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Show 12 out of 100 open roles
 1
 2
 3
@@ -155,6 +155,8 @@ Show 12 out of 83 open roles
 5
 6
 7
+8
+9
 Life at ByteDance
 Early Careers
 Americas
