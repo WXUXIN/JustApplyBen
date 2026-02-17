@@ -1,14 +1,13 @@
 # Latest Scraper Results
 
-## 2026-02-16 04:59:36
+## 2026-02-17 04:52:40
 
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- Connect
-+ Discover
+No line changes.
 ```
 
 ---
@@ -17,8 +16,14 @@
 **Line changes detected!**
 
 ```diff
-- Show 12 out of 78 open roles
-+ Show 12 out of 81 open roles
+- Bachelor/Master Graduates- 2026 Start
+- Backend Engineer Graduate (Search Architecture) - 2026 Start (BS/MS)
++ Intern
+- Regular
++ Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
++ Technology
+- Technology - Backend
++ Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
