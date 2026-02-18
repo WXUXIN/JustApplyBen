@@ -92,11 +92,6 @@ Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -107,6 +102,11 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
 Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -132,17 +132,17 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
-Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
-Technology - Algorithm
-2026 Soaring Star Talent Program
-Singapore
-Regular
 Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD)
 Technology
 PhD Intern- 2026 Start
 Singapore
 Intern
-Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
+Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
+Technology - Algorithm
+2026 Soaring Star Talent Program
+Singapore
+Regular
+Big Data Engineer Graduate (Application Computing, Data + AI) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
