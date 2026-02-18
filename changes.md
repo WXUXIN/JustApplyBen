@@ -1,13 +1,24 @@
 # Latest Scraper Results
 
-## 2026-02-17 04:52:40
+## 2026-02-18 04:53:30
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Luxembourg
+```
+
+---
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
+- 2026 Internship - Software Engineering
+- London
+- View opportunity
 ```
 
 ---
@@ -18,12 +29,8 @@ No line changes.
 ```diff
 - Bachelor/Master Graduates- 2026 Start
 - Backend Engineer Graduate (Search Architecture) - 2026 Start (BS/MS)
-+ Intern
-- Regular
-+ Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
-+ Technology
-- Technology - Backend
-+ Undergraduate/Master Intern- 2026 Start
++ Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
++ PhD Graduates- 2026 Start
 ```
 
 ---
