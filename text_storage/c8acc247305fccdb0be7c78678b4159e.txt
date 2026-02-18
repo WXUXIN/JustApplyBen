@@ -92,12 +92,12 @@ Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
@@ -147,7 +147,7 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Show 12 out of 87 open roles
+Show 12 out of 103 open roles
 1
 2
 3
@@ -156,6 +156,7 @@ Show 12 out of 87 open roles
 6
 7
 8
+9
 Life at ByteDance
 Early Careers
 Americas

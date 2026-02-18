@@ -137,17 +137,17 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
-Technology - Backend
-PhD Graduates- 2026 Start
-Singapore
-Regular
 Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Show 12 out of 91 open roles
+Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
+Technology - Backend
+PhD Graduates- 2026 Start
+Singapore
+Regular
+Show 12 out of 107 open roles
 1
 2
 3
@@ -156,6 +156,7 @@ Show 12 out of 91 open roles
 6
 7
 8
+9
 Life at ByteDance
 Early Careers
 Americas
