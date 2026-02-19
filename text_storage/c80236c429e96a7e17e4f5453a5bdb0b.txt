@@ -87,12 +87,12 @@ Taguig
 Tokyo
 Warsaw
 Washington D.C.
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
@@ -147,7 +147,7 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Show 12 out of 107 open roles
+Show 12 out of 109 open roles
 1
 2
 3
@@ -157,6 +157,7 @@ Show 12 out of 107 open roles
 7
 8
 9
+10
 Life at ByteDance
 Early Careers
 Americas
