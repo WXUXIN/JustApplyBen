@@ -19,6 +19,7 @@ Location
 All
 Abu Dhabi, United Arab Emirates
 Amsterdam, Netherlands
+Canberra, Australia
 Chicago, IL
 Colorado Springs, CO
 Denver, CO
@@ -36,6 +37,7 @@ San Diego, CA
 Seattle, WA
 Seoul, South Korea
 Stockholm, Sweden
+Sydney, Australia
 Tokyo, Japan
 Warsaw, Poland
 Washington, D.C.
