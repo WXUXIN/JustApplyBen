@@ -33,6 +33,7 @@ New York, NY
 North America
 Ottawa, Canada
 Palo Alto, CA
+Paris, France
 San Diego, CA
 Seattle, WA
 Seoul, South Korea
@@ -45,6 +46,7 @@ Team
 All
 Administrative
 Business Development
+Communications
 Core Operations
 Delta
 Design

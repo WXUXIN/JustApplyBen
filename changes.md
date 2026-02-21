@@ -1,22 +1,46 @@
 # Latest Scraper Results
 
-## 2026-02-20 04:47:39
+## 2026-02-21 04:28:23
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Crypto
 ```
 
 ---
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- 1 x2
+- 1‑1 of 1
++ 1‑2 of 2
++ 2 x2
++ Copy link
++ Currently enrolled in a degree program (Bachelor's, Master's or PhD) in Computer Science, Linguistics, Statistics, Biostatistics, Applied Mathematics, Operations Research, Economics, or Natural Sciences.
++ Email a friend
++ Experience in one area of computer science (e.g., Natural Language Understanding, Computer Vision, Machine Learning, Deep Learning, Algorithmic Foundations of Optimization, Quantum Information Science, Data Science, Software Engineering, or similar areas).
++ Google
++ Google |
++ Intern & Apprentice
++ Learn more
++ Minimum qualifications
+- Showing 1 to 1 of 1 rows
++ Showing 1 to 2 of 2 rows
++ Singapore x2
++ Student Researcher, 2026
++ bar_chart
++ corporate_fare
++ email
+- job matched x2
++ jobs matched x2
++ link
++ place
++ share
 ```
 
 ---
@@ -25,11 +49,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Apply
-- Forward Deployed Software Engineer, Internship - UK Government
-- Internship
-- London, United Kingdom
-- On-site —
++ Communications
++ Paris, France
 ```
 
 ---
