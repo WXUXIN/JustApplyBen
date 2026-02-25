@@ -1,18 +1,14 @@
 # Latest Scraper Results
 
-## 2026-02-24 04:53:07
+## 2026-02-25 04:53:00
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-+ Austin, Chicago, Greenwich, New York City
-- London
-+ Senior Software Engineer
-+ Senior Software Engineer - Trading Desk (C++)
-- Senior Software Engineer - Trading Systems (C++)
-- Senior Software Engineer, Pricing and Derived Data
+- Senior Software Engineer
++ Senior Software Engineer - Analytics Middle Office
 ```
 
 ---
@@ -21,7 +17,12 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
++ PhD Intern- 2026 Start
+- Project Intern
+- Software Engineer Project Intern (AI Security) - 2026 Start (BS/MS)
+- Technology
++ Technology - Machine learning
 ```
 
 ---
