@@ -86,12 +86,12 @@ Taguig
 Tokyo
 Warsaw
 Washington D.C.
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
@@ -121,14 +121,14 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
-Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Data mining
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)
 Technology
 Project Intern
+Singapore
+Intern
+Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
+Technology - Data mining
+Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
 Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
@@ -136,16 +136,16 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
-Technology - Backend
-PhD Graduates- 2026 Start
-Singapore
-Regular
 Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (BS/MS)
+Technology - Algorithm
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Show 12 out of 116 open roles
 1
 2
