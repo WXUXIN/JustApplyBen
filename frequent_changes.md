@@ -1,110 +1,85 @@
 # Latest Frequent Scraper Results
 
-## 2026-02-27 18:38:08
+## 2026-02-28 01:29:13
 
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
-
-**Line changes detected!**
-
-```diff
-- Connect
-+ Discover
-```
-
----
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-- Washington D.C.
-```
-
----
-### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-- Washington D.C.
-```
-
----
-### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-- Washington D.C.
-```
-
----
 ### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
 
 **Line changes detected!**
 
 ```diff
-- ,
-- , and
-- .
-+ 1
-+ 1 jobs in Worldwide
-+ 4 hours ago
-+ AI Graphic Creator Operation Specialist (PH) - CapCut x2
-- Agree & Join
-- Already on Linkedin?
-+ Any time (1,074)
-+ Associate (1)
-+ Be an early applicant
-- By clicking Agree & Join, you agree to the LinkedIn
-+ ByteDance x2
-+ ByteDance (1)
-+ Clear text x6
-- Continue with Google x2
-- Cookie Policy
-+ Done x5
-- Email
-+ Expand search
-+ Experience level
-- First name
-+ Full-time (1)
-+ Guidehouse (895)
-+ H&R Block (1,143)
-+ Hybrid (1)
-+ Job type
-+ Jobs
-+ Jobs in Worldwide
-+ Jobster (888)
-- Join LinkedIn
-+ Join now
-- Last name
-+ Learning
-+ New to LinkedIn?
-- New to Linkedin?
-- Not you?
-- Password (6+ characters)
-+ Past 24 hours
-+ Past 24 hours (1)
-+ Past 24 hours (48)
-+ Past month (899)
-+ Past week (188)
-+ People
-- Privacy Policy
-+ PwC (2,077)
-+ Remote
-- Remove photo
-+ Reset
-- Security verification
-- Sign Up | LinkedIn
-- Sign in
-+ Sign in to view more jobs
-+ Sign in with Email
-+ Taguig, National Capital Region, Philippines
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- User Agreement
-+ Worldwide
-+ You've viewed all jobs for this search
-- or
+- 1
+- 1 jobs in Worldwide
++ 2 hours ago
++ 21
++ 21 jobs in Worldwide
+- 4 hours ago
++ 5 hours ago x20
+- AI Graphic Creator Operation Specialist (PH) - CapCut x2
++ Account Executive - BytePlus GenAI Solutions (Turkish or Russian Speaking) x2
++ Account Executive-Innovative Technical Sales, BytePlus (GenAI & SaaS) x2
++ Actively Hiring
+- Any time (1,074)
++ Any time (1,092)
++ Ashburn, VA
+- Associate (1)
++ Associate (3)
++ Backend Software Engineer (Distributed Block Storage) - Cloud Infrastructure x2
++ Backend Software Engineer (SRE) - Cloud Infrastructure x2
++ Bangkok, Bangkok City, Thailand x2
++ Be an early applicant x19
++ ByteDance x20
+- ByteDance (1)
++ ByteDance (21)
++ Contract (2)
++ Creator Partnership and Operations Specialist (Mandarin Speaking) - Lemon8 x2
++ Data Security Program Manager - Global Payment x2
++ Dubai, Dubai, United Arab Emirates
++ Family Dollar (9,212)
+- Full-time (1)
++ Full-time (19)
++ Global Business Partnership Manager, EPS - Seoul x2
++ Growth Strategy Cashloan Product Manager - Global Payment x2
+- Guidehouse (895)
+- H&R Block (1,143)
++ Ho Chi Minh City, Vietnam
++ Hong Kong SAR
++ IDC Quality Manager, Supply Chain Quality x2
++ Jobs via Dice (1,963)
++ Jobster (1,436)
+- Jobster (888)
++ Kulai, Johore, Malaysia
++ Merchant Financing Solutions Associate - Global Payment - Bangkok (Third-party Associate) x2
++ Merchant Financing Solutions Associate - Global Payment - Ho Chi Minh (Third-party Associate) x2
++ Mid-Senior level (18)
++ Network Implementation Engineer, Physical Network Infrastructure x2
++ On-site (20)
+- Past 24 hours (1)
++ Past 24 hours (21)
++ Past 24 hours (40)
+- Past 24 hours (48)
+- Past month (899)
++ Past month (909)
+- Past week (188)
++ Past week (195)
++ Product Manager - Content & Community x2
+- PwC (2,077)
++ RH (678)
++ Riyadh, Riyadh, Saudi Arabia
++ San Jose, CA x2
++ Seattle, WA
++ Senior Channel Operation Expert - Global Payment x2
++ Senior Production System Engineer - Ashburn x2
++ Seoul, Seoul, South Korea
++ Shanghai, VA
++ Singapore, Singapore x7
++ Software Development Engineer,  Network Monitoring & Alerts x2
++ Software Engineer (Payment Network) - Global Payment - Singapore x2
++ Sr. AI Network Architect, Infrastructure x2
++ Staff Research Scientist/Engineer, Recommendation Systems x2
++ Strategic Account Executive - Innovative Technical Sales (AI) x2
++ São Paulo, São Paulo, Brazil
+- Taguig, National Capital Region, Philippines
++ 商业合作拓展经理-飞书商业化 x2
 ```
 
 ---
