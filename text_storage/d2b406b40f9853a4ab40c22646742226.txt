@@ -85,12 +85,12 @@ Sydney
 Taguig
 Tokyo
 Warsaw
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
@@ -120,14 +120,14 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
-Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)
-Technology
-Project Intern
-Singapore
-Intern
 Data Engineer Intern (Global Payment) - 2026 Start (BS/MS)
 Technology - Data mining
 Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
+Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)
+Technology
+Project Intern
 Singapore
 Intern
 Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
