@@ -100,11 +100,6 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -115,6 +110,11 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -140,11 +140,11 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (BS/MS)
-Technology - Algorithm
-Bachelor/Master Graduates- 2026 Start
+Software Engineer Project Intern (AI Security) - 2026 Start (BS/MS)
+Technology
+Project Intern
 Singapore
-Regular
+Intern
 Show 12 out of 116 open roles
 1
 2
