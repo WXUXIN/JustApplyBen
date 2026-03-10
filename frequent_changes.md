@@ -1,13 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-03-09 18:48:18
+## 2026-03-10 01:45:01
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Connect x2
+- Connect x2
 ```
 
 ---
@@ -16,7 +16,14 @@
 **Line changes detected!**
 
 ```diff
-+ Austin
++ Intern
+- Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
+- PhD Graduates- 2026 Start
++ Project Intern
+- Regular
++ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
++ Technology
+- Technology - Backend
 ```
 
 ---
@@ -25,7 +32,7 @@
 **Line changes detected!**
 
 ```diff
-+ Austin
+No line changes.
 ```
 
 ---
@@ -34,15 +41,14 @@
 **Line changes detected!**
 
 ```diff
-+ Austin
-- Intern
-+ Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
-+ PhD Graduates- 2026 Start
-- Project Intern
-+ Regular
-- Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-- Technology
-+ Technology - Backend
++ Intern
+- Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
+- PhD Graduates- 2026 Start
++ Project Intern
+- Regular
++ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
++ Technology
+- Technology - Backend
 ```
 
 ---
