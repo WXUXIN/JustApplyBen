@@ -1,6 +1,6 @@
 # Latest Scraper Results
 
-## 2026-03-10 04:32:30
+## 2026-03-11 04:33:02
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
@@ -16,9 +16,9 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- 2026 Internship - Security Engineering
-- London
-- View opportunity
++ 2026 - Internship, Quantitative Developer - Low-Latency and Market Microstructure
++ London
++ View opportunity
 ```
 
 ---
@@ -43,7 +43,11 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Communications
++ Apply
++ Forward Deployed Software Engineer, Internship - France
++ Hybrid —
++ Internship
++ New York, NY
 ```
 
 ---
