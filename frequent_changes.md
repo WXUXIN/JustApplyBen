@@ -1,18 +1,25 @@
 # Latest Frequent Scraper Results
 
-## 2026-03-12 06:51:05
+## 2026-03-12 12:53:49
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
-- PhD Intern- 2026 Start
-+ Project Intern
-+ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-+ Technology
-- Technology - Machine learning
+- Intern
++ Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
++ Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
++ PhD Graduates- 2026 Start
++ PhD Intern- 2026 Start
+- Project Intern
++ Regular
+- Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
+- Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
+- Technology x2
++ Technology - Backend
++ Technology - Machine learning
+- Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
@@ -21,14 +28,14 @@
 **Line changes detected!**
 
 ```diff
-+ Intern
-+ Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
-- Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
-- PhD Graduates- 2026 Start
-+ PhD Intern- 2026 Start
-- Regular
-- Technology - Backend
-+ Technology - Machine learning
+- Intern
++ Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD)
++ PhD Graduates- 2026 Start
++ Regular
+- Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
+- Technology
++ Technology - Backend
+- Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
