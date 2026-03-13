@@ -92,11 +92,11 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
-Technology
+Data Center Business Development and Commercial Program Intern (Data Center Development) - 2026 Start (BS/MS)
+Technology - Infrastructure
 Undergraduate/Master Intern- 2026 Start
 Singapore
-Regular
+Intern
 AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -112,6 +112,11 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Regular
 Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
 Technology - Big data
 Bachelor/Master Graduates- 2026 Start
@@ -122,11 +127,6 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Data Center Business Development and Commercial Program Intern (Data Center Development) - 2026 Start (BS/MS)
-Technology - Infrastructure
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
 Technology - Algorithm
 2026 Soaring Star Talent Program
