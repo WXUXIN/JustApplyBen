@@ -1,20 +1,22 @@
 # Latest Frequent Scraper Results
 
-## 2026-03-14 01:46:38
+## 2026-03-14 06:42:07
 
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+
+**Line changes detected!**
+
+```diff
++ Connect x2
+```
+
+---
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-+ Intern
-- Machine Learning Engineer Graduate (Vertical Search) - 2026 Start (BS/MS)
-- Regular
-+ Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
-+ Technology
-- Technology - Algorithm
-+ Undergraduate/Master Intern- 2026 Start
+No line changes.
 ```
 
 ---
@@ -32,14 +34,14 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-+ Intern
-- Machine Learning Engineer Graduate (Vertical Search) - 2026 Start (BS/MS)
-- Regular
-+ Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS)
-+ Technology
-- Technology - Algorithm
-+ Undergraduate/Master Intern- 2026 Start
++ Bachelor/Master Graduates- 2026 Start
+- Intern
++ Machine Learning Engineer Graduate (Vertical Search) - 2026 Start (BS/MS)
+- Project Intern
++ Regular
+- Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
+- Technology
++ Technology - Algorithm
 ```
 
 ---
