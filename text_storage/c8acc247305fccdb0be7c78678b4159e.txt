@@ -87,12 +87,17 @@ Sydney
 Taguig
 Tokyo
 Warsaw
+AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
 Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
@@ -102,11 +107,6 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -122,6 +122,11 @@ Technology - Big data
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Assistant Project Manager Program Intern (Data Center Development, Global Delivery) - 2026 Start (BS/MS)
+Technology - Infrastructure
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
 Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -138,11 +143,6 @@ PhD Intern- 2026 Start
 Singapore
 Intern
 Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
-Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
