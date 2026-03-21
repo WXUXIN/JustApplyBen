@@ -87,12 +87,12 @@ Sydney
 Taguig
 Tokyo
 Warsaw
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
@@ -112,21 +112,16 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
-Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
-Technology - Big data
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Data Center Business Development and Commercial Program Intern (Data Center Development) - 2026 Start (BS/MS)
 Technology - Infrastructure
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Assistant Project Manager Program Intern (Data Center Development, Global Delivery) - 2026 Start (BS/MS)
-Technology - Infrastructure
-Undergraduate/Master Intern- 2026 Start
+Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
+Technology - Big data
+Bachelor/Master Graduates- 2026 Start
 Singapore
-Intern
+Regular
 Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -137,16 +132,21 @@ Technology - Algorithm
 2026 Soaring Star Talent Program
 Singapore
 Regular
-Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
+Assistant Project Manager Program Intern (Data Center Development, Global Delivery) - 2026 Start (BS/MS)
+Technology - Infrastructure
+Undergraduate/Master Intern- 2026 Start
 Singapore
-Regular
+Intern
 Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD)
 Technology
 PhD Intern- 2026 Start
 Singapore
 Intern
+Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Show 12 out of 104 open roles
 1
 2
