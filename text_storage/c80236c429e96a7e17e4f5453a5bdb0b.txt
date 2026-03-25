@@ -92,32 +92,32 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
 AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -137,14 +137,14 @@ Technology
 Project Intern
 Singapore
 Intern
-Backend Engineer Graduate (ByteRec Recommendation Infrastructure) - 2026 Start (BS/MS)
-Technology - Backend
-Bachelor/Master Graduates- 2026 Start
+Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
+Technology
+Project Intern
 Singapore
-Regular
-Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
-Technology - Algorithm
-PhD Graduates- 2026 Start
+Intern
+Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
 Show 12 out of 106 open roles
