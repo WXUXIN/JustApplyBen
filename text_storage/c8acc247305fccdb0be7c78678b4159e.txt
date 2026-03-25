@@ -43,10 +43,10 @@ Marketing & Communications
 Product
 Technology
 Program
+Soaring Star Talent Program
 Bachelor/Master Graduates & Internships
 MBA Graduates & Internships
 PhD Graduates & Internships
-Soaring Star Talent Program
 Project Intern
 Location
 Amsterdam
@@ -112,16 +112,16 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
-Data Center Business Development and Commercial Program Intern (Data Center Development) - 2026 Start (BS/MS)
-Technology - Infrastructure
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
 Technology - Big data
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Data Center Business Development and Commercial Program Intern (Data Center Development) - 2026 Start (BS/MS)
+Technology - Infrastructure
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
 Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -132,6 +132,11 @@ Technology - Infrastructure
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
 Technology - Algorithm
 2026 Soaring Star Talent Program
@@ -142,11 +147,6 @@ Technology
 PhD Intern- 2026 Start
 Singapore
 Intern
-Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Show 12 out of 105 open roles
 1
 2
