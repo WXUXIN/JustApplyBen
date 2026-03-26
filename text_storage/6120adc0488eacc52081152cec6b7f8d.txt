@@ -34,6 +34,8 @@ North America
 Ottawa, Canada
 Palo Alto, CA
 Paris, France
+Remote: United States
+Remote: US - East
 San Diego, CA
 Seattle, WA
 Seoul, South Korea
@@ -80,6 +82,11 @@ New York, NY
 Delta
 Apply
 Forward Deployed Software Engineer, Internship - France
+Hybrid —
+Internship
+New York, NY
+Apply
+Forward Deployed Software Engineer, Internship - Poland
 Hybrid —
 Internship
 New York, NY
