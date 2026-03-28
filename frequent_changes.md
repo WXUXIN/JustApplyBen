@@ -1,13 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-03-27 18:52:26
+## 2026-03-28 01:53:05
 
 ### [https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY](https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY)
 
 **Line changes detected!**
 
 ```diff
-- Keep me logged in
++ Keep me logged in
 ```
 
 ---
@@ -16,10 +16,8 @@
 **Line changes detected!**
 
 ```diff
-- Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
-+ Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
-- Show 12 out of 101 open roles
-+ Show 12 out of 102 open roles
++ Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
+- Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
 ```
 
 ---
