@@ -1,16 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-03-29 02:04:26
+## 2026-03-29 06:59:59
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-+ Backend Engineer Graduate (Global E-Commerce, Search Architecture) - 2026 Start (BS/MS)
-- Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
-- Technology
-+ Technology - Backend
+No line changes.
 ```
 
 ---
@@ -28,16 +25,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Backend Engineer Graduate (ByteRec Recommendation Infrastructure) - 2026 Start (BS/MS)
-+ Backend Engineer Graduate (Global E-Commerce, Search Architecture) - 2026 Start (BS/MS)
-+ Intern
-- Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
-- PhD Graduates- 2026 Start
-+ Project Intern
-- Regular
-+ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-+ Technology
-- Technology - Algorithm
+No line changes.
 ```
 
 ---
