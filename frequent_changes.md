@@ -1,14 +1,25 @@
 # Latest Frequent Scraper Results
 
-## 2026-03-28 18:36:40
+## 2026-03-29 02:04:26
 
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Connect
-+ Discover
++ Backend Engineer Graduate (Global E-Commerce, Search Architecture) - 2026 Start (BS/MS)
+- Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
+- Technology
++ Technology - Backend
+```
+
+---
+### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+No line changes.
 ```
 
 ---
@@ -17,17 +28,16 @@
 **Line changes detected!**
 
 ```diff
-+ Backend Engineer Graduate (ByteRec Recommendation Infrastructure) - 2026 Start (BS/MS)
-- Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
-- Intern
-+ Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
-+ PhD Graduates- 2026 Start
-- Project Intern
-+ Regular
-- Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-- Technology x2
-+ Technology - Algorithm
-+ Technology - Backend
+- Backend Engineer Graduate (ByteRec Recommendation Infrastructure) - 2026 Start (BS/MS)
++ Backend Engineer Graduate (Global E-Commerce, Search Architecture) - 2026 Start (BS/MS)
++ Intern
+- Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
+- PhD Graduates- 2026 Start
++ Project Intern
+- Regular
++ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
++ Technology
+- Technology - Algorithm
 ```
 
 ---
