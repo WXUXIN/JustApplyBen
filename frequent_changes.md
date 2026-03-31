@@ -1,20 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-03-31 02:02:50
+## 2026-03-31 07:08:59
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-- Backend Engineer Graduate (Global E-Commerce, Search Architecture) - 2026 Start (BS/MS)
-+ Intern
-+ Quality Assurance Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-- Regular
-- Technology - Backend
-+ Technology - Machine learning
-+ Undergraduate/Master Intern- 2026 Start
+No line changes.
 ```
 
 ---
@@ -23,8 +16,7 @@
 **Line changes detected!**
 
 ```diff
-+ Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
-- Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
+No line changes.
 ```
 
 ---
@@ -33,14 +25,7 @@
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-- Backend Engineer Graduate (Global E-Commerce, Search Architecture) - 2026 Start (BS/MS)
-+ Intern
-+ Quality Assurance Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-- Regular
-- Technology - Backend
-+ Technology - Machine learning
-+ Undergraduate/Master Intern- 2026 Start
+No line changes.
 ```
 
 ---
@@ -49,76 +34,76 @@
 **Line changes detected!**
 
 ```diff
-- ,
-- , and
-- .
-+ 1 hour ago
-+ 3
-+ 3 jobs in Worldwide
-+ 4 hours ago
-+ 5 hours ago
-+ Actively Hiring
-- Agree & Join
-- Already on Linkedin?
-+ Any time (1,043)
-+ Associate (1)
-+ Be an early applicant x2
-- By clicking Agree & Join, you agree to the LinkedIn
-+ ByteDance x4
-+ ByteDance (3)
-+ Clear text x6
-+ Cloud Leader - RD & SRE x2
-- Continue with Google x2
-- Cookie Policy
-+ Data Center Site Acquisition Manager (Americas) - Seattle x2
-+ Domino's (631)
-+ Done x5
-- Email
-+ Executive (1)
-+ Expand search
-+ Experience level
-+ Finance Business Partner- Global Payment x2
-- First name
-+ Full-time (3)
-+ Job type
-+ Jobs
-+ Jobs in Worldwide
-+ Jobs via Dice (1,093)
-- Join LinkedIn
-+ Join now
-- Last name
-+ Learning
-+ Lensa (2,885)
-+ Mid-Senior level (1)
-+ New to LinkedIn?
-- New to Linkedin?
-- Not you?
-+ On-site (3)
-- Password (6+ characters)
-+ Past 24 hours
-+ Past 24 hours (3)
-+ Past 24 hours (64)
-+ Past month (856)
-+ Past week (295)
-+ People
-- Privacy Policy
-+ Remote
-- Remove photo
-+ Reset
-+ San Jose, CA
-+ Seattle, WA
-- Security verification
-- Sign Up | LinkedIn
-- Sign in
-+ Sign in to view more jobs
-+ Sign in with Email
-+ São Paulo, São Paulo, Brazil
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- User Agreement
-+ Varsity Tutors, a Nerdy Company (68,140)
-+ Worldwide
-+ You've viewed all jobs for this search
-- or
++ ,
++ , and
++ .
+- 1 hour ago
+- 3
+- 3 jobs in Worldwide
+- 4 hours ago
+- 5 hours ago
+- Actively Hiring
++ Agree & Join
++ Already on Linkedin?
+- Any time (1,043)
+- Associate (1)
+- Be an early applicant x2
++ By clicking Agree & Join, you agree to the LinkedIn
+- ByteDance x4
+- ByteDance (3)
+- Clear text x6
+- Cloud Leader - RD & SRE x2
++ Continue with Google x2
++ Cookie Policy
+- Data Center Site Acquisition Manager (Americas) - Seattle x2
+- Domino's (631)
+- Done x5
++ Email
+- Executive (1)
+- Expand search
+- Experience level
+- Finance Business Partner- Global Payment x2
++ First name
+- Full-time (3)
+- Job type
+- Jobs
+- Jobs in Worldwide
+- Jobs via Dice (1,093)
++ Join LinkedIn
+- Join now
++ Last name
+- Learning
+- Lensa (2,885)
+- Mid-Senior level (1)
+- New to LinkedIn?
++ New to Linkedin?
++ Not you?
+- On-site (3)
++ Password (6+ characters)
+- Past 24 hours
+- Past 24 hours (3)
+- Past 24 hours (64)
+- Past month (856)
+- Past week (295)
+- People
++ Privacy Policy
+- Remote
++ Remove photo
+- Reset
+- San Jose, CA
+- Seattle, WA
++ Security verification
++ Sign Up | LinkedIn
++ Sign in
+- Sign in to view more jobs
+- Sign in with Email
+- São Paulo, São Paulo, Brazil
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ User Agreement
+- Varsity Tutors, a Nerdy Company (68,140)
+- Worldwide
+- You've viewed all jobs for this search
++ or
 ```
 
 ---
