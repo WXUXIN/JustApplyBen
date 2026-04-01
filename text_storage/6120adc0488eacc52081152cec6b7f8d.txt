@@ -65,7 +65,6 @@ Product Development
 Product Support
 Recruiting
 Sales
-Scholarship
 Technical Operations
 Internship
 All
@@ -134,21 +133,6 @@ Internship
 London, United Kingdom
 Apply
 Software Engineer, Internship
-On-site —
-Internship
-New York, NY
-Apply
-Software Engineer, Internship - Defense Tech
-On-site —
-Internship
-Washington, D.C.
-Apply
-Software Engineer, Internship - Defense Tech
-On-site —
-Internship
-Palo Alto, CA
-Apply
-Software Engineer, Internship - Defense Tech
 On-site —
 Internship
 New York, NY
