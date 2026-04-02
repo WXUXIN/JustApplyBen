@@ -1,35 +1,8 @@
 # Latest Frequent Scraper Results
 
-## 2026-04-02 01:58:35
+## 2026-04-02 07:08:38
 
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
-
-**Line changes detected!**
-
-```diff
-- Connect x2
-```
-
----
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-No line changes.
-```
-
----
 ### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-No line changes.
-```
-
----
-### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
@@ -43,72 +16,80 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- 2 hours ago
-- 3
-- 3 jobs in Worldwide
-+ 4 hours ago
-+ 6 hours ago x4
-+ 7
-+ 7 jobs in Worldwide
-+ AI Research Analyst & BD - Global Apple Partnership x2
-+ AI Solution Architect, BytePlus x2
-+ Actively Hiring
-+ Already on LinkedIn?
-+ Amsterdam, North Holland, Netherlands
-+ Any time (1,034)
-- Any time (1,037)
-+ Associate (2)
-+ Be an early applicant x3
-- Beijing, Beijing, China
-+ ByteDance x4
-- ByteDance (3)
-+ ByteDance (7)
-- CrossMed Healthcare Staffing (1,421)
-- Data Compliance Intern (Global Payment - Compliance - Product and Data) - 2026 Start (BS/MS) x2
-+ Domino's (803)
-- Executive (1)
-+ Executive Producer, Short Drama x2
-- Full-time (2)
-+ Full-time (7)
-- Fusion Medical Staffing (2,893)
-- HR Business Partner - GBS - APAC x2
-- Hybrid (1)
-+ Hybrid (2)
-- Internship (1) x2
-+ JeVeuxAider.gouv.fr (358)
-+ Jobs via Dice (2,960)
-- Join now
-+ Join now to view more jobs
-+ Join with email
-+ Los Angeles, CA
-+ Madrid, Community of Madrid, Spain
-+ Mid-Senior level (4)
-- New to LinkedIn?
-- On-site (2)
-+ On-site (5)
-- Past 24 hours (3)
-- Past 24 hours (56)
-+ Past 24 hours (57)
-+ Past 24 hours (7)
-+ Past month (837)
-- Past month (844)
-+ Past week (260)
-- Past week (265)
-+ Product Manager, E-Commerce Solution - Global Payment x2
-+ Sales Development Representative (AI), BytePlus x2
-+ San Jose, CA x3
-+ Shanghai, Shanghai, China
-+ Sign in
-- Sign in to view more jobs
-- Sign in with Email
-- Singapore
-- Singapore, Singapore
-- SkyBridge Healthcare (1,112)
-+ Technical Project Manager - Resource Management x2
-+ Varsity Tutors, a Nerdy Company (69,523)
-- Varsity Tutors, a Nerdy Company (97,948)
-+ 豆包AI大模型平台运营-火山方舟MaaS x2
-- 高级税务经理-M&A方向 x2
++ ,
++ , and
++ .
+- 2 hours ago x2
+- 4 hours ago
+- 6 hours ago x4
+- 7
+- 7 jobs in Worldwide
+- AI Research Analyst & BD - Global Apple Partnership x2
+- AI Solution Architect, BytePlus x2
+- Actively Hiring
++ Agree & Join
+- Already on LinkedIn?
++ Already on Linkedin?
+- Amsterdam, North Holland, Netherlands
+- Any time (1,034)
+- Associate (2)
+- Be an early applicant x6
++ By clicking Agree & Join, you agree to the LinkedIn
+- ByteDance x8
+- ByteDance (7)
+- Clear text x6
++ Continue with Google x2
++ Cookie Policy
+- Domino's (803)
+- Done x5
++ Email
+- Executive Producer, Short Drama x2
+- Expand search
+- Experience level
++ First name
+- Full-time (7)
+- Hybrid (2)
+- JeVeuxAider.gouv.fr (358)
+- Job type
+- Jobs
+- Jobs in Worldwide
+- Jobs via Dice (2,960)
++ Join LinkedIn
+- Join now to view more jobs
+- Join with email
++ Last name
+- Learning
+- Los Angeles, CA
+- Madrid, Community of Madrid, Spain
+- Mid-Senior level (4)
++ New to Linkedin?
++ Not you?
+- On-site (5)
++ Password (6+ characters)
+- Past 24 hours
+- Past 24 hours (57)
+- Past 24 hours (7)
+- Past month (837)
+- Past week (260)
+- People
++ Privacy Policy
+- Product Manager, E-Commerce Solution - Global Payment x2
+- Remote
++ Remove photo
+- Reset
+- Sales Development Representative (AI), BytePlus x2
+- San Jose, CA x3
++ Security verification
+- Shanghai, Shanghai, China
++ Sign Up | LinkedIn
+- Technical Project Manager - Resource Management x2
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ User Agreement
+- Varsity Tutors, a Nerdy Company (69,523)
+- Worldwide
+- You've viewed all jobs for this search
++ or
+- 豆包AI大模型平台运营-火山方舟MaaS x2
 ```
 
 ---
