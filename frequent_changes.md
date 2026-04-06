@@ -1,18 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-04-06 02:07:20
+## 2026-04-06 07:25:43
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-- Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
-+ Intern
-+ Project Intern
-- Regular
-+ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
+No line changes.
 ```
 
 ---
@@ -30,12 +25,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-- Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
-+ Intern
-+ Project Intern
-- Regular
-+ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
+No line changes.
 ```
 
 ---
@@ -44,55 +34,55 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- ,
-- , and
-- .
-+ 0 jobs in Worldwide
-- Agree & Join
-- Already on Linkedin?
-+ Any time (1,025)
-- By clicking Agree & Join, you agree to the LinkedIn
-+ ByteDance x2
-+ Clear text x6
-- Continue with Google x2
-- Cookie Policy
-+ Domino's (964)
-+ Done x2
-- Email
-+ Expand search
-- First name
-+ Jobs
-+ Jobs via Dice (520)
-+ Jobster (673)
-- Join LinkedIn
-+ Join now
-- Last name
-+ Learning
-+ New to LinkedIn?
-- New to Linkedin?
-- Not you?
-- Password (6+ characters)
-+ Past 24 hours x2
-+ Past 24 hours (13)
-+ Past month (836)
-+ Past week (269)
-+ People
-+ Please make sure your keywords are spelled correctly
-- Privacy Policy
-- Remove photo
-+ Reset
-- Security verification
-- Sign Up | LinkedIn
-- Sign in
-+ Sign in to view more jobs
-+ Sign in with Email
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- User Agreement
-+ Walmart (296)
-+ We couldn’t find a match for
-+ Worldwide
-+ jobs in Worldwide
-- or
++ ,
++ , and
++ .
+- 0 jobs in Worldwide
++ Agree & Join
++ Already on Linkedin?
+- Any time (1,025)
++ By clicking Agree & Join, you agree to the LinkedIn
+- ByteDance x2
+- Clear text x6
++ Continue with Google x2
++ Cookie Policy
+- Domino's (964)
+- Done x2
++ Email
+- Expand search
++ First name
+- Jobs
+- Jobs via Dice (520)
+- Jobster (673)
++ Join LinkedIn
+- Join now
++ Last name
+- Learning
+- New to LinkedIn?
++ New to Linkedin?
++ Not you?
++ Password (6+ characters)
+- Past 24 hours x2
+- Past 24 hours (13)
+- Past month (836)
+- Past week (269)
+- People
+- Please make sure your keywords are spelled correctly
++ Privacy Policy
++ Remove photo
+- Reset
++ Security verification
++ Sign Up | LinkedIn
++ Sign in
+- Sign in to view more jobs
+- Sign in with Email
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ User Agreement
+- Walmart (296)
+- We couldn’t find a match for
+- Worldwide
+- jobs in Worldwide
++ or
 ```
 
 ---
