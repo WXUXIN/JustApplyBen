@@ -17,6 +17,10 @@ Interview Tips
 Frequently Asked Questions
 Locations
 Early Careers
+Early Careers at ByteDance
+Americas
+Asia Pacific
+Europe and the Middle East
 Blog
 Jobs
 Apply
@@ -97,27 +101,27 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
-Bachelor/Master Graduates- 2026 Start
+Undergraduate/Master Intern- 2026 Start
 Singapore
-Regular
+Intern
 Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
 Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -132,11 +136,6 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Quality Assurance Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Machine learning
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)
 Technology
 Project Intern
@@ -147,6 +146,11 @@ Technology
 Project Intern
 Singapore
 Intern
+Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Show 12 out of 103 open roles
 1
 2
