@@ -1,17 +1,8 @@
 # Latest Frequent Scraper Results
 
-## 2026-04-08 07:14:05
+## 2026-04-08 13:14:38
 
 ### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-No line changes.
-```
-
----
-### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
@@ -25,58 +16,80 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- 1 hour ago x2
-+ 12 minutes ago
-- 2
-+ 2 hours ago x2
-- 2 jobs in Worldwide
-+ 3 hours ago
-+ 3 minutes ago
-+ 4 hours ago
-+ 6
-+ 6 jobs in Worldwide
-+ AI Innovation Designer-AI创新业务 x2
-- Actively Hiring
-+ Alignerr (652)
-+ Allied Universal (454)
-- Any time (1,045)
-+ Any time (1,057)
-- Ashburn, VA
-+ Associate (1)
-- Aya Healthcare (546)
-+ Backend Software Engineer - Security Data x2
-+ Be an early applicant x5
-+ Beijing, Beijing, China x2
-+ ByteDance x4
-- ByteDance (2)
-+ ByteDance (6)
-+ Chedraui USA (528)
-+ Entry level (1)
-- Forvis Mazars US (519)
-- Full-time (2)
-+ Full-time (5)
-+ Internship (1)
-+ Internship (2)
-- Jobs via Dice (1,178)
-+ Mid-Senior level (1)
-- Mid-Senior level (2)
-- On-site (2)
-+ On-site (5)
-- Past 24 hours (14)
-+ Past 24 hours (19)
-- Past 24 hours (2)
-+ Past 24 hours (6)
-- Past month (857)
-+ Past month (860)
-+ Past week (213)
-- Past week (227)
-+ Research Scientist Graduate (Security-Flow) - 2026 Start (PhD) x2
-+ San Jose, CA x3
-+ Security Engineering Project Intern (Watermark) - 2026 Start (BS/MS) x2
-- Software Engineer, Global Traffic Infrastructure x2
-+ TalentPop App (860)
-- Walmart (868)
-+ 经营策略（经营分析方向）-剪映CapCut x2
++ 1 hour ago x6
+- 12 minutes ago
+- 2 hours ago
++ 20
++ 20 jobs in Worldwide
++ 3 hours ago x2
+- 3 minutes ago
++ 38 minutes ago x2
++ 39 minutes ago x3
+- 4 hours ago
++ 5 hours ago x2
++ 57 minutes ago
+- 6
++ 6 hours ago x2
+- 6 jobs in Worldwide
++ Actively Hiring x3
++ Algorithm Tech Lead Manager - Enterprise Solution RD - San Jose x2
+- Alignerr (652)
+- Allied Universal (454)
++ Amazon (425)
+- Any time (1,057)
++ Any time (1,059)
+- Associate (1)
++ Be an early applicant x11
+- Beijing, Beijing, China
++ ByteDance x14
++ ByteDance (20)
+- ByteDance (6)
+- Chedraui USA (528)
++ Circle K (347)
+- Data Center Network Automation Engineer x2
++ Full-time (18)
+- Full-time (5)
++ Inside Higher Ed (668)
+- Internship (1)
++ Internship (3)
++ Machine Learning Engineer, AI Coding Tools x2
++ Machine Learning Researcher-Search-Soaring Star Talent Program x2
+- Mid-Senior level (1)
++ Mid-Senior level (16)
++ On-site (20)
+- On-site (5)
+- Past 24 hours (19)
++ Past 24 hours (20)
++ Past 24 hours (29)
+- Past 24 hours (6)
+- Past month (860)
++ Past month (874)
++ Past week (206)
+- Past week (213)
+- Research Scientist Graduate (Security-Flow) - 2026 Start (PhD) x2
++ Research Scientist Intern (PICO) Computational Photography Algorithms- 2026 Start (PhD) x2
++ Robert Half (280)
++ San Jose, CA x11
++ Seattle, WA
+- Security Engineering Project Intern (Watermark) - 2026 Start (BS/MS) x2
++ Senior Software Engineer - Developer Infrastructure x2
++ Senior Software Engineer, AI Infrastructure - Developer Tooling x4
++ Senior Software Engineer, Backend and Infrastructure x2
++ Senior Software Engineer, Cloud Infrastructure x2
++ Senior Software Engineer, Cross Platform Applications x2
++ Shanghai, Shanghai, China
++ Singapore
++ Software Engineer, Backend and Infrastructure x2
++ Software Engineer, Cloud Infrastructure x2
++ Software Engineer, Cross Platform x2
++ Software Engineer, Unity Engine and XR x2
++ Solutions Architect Intern (BytePlus - Japan) - 2026 Start (BS/MS) x2
+- TalentPop App (860)
++ Tech Lead Software Engineer, Build System x2
++ Tech Lead Software Engineer, Programming Language x2
++ Tokyo, Tokyo, Japan
++ 海外增长运营-飞书 x2
+- 经营策略（经营分析方向）-剪映CapCut x2
 ```
 
 ---
