@@ -111,11 +111,6 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -131,6 +126,11 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Software Engineer Intern (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -141,16 +141,16 @@ Technology
 Project Intern
 Singapore
 Intern
+Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
+Technology
+Project Intern
+Singapore
+Intern
 Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Quality Assurance Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-Technology - Machine learning
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Show 12 out of 103 open roles
 1
 2
