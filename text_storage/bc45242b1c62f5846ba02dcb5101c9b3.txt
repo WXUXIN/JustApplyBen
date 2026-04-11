@@ -1,17 +1,8 @@
-4 jobs in Worldwide
-Agree & Join LinkedIn
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
+5 jobs in Worldwide
 Skip to main content
 LinkedIn
 Worldwide
 Expand search
-Jobs
 This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
 Jobs
 People
@@ -25,173 +16,62 @@ Sign in
 Join now
 ByteDance
 Clear text
-ByteDance (4)
-CrossMed Healthcare Staffing (3,366)
-Leidos (1,288)
-PwC (963)
-AEROCONTACT (750)
+ByteDance (5)
+Jobs via Dice (2,153)
+Domino's (1,022)
+Walmart (717)
+Aya Healthcare (371)
 Done
 Past 24 hours
 Any time (1,111)
-Past month (918)
-Past week (228)
-Past 24 hours (55)
-Past 24 hours (4)
+Past month (919)
+Past week (226)
+Past 24 hours (49)
+Past 24 hours (5)
 Done
 Job type
-Full-time (3)
-Internship (1)
+Full-time (5)
 Done
 Experience level
-Internship (1)
-Mid-Senior level (3)
+Mid-Senior level (5)
 Done
 Remote
-On-site (4)
+On-site (5)
 Done
 Reset
-4
+5
 Jobs in Worldwide
-Backend Software Engineer, Office Intelligence
-Backend Software Engineer, Office Intelligence
-ByteDance
-Dubai, Dubai, United Arab Emirates
-Actively Hiring
-5 hours ago
-Site Reliability Engineer - Security Engineering - San Jose
-Site Reliability Engineer - Security Engineering - San Jose
+Backend Software Engineer - Data, Security
+Backend Software Engineer - Data, Security
 ByteDance
 San Jose, CA
 Be an early applicant
-5 hours ago
-Marketing Intern (BytePlus) - 2026 Start (BS/MS)
-Marketing Intern (BytePlus) - 2026 Start (BS/MS)
-ByteDance
-Singapore
-Be an early applicant
 2 hours ago
-区域营销经理（南区）-飞书
-区域营销经理（南区）-飞书
+Backend Software Engineer - Authorization
+Backend Software Engineer - Authorization
 ByteDance
-Shenzhen, Guangdong, China
-Be an early applicant
-5 hours ago
-You've viewed all jobs for this search
-Software Engineer - Service Platform
+San Jose, CA
+Actively Hiring
+2 hours ago
+Backend Engineer - Model Training Infra (Singapore)
+Backend Engineer - Model Training Infra (Singapore)
 ByteDance
 Singapore, Singapore
-7 months ago
-Be among the first 25 applicants
-See who ByteDance has hired for this role
-No longer accepting applications
-Report this job
-Use AI to assess how you fit
-Get AI-powered advice on this job and more exclusive features.
-Am I a good fit for this job?
-Tailor my resume
-Sign in to access AI-powered advices
-Continue with Google
-Continue with Google
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Join with email
-or
-Continue with Google
-Continue with Google
-Already on LinkedIn?
-Sign in
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Sign in to evaluate your skills
-Continue with Google
-Continue with Google
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Join with email
-or
-Continue with Google
-Continue with Google
-Already on LinkedIn?
-Sign in
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Sign in to tailor your resume
-Continue with Google
-Continue with Google
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Join with email
-or
-Continue with Google
-Continue with Google
-Already on LinkedIn?
-Sign in
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Responsibilities
-About The Team
-The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
-Our mission is to enable safer deployment processes, expand deployment capabilities, and deliver robust control mechanisms to optimize business operations and reduce costs. As part of our drive for innovation, we are continuously expanding our PaaS offerings to support AI infrastructure development through next generation technologies with MCP and AI Sandbox.
-What you will be doing:
-- Design, develop, and optimize the core platform services and ecosystem components;
-- Collaborate with AI infrastructure teams to integrate specialized tooling and execution environments;
-- Continuously improve platform efficiency and cost-effectiveness through system optimization;
-- Establish and enforce platform engineering best practices across internal product lines;
-Qualifications
-Minimum Qualifications:
-- Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
-- Proficiency in Go/Python/Rust/Typescript and strong systems programming skills.
-- Deep understanding of Linux, networking (TCP/IP, HTTP), and distributed systems.
-- Experience in infrastructure products (e.g., monitoring, logging, service mesh, storage).
-- Familiarity with cloud-native technologies (Kubernetes, Docker) and large-scale system design.
-Preferred Qualifications:
-- Experience with PaaS platforms or service deployment systems
-- Knowledge of AI/ML platform infrastructure and tooling
-- Background in resource scheduling and optimization
-- Contributions to open-source infrastructure projects
-About Us
-Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
-Why Join ByteDance
-Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
-As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
-Diversity & Inclusion​
-ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
-Show more
-Show less
-Seniority level
-Mid-Senior level
-Employment type
-Full-time
-Job function
-Engineering and Information Technology
-Industries
-Technology, Information and Internet
-Referrals increase your chances of interviewing at ByteDance by 2x
-See who you know
+Be an early applicant
+6 hours ago
+Security Technical Program Manager - Fleet Management
+Security Technical Program Manager - Fleet Management
+ByteDance
+San Jose, CA
+Be an early applicant
+6 hours ago
+Research Scientist - Multimedia Lab
+Research Scientist - Multimedia Lab
+ByteDance
+San Diego, CA
+Be an early applicant
+1 hour ago
+You've viewed all jobs for this search
 LinkedIn
 © 2026
 About
@@ -241,7 +121,28 @@ Tiếng Việt (Vietnamese)
 简体中文 (Chinese (Simplified))
 正體中文 (Chinese (Traditional))
 Language
-You’re signed out
-Sign in for the full experience.
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to view more jobs
+Email or phone
+Password
+Show
+Forgot password?
 Sign in
+Sign in with Email
+or
+New to LinkedIn?
 Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
