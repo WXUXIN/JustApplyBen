@@ -95,16 +95,16 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -150,7 +150,7 @@ Technology - Backend
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Show 12 out of 110 open roles
+Show 12 out of 111 open roles
 1
 2
 3
