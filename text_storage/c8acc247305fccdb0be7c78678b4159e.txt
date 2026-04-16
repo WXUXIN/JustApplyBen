@@ -47,7 +47,7 @@ Marketing & Communications
 Product
 Technology
 Program
-Soaring Star Talent Program
+Global Tech Research Program - 2027 Grad/Internship
 Seed Foundation Model Campus Recruitment
 Bachelor/Master Graduates & Internships
 MBA Graduates & Internships
@@ -110,6 +110,11 @@ Technology - Big data
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Big Data  Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -145,12 +150,7 @@ Technology
 PhD Intern- 2026 Start
 Singapore
 Intern
-Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
-Show 12 out of 103 open roles
+Show 12 out of 104 open roles
 1
 2
 3

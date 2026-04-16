@@ -47,7 +47,7 @@ Marketing & Communications
 Product
 Technology
 Program
-Soaring Star Talent Program
+Global Tech Research Program - 2027 Grad/Internship
 Seed Foundation Model Campus Recruitment
 Bachelor/Master Graduates & Internships
 MBA Graduates & Internships
@@ -95,16 +95,16 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
 AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -140,17 +140,17 @@ Technology
 Project Intern
 Singapore
 Intern
+Big Data  Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Model Infrastructure Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
 Technology - Backend
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
-Show 12 out of 109 open roles
+Show 12 out of 110 open roles
 1
 2
 3
