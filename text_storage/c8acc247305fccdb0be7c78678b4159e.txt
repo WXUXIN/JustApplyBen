@@ -21,7 +21,7 @@ Early Careers at ByteDance
 Americas
 Asia Pacific
 Europe and the Middle East
-Global Tech Research Program
+Global Frontier Tech Recruitment Program
 PhD Opportunities
 FAQs
 Blog
@@ -50,7 +50,7 @@ Marketing & Communications
 Product
 Technology
 Program
-Global Tech Research Program - 2027 Grad/Internship
+Global Frontier Tech Recruitment Program
 Seed Foundation Model Campus Recruitment
 Bachelor/Master Graduates & Internships
 MBA Graduates & Internships
@@ -93,21 +93,26 @@ Sydney
 Taguig
 Tokyo
 Warsaw
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Data Center Business Development and Commercial Program Intern (Data Center Development) - 2026 Start (BS/MS)
-Technology - Infrastructure
+AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
+Technology - Big data
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Big Data  Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -123,21 +128,16 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
-Technology - Big data
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
-Big Data  Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
+Data Center Business Development and Commercial Program Intern (Data Center Development) - 2026 Start (BS/MS)
+Technology - Infrastructure
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
 Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
