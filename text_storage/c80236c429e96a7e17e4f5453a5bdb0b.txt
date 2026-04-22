@@ -98,16 +98,16 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
 Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
 AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -116,6 +116,11 @@ Intern
 Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Recommendation System Architecture Engineer- Soaring Star Talent Program
+Technology - Backend
+2026 Soaring Star Talent Program
 Singapore
 Regular
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
@@ -146,11 +151,6 @@ Regular
 Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)
 Technology
 Project Intern
-Singapore
-Intern
-Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
 Show 12 out of 107 open roles
