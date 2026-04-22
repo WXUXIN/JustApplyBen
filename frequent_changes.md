@@ -1,6 +1,6 @@
 # Latest Frequent Scraper Results
 
-## 2026-04-22 02:09:39
+## 2026-04-22 07:28:32
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
@@ -17,14 +17,7 @@
 **Line changes detected!**
 
 ```diff
-+ 2026 Soaring Star Talent Program
-- Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
-- Intern
-+ Recommendation System Architecture Engineer- Soaring Star Talent Program
-+ Regular
-- Technology
-+ Technology - Backend
-- Undergraduate/Master Intern- 2026 Start
+- Paris
 ```
 
 ---
@@ -33,7 +26,16 @@
 **Line changes detected!**
 
 ```diff
-- Keep me logged in
++ Keep me logged in
+```
+
+---
+### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+- Paris
 ```
 
 ---
@@ -42,14 +44,7 @@
 **Line changes detected!**
 
 ```diff
-+ 2026 Soaring Star Talent Program
-- Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
-- Intern
-+ Recommendation System Architecture Engineer- Soaring Star Talent Program
-+ Regular
-- Technology
-+ Technology - Backend
-- Undergraduate/Master Intern- 2026 Start
+- Paris
 ```
 
 ---
@@ -58,53 +53,53 @@
 **Line changes detected!**
 
 ```diff
-- ,
-- , and
-- .
-+ 0 jobs in Worldwide
-- Agree & Join
-+ Alignerr (797)
-+ Allied Universal (527)
-+ Already on LinkedIn?
-- Already on Linkedin?
-+ Any time (1,189)
-- By clicking Agree & Join, you agree to the LinkedIn
-+ ByteDance x2
-+ Clear text x6
-- Continue with Google x2
-- Cookie Policy
-+ Domino's (607)
-+ Done x2
-- Email
-+ Expand search
-- First name
-+ Jobs
-+ Jobs via Dice (1,137)
-- Join LinkedIn
-+ Join now to view more jobs
-+ Join with email
-- Last name
-+ Learning
-- New to Linkedin?
-- Not you?
-- Password (6+ characters)
-+ Past 24 hours x2
-+ Past 24 hours (35)
-+ Past month (967)
-+ Past week (283)
-+ People
-+ Please make sure your keywords are spelled correctly
-- Privacy Policy
-- Remove photo
-+ Reset
-- Security verification
-- Sign Up | LinkedIn
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- User Agreement
-+ We couldn’t find a match for
-+ Worldwide
-+ jobs in Worldwide
-- or
++ ,
++ , and
++ .
+- 0 jobs in Worldwide
++ Agree & Join
+- Alignerr (797)
+- Allied Universal (527)
+- Already on LinkedIn?
++ Already on Linkedin?
+- Any time (1,189)
++ By clicking Agree & Join, you agree to the LinkedIn
+- ByteDance x2
+- Clear text x6
++ Continue with Google x2
++ Cookie Policy
+- Domino's (607)
+- Done x2
++ Email
+- Expand search
++ First name
+- Jobs
+- Jobs via Dice (1,137)
++ Join LinkedIn
+- Join now to view more jobs
+- Join with email
++ Last name
+- Learning
++ New to Linkedin?
++ Not you?
++ Password (6+ characters)
+- Past 24 hours x2
+- Past 24 hours (35)
+- Past month (967)
+- Past week (283)
+- People
+- Please make sure your keywords are spelled correctly
++ Privacy Policy
++ Remove photo
+- Reset
++ Security verification
++ Sign Up | LinkedIn
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ User Agreement
+- We couldn’t find a match for
+- Worldwide
+- jobs in Worldwide
++ or
 ```
 
 ---
