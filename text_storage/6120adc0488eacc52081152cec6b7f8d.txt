@@ -29,6 +29,7 @@ Fayetteville, NC
 Honolulu, HI
 London, United Kingdom
 New York, NY
+North America
 Ottawa, Canada
 Palo Alto, CA
 Paris, France
@@ -70,6 +71,7 @@ All
 Fixed-Term
 Full-time
 Internship
+Scholarship
 Business Development
 Apply
 UK Meritocracy Fellowship
