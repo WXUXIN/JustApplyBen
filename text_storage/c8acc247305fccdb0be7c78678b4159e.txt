@@ -111,6 +111,11 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
+Technology - Big data
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Data Compliance Intern (Global Payment - Compliance - Product and Data) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -119,11 +124,6 @@ Intern
 Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
-Singapore
-Regular
-Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
-Technology - Big data
-Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
 Data Center Business Development and Commercial Program Intern (Data Center Development) - 2026 Start (BS/MS)
