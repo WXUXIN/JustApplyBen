@@ -101,12 +101,12 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
@@ -146,11 +146,11 @@ Technology
 Project Intern
 Singapore
 Intern
-Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
+Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
 Technology
-Undergraduate/Master Intern- 2026 Start
+Bachelor/Master Graduates- 2026 Start
 Singapore
-Intern
+Regular
 Show 12 out of 107 open roles
 1
 2
