@@ -1,13 +1,15 @@
 # Latest Scraper Results
 
-## 2026-04-29 05:52:39
+## 2026-04-30 05:57:14
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-+ Public sector
+- Payment Links
++ Payment links
++ Product roadmap
 ```
 
 ---
@@ -16,34 +18,30 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Chicago
++ London
 ```
 
 ---
-### [https://www.quantedge.com/careers](https://www.quantedge.com/careers)
+### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
 
 **Line changes detected!**
 
 ```diff
-+ . Only shortlisted candidates will be notified.
-- 2026 - Front Desk Receptionist - Singapore
-- 2026 - Investor Relations Analyst - Singapore
-- 2026 - Risk Analyst - Singapore
-+ If you're an individual who craves challenges and dreams of making a lasting impact, send your cover letter and resume to
-- Offers will be made on a rolling basis.
-- We are currently recruiting for the following roles:
-+ careers@quantedge.com
-- ​ x6
++ ,
++ 2026 Internship/Graduate - Technology
++ Hong Kong
++ Singapore
++ View opportunity
 ```
 
 ---
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
 
 **Line changes detected!**
 
 ```diff
-- Connect
-+ Discover
+- Ventures x2
 ```
 
 ---
@@ -52,27 +50,13 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Bachelor/Master Graduates- 2026 Start
-+ Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
-- Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
-- Intern
-+ Regular
-- Undergraduate/Master Intern- 2026 Start
-```
-
----
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
-
-**Line changes detected!**
-
-```diff
-- Apply x2
-- Design
-- Internship x2
-- New York, NY
-- On-site — x2
-- Product Designer, Internship - US Government x2
-- Washington, D.C.
+- Bachelor/Master Graduates- 2027 Start
++ Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
+- Project Intern
++ Show 12 out of 109 open roles
+- Show 12 out of 113 open roles
+- Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)
++ Undergraduate/Master Intern- 2026 Start x2
 ```
 
 ---
