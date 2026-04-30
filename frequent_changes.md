@@ -1,13 +1,18 @@
 # Latest Frequent Scraper Results
 
-## 2026-04-30 08:15:32
+## 2026-04-30 13:47:25
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Bachelor/Master Graduates- 2026 Start
++ Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
+- Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
+- Intern
++ Regular
+- Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
@@ -16,8 +21,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 104 open roles
-- Show 12 out of 107 open roles
+No line changes.
 ```
 
 ---
@@ -26,13 +30,12 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2027 Start
-+ Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
-- Project Intern
-+ Show 12 out of 103 open roles
-- Show 12 out of 107 open roles
-- Software Engineer Project Intern (Security Engineering) - 2026 Start (BS/MS)
-+ Undergraduate/Master Intern- 2026 Start x2
++ Bachelor/Master Graduates- 2026 Start
++ Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
+- Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
+- Intern
++ Regular
+- Undergraduate/Master Intern- 2026 Start
 ```
 
 ---
@@ -41,54 +44,75 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 10
-+ 10 jobs in Worldwide
-- 11 minutes ago x3
-+ 12 minutes ago
-- 2 hours ago
-+ 4 hours ago x2
-+ 5 hours ago x6
-- 6
-- 6 jobs in Worldwide
-- 6 minutes ago
-- Alignerr (981)
-- Any time (1,196)
-+ Any time (1,244)
-+ Be an early applicant x4
-+ Beijing, Beijing, China x3
-+ ByteDance x4
-+ ByteDance (10)
-- ByteDance (6)
-- Deloitte (558)
-- Domino's (675)
-- Dublin, County Dublin, Ireland
-+ Full-time (10)
-- Full-time (6)
-- Hybrid (1)
-- Internship (1)
-+ Jobgether (413)
-- Jobs via Dice (2,224)
-+ K+K Klaas & Kock B.V. & Co. KG (358)
-- Mid-Senior level (5)
-+ Mid-Senior level (9)
-- Network Engineering Manager, EMEA x2
-+ On-site (10)
-- On-site (4)
-+ Panda Restaurant Group (1,103)
-+ Past 24 hours (10)
-- Past 24 hours (46)
-+ Past 24 hours (49)
-- Past 24 hours (6)
-- Past month (992)
-+ Past month (993)
-- Research Engineer Graduate (AI Training Systems & RL Infrastructure - Seed Infra) - 2026 Start (PhD) x2
-- Seattle, WA
-+ Shanghai, Shanghai, China x3
-+ University of Michigan (459)
-+ 模型策略产品（创作方向）-豆包 x2
-+ 短视频内容增长专家-飞书 x4
-+ 精品内容策划专家-飞书 x4
-+ 组织效能与运营-中国电商（北京） x2
++ ,
++ , and
++ .
+- 10
+- 10 jobs in Worldwide
+- 12 minutes ago
+- 4 hours ago x3
+- 5 hours ago x6
++ Agree & Join
++ Already on Linkedin?
+- Any time (1,244)
+- Be an early applicant x10
+- Beijing, Beijing, China x4
++ By clicking Agree & Join, you agree to the LinkedIn
+- ByteDance x11
+- ByteDance (10)
+- Clear text x6
++ Continue with Google x2
++ Cookie Policy
+- Done x5
++ Email
+- Expand search
+- Experience level
++ First name
+- Full-time (10)
+- Hangzhou-Shaoxing Metropolitan Area x2
+- Job type
+- Jobgether (413)
+- Jobs
+- Jobs in Worldwide
++ Join LinkedIn
+- Join now
+- K+K Klaas & Kock B.V. & Co. KG (358)
++ Last name
+- Learning
+- Mid-Senior level (9)
+- New to LinkedIn?
++ New to Linkedin?
++ Not you?
+- On-site (10)
+- Panda Restaurant Group (1,103)
++ Password (6+ characters)
+- Past 24 hours
+- Past 24 hours (10)
+- Past 24 hours (49)
+- Past month (993)
+- Past week (262)
+- People
++ Privacy Policy
+- Remote
++ Remove photo
+- Reset
++ Security verification
+- Shanghai, Shanghai, China x4
++ Sign Up | LinkedIn
++ Sign in
+- Sign in to view more jobs
+- Sign in with Email
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
+- University of Michigan (459)
++ User Agreement
+- Worldwide
+- You've viewed all jobs for this search
++ or
+- 抖音直播运营专家-飞书 x6
+- 模型策略产品（创作方向）-豆包 x2
+- 短视频内容增长专家-飞书 x6
+- 精品内容策划专家-飞书 x4
+- 组织效能与运营-中国电商（北京） x2
 ```
 
 ---
