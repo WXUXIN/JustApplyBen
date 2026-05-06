@@ -1,27 +1,37 @@
 # Latest Scraper Results
 
-## 2026-05-05 05:40:27
+## 2026-05-06 05:55:19
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ London x2
++ London, Singapore
++ Senior Software Engineer - Data Integration
++ Senior Software Engineer - DeFi
++ Senior Software Engineer, Trading Team
 ```
 
 ---
-### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
 
 **Line changes detected!**
 
 ```diff
-- Data Science
-- Data Scientist - Internship [Summer 2026]
-- Internship
-+ No jobs found
-- United States - NY New York
-- View role x2
+- 2026 Graduate - FPGA Engineering
+- London
+- View opportunity
+```
+
+---
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+
+**Line changes detected!**
+
+```diff
++ Connect x2
 ```
 
 ---
@@ -30,114 +40,120 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 10 hours ago x14
-+ 19 hours ago x17
-- 20
-- 20 hours ago x9
-- 20 jobs in Worldwide
-+ 21 hours ago x2
-+ 38
-+ 38 jobs in Worldwide
-- 5 hours ago x6
-+ Account Manager, Electronics (Philippines E-commerce) x2
-+ Actively Hiring x12
-+ Agency Operation Project Intern - (LIVE) - 2026 Start (BS/MS) x2
-- Alignerr (993)
-+ Any time (1,188)
-- Any time (1,190)
-+ Associate (3)
-+ Aya Healthcare (1,341)
-+ Backend Software Engineer Graduate (Service Platform) - 2026 Start (BS/MS) x2
-+ Backend Software Engineer Intern (Business Infra, ByteCloud) - 2026 Start (BS/MS) x2
-+ Backend Software Engineer Intern (Foundational Technology) - 2026 Start (BS/MS) x2
-- Backend Software Engineer Intern (Graph Neural Network System, Cloud Infrastructure) - 2026 Start (BS/MS) x2
-+ Be an early applicant x6
-+ Beijing, Beijing, China
-- Big Data Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS) x2
-+ ByteDance x18
-- ByteDance (20)
-+ ByteDance (38)
-+ Cencora (732)
-+ Cloud Infrastructure Solutions Architect - BytePlus x2
-- Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS) x2
-+ Cloud Network Engineer Graduate(Physical Network Infra) - 2026 Start (BS/ MS) x2
-+ Cloud Site Reliability Engineer - DCS Cloud x2
-+ Customer Success Manager - BytePlus - Hong Kong x2
-- Customer Success Manager Project Intern (Lark) - 2026 Start (BS/MS) x2
-+ Data Center Site Acquisition Manager - Infrastructure Power & Energy x4
-- Domino's (880)
-+ EHS Safety Engineer, Data Center Infrastructure Engineering x2
-+ Employee Relations Partner (Japanese/Korean Speaking) - APAC x2
-+ Entry level (1)
-+ Ethics and Compliance Manager (Investigations) - APAC x2
-+ Full-time (31)
-- Full-time (8)
-+ Hong Kong SAR
-+ Hybrid (3)
-- Internship (12)
-- Internship (20)
-+ Internship (21)
-+ Internship (7)
-+ Jakarta, Jakarta, Indonesia x2
-- Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
-+ Large Recommendation Model Algorithm Engineer - Global E-Commerce x2
-+ Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (BS/MS) x2
-+ Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (Phd) x2
-+ Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2026 Start (BS/MS) x2
-+ Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics)- 2026 Start (PhD) x2
-- Machine Learning Engineer Intern (E-Commerce Recommendation/Search Alliance) - 2026 Start (PhD) x2
-+ Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2026 Start (PhD) x2
-+ Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD) x2
-+ Mid-Senior level (11)
-+ Network Engineer Graduate (Physical Network Infra) - 2026 Start (BS/ MS) x2
-- New Agency Operations Project Intern (LIVE) - 2026 Start (BS/MS) x2
-- On-site (20)
-+ On-site (35)
-+ Partner Sales Manager - BytePlus - Philippines x2
-+ Pasig, National Capital Region, Philippines
-- Past 24 hours (20)
-+ Past 24 hours (38)
-+ Past month (953)
-- Past month (954)
-- Past week (212)
-+ Past week (213)
-+ Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA) x2
-- Procurement Specialist Graduate (Global General Procurement) - 2026 Start (BS/MS) x2
-- Quik Hire Staffing (496)
-- Real Estate Planning & BP Analyst Graduate (Real Estate Planning & BP) - 2026 Start (BS/MS) x2
-+ Real Estate Strategy Expert x2
-+ Research Scientist - Quantum Chemistry - Global Frontier Tech Recruitment Program - 2027 Start (PhD) x2
-- Research Scientist Graduate, (Distributed NoSQL Database Systems) - 2026 Start (PhD) x2
-- Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS) x2
-+ Research Scientist Intern (Security for AI) - 2026 Start (PhD) x2
-- Research Scientist Intern - Large-Scale Machine Learning Systems (SysML) - Global Frontier Tech Recruitment Program - 2027 Start (PhD) x2
-- Research Scientist Project Intern (Multimodal Interaction & World Model) - 2026 Start (PhD) x2
-- Research Scientist in Multimodal Interaction and World Model - Seed - Graduates - 2027 Start (PhD) x2
-- Research Scientist in Speech Foundation Model - Seed - Graduates - 2027 Start (PhD) x2
-+ Ross Stores, Inc. (6,574)
-+ San Jose, CA x2
-+ Seattle, WA x6
-+ Security Operations Specialist - Data Center Infrastructure Engineering x2
-- Singapore
-+ Singapore, Singapore x6
-+ Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS) x2
-+ Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS) x2
-- Site Reliability Engineer Intern (Video Infrastructure) - 2026 Start (BS/MS) x2
-+ Slalom (2,474)
-+ Software Engineer Graduate (Inference Infrastructure) - 2026 Start (PhD) x2
-+ Software Engineer Graduate (Stability Platform) - 2026 Start (BS/MS) x2
-- Software Engineer Intern (Developer Infrastructure) - 2026 Summer (BS/MS) x2
-- Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS) x2
-+ Strategy & Operations Manager, Affiliate Partners (Philippines E-Commerce) x2
-+ Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program x2
-+ Supply Chain Sourcing Manager - Solutions & Services x2
-+ Taguig, National Capital Region, Philippines x2
-- Talent Acquisition Project Intern (Talent Acquisition Center) - 2026 Start (BS/MS) x2
-- Tokyo, Tokyo, Japan
-- User Growth Machine Learning Engineer Intern (Global Payment) - 2026 Start (BS/MS) x2
-+ XR Camera and Machine Vision Engineer Graduate (PICO) - 2026 Start (PhD) x2
-- doda (デューダ) (558)
-+ 数据科学家-财务共享中心 x2
++ ,
++ , and
++ .
+- 10 hours ago x14
+- 19 hours ago x20
+- 20 hours ago
+- 21 hours ago x2
+- 38
+- 38 jobs in Worldwide
+- 5 hours ago
+- Account Manager, Electronics (Philippines E-commerce) x2
+- Actively Hiring x24
+- Agency Operation Project Intern - (LIVE) - 2026 Start (BS/MS) x2
++ Agree & Join
++ Already on Linkedin?
+- Any time (1,188)
+- Associate (3)
+- Aya Healthcare (1,341)
+- Backend Software Engineer Graduate (Service Platform) - 2026 Start (BS/MS) x2
+- Backend Software Engineer Intern (Business Infra, ByteCloud) - 2026 Start (BS/MS) x2
+- Backend Software Engineer Intern (Foundational Technology) - 2026 Start (BS/MS) x2
+- Be an early applicant x14
+- Beijing, Beijing, China
++ By clicking Agree & Join, you agree to the LinkedIn
+- ByteDance x39
+- ByteDance (38)
+- Cencora (732)
+- Clear text x6
+- Cloud Infrastructure Solutions Architect - BytePlus x2
+- Cloud Network Engineer Graduate(Physical Network Infra) - 2026 Start (BS/ MS) x2
+- Cloud Site Reliability Engineer - DCS Cloud x2
++ Continue with Google x2
++ Cookie Policy
+- Customer Success Manager - BytePlus - Hong Kong x2
+- Data Center Site Acquisition Manager - Infrastructure Power & Energy x4
+- Done x5
+- EHS Safety Engineer, Data Center Infrastructure Engineering x2
++ Email
+- Employee Relations Partner (Japanese/Korean Speaking) - APAC x2
+- Entry level (1)
+- Ethics and Compliance Manager (Investigations) - APAC x2
+- Expand search
+- Experience level
++ First name
+- Full-time (31)
+- Hong Kong SAR
+- Hybrid (3)
+- Internship (21)
+- Internship (7)
+- Jakarta, Jakarta, Indonesia x2
+- Job type
+- Jobs
+- Jobs in Worldwide
++ Join LinkedIn
+- Join now
+- Large Recommendation Model Algorithm Engineer - Global E-Commerce x2
++ Last name
+- Learning
+- Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (BS/MS) x2
+- Machine Learning Engineer Graduate (E-Commerce Recommendation/Search Alliance)- 2026 Start (Phd) x2
+- Machine Learning Engineer Graduate (E-Commerce Risk Control)- 2026 Start (BS/MS) x2
+- Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics)- 2026 Start (PhD) x2
+- Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (PhD) x2
+- Machine Learning Engineer Intern (E-commerce-Supply Chain & Logistics) - 2026 Start (PhD) x2
+- Machine Learning System Engineer Graduate (AML) - 2026 Start (PhD) x2
+- Mid-Senior level (11)
+- Network Engineer Graduate (Physical Network Infra) - 2026 Start (BS/ MS) x2
+- New to LinkedIn?
++ New to Linkedin?
++ Not you?
+- On-site (35)
+- Partner Sales Manager - BytePlus - Philippines x2
+- Pasig, National Capital Region, Philippines
++ Password (6+ characters)
+- Past 24 hours
+- Past 24 hours (38)
+- Past month (953)
+- Past week (213)
+- Payment Strategy Project Intern (Global Payment LATAM)- 2026 Start (MBA) x2
+- People
++ Privacy Policy
+- Real Estate Strategy Expert x2
+- Remote
++ Remove photo
+- Research Scientist - Quantum Chemistry - Global Frontier Tech Recruitment Program - 2027 Start (PhD) x2
+- Research Scientist Intern (Security for AI) - 2026 Start (PhD) x2
+- Reset
+- Ross Stores, Inc. (6,574)
+- San Jose, CA x10
+- Seattle, WA x7
+- Security Operations Specialist - Data Center Infrastructure Engineering x2
++ Security verification
++ Sign Up | LinkedIn
++ Sign in
+- Sign in to view more jobs
+- Sign in with Email
+- Singapore x7
+- Singapore, Singapore x6
+- Site Reliability Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS) x2
+- Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS) x2
+- Slalom (2,474)
+- Software Engineer Graduate (Inference Infrastructure) - 2026 Start (PhD) x2
+- Software Engineer Graduate (Stability Platform) - 2026 Start (BS/MS) x2
+- Strategy & Operations Manager, Affiliate Partners (Philippines E-Commerce) x2
+- Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program x2
+- Supply Chain Sourcing Manager - Solutions & Services x2
+- Taguig, National Capital Region, Philippines x3
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ User Agreement
+- Worldwide
+- XR Camera and Machine Vision Engineer Graduate (PICO) - 2026 Start (PhD) x2
+- You've viewed all jobs for this search
++ or
+- 数据科学家-财务共享中心 x2
 ```
 
 ---
