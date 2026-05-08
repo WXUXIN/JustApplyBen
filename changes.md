@@ -1,6 +1,6 @@
 # Latest Scraper Results
 
-## 2026-05-07 05:59:30
+## 2026-05-08 05:29:29
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
@@ -11,19 +11,12 @@ No line changes.
 ```
 
 ---
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Apply x2
-- Dev
-- Internship x2
-- London, United Kingdom
-- New York, NY
-- On-site — x2
-- Ottawa, Canada
-- Software Engineer, Internship x2
+No line changes.
 ```
 
 ---
