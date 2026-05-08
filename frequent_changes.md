@@ -1,19 +1,7 @@
 # Latest Frequent Scraper Results
 
-## 2026-05-08 02:40:11
+## 2026-05-08 07:25:43
 
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-+ Quality Assurance Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-- Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-- Technology
-+ Technology - Machine learning
-```
-
----
 ### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
 
 **Line changes detected!**
@@ -28,10 +16,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Quality Assurance Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-- Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-- Technology
-+ Technology - Machine learning
+No line changes.
 ```
 
 ---
@@ -40,69 +25,29 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- ,
-- , and
-- .
-+ 2
-+ 2 hours ago x2
-+ 2 jobs in Worldwide
-- Agree & Join
-+ Alignerr (980)
-- Already on Linkedin?
-+ Any time (1,205)
-+ Ashburn, VA
-+ Be an early applicant x2
-- By clicking Agree & Join, you agree to the LinkedIn
-+ ByteDance x3
-+ ByteDance (2)
-+ Clear text x6
-- Continue with Google x2
-- Cookie Policy
-+ Done x5
-- Email
-+ Expand search
-+ Experience level
-- First name
-+ Full-time (2)
-+ JeVeuxAider.gouv.fr (455)
-+ Job type
-+ Jobs
-+ Jobs in Worldwide
-- Join LinkedIn
-+ Join now
-+ LanceSoft, Inc. (573)
-- Last name
-+ Learning
-+ Mid-Senior level (2)
-+ New to LinkedIn?
-- New to Linkedin?
-- Not you?
-+ On-site (2)
-- Password (6+ characters)
-+ Past 24 hours
-+ Past 24 hours (2)
-+ Past 24 hours (73)
-+ Past month (966)
-+ Past week (279)
-+ People
-- Privacy Policy
-+ Remote
-- Remove photo
-+ Reset
-+ San Jose, CA
-- Security verification
-- Sign Up | LinkedIn
-- Sign in
-+ Sign in to view more jobs
-+ Sign in with Email
-+ Supply Chain Sourcing Manager - CDN x2
-+ Technical Project Manager - Resource Management x2
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- User Agreement
-+ Walmart (670)
-+ Worldwide
-+ You've viewed all jobs for this search
-- or
++ 1 hour ago
+- 2 hours ago x2
++ 3 hours ago
++ AI Agent高级产品经理-即梦 x2
++ AMN Healthcare Nursing (3,078)
+- Alignerr (980)
+- Ashburn, VA
++ Beijing, Beijing, China
++ Executive (1)
++ Fusion Medical Staffing (1,975)
+- JeVeuxAider.gouv.fr (455)
++ Jobs via Dice (1,103)
++ Jobster (1,337)
+- LanceSoft, Inc. (573)
+- Mid-Senior level (2)
++ Past month (955)
+- Past month (966)
+- San Jose, CA
++ Shanghai, Shanghai, China
+- Supply Chain Sourcing Manager - CDN x2
+- Technical Project Manager - Resource Management x2
+- Walmart (670)
++ 数据分析师 - AI创新业务 x2
 ```
 
 ---
