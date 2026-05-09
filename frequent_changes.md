@@ -1,16 +1,14 @@
 # Latest Frequent Scraper Results
 
-## 2026-05-09 02:33:26
+## 2026-05-09 07:52:17
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Quality Assurance Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-+ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-+ Technology
-- Technology - Machine learning
++ Show 12 out of 107 open roles
+- Show 12 out of 108 open roles
 ```
 
 ---
@@ -19,7 +17,8 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Show 12 out of 102 open roles
+- Show 12 out of 103 open roles
 ```
 
 ---
@@ -28,10 +27,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Quality Assurance Engineer Intern (Global Payment) - 2026 Start (BS/MS)
-+ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-+ Technology
-- Technology - Machine learning
++ Show 12 out of 101 open roles
+- Show 12 out of 102 open roles
 ```
 
 ---
