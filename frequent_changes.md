@@ -1,13 +1,18 @@
 # Latest Frequent Scraper Results
 
-## 2026-05-09 18:56:29
+## 2026-05-10 02:36:59
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Bachelor/Master Graduates- 2026 Start
+- Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
++ Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
++ PhD Graduates- 2026 Start
+- Technology
++ Technology - Algorithm
 ```
 
 ---
@@ -25,7 +30,12 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Bachelor/Master Graduates- 2026 Start
+- Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
++ Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
++ PhD Graduates- 2026 Start
+- Technology
++ Technology - Algorithm
 ```
 
 ---
