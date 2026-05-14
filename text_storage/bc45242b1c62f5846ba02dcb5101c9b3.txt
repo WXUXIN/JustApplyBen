@@ -1,4 +1,4 @@
-1 jobs in Worldwide
+4 jobs in Worldwide
 Skip to main content
 LinkedIn
 Worldwide
@@ -16,35 +16,57 @@ Clear text
 Sign in
 Join now
 Past 24 hours
-Any time (1,218)
-Past month (982)
-Past week (341)
+Any time (1,224)
+Past month (975)
+Past week (329)
 Past 24 hours (45)
-Past 24 hours (1)
+Past 24 hours (4)
 Done
 ByteDance
 Clear text
-ByteDance (1)
-Jobs via Dice (1,085)
-Domino's (1,049)
-Actalent (348)
-Clínicas Inteligentes (256)
+ByteDance (4)
+myGwork - LGBTQ+ Business Community (1,103)
+CVS Health (632)
+University of Michigan (484)
+Walmart (410)
 Done
 Job type
-Full-time (1)
+Full-time (4)
+Done
+Experience level
+Internship (1)
+Mid-Senior level (3)
 Done
 Remote
-On-site (1)
+On-site (4)
 Done
 Reset
-1
+4
 Jobs in Worldwide
-Strategic Partnerships Manager - Global Payment
-Strategic Partnerships Manager - Global Payment
+Machine Learning Engineer Graduate (Global E-Commerce, User Growth & Intelligent Marketing) - 2026 Start (BS/MS)
+Machine Learning Engineer Graduate (Global E-Commerce, User Growth & Intelligent Marketing) - 2026 Start (BS/MS)
+ByteDance
+Singapore
+Be an early applicant
+2 hours ago
+国际化转让定价专家（上海）
+国际化转让定价专家（上海）
+ByteDance
+Shanghai, Shanghai, China
+Be an early applicant
+2 hours ago
+国际税税务经理
+国际税税务经理
+ByteDance
+Beijing, Beijing, China
+Be an early applicant
+3 hours ago
+Site Reliability Engineer - System Service Global
+Site Reliability Engineer - System Service Global
 ByteDance
 San Jose, CA
 Be an early applicant
-2 hours ago
+23 minutes ago
 You've viewed all jobs for this search
 Software Engineer - Service Platform
 ByteDance
@@ -54,61 +76,6 @@ Be among the first 25 applicants
 See who ByteDance has hired for this role
 No longer accepting applications
 Report this job
-Use AI to assess how you fit
-Get AI-powered advice on this job and more exclusive features.
-Am I a good fit for this job?
-Tailor my resume
-Sign in to access AI-powered advices
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Sign in with Email
-or
-New to LinkedIn?
-Join now
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Sign in to evaluate your skills
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Sign in with Email
-or
-New to LinkedIn?
-Join now
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Sign in to tailor your resume
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Sign in with Email
-or
-New to LinkedIn?
-Join now
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
 Responsibilities
 About The Team
 The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
