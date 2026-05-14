@@ -1,32 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-05-14 14:01:29
+## 2026-05-14 19:43:22
 
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-No line changes.
-```
-
----
-### [https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY](https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY)
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Keep me logged in
-- Stay updated on your professional world.
-```
-
----
-### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-No line changes.
++ Connect x2
 ```
 
 ---
@@ -35,94 +16,162 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ 1 hour ago x2
-- 2 hours ago x2
-- 23 minutes ago
-+ 3 hours ago x17
-+ 36
-+ 36 jobs in Worldwide
-- 4
-+ 4 hours ago x14
-- 4 jobs in Worldwide
-+ 5 hours ago x2
-+ Actively Hiring x22
-+ Amazon (970)
-+ Any time (1,199)
-- Any time (1,224)
-+ Applied Machine Learning SRE Intern (AML) - 2026 Start (BS/MS) x2
-+ Backend Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS) x2
-+ Backend Engineer Graduate (Recommendation Foundation Infrastructure) - 2026 Start (BS/MS) x2
-+ Backend Engineer Graduate (Vertical Recommendation Architecture) - 2026 Start (BS/MS) x2
-+ Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS) x2
-+ Be an early applicant x10
-- Beijing, Beijing, China
-+ Big Data Engineer Graduate (Application Computing, Data + AI) - 2026 Start (BS/MS) x2
-+ Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS) x2
-+ ByteDance x32
-+ ByteDance (36)
-- ByteDance (4)
-- CVS Health (632)
-+ Campaign Management Project Intern (Central Strategy and Special Projects, E-Commerce) - 2026 Start (BS/MS) x2
-+ Circle K (695)
-+ Customer Success Manager Project Intern (Lark APAC) - 2026 Start (BS/MS) x2
-+ DE Operation Project Intern (CapCut) - 2026 Start (BS/MS) x2
-+ Data Operations Project Intern (AI Data & Safety) - 2026 Start (BS/MS) x2
-+ Deep Learning Algorithm Graduate (Search Ranking) - 2026 Start (BS/MS) x2
-+ Entry level (2)
-+ Full-time (22)
-- Full-time (4)
-+ HR Operations Advisor - JP/KR x2
-+ HR Operations Advisor Graduate (HR Operations APAC Lifecycle Operations) - 2026 Start (BS/MS) x2
-+ Hybrid (1)
-+ Integrated Marketing Project Intern (Lark APAC - Customer Advocacy & Product Content) - 2026 Start (BS/MS) x2
-+ Integrated Marketing Project Intern (Lark Content & Campaigns) - 2026 Start (BS/MS) x2
-- Internship (1)
-+ Internship (14)
-+ Internship (31)
-+ London, England, United Kingdom x2
-+ MLLM Algorithm Engineer Graduate (Search) - 2026 Start (BS/MS) x2
-+ Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics)- 2026 Start (BS/MS) x2
-- Machine Learning Engineer Graduate (Global E-Commerce, User Growth & Intelligent Marketing) - 2026 Start (BS/MS) x2
-+ Model Infrastructure Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS) x2
-+ On-site (35)
-- On-site (4)
-+ Past 24 hours (36)
-- Past 24 hours (4)
-- Past 24 hours (45)
-+ Past 24 hours (57)
-+ Past month (970)
-- Past month (975)
-+ Past week (323)
-- Past week (329)
-+ Production System Engineer x2
-+ Real Estate Process and Experience Management Project Intern (The Space Processes & Experience) - 2026 Start (BS/MS) x2
-+ Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD) x2
-+ Research Scientist in AI Foundation Model Infrastructure - Seed - Graduates - 2027 Start (BS/MS) x2
-+ Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (BS/MS) x2
-+ Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (PhD) x2
-+ Research Scientist in Multimodal Interaction and World Model - Seed - Graduates - 2027 Start (BS/MS) x2
-+ Research Scientist in Vision Foundation Model - Seed - Graduates - 2027 Start (PhD) x2
-+ San Jose, CA x9
-+ Seattle, WA x5
-+ Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS) x2
-+ Seoul, Seoul, South Korea
-- Shanghai, Shanghai, China
-+ Siemens (630)
-+ Singapore x16
-+ Software Engineer Graduate (Recommendation Ecosystem Infrastructure) - 2026 Start (BS/MS) x2
-+ Student Researcher (AI Foundation Model Infrastructure - Seed) - 2027 Start (BS/MS) x2
-+ Student Researcher (AI Foundation Model Infrastructure - Seed) - 2027 Start (PhD) x2
-+ Student Researcher (Multimodal Interaction and World Model - Seed) - 2027 Start (BS/MS) x2
-+ Student Researcher (Speech Foundation Model - Seed) - 2027 Start (BS/MS) x2
-+ Student Researcher (Speech Foundation Model - Seed) – 2027 Start (PhD) x2
-+ Taguig, National Capital Region, Philippines
-+ Tata Consultancy Services (1,393)
-+ Tech Lead Manager, Large Language Models & Generative AI x2
-- University of Michigan (484)
-- Walmart (410)
-- myGwork - LGBTQ+ Business Community (1,103)
-- 国际化转让定价专家（上海） x2
-- 国际税税务经理 x2
++ ,
++ , and
+- - Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+- - Background in resource scheduling and optimization
+- - Collaborate with AI infrastructure teams to integrate specialized tooling and execution environments;
+- - Continuously improve platform efficiency and cost-effectiveness through system optimization;
+- - Contributions to open-source infrastructure projects
+- - Deep understanding of Linux, networking (TCP/IP, HTTP), and distributed systems.
+- - Design, develop, and optimize the core platform services and ecosystem components;
+- - Establish and enforce platform engineering best practices across internal product lines;
+- - Experience in infrastructure products (e.g., monitoring, logging, service mesh, storage).
+- - Experience with PaaS platforms or service deployment systems
+- - Familiarity with cloud-native technologies (Kubernetes, Docker) and large-scale system design.
+- - Knowledge of AI/ML platform infrastructure and tooling
+- - Proficiency in Go/Python/Rust/Typescript and strong systems programming skills.
++ .
+- 1 hour ago x2
+- 3 hours ago x18
+- 36
+- 36 jobs in Worldwide
+- 4 hours ago x14
+- 5 hours ago x2
+- 8 months ago
+- About The Team
+- About Us
+- Actively Hiring x22
++ Agree & Join
++ Already on Linkedin?
+- Amazon (970)
+- Any time (1,199)
+- Applied Machine Learning SRE Intern (AML) - 2026 Start (BS/MS) x2
+- As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+- Backend Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS) x2
+- Backend Engineer Graduate (Recommendation Foundation Infrastructure) - 2026 Start (BS/MS) x2
+- Backend Engineer Graduate (Vertical Recommendation Architecture) - 2026 Start (BS/MS) x2
+- Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS) x2
+- Be among the first 25 applicants
+- Be an early applicant x14
+- Big Data Engineer Graduate (Application Computing, Data + AI) - 2026 Start (BS/MS) x2
+- Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS) x2
++ By clicking Agree & Join, you agree to the LinkedIn
+- ByteDance x38
+- ByteDance (36)
+- ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
+- Campaign Management Project Intern (Central Strategy and Special Projects, E-Commerce) - 2026 Start (BS/MS) x2
+- Circle K (695)
+- Clear text x6
++ Continue with Google x2
++ Cookie Policy
+- Customer Success Manager Project Intern (Lark APAC) - 2026 Start (BS/MS) x2
+- DE Operation Project Intern (CapCut) - 2026 Start (BS/MS) x2
+- Data Operations Project Intern (AI Data & Safety) - 2026 Start (BS/MS) x2
+- Deep Learning Algorithm Graduate (Search Ranking) - 2026 Start (BS/MS) x2
+- Diversity & Inclusion​
+- Done x5
++ Email
+- Employment type
+- Engineering and Information Technology
+- Entry level (2)
+- Expand search
+- Experience level
++ First name
+- Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
+- Full-time
+- Full-time (22)
+- HR Operations Advisor - JP/KR x2
+- HR Operations Advisor Graduate (HR Operations APAC Lifecycle Operations) - 2026 Start (BS/MS) x2
+- Hybrid (1)
+- Industries
+- Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
+- Integrated Marketing Project Intern (Lark APAC - Customer Advocacy & Product Content) - 2026 Start (BS/MS) x2
+- Integrated Marketing Project Intern (Lark Content & Campaigns) - 2026 Start (BS/MS) x2
+- Internship (14)
+- Internship (31)
+- Job function
+- Job type
+- Jobs x2
+- Jobs in Worldwide
++ Join LinkedIn
+- Join now
++ Last name
+- Learning
+- London, England, United Kingdom x2
+- MLLM Algorithm Engineer Graduate (Search) - 2026 Start (BS/MS) x2
+- Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics)- 2026 Start (BS/MS) x2
+- Mid-Senior level
+- Mid-Senior level (3)
+- Minimum Qualifications:
+- Model Infrastructure Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS) x2
+- New to LinkedIn?
++ New to Linkedin?
+- No longer accepting applications
++ Not you?
+- On-site (35)
+- Our mission is to enable safer deployment processes, expand deployment capabilities, and deliver robust control mechanisms to optimize business operations and reduce costs. As part of our drive for innovation, we are continuously expanding our PaaS offerings to support AI infrastructure development through next generation technologies with MCP and AI Sandbox.
++ Password (6+ characters)
+- Past 24 hours
+- Past 24 hours (36)
+- Past 24 hours (57)
+- Past month (970)
+- Past week (323)
+- People
+- Preferred Qualifications:
++ Privacy Policy
+- Production System Engineer x2
+- Qualifications
+- Real Estate Process and Experience Management Project Intern (The Space Processes & Experience) - 2026 Start (BS/MS) x2
+- Referrals increase your chances of interviewing at ByteDance by 2x
+- Remote
++ Remove photo
+- Report this job
+- Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD) x2
+- Research Scientist in AI Foundation Model Infrastructure - Seed - Graduates - 2027 Start (BS/MS) x2
+- Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (BS/MS) x2
+- Research Scientist in Large Language Model (LLM) - Seed - Graduates - 2027 Start (PhD) x2
+- Research Scientist in Multimodal Interaction and World Model - Seed - Graduates - 2027 Start (BS/MS) x2
+- Research Scientist in Vision Foundation Model - Seed - Graduates - 2027 Start (PhD) x2
+- Reset
+- Responsibilities
+- San Jose, CA x10
+- Seattle, WA x5
+- Security Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS) x2
++ Security verification
+- See who ByteDance has hired for this role
+- See who you know
+- Seniority level
+- Seoul, Seoul, South Korea
+- Show less
+- Show more
+- Siemens (630)
++ Sign Up | LinkedIn
++ Sign in
+- Sign in to view more jobs
+- Sign in with Email
+- Singapore x17
+- Singapore, Singapore
+- Site Reliability Engineer - System Service Global x2
+- Software Engineer - Service Platform
+- Software Engineer Graduate (Recommendation Ecosystem Infrastructure) - 2026 Start (BS/MS) x2
+- Student Researcher (AI Foundation Model Infrastructure - Seed) - 2027 Start (BS/MS) x2
+- Student Researcher (AI Foundation Model Infrastructure - Seed) - 2027 Start (PhD) x2
+- Student Researcher (Multimodal Interaction and World Model - Seed) - 2027 Start (BS/MS) x2
+- Student Researcher (Speech Foundation Model - Seed) - 2027 Start (BS/MS) x2
+- Student Researcher (Speech Foundation Model - Seed) – 2027 Start (PhD) x2
+- Taguig, National Capital Region, Philippines
+- Tata Consultancy Services (1,393)
+- Tech Lead Manager, Large Language Models & Generative AI x2
+- Technology, Information and Internet
+- The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ User Agreement
+- What you will be doing:
+- Why Join ByteDance
+- Worldwide
+- You've viewed all jobs for this search
++ or
 ```
 
 ---
