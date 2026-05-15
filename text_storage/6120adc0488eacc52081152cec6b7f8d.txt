@@ -71,17 +71,6 @@ Fixed-Term
 Full-time
 Internship
 Scholarship
-Business Development
-Apply
-Year at Palantir, Internship
-On-site —
-Internship
-New York, NY
-Apply
-Year at Palantir, Internship
-On-site —
-Internship
-Washington, D.C.
 Delta
 Apply
 Forward Deployed Software Engineer, Internship - France
@@ -98,6 +87,27 @@ Forward Deployed Software Engineer, Internship - US Government
 On-site —
 Internship
 Honolulu, HI
+Apply
+Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
+On-site —
+Internship
+New York, NY
+Apply
+Year at Palantir - Forward Deployed Software Engineer, Internship - USG
+On-site —
+Internship
+New York, NY
+Apply
+Year at Palantir - Forward Deployed Software Engineer, Internship - USG
+On-site —
+Internship
+Washington, D.C.
+Dev
+Apply
+Year at Palantir - Software Engineer, Internship
+On-site —
+Internship
+New York, NY
 Echo
 Apply
 Deployment Strategist, Internship

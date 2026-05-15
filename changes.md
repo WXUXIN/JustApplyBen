@@ -1,22 +1,23 @@
 # Latest Scraper Results
 
-## 2026-05-14 06:23:02
+## 2026-05-15 06:31:22
 
-### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
-
-**Line changes detected!**
-
-```diff
-+ Meta AI
-```
-
----
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
 No line changes.
+```
+
+---
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+
+**Line changes detected!**
+
+```diff
+- Connect
++ Discover
 ```
 
 ---
@@ -34,12 +35,16 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Apply
-+ Contractor
-- Internship
-- London, United Kingdom
-- On-site —
-- UK Meritocracy Fellowship
++ Apply x2
+- Business Development
++ Dev
++ Internship x2
++ New York, NY x2
++ On-site — x2
++ Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
++ Year at Palantir - Forward Deployed Software Engineer, Internship - USG x2
++ Year at Palantir - Software Engineer, Internship
+- Year at Palantir, Internship x2
 ```
 
 ---
