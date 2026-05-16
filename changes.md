@@ -1,6 +1,6 @@
 # Latest Scraper Results
 
-## 2026-05-15 06:31:22
+## 2026-05-16 05:52:58
 
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
@@ -11,40 +11,14 @@ No line changes.
 ```
 
 ---
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
 
 **Line changes detected!**
 
 ```diff
-- Connect
-+ Discover
-```
-
----
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-No line changes.
-```
-
----
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
-
-**Line changes detected!**
-
-```diff
-+ Apply x2
-- Business Development
-+ Dev
-+ Internship x2
-+ New York, NY x2
-+ On-site — x2
-+ Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
-+ Year at Palantir - Forward Deployed Software Engineer, Internship - USG x2
-+ Year at Palantir - Software Engineer, Internship
-- Year at Palantir, Internship x2
++ London
++ QRT Travel Grant to ICML 2026 - Apply Here
++ View opportunity
 ```
 
 ---
