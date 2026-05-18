@@ -1,14 +1,156 @@
 # Latest Scraper Results
 
-## 2026-05-17 06:20:36
+## 2026-05-18 06:54:37
 
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r86400&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
 
 **Line changes detected!**
 
 ```diff
-- Connect
-- Discover
++ , x2
++ , and x2
++ - Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
++ - Background in resource scheduling and optimization
++ - Collaborate with AI infrastructure teams to integrate specialized tooling and execution environments;
++ - Continuously improve platform efficiency and cost-effectiveness through system optimization;
++ - Contributions to open-source infrastructure projects
++ - Deep understanding of Linux, networking (TCP/IP, HTTP), and distributed systems.
++ - Design, develop, and optimize the core platform services and ecosystem components;
++ - Establish and enforce platform engineering best practices across internal product lines;
++ - Experience in infrastructure products (e.g., monitoring, logging, service mesh, storage).
++ - Experience with PaaS platforms or service deployment systems
++ - Familiarity with cloud-native technologies (Kubernetes, Docker) and large-scale system design.
++ - Knowledge of AI/ML platform infrastructure and tooling
++ - Proficiency in Go/Python/Rust/Typescript and strong systems programming skills.
++ . x2
++ 17
++ 17 jobs in Worldwide
++ 20 hours ago x7
++ 21 hours ago x4
++ 32 minutes ago
++ 4 hours ago x5
++ 8 months ago
++ About The Team
++ About Us
++ Actively Hiring x11
+- Agree & Join
++ Alignerr (1,019)
+- Already on Linkedin?
++ Am I a good fit for this job?
++ Any time (1,205)
++ Application Security Engineer Intern (Global Monetization) - 2026 Start (BS/MS) x2
++ As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
++ Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS) x2
++ Be among the first 25 applicants
++ Be an early applicant x6
++ Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS) x2
+- By clicking Agree & Join, you agree to the LinkedIn
++ By clicking Continue to join or sign in, you agree to LinkedIn’s x3
++ ByteDance x19
++ ByteDance (17)
++ ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
++ Clear text x6
+- Continue with Google x2
++ Cookie Policy x2
++ Diversity & Inclusion​
++ Domino's (896)
++ Done x5
+- Email
++ Email or phone x3
++ Employment type
++ Engineering and Information Technology
++ Entry level (1)
++ Expand search
++ Experience level
++ Finance Business Partner Lead, eCommerce - Vietnam & Philippines x2
+- First name
++ Forgot password? x3
++ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
++ Full-time
++ Full-time (6)
++ Get AI-powered advice on this job and more exclusive features.
++ Global Payroll Operation Graduate (HR Operations) - 2026 Start (BS/MS) x2
++ Industries
++ Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
++ Internship (11)
++ Internship (15)
++ Job function
++ Job type
++ Jobs x2
++ Jobs in Worldwide
+- Join LinkedIn
++ Join now x4
++ Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+- Last name
++ Learning
++ Machine Learning Engineer Graduate (E-Commerce Supply Chain & Logistics)- 2026 Start (BS/MS) x2
++ Machine Learning Engineer Intern (E-commerce-Conversational AI) - 2026 Summer (MS) x2
++ Mid-Senior level
++ Mid-Senior level (1)
++ Minimum Qualifications:
++ New to LinkedIn? x4
+- New to Linkedin?
++ No longer accepting applications
+- Not you?
++ On-site (17)
++ Our mission is to enable safer deployment processes, expand deployment capabilities, and deliver robust control mechanisms to optimize business operations and reduce costs. As part of our drive for innovation, we are continuously expanding our PaaS offerings to support AI infrastructure development through next generation technologies with MCP and AI Sandbox.
++ Password x3
+- Password (6+ characters)
++ Past 24 hours
++ Past 24 hours (17)
++ Past month (943)
++ Past week (248)
++ People
++ Preferred Qualifications:
++ Privacy Policy x2
++ Qualifications
++ Quik Hire Staffing (334)
++ Referrals increase your chances of interviewing at ByteDance by 2x
++ Remote
+- Remove photo
++ Report this job
++ Research Scientist Graduate (Multimodal Interaction and World Model) - 2026 Start (PhD) x2
++ Research Scientist in Vision Foundation Model - Seed - Graduates - 2027 Start (BS/MS) x2
++ Reset
++ Responsibilities
++ San Jose, CA x5
++ Seattle, WA x5
++ Security Software Project Intern (Cloud Security) - 2026 Start (BS/MS) x2
+- Security verification
++ See who ByteDance has hired for this role
++ See who you know
++ Seniority level
++ Show x3
++ Show less
++ Show more
+- Sign Up | LinkedIn
++ Sign in x2
++ Sign in to access AI-powered advices
++ Sign in to evaluate your skills
++ Sign in to tailor your resume
++ Sign in to view more jobs
++ Sign in with Email x4
++ Singapore x5
++ Singapore, Singapore x2
++ Site Reliability Engineer Intern (Data Infrastructure) - 2026 Summer (BS/MS) x2
++ Software Engineer - Service Platform
++ Software Engineer Graduate (Cloud Native Infrastructure) - 2026 Start (BS/MS) x2
++ Software Engineer Intern (Global Payment) - 2026 Start (BS/MS) x2
++ Student Researcher (AI Foundation Models Infrastructure - Seed Infra) - 2026 Start (PhD) x4
++ Student Researcher (AI Foundation Models Infrastructure – Seed Infra) – 2026 Start (BS/MS) x2
++ Student Researcher (Seed – Multimodal Interaction & World Model - RL Focused) – 2026 Start (PhD) x2
++ Tailor my resume
++ Technology, Information and Internet
++ The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
++ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ Use AI to assess how you fit
++ User Agreement x2
++ Walmart (1,579)
++ What you will be doing:
++ Why Join ByteDance
++ Worldwide
++ You've viewed all jobs for this search
++ or x2
 ```
 
 ---
