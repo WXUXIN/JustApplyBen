@@ -130,6 +130,11 @@ Technology - Backend
 2026 Soaring Star Talent Program
 Singapore
 Regular
+Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
+Technology - Algorithm
+PhD Graduates- 2026 Start
+Singapore
+Regular
 Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -140,11 +145,6 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
-Technology - Algorithm
-PhD Graduates- 2026 Start
-Singapore
-Regular
 Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
