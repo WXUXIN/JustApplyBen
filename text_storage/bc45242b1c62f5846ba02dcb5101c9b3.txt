@@ -1,4 +1,4 @@
-0 jobs in Worldwide
+5 jobs in Worldwide
 Skip to main content
 LinkedIn
 Worldwide
@@ -16,24 +16,169 @@ Clear text
 Sign in
 Join now
 Past 24 hours
-Any time (1,024)
-Past month (860)
-Past week (142)
-Past 24 hours (22)
-Past 24 hours
+Any time (1,057)
+Past month (866)
+Past week (132)
+Past 24 hours (25)
+Past 24 hours (5)
 Done
 ByteDance
 Clear text
-ByteDance
-Jobs via Dice (3,115)
-Global Nomadic (1,047)
-Panda Restaurant Group (767)
-H-E-B (722)
+ByteDance (5)
+Jobs via Dice (1,123)
+Walmart (673)
+Actalent (289)
+Walter Learning (254)
+Done
+Job type
+Full-time (4)
+Internship (1)
+Done
+Experience level
+Internship (1)
+Mid-Senior level (2)
+Done
+Remote
+On-site (4)
+Hybrid (1)
 Done
 Reset
-We couldn’t find a match for
-jobs in Worldwide
-Please make sure your keywords are spelled correctly
+5
+Jobs in Worldwide
+Financial Services Strategy Lead (SG) - Global Payment
+Financial Services Strategy Lead (SG) - Global Payment
+ByteDance
+Singapore, Singapore
+Be an early applicant
+5 hours ago
+Data Center Technical Project Manager, Data Center Development
+Data Center Technical Project Manager, Data Center Development
+ByteDance
+London, England, United Kingdom
+Be an early applicant
+5 hours ago
+Lead Brand Marketing Strategist - Global Payment
+Lead Brand Marketing Strategist - Global Payment
+ByteDance
+San Jose, CA
+Be an early applicant
+3 hours ago
+Software engineer - AI Agent Infra
+Software engineer - AI Agent Infra
+ByteDance
+San Jose, CA
+Be an early applicant
+7 minutes ago
+Payment Strategy Business Development Project Intern (Global Payment) - 2026 Start (BS/MS)
+Payment Strategy Business Development Project Intern (Global Payment) - 2026 Start (BS/MS)
+ByteDance
+Tokyo, Tokyo, Japan
+Be an early applicant
+2 hours ago
+You've viewed all jobs for this search
+Software Engineer - Service Platform
+ByteDance
+Singapore, Singapore
+8 months ago
+Be among the first 25 applicants
+See who ByteDance has hired for this role
+No longer accepting applications
+Report this job
+Use AI to assess how you fit
+Get AI-powered advice on this job and more exclusive features.
+Am I a good fit for this job?
+Tailor my resume
+Sign in to access AI-powered advices
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to evaluate your skills
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to tailor your resume
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Responsibilities
+About The Team
+The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
+Our mission is to enable safer deployment processes, expand deployment capabilities, and deliver robust control mechanisms to optimize business operations and reduce costs. As part of our drive for innovation, we are continuously expanding our PaaS offerings to support AI infrastructure development through next generation technologies with MCP and AI Sandbox.
+What you will be doing:
+- Design, develop, and optimize the core platform services and ecosystem components;
+- Collaborate with AI infrastructure teams to integrate specialized tooling and execution environments;
+- Continuously improve platform efficiency and cost-effectiveness through system optimization;
+- Establish and enforce platform engineering best practices across internal product lines;
+Qualifications
+Minimum Qualifications:
+- Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+- Proficiency in Go/Python/Rust/Typescript and strong systems programming skills.
+- Deep understanding of Linux, networking (TCP/IP, HTTP), and distributed systems.
+- Experience in infrastructure products (e.g., monitoring, logging, service mesh, storage).
+- Familiarity with cloud-native technologies (Kubernetes, Docker) and large-scale system design.
+Preferred Qualifications:
+- Experience with PaaS platforms or service deployment systems
+- Knowledge of AI/ML platform infrastructure and tooling
+- Background in resource scheduling and optimization
+- Contributions to open-source infrastructure projects
+About Us
+Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
+Why Join ByteDance
+Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
+As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+Diversity & Inclusion​
+ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
+Show more
+Show less
+Seniority level
+Mid-Senior level
+Employment type
+Full-time
+Job function
+Engineering and Information Technology
+Industries
+Technology, Information and Internet
+Referrals increase your chances of interviewing at ByteDance by 2x
+See who you know
 LinkedIn
 © 2026
 About
