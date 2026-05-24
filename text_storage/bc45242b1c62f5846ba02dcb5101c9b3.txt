@@ -1,4 +1,4 @@
-11 jobs in Worldwide
+20 jobs in Worldwide
 Skip to main content
 LinkedIn
 Worldwide
@@ -16,99 +16,156 @@ Clear text
 Sign in
 Join now
 Past 24 hours
-Any time (1,028)
-Past month (845)
-Past week (142)
-Past 24 hours (22)
-Past 24 hours (11)
+Any time (1,063)
+Past month (859)
+Past week (162)
+Past 24 hours (38)
+Past 24 hours (20)
 Done
 ByteDance
 Clear text
-ByteDance (11)
-Family Dollar (3,126)
-Inside Higher Ed (780)
-Deloitte (634)
-CVS Health (499)
+ByteDance (20)
+DataAnnotation (1,322)
+Walmart (1,174)
+Headway (1,044)
+McDonald's (866)
 Done
 Job type
-Full-time (4)
-Internship (7)
+Full-time (19)
+Contract (1)
 Done
 Experience level
-Internship (11)
+Associate (2)
+Mid-Senior level (10)
+Executive (7)
 Done
 Remote
-On-site (11)
+On-site (14)
+Hybrid (4)
 Done
 Reset
-11
+20
 Jobs in Worldwide
-Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)
-Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Summer (BS/MS)
+Technical Project Manager - BytePlus (GenAI & SaaS)
+Technical Project Manager - BytePlus (GenAI & SaaS)
 ByteDance
-San Jose, CA
-Actively Hiring
-2 hours ago
-Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2026 Summer (BS/MS)
-Machine Learning Engineer Intern (Global E-commerce Risk Control) - 2026 Summer (BS/MS)
+Riyadh, Riyadh, Saudi Arabia
+Be an early applicant
+11 minutes ago
+Chief Information Security Officer - Cloud Security - Saudi Arabia
+Chief Information Security Officer - Cloud Security - Saudi Arabia
 ByteDance
-Seattle, WA
-Actively Hiring
-2 hours ago
-Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) - 2026 Start (PhD)
-Machine Learning Graduate (eCommerce User Growth & Intelligent Marketing) - 2026 Start (PhD)
+Riyadh, Riyadh, Saudi Arabia
+Be an early applicant
+13 minutes ago
+Technical Project Manager, BytePlus - (Third-Party Associate)
+Technical Project Manager, BytePlus - (Third-Party Associate)
 ByteDance
-Seattle, WA
-Actively Hiring
-3 hours ago
-Procurement Specialist Graduate (Global General Procurement) - 2026 Start (BS/MS)
-Procurement Specialist Graduate (Global General Procurement) - 2026 Start (BS/MS)
+Riyadh, Riyadh, Saudi Arabia
+Be an early applicant
+4 minutes ago
+Country Director, Financial Services - Global Payment (Malaysia)
+Country Director, Financial Services - Global Payment (Malaysia)
 ByteDance
-Singapore
-Actively Hiring
-2 hours ago
-Big Data Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
-Big Data Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
+Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+Be an early applicant
+15 minutes ago
+Collections Manager - Global Payment
+Collections Manager - Global Payment
 ByteDance
-Singapore
-Actively Hiring
-2 hours ago
-Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (PhD)
-Machine Learning Engineer Graduate (TikTok E-Commerce - Conversational AI)-2026 Start (PhD)
+São Paulo, São Paulo, Brazil
+Be an early applicant
+18 minutes ago
+Employee Relations Partner - APAC
+Employee Relations Partner - APAC
 ByteDance
-San Jose, CA
-Actively Hiring
-3 hours ago
-Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
-Backend Software Engineer Intern (Service Platform) - 2026 Start (BS/MS)
+Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+Be an early applicant
+24 minutes ago
+BNPL Solution Product manager - Global Payment
+BNPL Solution Product manager - Global Payment
 ByteDance
-Singapore
-Actively Hiring
-2 hours ago
-Student Researcher - (Seed Infra-Compiler) - 2026 Start (BS/MS)
-Student Researcher - (Seed Infra-Compiler) - 2026 Start (BS/MS)
+Singapore, Singapore
+Be an early applicant
+23 minutes ago
+AI Product Manager (Evaluation) - Flow
+AI Product Manager (Evaluation) - Flow
 ByteDance
-San Jose, CA
-Actively Hiring
-3 hours ago
-Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)
-Software Engineer Project Intern (Network Security) - 2026 Start (BS/MS)
+Singapore, Singapore
+Be an early applicant
+25 minutes ago
+Country Director, Financial Services - Global Payment (Vietnam)
+Country Director, Financial Services - Global Payment (Vietnam)
 ByteDance
-San Jose, CA
-Actively Hiring
-3 hours ago
-Customer Success Project Intern (Lark Japan) - 2026 Start (BS/MS）
-Customer Success Project Intern (Lark Japan) - 2026 Start (BS/MS）
+Ho Chi Minh City, Vietnam
+Be an early applicant
+16 minutes ago
+Global Workplace Design Manager
+Global Workplace Design Manager
+ByteDance
+Singapore, Singapore
+Be an early applicant
+4 minutes ago
+Product Compliance Officer (BNPL & Merchant Financing) - Global Payment
+Product Compliance Officer (BNPL & Merchant Financing) - Global Payment
+ByteDance
+Singapore, Singapore
+Be an early applicant
+31 minutes ago
+税务系统化专家（上海）
+税务系统化专家（上海）
+ByteDance
+Shanghai, Shanghai, China
+Be an early applicant
+17 minutes ago
+Cloud Security Architect, ByteDance
+Cloud Security Architect, ByteDance
+ByteDance
+Riyadh, Riyadh, Saudi Arabia
+Be an early applicant
+12 minutes ago
+Head of Sales - Lark - Japan
+Head of Sales - Lark - Japan
 ByteDance
 Tokyo, Tokyo, Japan
-Actively Hiring
-2 hours ago
-Student Researcher - (Seed Infra-Compiler) - 2026 Start (PhD)
-Student Researcher - (Seed Infra-Compiler) - 2026 Start (PhD)
+Be an early applicant
+19 minutes ago
+Linux System Engineer - Systems Technologies and Engineering - London
+Linux System Engineer - Systems Technologies and Engineering - London
+ByteDance
+London, England, United Kingdom
+Be an early applicant
+29 minutes ago
+Senior Production System Engineer - San Jose
+Senior Production System Engineer - San Jose
 ByteDance
 San Jose, CA
 Be an early applicant
-2 hours ago
+22 minutes ago
+Account Executive - SaaS Commercial - Lark Japan
+Account Executive - SaaS Commercial - Lark Japan
+ByteDance
+Tokyo, Tokyo, Japan
+Be an early applicant
+26 minutes ago
+Data Center Design Manager, Data Center Development
+Data Center Design Manager, Data Center Development
+ByteDance
+Singapore, Singapore
+Be an early applicant
+24 minutes ago
+Tax Director - Americas (San Jose)
+Tax Director - Americas (San Jose)
+ByteDance
+San Jose, CA
+Be an early applicant
+24 minutes ago
+Tax Director - Americas (Los Angeles)
+Tax Director - Americas (Los Angeles)
+ByteDance
+Los Angeles, CA
+Be an early applicant
+24 minutes ago
 You've viewed all jobs for this search
 Software Engineer - Service Platform
 ByteDance
@@ -118,6 +175,61 @@ Be among the first 25 applicants
 See who ByteDance has hired for this role
 No longer accepting applications
 Report this job
+Use AI to assess how you fit
+Get AI-powered advice on this job and more exclusive features.
+Am I a good fit for this job?
+Tailor my resume
+Sign in to access AI-powered advices
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to evaluate your skills
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to tailor your resume
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
 Responsibilities
 About The Team
 The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
