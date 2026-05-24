@@ -125,11 +125,6 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Recommendation System Architecture Engineer- Soaring Star Talent Program
-Technology - Backend
-2026 Soaring Star Talent Program
-Singapore
-Regular
 Software Engineer Graduate (Traffic Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -148,6 +143,11 @@ Regular
 Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (PhD)
+Technology - Algorithm
+PhD Graduates- 2026 Start
 Singapore
 Regular
 Show 12 out of 109 open roles
