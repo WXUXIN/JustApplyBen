@@ -1,18 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-06-06 02:46:51
+## 2026-06-06 08:30:47
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-- Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
-+ Backend Engineer Graduate (Recommendation Architecture) - 2026 Start (PhD)
-+ PhD Graduates- 2026 Start
-- Technology
-+ Technology - Backend
+No line changes.
 ```
 
 ---
@@ -21,14 +16,7 @@
 **Line changes detected!**
 
 ```diff
-+ 2026 Soaring Star Talent Program
-- Global Frontier Tech Recruitment Program - Intern
-- Intern
-+ Regular
-- Research Scientist Intern - Data Center AIOps & Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
-+ Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
-+ Technology - Algorithm
-- Technology - Hardware
+No line changes.
 ```
 
 ---
@@ -37,12 +25,7 @@
 **Line changes detected!**
 
 ```diff
-- Bachelor/Master Graduates- 2026 Start
-- Backend Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
-+ Backend Engineer Graduate (Recommendation Architecture) - 2026 Start (PhD)
-+ PhD Graduates- 2026 Start
-- Technology
-+ Technology - Backend
+No line changes.
 ```
 
 ---
