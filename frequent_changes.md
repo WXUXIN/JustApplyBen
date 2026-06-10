@@ -1,6 +1,6 @@
 # Latest Frequent Scraper Results
 
-## 2026-06-10 15:28:27
+## 2026-06-10 20:25:41
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
@@ -8,7 +8,7 @@
 
 ```diff
 - Connect
-- Discover
++ Discover
 ```
 
 ---
@@ -17,7 +17,8 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Boston
++ Washington D.C.
 ```
 
 ---
@@ -26,7 +27,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Stay updated on your professional world.
+- Stay updated on your professional world.
 ```
 
 ---
@@ -35,7 +36,14 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Bachelor/Master Graduates- 2026 Start
++ Big Data Engineer Graduate (Libra Platform) - 2026 Start (BS/MS)
+- Boston
+- Global Frontier Tech Recruitment Program - 2027 Grad
+- Research Scientist - Data Center AIOps & Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
++ Technology
+- Technology - Hardware
++ Washington D.C.
 ```
 
 ---
@@ -44,7 +52,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Boston
++ Washington D.C.
 ```
 
 ---
