@@ -1,41 +1,23 @@
 # Latest Scraper Results
 
-## 2026-06-12 07:21:31
+## 2026-06-13 06:57:51
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
-
-**Line changes detected!**
-
-```diff
-+ Consumer
-+ Infrastructure
-+ Paystack
-+ Reliability
-+ SaaS
-+ Startups
-```
-
----
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- London
-- Senior Software Engineer, Unified Platform - Reference Data
+- Austin, Chicago, Greenwich, Houston, New York City
+- Senior Software Engineer - Analytics Front Office
 ```
 
 ---
-### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-- ,
-- 2026 Internship/Graduate - Technology
-- Hong Kong
-- Singapore
-- View opportunity
+- Connect x2
 ```
 
 ---
@@ -45,15 +27,6 @@
 
 ```diff
 No line changes.
-```
-
----
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
-
-**Line changes detected!**
-
-```diff
-+ Miami, FL
 ```
 
 ---
