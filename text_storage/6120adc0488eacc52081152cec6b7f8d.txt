@@ -30,6 +30,7 @@ Honolulu, HI
 London, United Kingdom
 Miami, FL
 New York, NY
+Oslo, Norway
 Palo Alto, CA
 Paris, France
 San Diego, CA
@@ -72,6 +73,11 @@ Internship
 Scholarship
 Delta
 Apply
+Forward Deployed Software Engineer, Internship - Defense Tech
+On-site —
+Internship
+Washington, D.C.
+Apply
 Forward Deployed Software Engineer, Internship - France
 Hybrid —
 Internship
@@ -79,6 +85,16 @@ New York, NY
 Apply
 Forward Deployed Software Engineer, Internship - Poland
 Hybrid —
+Internship
+New York, NY
+Apply
+Forward Deployed Software Engineer, Internship - US Government
+On-site —
+Internship
+Washington, D.C.
+Apply
+Forward Deployed Software Engineer, Internship - US Government
+On-site —
 Internship
 New York, NY
 Apply
