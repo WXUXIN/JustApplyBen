@@ -90,16 +90,6 @@ Sydney
 Taguig
 Tokyo
 Washington D.C.
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
-Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
-Technology - Big data
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -115,6 +105,16 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
+Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
+Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
+Technology - Big data
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
 Data Compliance Intern (Global Payment - Compliance - Product and Data) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -125,17 +125,12 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Regular
-Big Data  Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Big Data Engineer Graduate (Application Computing, Data + AI) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Big Data  Engineer Graduate (Global E-commerce Recommendation Architecture) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
@@ -145,7 +140,12 @@ Technology - Algorithm
 2026 Soaring Star Talent Program
 Singapore
 Regular
-Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Big Data Engineer Graduate (Libra Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
