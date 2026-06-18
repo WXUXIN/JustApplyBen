@@ -53,7 +53,6 @@ Dev
 Echo
 Engineering
 Finance
-Global Security and Investigations
 Information Security
 Legal
 Mission Operations
