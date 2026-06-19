@@ -90,11 +90,11 @@ Sydney
 Taguig
 Tokyo
 Washington D.C.
-AI Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
+Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
+Technology - Big data
+Bachelor/Master Graduates- 2026 Start
 Singapore
-Intern
+Regular
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates- 2026 Start
@@ -105,16 +105,6 @@ Technology
 Undergraduate/Master Intern- 2026 Start
 Singapore
 Intern
-Backend Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
-Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
-Technology - Big data
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Data Compliance Intern (Global Payment - Compliance - Product and Data) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
@@ -150,7 +140,17 @@ Technology
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
-Show 12 out of 102 open roles
+Research Scientist - Data Center AIOps & Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+Technology - Hardware
+Global Frontier Tech Recruitment Program - 2027 Grad
+Singapore
+Regular
+Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates- 2026 Start
+Singapore
+Regular
+Show 12 out of 94 open roles
 1
 2
 3
@@ -159,7 +159,6 @@ Show 12 out of 102 open roles
 6
 7
 8
-9
 Life at ByteDance
 Early Careers
 Americas
