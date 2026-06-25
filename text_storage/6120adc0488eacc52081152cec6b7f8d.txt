@@ -47,6 +47,7 @@ Team
 All
 Administrative
 Business Development
+Communications
 Delta
 Design
 Dev
@@ -106,6 +107,11 @@ Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
 On-site —
 Internship
 New York, NY
+Apply
+Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial
+On-site —
+Internship
+Chicago, IL
 Apply
 Year at Palantir - Forward Deployed Software Engineer, Internship - USG
 On-site —
