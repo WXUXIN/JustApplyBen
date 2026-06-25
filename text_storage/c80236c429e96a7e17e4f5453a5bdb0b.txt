@@ -125,11 +125,6 @@ Technology - Algorithm
 PhD Graduates- 2026 Start
 Singapore
 Regular
-Backend Engineer Graduate (ShortText Recommendation Infrastructure) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates- 2026 Start
-Singapore
-Regular
 Backend Software Engineer Project Intern (Service Platform) - 2026 Start (BS/MS)
 Technology
 Project Intern
@@ -140,6 +135,11 @@ Technology - Algorithm
 Bachelor/Master Graduates- 2026 Start
 Singapore
 Regular
+Software Engineer (SRE - Platform Services) Intern (Infrastructure Engineering), 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern- 2026 Start
+Singapore
+Intern
 Application Security Engineer Intern (Global Monetization) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern- 2026 Start
