@@ -1,14 +1,14 @@
 # Latest Frequent Scraper Results
 
-## 2026-06-27 02:46:14
+## 2026-06-27 08:32:38
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Connect
-- Discover
+- Connect
++ Discover
 ```
 
 ---
@@ -17,7 +17,14 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Bachelor/Master Graduates- 2026 Start
+- Backend Engineer Graduate (ShortText Recommendation Infrastructure) - 2026 Start (BS/MS)
++ Intern
++ Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
++ PhD Intern- 2026 Start
+- Regular
+- Technology
++ Technology - Machine learning
 ```
 
 ---
@@ -35,7 +42,14 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Bachelor/Master Graduates- 2026 Start
+- Backend Engineer Graduate (ShortText Recommendation Infrastructure) - 2026 Start (BS/MS)
++ Intern
++ Machine Learning Engineer Intern (Global Payment) - 2026 Start (PhD)
++ PhD Intern- 2026 Start
+- Regular
+- Technology
++ Technology - Machine learning
 ```
 
 ---
