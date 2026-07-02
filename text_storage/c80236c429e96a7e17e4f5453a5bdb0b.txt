@@ -51,9 +51,9 @@ Product
 Technology
 Program
 Global Frontier Tech Recruitment Program
+PhD Graduates & Internships
 Bachelor/Master Graduates & Internships
 MBA Graduates & Internships
-PhD Graduates & Internships
 Seed Foundation Model Campus Recruitment
 Project Intern
 Location
@@ -94,37 +94,37 @@ Tokyo
 Washington D.C.
 Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS)
 Technology
-Bachelor/Master Graduates- 2026 Start
+Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
 Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
 Technology
-Undergraduate/Master Intern- 2026 Start
+Undergraduate/Master Intern - 2026 Start
 Singapore
 Regular
 Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
 Technology
-Bachelor/Master Graduates- 2026 Start
+Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
-Bachelor/Master Graduates- 2026 Start
+Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
 Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
-Undergraduate/Master Intern- 2026 Start
+Undergraduate/Master Intern - 2026 Start
 Singapore
 Intern
 Backend Engineer Graduate (Recommendation Architecture) - 2026 Start (PhD)
 Technology - Backend
-PhD Graduates- 2026 Start
+PhD Graduates - 2026 Start
 Singapore
 Regular
 Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
 Technology - Algorithm
-PhD Graduates- 2026 Start
+PhD Graduates - 2026 Start
 Singapore
 Regular
 Backend Software Engineer Project Intern (Service Platform) - 2026 Start (BS/MS)
@@ -132,24 +132,24 @@ Technology
 Project Intern
 Singapore
 Intern
-Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)
-Technology - Algorithm
-Bachelor/Master Graduates- 2026 Start
+Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern - 2026 Start
 Singapore
-Regular
+Intern
 Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
 Technology - Algorithm
-Bachelor/Master Graduates- 2026 Start
+Bachelor/Master Graduates - 2026 Start
+Singapore
+Regular
+Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)
+Technology - Algorithm
+Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
 Software Engineer (SRE - Platform Services) Intern (Infrastructure Engineering), 2026 Start (BS/MS)
 Technology
-Undergraduate/Master Intern- 2026 Start
-Singapore
-Intern
-Application Security Engineer Intern (Global Monetization) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern- 2026 Start
+Undergraduate/Master Intern - 2026 Start
 Singapore
 Intern
 Show 12 out of 93 open roles
