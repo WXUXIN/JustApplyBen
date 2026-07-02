@@ -97,14 +97,14 @@ Technology
 Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
 Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
 Technology
 Undergraduate/Master Intern - 2026 Start
+Singapore
+Regular
+Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
@@ -127,16 +127,21 @@ Technology - Algorithm
 PhD Graduates - 2026 Start
 Singapore
 Regular
-Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
-Singapore
-Intern
 Backend Software Engineer Project Intern (Service Platform) - 2026 Start (BS/MS)
 Technology
 Project Intern
 Singapore
 Intern
+Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern - 2026 Start
+Singapore
+Intern
+Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)
+Technology - Algorithm
+Bachelor/Master Graduates - 2026 Start
+Singapore
+Regular
 Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
 Technology - Algorithm
 Bachelor/Master Graduates - 2026 Start
@@ -147,11 +152,6 @@ Technology
 Undergraduate/Master Intern - 2026 Start
 Singapore
 Intern
-Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)
-Technology - Algorithm
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
 Show 12 out of 93 open roles
 1
 2
