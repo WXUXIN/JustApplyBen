@@ -13,7 +13,6 @@ Email or phone
 Password
 Show
 Forgot password?
-Keep me logged in
 Sign in
 We’ve emailed a one-time link to your primary email address
 Click on the link to sign in instantly to your LinkedIn account.
