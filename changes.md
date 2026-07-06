@@ -1,14 +1,27 @@
 # Latest Scraper Results
 
-## 2026-07-05 06:38:19
+## 2026-07-06 07:09:30
 
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
 
 **Line changes detected!**
 
 ```diff
-- Connect
-+ Discover
++ About
+- Asset Management x2
+- Careers
++ Contact
+- Contact Us x2
++ Disclaimer
++ Home
++ Job Posts
+- Middle Office
+- Newsroom
+- Our Culture
+- Technology x2
+- Trading
+- Who We Are
+- Who we are
 ```
 
 ---
