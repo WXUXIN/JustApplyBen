@@ -31,6 +31,7 @@ London, United Kingdom
 Madrid, Spain
 Miami, FL
 New York, NY
+North America
 Oslo, Norway
 Palo Alto, CA
 Paris, France
@@ -63,7 +64,6 @@ Product Development
 Product Support
 Recruiting
 Sales
-Scholarship
 Technical Operations
 Internship
 All
