@@ -117,16 +117,16 @@ Technology
 Undergraduate/Master Intern - 2026 Start
 Singapore
 Intern
-Network Reliability Engineer Intern (Network) - 2026 start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
-Singapore
-Intern
 Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
 Technology - Algorithm
 PhD Graduates - 2026 Start
 Singapore
 Regular
+Network Reliability Engineer Intern (Network) - 2026 start (BS/MS)
+Technology
+Undergraduate/Master Intern - 2026 Start
+Singapore
+Intern
 Backend Software Engineer Project Intern (Service Platform) - 2026 Start (BS/MS)
 Technology
 Project Intern
@@ -137,12 +137,12 @@ Technology
 Undergraduate/Master Intern - 2026 Start
 Singapore
 Intern
-Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
+Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)
 Technology - Algorithm
 Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
-Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)
+Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
 Technology - Algorithm
 Bachelor/Master Graduates - 2026 Start
 Singapore
