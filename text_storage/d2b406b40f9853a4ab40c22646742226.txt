@@ -66,7 +66,6 @@ Dubai
 Dublin
 Gurgaon
 Hanoi
-Hillsboro
 Ho Chi Minh City
 Hong Kong (China)
 Jakarta
@@ -122,6 +121,11 @@ Technology - Algorithm
 PhD Graduates - 2026 Start
 Singapore
 Regular
+Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
+Technology - Algorithm
+Bachelor/Master Graduates - 2026 Start
+Singapore
+Regular
 Network Reliability Engineer Intern (Network) - 2026 start (BS/MS)
 Technology
 Undergraduate/Master Intern - 2026 Start
@@ -138,11 +142,6 @@ Undergraduate/Master Intern - 2026 Start
 Singapore
 Intern
 Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)
-Technology - Algorithm
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
-Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
 Technology - Algorithm
 Bachelor/Master Graduates - 2026 Start
 Singapore
