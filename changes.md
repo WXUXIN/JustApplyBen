@@ -1,14 +1,19 @@
 # Latest Scraper Results
 
-## 2026-07-10 06:41:47
+## 2026-07-11 05:38:19
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
 
 **Line changes detected!**
 
 ```diff
-+ Chicago, New York City
-+ Python Software Engineer, Trading Platform
++ Apply x3
++ Forward Deployed Infrastructure Engineer, Internship - US Government x3
++ Internship x3
++ New York, NY
++ On-site — x3
++ Palo Alto, CA
++ Washington, D.C.
 ```
 
 ---
