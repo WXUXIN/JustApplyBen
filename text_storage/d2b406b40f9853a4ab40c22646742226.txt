@@ -116,14 +116,14 @@ Technology
 Undergraduate/Master Intern - 2026 Start
 Singapore
 Intern
-Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2026 Start (BS/MS)
-Technology - Algorithm
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
 Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
 Technology - Algorithm
 PhD Graduates - 2026 Start
+Singapore
+Regular
+Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2026 Start (BS/MS)
+Technology - Algorithm
+Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
 Network Reliability Engineer Intern (Network) - 2026 start (BS/MS)
