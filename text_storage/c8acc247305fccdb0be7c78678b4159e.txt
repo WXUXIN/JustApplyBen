@@ -131,21 +131,21 @@ Technology
 Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
-Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
-Technology - Algorithm
-2026 Soaring Star Talent Program
-Singapore
-Regular
 Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
-Big Data Engineer Graduate (Libra Platform) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates - 2026 Start
+Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
+Technology - Algorithm
+2026 Soaring Star Talent Program
 Singapore
 Regular
+Big Data Engineer Intern (Libra Platform) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern - 2026 Start
+Singapore
+Intern
 Research Scientist - Data Center AIOps & Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
 Technology - Hardware
 Global Frontier Tech Recruitment Program - 2027 Grad
