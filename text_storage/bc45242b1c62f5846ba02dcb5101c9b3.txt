@@ -1,7 +1,7 @@
-6 jobs in Worldwide
+6 Jobs jobs in Worldwide
 Skip to main content
 LinkedIn
-Worldwide
+Jobs in Worldwide
 Expand search
 Jobs
 This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
@@ -16,70 +16,66 @@ Clear text
 Sign in
 Join now
 Past 24 hours
-Any time (1,082)
-Past month (817)
-Past week (481)
-Past 24 hours (22)
-Past 24 hours (6)
+Past 24 hours
+Past week
+Past 24 hours
+Past month
 Done
 ByteDance
 Clear text
-ByteDance (6)
-Walmart (659)
-Global Payments Inc. (648)
-Amazon (509)
-Hire Feed (501)
+ByteDance
 Done
-Job type
-Full-time (6)
-Done
-Experience level
-Entry level (2)
-Associate (1)
-Mid-Senior level (3)
-Done
-Remote
-On-site (6)
-Done
+Easy Apply
+Under 10 applicants
 Reset
+Where are the filters?
+You're now using AI-powered job search
+We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
+Learn more
+Get notified about new
+Jobs
+jobs in
+Worldwide
+.
+Sign in to create job alert
 6
 Jobs in Worldwide
-Admin Strategic Program Manager
-Admin Strategic Program Manager
+Search Operations Ads - Specialist
+Search Operations Ads - Specialist
 ByteDance
-London, England, United Kingdom
-Actively Hiring
+Pasig, National Capital Region, Philippines
+Be an early applicant
 4 hours ago
-APAC Crisis Management Specialist
-APAC Crisis Management Specialist
+Talent Acquisition Sourcer - Corporate Functions - Singapore (Third-party Associate)
+Talent Acquisition Sourcer - Corporate Functions - Singapore (Third-party Associate)
+ByteDance
+Singapore, Singapore
+Be an early applicant
+1 hour ago
+Creator Partnership and Operations Specialist Lemon8 (TH/EN Speaking) - Lemon8
+Creator Partnership and Operations Specialist Lemon8 (TH/EN Speaking) - Lemon8
+ByteDance
+Bangkok, Bangkok City, Thailand
+Be an early applicant
+43 minutes ago
+Senior Backend Software Engineer (AI Infrastructure / Artifact Management) – Developer Services
+Senior Backend Software Engineer (AI Infrastructure / Artifact Management) – Developer Services
 ByteDance
 Singapore, Singapore
 Be an early applicant
 3 hours ago
-税务信息化专家（账税一体化方向）
-税务信息化专家（账税一体化方向）
+Search Operation Quality Analyst - Ads
+Search Operation Quality Analyst - Ads
 ByteDance
-Shanghai, Shanghai, China
-Be an early applicant
-1 hour ago
-HR Operations Advisor (Korean Market) - Malaysia
-HR Operations Advisor (Korean Market) - Malaysia
-ByteDance
-Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+Pasig, National Capital Region, Philippines
 Be an early applicant
 4 hours ago
-Senior Platform Architect - Enterprise AI Agent
-Senior Platform Architect - Enterprise AI Agent
+Client Solutions Manager, Philippines
+Client Solutions Manager, Philippines
 ByteDance
-San Jose, CA
+Taguig, National Capital Region, Philippines
 Be an early applicant
-5 hours ago
-Senior Platform Architect - Enterprise AI Agent
-Senior Platform Architect - Enterprise AI Agent
-ByteDance
-San Jose, CA
-Be an early applicant
-5 hours ago
+54 minutes ago
 You've viewed all jobs for this search
 Software Engineer - Service Platform
 ByteDance
@@ -89,6 +85,61 @@ Be among the first 25 applicants
 See who ByteDance has hired for this role
 No longer accepting applications
 Report this job
+Use AI to assess how you fit
+Get AI-powered advice on this job and more exclusive features.
+Am I a good fit for this job?
+Tailor my resume
+Sign in to access AI-powered advices
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to evaluate your skills
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to tailor your resume
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
 Responsibilities
 About The Team
 The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
