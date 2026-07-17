@@ -95,6 +95,11 @@ Technology - Big data
 Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
+Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
+Technology
+Bachelor/Master Graduates - 2026 Start
+Singapore
+Regular
 Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates - 2026 Start
@@ -143,11 +148,6 @@ Regular
 Big Data Engineer Graduate (Libra Platform) - 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
-Research Scientist - Data Center AIOps & Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
-Technology - Hardware
-Global Frontier Tech Recruitment Program - 2027 Grad
 Singapore
 Regular
 Show 12 out of 94 open roles
