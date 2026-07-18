@@ -131,11 +131,6 @@ Technology
 Undergraduate/Master Intern - 2026 Start
 Singapore
 Intern
-Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
-Technology - Big data
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
 Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
 Technology
 Bachelor/Master Graduates - 2026 Start
@@ -147,6 +142,11 @@ Project Intern
 Singapore
 Intern
 Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
+Technology - Algorithm
+Bachelor/Master Graduates - 2026 Start
+Singapore
+Regular
+Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)
 Technology - Algorithm
 Bachelor/Master Graduates - 2026 Start
 Singapore
