@@ -20,7 +20,7 @@ Early Careers
 Early Careers at ByteDance
 Americas
 Asia Pacific
-Europe and the Middle East
+Europe, the UK and the Middle East
 Global Frontier Tech Recruitment Program
 PhD Opportunities
 FAQs
@@ -136,12 +136,12 @@ Technology
 Project Intern
 Singapore
 Intern
-Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)
+Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
 Technology - Algorithm
 Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
-Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
+Machine Learning Engineer Graduate (Global E-Commerce, Conversational AI) - 2026 Start (BS/MS)
 Technology - Algorithm
 Bachelor/Master Graduates - 2026 Start
 Singapore
