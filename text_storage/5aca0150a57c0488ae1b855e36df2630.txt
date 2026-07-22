@@ -19,152 +19,17 @@ Bridge open roles
 Privy open roles
 Opens the multi-select filter menu
 Teams
-Administrative
-Communications
-Consumer
-Corporate Development
-Corporate Security
-Corporate Strategy
-Data & Data Science
-Data Platform
-Design
-Executive
-Finance
-Controllership
-Finance & Strategy
-Internal Audit
-Investor Relations
-Tax
-Treasury
-Workplace
-Global Operations
-Global Partnerships
-Go-to-Market
-Customer Success
-Global Strategic Pursuits
-GTM Partnerships
-Marketing
-Revenue Operations
-Sales
-Scaled Sales
-Solutions Architect
-Infrastructure
-Infrastructure & Corporate Tech
-Legal
-Machine Learning
-Operations
-Technical Account Management
-Paystack
-People
-Recruiting
-People Functions
-Products
-Banking as a Service
-Intercept
-Connect
-Crypto
-Mobile
-Link
-Metronome
-Money Movement and Storage
-New Financial Products
-Payments
-Platform
-Professional Services
-Privy
-Revenue & Financial Automation
-Stripe Tax
-Terminal
-Reliability
-Risk & Financial Crimes
-SaaS
-Security
-Startups
-Tech Programs
-University
 Opens the multi-select filter menu
-Office Locations (1)
-Asia Pacific
-Sydney
-Melbourne
-Jakarta
-Bengaluru
-Tokyo
-Singapore
-Bangkok
-Europe
-Paris
-Berlin
-London
-Dublin HQ
-Amsterdam
-Warsaw
-Bucharest
-Madrid
-Barcelona
-Stockholm
-Luxembourg
-Latin America
-São Paulo
-Mexico City
-North America
-Atlanta
-Chicago
-New York
-Seattle
-South San Francisco HQ
-San Francisco Bridge HQ
-Washington DC
-Toronto
-Mexico City
-Middle East
-Dubai
+Office Locations
 Opens the multi-select filter menu
 Remote Locations
-Asia Pacific
-Australia
-Hong Kong
-Indonesia
-India
-Japan
-Malaysia
-New Zealand
-South Korea
-Thailand
-Europe
-Austria
-Belgium
-Czechia
-Estonia
-France
-Germany
-Great Britain
-Ireland
-Israel
-Italy
-Netherlands
-Poland
-Portugal
-Romania
-Spain
-Sweden
-Switzerland
-Latin America
-Argentina
-Brazil
-Chile
-Mexico
-North America
-United States
-Canada
-Mexico
 Opens the multi-select filter menu
-Tags (1)
-Bridge
-Privy
-University
-No open roles match your search. Try removing filters or changing your search terms.
+Tags
+Showing roles across across all locations and all teams.
 Clear all filters
+Role
+Team
+Location
 Stripe logo
 United States (English)
 Australia
