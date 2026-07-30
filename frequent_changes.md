@@ -1,13 +1,21 @@
 # Latest Frequent Scraper Results
 
-## 2026-07-30 08:18:42
+## 2026-07-30 13:50:06
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- 9
+- Bachelor/Master Graduates - 2026 Start
+- Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
++ Intern
+- Regular
++ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
++ Show 12 out of 91 open roles
+- Show 12 out of 97 open roles
++ Undergraduate/Master Intern - 2026 Start
 ```
 
 ---
@@ -16,7 +24,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Keep me logged in
++ Keep me logged in
++ Stay updated on your professional world.
 ```
 
 ---
@@ -26,11 +35,13 @@ No line changes.
 
 ```diff
 - Bachelor/Master Graduates - 2026 Start
-- Big Data Engineer Graduate (Live Recommendation Architecture) - 2026 Start (BS/MS)
-+ Global Frontier Tech Recruitment Program - 2027 Grad
-+ Research Scientist - Data Center AIOps & Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
-- Technology
-+ Technology - Hardware
+- Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
++ Intern
++ Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD)
++ PhD Intern - 2026 Start
+- Regular
++ Show 12 out of 87 open roles
+- Show 12 out of 93 open roles
 ```
 
 ---
@@ -39,7 +50,14 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Bachelor/Master Graduates - 2026 Start
+- Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
++ Intern
+- Regular
++ Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
++ Show 12 out of 86 open roles
+- Show 12 out of 92 open roles
++ Undergraduate/Master Intern - 2026 Start
 ```
 
 ---
