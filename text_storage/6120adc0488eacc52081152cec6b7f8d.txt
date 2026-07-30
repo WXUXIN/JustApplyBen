@@ -51,6 +51,7 @@ All
 Administrative
 Business Development
 Communications
+Core Operations
 Delta
 Design
 Dev
