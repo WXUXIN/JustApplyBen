@@ -126,11 +126,6 @@ Technology - Algorithm
 Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
-Network Reliability Engineer Intern (Network) - 2026 start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
-Singapore
-Intern
 Backend Software Engineer Project Intern (Service Platform) - 2026 Start (BS/MS)
 Technology
 Project Intern
@@ -141,13 +136,18 @@ Technology - Algorithm
 Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
+Application Security Engineer Intern (Global Monetization) - 2026 Start (BS/MS)
+Technology
+Undergraduate/Master Intern - 2026 Start
+Singapore
+Intern
+Network Reliability Engineer Intern (Network) - 2026 start (BS/MS)
+Technology
+Undergraduate/Master Intern - 2026 Start
+Singapore
+Intern
 Cloud Native Application R&D Engineer Graduate (Observability, Data Infrastructure), 2026 Start (BS/MS)
 Technology
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
-Big Data Engineer Graduate (Recommendation Architecture) - 2026 Start (BS/MS)
-Technology - Big data
 Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
