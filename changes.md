@@ -1,35 +1,13 @@
 # Latest Scraper Results
 
-## 2026-08-01 05:52:55
+## 2026-08-02 05:53:42
 
-### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
-
-**Line changes detected!**
-
-```diff
-No line changes.
-```
-
----
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Apply x9
-+ Design
-+ Forward Deployed Software Engineer, Internship - Commercial
-+ Forward Deployed Software Engineer, Internship - UK Government
-+ Internship x9
-+ London, United Kingdom x5
-+ New York, NY x2
-+ On-site — x9
-+ Palo Alto, CA
-+ Product Designer, Internship x2
-+ Product Designer, Internship - US Government x3
-+ Software Engineer, Internship
-+ Software Engineer, Internship - Infrastructure
-+ Washington, D.C.
++ Connect x2
 ```
 
 ---
