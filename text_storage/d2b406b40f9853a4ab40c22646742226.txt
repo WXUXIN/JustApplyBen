@@ -59,7 +59,6 @@ Location
 Amsterdam
 Ashburn
 Bangkok
-Barcelona
 Beijing
 Chon Buri
 Dubai
@@ -105,9 +104,14 @@ Technology
 Bachelor/Master Graduates - 2026 Start
 Singapore
 Regular
-Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates - 2026 Start
+Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
+Technology - Backend
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Backend Software Engineer (SRE) Graduate (Cloud Infrastructure) - 2027 Start
+Technology - Backend
+Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
 Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
@@ -120,21 +124,11 @@ Technology - Algorithm
 PhD Graduates - 2026 Start
 Singapore
 Regular
-Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2026 Start (BS/MS)
-Technology - Algorithm
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
 Backend Software Engineer Project Intern (Service Platform) - 2026 Start (BS/MS)
 Technology
 Project Intern
 Singapore
 Intern
-Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
-Technology - Algorithm
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
 Network Reliability Engineer Intern (Network) - 2026 start (BS/MS)
 Technology
 Undergraduate/Master Intern - 2026 Start
@@ -150,7 +144,12 @@ Technology
 Undergraduate/Master Intern - 2026 Start
 Singapore
 Intern
-Show 12 out of 91 open roles
+Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
+Show 12 out of 73 open roles
 1
 2
 3
@@ -158,7 +157,6 @@ Show 12 out of 91 open roles
 5
 6
 7
-8
 Life at ByteDance
 Early Careers
 Americas
