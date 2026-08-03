@@ -59,7 +59,6 @@ Location
 Amsterdam
 Ashburn
 Bangkok
-Barcelona
 Beijing
 Chon Buri
 Dubai
@@ -90,75 +89,72 @@ Sydney
 Taguig
 Tokyo
 Washington D.C.
-Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
-Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
-Singapore
-Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
-Big Data Engineer Graduate (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
-Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
+Production Engineer Intern (AML Serving) - 2027 Start
+Technology - Backend
+Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
+Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
+Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start
+Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Software Engineer Intern (Data Management Suite, Traffic Infrastructure) - 2027 Start
+Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Software Engineer Graduate (Data Management Suite, Traffic Infrastructure) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
+Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
+Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
+Technology - Backend
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start
+Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Backend Software Engineer (SRE) Graduate (Cloud Infrastructure) - 2027 Start
+Technology - Backend
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
 Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
 Technology - Algorithm
 PhD Graduates - 2026 Start
 Singapore
 Regular
-Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2026 Start (BS/MS)
-Technology - Algorithm
-Bachelor/Master Graduates - 2026 Start
+Data AI Engineer Intern (Global Payment) - 2027 Start
+Technology - Big data
+Undergraduate/Master Intern - 2027 Start
 Singapore
-Regular
+Intern
 Backend Software Engineer Project Intern (Service Platform) - 2026 Start (BS/MS)
 Technology
 Project Intern
 Singapore
 Intern
-Algorithm Engineer Graduate (Global E-Commerce, Knowledge Graph) - 2026 Start (BS/MS)
-Technology - Algorithm
-Bachelor/Master Graduates - 2026 Start
-Singapore
-Regular
-Network Reliability Engineer Intern (Network) - 2026 start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
-Singapore
-Intern
-Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
-Singapore
-Intern
-Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
-Singapore
-Intern
-Show 12 out of 86 open roles
+Show 12 out of 57 open roles
 1
 2
 3
 4
 5
-6
-7
-8
 Life at ByteDance
 Early Careers
 Americas

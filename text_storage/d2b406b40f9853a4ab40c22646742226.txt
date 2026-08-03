@@ -89,21 +89,41 @@ Sydney
 Taguig
 Tokyo
 Washington D.C.
-Backend Software Engineer Graduate (SRE, Cloud Infrastructure) 2026 Start (BS/MS)
+Production Engineer Intern (AML Serving) - 2027 Start
+Technology - Backend
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
 Technology
-Bachelor/Master Graduates - 2026 Start
+Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Backend Software Engineer Intern (Data Management Suite) - 2026 Start (BS/MS)
+Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start
 Technology
-Undergraduate/Master Intern - 2026 Start
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Software Engineer Intern (Data Management Suite, Traffic Infrastructure) - 2027 Start
+Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Software Engineer Graduate (Data Management Suite, Traffic Infrastructure) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Management Suite) - 2026 Start (BS/MS)
+Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
 Technology
-Bachelor/Master Graduates - 2026 Start
+Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
+Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start
+Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
 Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
 Technology - Backend
 Undergraduate/Master Intern - 2027 Start
@@ -114,11 +134,6 @@ Technology - Backend
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Big Data Engineer Intern (Data Management Suite, Data Ingestion) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
-Singapore
-Intern
 Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2026 Start (PhD)
 Technology - Algorithm
 PhD Graduates - 2026 Start
@@ -129,34 +144,18 @@ Technology
 Project Intern
 Singapore
 Intern
-Network Reliability Engineer Intern (Network) - 2026 start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
+Data AI Engineer Intern (Global Payment) - 2027 Start
+Technology - Big data
+Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Security Software Engineer Project Intern (Security Assurance) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
-Singapore
-Intern
-Backend Software Engineer Intern (Object Storage, Data Infrastructure) - 2026 Start (BS/MS)
-Technology
-Undergraduate/Master Intern - 2026 Start
-Singapore
-Intern
-Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
-Show 12 out of 73 open roles
+Show 12 out of 64 open roles
 1
 2
 3
 4
 5
 6
-7
 Life at ByteDance
 Early Careers
 Americas
