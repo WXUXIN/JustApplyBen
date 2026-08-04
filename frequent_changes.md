@@ -1,13 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-08-04 08:31:06
+## 2026-08-04 14:01:22
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Connect x2
+- Connect x2
 ```
 
 ---
@@ -16,9 +16,9 @@
 **Line changes detected!**
 
 ```diff
-- 7
-+ Show 12 out of 71 open roles
-- Show 12 out of 74 open roles
++ 7
+- Show 12 out of 71 open roles
++ Show 12 out of 74 open roles
 ```
 
 ---
@@ -27,12 +27,8 @@
 **Line changes detected!**
 
 ```diff
-+ Machine Learning System Engineer - Data AML - Soaring Star Talent Program
-+ Show 12 out of 63 open roles
-- Show 12 out of 67 open roles
-- Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
-- Technology - Algorithm
-+ Technology - Infrastructure
+- Show 12 out of 63 open roles
++ Show 12 out of 65 open roles
 ```
 
 ---
@@ -41,8 +37,8 @@
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 64 open roles
-- Show 12 out of 67 open roles
+- Show 12 out of 64 open roles
++ Show 12 out of 66 open roles
 ```
 
 ---
