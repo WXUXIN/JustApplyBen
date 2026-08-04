@@ -120,13 +120,13 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
-Technology - Backend
+Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start
+Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start
-Technology
+Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
+Technology - Backend
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
@@ -150,14 +150,13 @@ Technology - Backend
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Show 12 out of 74 open roles
+Show 12 out of 71 open roles
 1
 2
 3
 4
 5
 6
-7
 Life at ByteDance
 Early Careers
 Americas

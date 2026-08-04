@@ -1,23 +1,24 @@
 # Latest Frequent Scraper Results
 
-## 2026-08-04 02:06:01
+## 2026-08-04 08:31:06
 
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+
+**Line changes detected!**
+
+```diff
++ Connect x2
+```
+
+---
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Backend Software Engineer Project Intern (Service Platform) - 2026 Start (BS/MS)
-+ Boston
-- Data AI Engineer Intern (Global Payment) - 2027 Start
-- Project Intern
-+ Software Engineer Intern (Global Payment-Payment Network) - 2027 Start
-- Technology
-+ Technology - Backend
-- Technology - Big data
-+ Technology - Frontend
-+ Undergraduate/Master Intern - 2027 Start
-+ Web Engineer Intern (Global Payment) - 2027 Start
+- 7
++ Show 12 out of 71 open roles
+- Show 12 out of 74 open roles
 ```
 
 ---
@@ -26,7 +27,12 @@
 **Line changes detected!**
 
 ```diff
-+ Boston
++ Machine Learning System Engineer - Data AML - Soaring Star Talent Program
++ Show 12 out of 63 open roles
+- Show 12 out of 67 open roles
+- Structured Data Fusion Large Model Researcher-Risk Control-Soaring Star Talent Program
+- Technology - Algorithm
++ Technology - Infrastructure
 ```
 
 ---
@@ -35,17 +41,8 @@
 **Line changes detected!**
 
 ```diff
-- Backend Software Engineer Project Intern (Service Platform) - 2026 Start (BS/MS)
-+ Boston
-- Data AI Engineer Intern (Global Payment) - 2027 Start
-- Project Intern
-+ Software Engineer Intern (Global Payment-Payment Network) - 2027 Start
-- Technology
-+ Technology - Backend
-- Technology - Big data
-+ Technology - Frontend
-+ Undergraduate/Master Intern - 2027 Start
-+ Web Engineer Intern (Global Payment) - 2027 Start
++ Show 12 out of 64 open roles
+- Show 12 out of 67 open roles
 ```
 
 ---
