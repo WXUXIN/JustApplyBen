@@ -95,16 +95,16 @@ Technology - Backend
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
 Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
 Technology - Backend
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
+Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
 Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
 Technology
 Bachelor/Master Graduate - 2027 Start
@@ -150,7 +150,7 @@ Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Show 12 out of 75 open roles
+Show 12 out of 78 open roles
 1
 2
 3
