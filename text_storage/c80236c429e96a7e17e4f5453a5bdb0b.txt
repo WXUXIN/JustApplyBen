@@ -95,11 +95,6 @@ Technology - Backend
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
 Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
 Technology - Backend
 Undergraduate/Master Intern - 2027 Start
@@ -110,6 +105,16 @@ Technology - Backend
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
+Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
+Data AI Engineer Intern (Global Payment) - 2027 Start
+Technology - Big data
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
 Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
 Technology
 Bachelor/Master Graduate - 2027 Start
@@ -135,19 +140,14 @@ Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Web Engineer Intern (Global Payment) - 2027 Start
-Technology - Frontend
+Security Software Engineer Intern (Security Assurance) - 2027 Start
+Technology - Security
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-iOS Engineer Graduate (Global Payment) - 2027 Start
-Technology - Client
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
-Backend Software Engineer Project Intern (Service Platform) - 2026 Start (BS/MS)
-Technology
-Project Intern
+Web Engineer Intern (Global Payment) - 2027 Start
+Technology - Frontend
+Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
 Show 12 out of 70 open roles
