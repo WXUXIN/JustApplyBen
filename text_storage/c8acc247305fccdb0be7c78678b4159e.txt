@@ -90,14 +90,19 @@ Singapore
 Taguig
 Tokyo
 Washington D.C.
+Data Science Intern (Global Payment) - 2027 Start
+Technology - Big data
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
 Data AI Engineer Intern (Global Payment) - 2027 Start
 Technology - Big data
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Data Science Intern (Global Payment) - 2027 Start
-Technology - Big data
-Undergraduate/Master Intern - 2027 Start
+Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start
+Technology
+Project Intern
 Singapore
 Intern
 Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
@@ -145,12 +150,7 @@ Technology - Hardware
 Global Frontier Tech Recruitment Program - 2027 Grad
 Singapore
 Regular
-Large Model Algorithm Engineer Intern (Data Model) - 2026 Start (PHD)
-Technology
-PhD Intern - 2026 Start
-Singapore
-Intern
-Show 12 out of 68 open roles
+Show 12 out of 70 open roles
 1
 2
 3

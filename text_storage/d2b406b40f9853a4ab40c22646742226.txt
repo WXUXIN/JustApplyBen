@@ -95,6 +95,11 @@ Technology - Backend
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
+Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start
+Technology
+Project Intern
+Singapore
+Intern
 Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
 Technology - Backend
 Undergraduate/Master Intern - 2027 Start
@@ -145,12 +150,7 @@ Technology - Security
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Web Engineer Intern (Global Payment) - 2027 Start
-Technology - Frontend
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
-Show 12 out of 82 open roles
+Show 12 out of 84 open roles
 1
 2
 3
