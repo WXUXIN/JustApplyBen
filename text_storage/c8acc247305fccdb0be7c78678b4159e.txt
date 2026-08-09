@@ -125,11 +125,6 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Data Center Business Development and Commercial Intern (Data Center Development) - 2027 Start
-Technology - Infrastructure
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
 Software Engineer Intern (Data Management Suite, Traffic Infrastructure) - 2027 Start
 Technology
 Undergraduate/Master Intern - 2027 Start
@@ -140,6 +135,11 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
+Data Center Business Development and Commercial Intern (Data Center Development) - 2027 Start
+Technology - Infrastructure
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
 Research Scientist - Data Center AIOps & Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
 Technology - Hardware
 Global Frontier Tech Recruitment Program - 2027 Grad
