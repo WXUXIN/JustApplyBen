@@ -105,11 +105,6 @@ Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
-Technology - Backend
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
 Backend Software Engineer (SRE) Graduate (Cloud Infrastructure) - 2027 Start
 Technology - Backend
 Bachelor/Master Graduate - 2027 Start
@@ -120,6 +115,11 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
+Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
+Technology - Backend
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
 Data AI Engineer Intern (Global Payment) - 2027 Start
 Technology - Big data
 Undergraduate/Master Intern - 2027 Start
@@ -145,8 +145,8 @@ Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Security Software Engineer Intern (Security Assurance) - 2027 Start
-Technology - Security
+Web Engineer Intern (Global Payment) - 2027 Start
+Technology - Frontend
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
