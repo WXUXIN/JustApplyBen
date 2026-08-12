@@ -1,146 +1,26 @@
 # Latest Scraper Results
 
-## 2026-08-11 04:18:52
+## 2026-08-12 04:50:19
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
-
-**Line changes detected!**
-
-```diff
-- Software Engineer, New Grad, Developer & End User Experience Platform
-- Toronto
-- University
-```
-
----
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- Chicago
-- Chicago, New York City
-+ New York City
-- Senior Software Engineer - Analytics Middle Office
++ Chicago x2
++ Senior Software Engineer, Trading Platform, C++
++ Systems Software Engineer
 ```
 
 ---
-### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
 
 **Line changes detected!**
 
 ```diff
-- , x3
-- . x2
-- . © 2026 Qube Research & Technologies Limited. All rights reserved.
-- 2026 Internship/Graduate - Quantitative Research/Trading
-- 2026 Internship/Graduate - Technology
-- About Us
-- About us
-- Any specific enquiries related to campus, internships and graduate programmes, please contact
-- Careers x2
-- Careers | QRT
-- Commitments
-- Contact Us
-- Contact us
-- Copy URL
-- Disclosures and Reports
-- Experience
-- External Contributors
-- For general recruitment you may contact
-- Fraud and impersonation warnings
-- Hong Kong x2
-- Location
-+ Our system thinks you might be a robot!
-- Please apply online.
-+ Please complete the captcha below to prove you're a human and proceed to the page you're trying to reach.
-- Privacy policy
-- QRT is an equal opportunity employer. We welcome diversity and consider it essential to our success. QRT empowers employees to work openly to achieve collective success. In addition to professional achievement, we offer initiatives and programs to enable employees to achieve a healthy work-life balance.
-- Qube Research & Technologies Limited is authorised and regulated by the Financial Conduct Authority. Qube Research & Technologies Hong Kong Limited is licensed by the Hong Kong Securities and Futures Commission. Qube Research & Technologies Paris SAS is authorised and regulated by the French Authorities des Marches Financiers. Qube Research & Technologies Singapore Pte. Ltd is authorised and regulated by the Monetary Authority of Singapore. Qube Research and Technologies (DIFC) Limited is regulated by the Dubai Financial Services Authority. Qube Research and Technologies Switzerland AG is regulated by the Swiss Financial Market Supervisory Authority and is affiliated with
-+ Robot Challenge Screen
-- Sector
-- Select sector
-- Shanghai
-- Singapore x3
-- Students and New Grads
-+ This page requires cookies to be enabled in your browser settings. Please check this setting and enable cookies (if disabled). sid:565
-- View opportunity x2
-- We are proud of our exceptionally talented and diverse teams who are driving QRT’s innovation and growth
-+ We're really sorry about this, but it's getting harder and harder to tell the difference between humans and bots these days.
-- campus@qube-rt.com
-- global-recruitment@qube-rt.com
-- https://www.finos.ch
-- | x2
-```
-
----
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
-
-**Line changes detected!**
-
-```diff
-- , x8
-- . x2
-- . © 2026 Qube Research & Technologies Limited. All rights reserved.
-- 2026 - Internship, Quantitative Research/Trading
-- 2026 Internship - Software Engineer
-- Aarhus
-- About Us
-- About us
-- Any specific enquiries related to campus, internships and graduate programmes, please contact
-- Budapest
-- Careers x2
-- Careers | QRT
-- Commitments
-- Contact Us
-- Contact us
-- Copy URL
-- Disclosures and Reports
-- Dubai
-- Experience
-- External Contributors
-- For general recruitment you may contact
-- Fraud and impersonation warnings
-- Geneva
-- Location
-- London x6
-+ Our system thinks you might be a robot!
-- Paris x2
-- Please apply online.
-+ Please complete the captcha below to prove you're a human and proceed to the page you're trying to reach.
-- Privacy policy
-- QRT Travel Grant to NeurIPS 2026 – Apply Here
-- QRT is an equal opportunity employer. We welcome diversity and consider it essential to our success. QRT empowers employees to work openly to achieve collective success. In addition to professional achievement, we offer initiatives and programs to enable employees to achieve a healthy work-life balance.
-- Quantitative Researcher – PhD & Postdoc Opportunities
-- Qube Research & Technologies Limited is authorised and regulated by the Financial Conduct Authority. Qube Research & Technologies Hong Kong Limited is licensed by the Hong Kong Securities and Futures Commission. Qube Research & Technologies Paris SAS is authorised and regulated by the French Authorities des Marches Financiers. Qube Research & Technologies Singapore Pte. Ltd is authorised and regulated by the Monetary Authority of Singapore. Qube Research and Technologies (DIFC) Limited is regulated by the Dubai Financial Services Authority. Qube Research and Technologies Switzerland AG is regulated by the Swiss Financial Market Supervisory Authority and is affiliated with
-+ Robot Challenge Screen
-- Sector
-- Select sector
-- Students and New Grads
-+ This page requires cookies to be enabled in your browser settings. Please check this setting and enable cookies (if disabled). sid:565
-- VIE in Research
-- View opportunity x5
-- We are proud of our exceptionally talented and diverse teams who are driving QRT’s innovation and growth
-+ We're really sorry about this, but it's getting harder and harder to tell the difference between humans and bots these days.
-- Zurich x2
-- campus@qube-rt.com
-- global-recruitment@qube-rt.com
-- https://www.finos.ch
-- | x2
-```
-
----
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
-
-**Line changes detected!**
-
-```diff
-+ Apply
-+ Forward Deployed Software Engineer, Internship - Commercial
-+ Huntsville, AL
-+ Internship
-+ On-site —
-+ Seoul, South Korea
++ .
++ Point72, L.P. and its affiliates and our third-party partners use cookies and similar technologies to view and retain your site interactions to perform analytics, enable site functionality and assist our marketing efforts exclusively for recruiting purposes. By continuing to use our site, you consent to these data practices, as described in our
++ Privacy Policy
 ```
 
 ---
