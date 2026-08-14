@@ -100,11 +100,6 @@ Technology - Big data
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start
-Technology
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
 Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start
 Technology
 Project Intern
@@ -115,6 +110,16 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
+Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start
+Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Software Engineer Intern (Data Management Suite, Traffic Infrastructure) - 2027 Start
+Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
 Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start
 Technology
 Undergraduate/Master Intern - 2027 Start
@@ -130,11 +135,6 @@ Technology - Infrastructure
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Software Engineer Intern (Data Management Suite, Traffic Infrastructure) - 2027 Start
-Technology
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
 Software Engineer Graduate (Data Management Suite, Traffic Infrastructure) - 2027 Start
 Technology
 Bachelor/Master Graduate - 2027 Start
@@ -145,9 +145,9 @@ Technology - Infrastructure
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Electrical Engineer Graduate (Data Center Engineering) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
+Research Scientist - Data Center AIOps & Infrastructure - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+Technology - Hardware
+Global Frontier Tech Recruitment Program - 2027 Grad
 Singapore
 Regular
 Show 12 out of 76 open roles
