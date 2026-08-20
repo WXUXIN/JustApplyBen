@@ -119,13 +119,13 @@ Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Business Development and Commercial Strategy Graduate (Data Center Development, Data Center Acquisition) - 2027 Start
-Technology - Infrastructure
+Electrical Engineer Graduate (Data Center Engineering) - 2027 Start
+Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Electrical Engineer Graduate (Data Center Engineering) - 2027 Start
-Technology
+Business Development and Commercial Strategy Graduate (Data Center Development, Data Center Acquisition) - 2027 Start
+Technology - Infrastructure
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
@@ -149,7 +149,7 @@ Technology - Infrastructure
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Show 12 out of 74 open roles
+Show 12 out of 73 open roles
 1
 2
 3
