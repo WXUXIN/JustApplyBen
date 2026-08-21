@@ -1,4 +1,4 @@
-3 Jobs jobs in Worldwide
+2 Jobs jobs in Worldwide
 Skip to main content
 LinkedIn
 Jobs in Worldwide
@@ -32,32 +32,39 @@ Where are the filters?
 You're now using AI-powered job search
 We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
 Learn more
-Get notified about new
-Jobs
-jobs in
-Worldwide
+Get notified when a new job is posted.
+Set alert
+Sign in to set job alerts for “Jobs” roles.
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
 .
-Sign in to create job alert
-3
+2
 Jobs in Worldwide
-GenAI Solutions Architect - BytePlus - Chinese Speaker (Third-Party Associate)
-GenAI Solutions Architect - BytePlus - Chinese Speaker (Third-Party Associate)
+Seed视觉美学创作负责人（3D/图像/设计方向） - 火山方舟
+Seed视觉美学创作负责人（3D/图像/设计方向） - 火山方舟
 ByteDance
-Riyadh, Riyadh, Saudi Arabia
+Beijing, Beijing, China
 Be an early applicant
-5 hours ago
-Client Solutions Manager (Chinese Speaking), Content & Services
-Client Solutions Manager (Chinese Speaking), Content & Services
+4 hours ago
+Software Engineer Intern (CIS Knowledge Bank) - 2027 Fall
+Software Engineer Intern (CIS Knowledge Bank) - 2027 Fall
 ByteDance
-Taguig, National Capital Region, Philippines
+San Jose, CA
 Be an early applicant
-5 hours ago
-Account Manager, FMCG, Groceries (Philippines E-Commerce)
-Account Manager, FMCG, Groceries (Philippines E-Commerce)
-ByteDance
-Taguig, National Capital Region, Philippines
-Be an early applicant
-5 hours ago
+22 minutes ago
 You've viewed all jobs for this search
 Software Engineer - Service Platform
 ByteDance
@@ -67,6 +74,61 @@ Be among the first 25 applicants
 See who ByteDance has hired for this role
 No longer accepting applications
 Report this job
+Use AI to assess how you fit
+Get AI-powered advice on this job and more exclusive features.
+Am I a good fit for this job?
+Tailor my resume
+Sign in to access AI-powered advices
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to evaluate your skills
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to tailor your resume
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
 Responsibilities
 About The Team
 The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
