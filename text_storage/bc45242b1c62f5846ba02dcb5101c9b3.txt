@@ -32,26 +32,39 @@ Where are the filters?
 You're now using AI-powered job search
 We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
 Learn more
-Get notified about new
-Jobs
-jobs in
-Worldwide
+Get notified when a new job is posted.
+Set alert
+Sign in to set job alerts for “Jobs” roles.
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
 .
-Sign in to create job alert
 2
 Jobs in Worldwide
-Software Engineer (AI Agent Security)
-Software Engineer (AI Agent Security)
+Card Growth & Loyalty Product Manager - Global Payment
+Card Growth & Loyalty Product Manager - Global Payment
 ByteDance
 San Jose, CA
-Actively Hiring
-5 hours ago
-Data Center Site Acquisition Specialist Graduate (Data Center Development) - 2027 Start
-Data Center Site Acquisition Specialist Graduate (Data Center Development) - 2027 Start
-ByteDance
-Seattle, WA
 Be an early applicant
-17 minutes ago
+1 hour ago
+Software Development Engineer, Distributed NoSQL Database Systems
+Software Development Engineer, Distributed NoSQL Database Systems
+ByteDance
+San Jose, CA
+Be an early applicant
+56 minutes ago
 You've viewed all jobs for this search
 Software Engineer - Service Platform
 ByteDance

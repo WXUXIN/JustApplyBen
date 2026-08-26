@@ -1,13 +1,23 @@
 # Latest Frequent Scraper Results
 
-## 2026-08-25 18:34:47
+## 2026-08-26 01:03:06
 
-### [https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY](https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY)
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Keep me logged in
++ Connect x2
+```
+
+---
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+- Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
++ Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start
 ```
 
 ---
@@ -16,7 +26,8 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
++ Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start
 ```
 
 ---
@@ -25,52 +36,41 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ , x3
-+ , and x3
-+ . x3
-+ 17 minutes ago
-+ 2
-- 2 hours ago
-- 22 minutes ago x2
-- 3 hours ago
-- 5
-+ Actively Hiring
-+ Am I a good fit for this job?
-- Be an early applicant x4
-- Beijing, Beijing, China
-- Business Development and Commercial Strategy Graduate (Data Center Development, Data Center Acquisition) - 2027 Start x2
-+ By clicking Continue to join or sign in, you agree to LinkedIn’s x3
-- ByteDance x3
-+ Cookie Policy x3
-+ Data Center Site Acquisition Specialist Graduate (Data Center Development) - 2027 Start x2
-- Datacenter Engineering Engineer(Facilities Management) - Infrastructure Engineering x2
-+ Email or phone x3
-+ Forgot password? x3
-+ Get AI-powered advice on this job and more exclusive features.
-+ Jobs Jobs at ByteDance in Worldwide (2 Open Roles) | LinkedIn
-- Jobs Jobs at ByteDance in Worldwide (5 Open Roles) | LinkedIn
-+ Join now x3
-- Kulai, Johore, Malaysia
-- Mobility Operation Analyst Project Intern (HROP) - 2027 Start x2
-+ New to LinkedIn? x3
-+ Password x3
-+ Privacy Policy x3
++ ,
++ , and
++ 1 hour ago
+- 17 minutes ago
+- 5 hours ago
++ 56 minutes ago
+- Actively Hiring
++ Be an early applicant
++ By clicking Continue to join or sign in, you agree to LinkedIn’s
++ Card Growth & Loyalty Product Manager - Global Payment x2
++ Cookie Policy
+- Data Center Site Acquisition Specialist Graduate (Data Center Development) - 2027 Start x2
++ Email or phone
++ Forgot password?
+- Get notified about new
++ Get notified when a new job is posted.
+- Jobs
++ Join now
++ New to LinkedIn?
++ Password
++ Privacy Policy
 + San Jose, CA
-- Seedance Studio资深广告导演 - 火山方舟 x2
-- Senior Risk Analyst - Global Payment - Singapore x2
-+ Show x3
-+ Sign in x3
-+ Sign in to access AI-powered advices
-+ Sign in to evaluate your skills
-+ Sign in to tailor your resume
-+ Sign in with Email x3
-- Singapore
-- Singapore, Singapore
-+ Software Engineer (AI Agent Security) x2
-+ Tailor my resume
-+ Use AI to assess how you fit
-+ User Agreement x3
-+ or x3
+- Seattle, WA
++ Set alert
++ Show
++ Sign in
+- Sign in to create job alert
++ Sign in to set job alerts for “Jobs” roles.
++ Sign in with Email
++ Software Development Engineer, Distributed NoSQL Database Systems x2
+- Software Engineer (AI Agent Security) x2
++ User Agreement
+- Worldwide
+- jobs in
++ or
 ```
 
 ---
