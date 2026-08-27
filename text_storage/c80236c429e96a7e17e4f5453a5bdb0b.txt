@@ -134,17 +134,17 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Site Reliability Engineer Intern (Video and Edge, CDN Platform) - 2027 Start
-Technology
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
 Data AI Engineer Intern (Global Payment) - 2027 Start
 Technology - Big data
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
 Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
+Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
 Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
