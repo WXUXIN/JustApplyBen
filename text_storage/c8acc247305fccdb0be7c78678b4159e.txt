@@ -104,13 +104,23 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
+Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start
+Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
 Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start
 Technology
 Project Intern
 Singapore
 Intern
-Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start
+Software Engineer Intern (Data Management Suite, Traffic Infrastructure) - 2027 Start
 Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Data Center Business Development and Commercial Intern (Data Center Development) - 2027 Start
+Technology - Infrastructure
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
@@ -119,16 +129,6 @@ Technology - Infrastructure
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Data Center Business Development and Commercial Intern (Data Center Development) - 2027 Start
-Technology - Infrastructure
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
-Software Engineer Intern (Data Management Suite, Traffic Infrastructure) - 2027 Start
-Technology
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
 Big Data Engineer Intern (Data Management Suite, Data Integration) - 2027 Start
 Technology
 Undergraduate/Master Intern - 2027 Start
