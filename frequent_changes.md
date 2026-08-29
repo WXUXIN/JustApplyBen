@@ -1,13 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-08-29 12:12:24
+## 2026-08-29 20:21:04
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Connect x2
+- Connect x2
 ```
 
 ---
@@ -16,7 +16,21 @@
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Bachelor/Master Graduate - 2027 Start
+- Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
++ Intern
+- Regular
++ Site Reliability Engineer Intern (Video and Edge, CDN Platform) - 2027 Start
++ Undergraduate/Master Intern - 2027 Start
+```
+
+---
+### [https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY](https://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=software%20engineer&origin=JOBS_HOME_KEYWORD_HISTORYhttps://www.linkedin.com/jobs/search-results/?distance=50.0&f_TPR=r21600&geoId=103804675&keywords=data%20engineer&origin=JOBS_HOME_KEYWORD_HISTORY)
+
+**Line changes detected!**
+
+```diff
++ Stay updated on your professional world.
 ```
 
 ---
@@ -34,7 +48,18 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start
++ Software Engineer Graduate (Data Management Suite, Traffic Infrastructure) - 2027 Start
+```
+
+---
+### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
+
+**Line changes detected!**
+
+```diff
++ 0 Jobs jobs in Worldwide
+- Jobs Jobs at ByteDance in Worldwide | LinkedIn
 ```
 
 ---
