@@ -1,14 +1,14 @@
 # Latest Frequent Scraper Results
 
-## 2026-08-31 12:33:28
+## 2026-08-31 22:22:13
 
 ### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-- Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start
-+ Software Engineer Graduate (Data Management Suite, Traffic Infrastructure) - 2027 Start
++ Machine Learning Engineer Graduate (Global E-Commerce, Risk Control) - 2027 Start
+- Software Engineer Graduate (Data Management Suite, Traffic Infrastructure) - 2027 Start
 ```
 
 ---
