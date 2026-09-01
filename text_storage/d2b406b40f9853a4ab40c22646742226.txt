@@ -94,6 +94,11 @@ Technology - Backend
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
+Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start
+Technology
+Project Intern
+Singapore
+Intern
 Backend Software Engineer (SRE) Graduate (Cloud Infrastructure) - 2027 Start
 Technology - Backend
 Bachelor/Master Graduate - 2027 Start
@@ -104,13 +109,13 @@ Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start
-Technology
-Project Intern
-Singapore
-Intern
 Software Engineer Intern (Data Management Suite, Traffic Infrastructure) - 2027 Start
 Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
+Technology - Backend
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
@@ -119,11 +124,6 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
-Technology - Backend
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
 Production System Engineer Intern (Infrastructure Engineering) - 2027 Start
 Technology - DevOps
 Undergraduate/Master Intern - 2027 Start
