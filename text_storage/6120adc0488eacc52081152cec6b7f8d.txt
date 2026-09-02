@@ -31,7 +31,6 @@ London, United Kingdom
 Madrid, Spain
 Miami, FL
 New York, NY
-North America
 Oslo, Norway
 Palo Alto, CA
 Paris, France
@@ -73,7 +72,6 @@ Contractor
 Fixed-Term
 Full-time
 Internship
-Scholarship
 Delta
 Apply
 Forward Deployed Software Engineer, Internship - Commercial
