@@ -1,16 +1,40 @@
 # Latest Scraper Results
 
-## 2026-09-07 07:50:08
+## 2026-09-08 07:43:42
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
 
 ```diff
-- Barcelona
 + Singapore
-+ Software Engineer, Intern
-- Software Engineer, New Grad - Frontend
++ Software Engineer - Research Technology
+```
+
+---
+### [https://grasshopperasia.com/job/trading/](https://grasshopperasia.com/job/trading/)
+
+**Line changes detected!**
+
+```diff
+- Trader x2
++ Trader (ETF/Index Arb)
+```
+
+---
+### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
+
+**Line changes detected!**
+
+```diff
++ 2027 - Internship, Security Engineer
+- 2027 Internship/Graduate - Infrastructure / Cloud Engineer
+- 2027 Internship/Graduate - Quantitative Developer / Software Engineer
+- 2027 Internship/Graduate - Quantitative Research/Trading
+- 2027 Internship/Graduate - Security Engineer
++ 2027 – Internship or Graduate, Software Engineer
++ 2027 – Internship, Infrastructure Engineering
++ 2027 – Internship, Quantitative Research and Trading
 ```
 
 ---
