@@ -57,10 +57,8 @@ English
 English
 日本語
 Discover
-Connect
-Connect
 Explore roles at TikTok
-Search now
+Check
 Our Mission
 Inspire
 creativity &
@@ -143,9 +141,11 @@ Terms of Service
 English
 English
 日本語
-@
-2026
-TikTok
+@2026 TikTok
+AI Assistant
+👋
+Hi there! How can I help today?
+I can recommend jobs, check your application status, or answer questions about recruiting. Where would you like to start?
 Accept cookies from TikTok on this browser?
 TikTok uses cookies and similar technologies to provide, improve, secure and analyse our services. By clicking “Accept all”, you agree to let us use our own and third party cookies for marketing purposes so that we can understand the effectiveness of TikTok’s advertising campaigns. If you click “Decline all”, we will not use cookies for these additional purposes. You can
 manage your cookies
@@ -154,3 +154,17 @@ Cookies Policy
 .
 Decline all
 Accept all
+Your AI assistant for careers at TikTok. Ask anything.
+Explore roles at TikTok and find opportunities that match your interests.
+Find your fit
+Upload your resume and share your interests to get personalized role recommendations, or get answers about the application process and recruitment policies.
+Check your Application Status
+Log in to see where your applications stand and what's coming next.
+Powered by AI.
+Personalized guidance. Real-time answers. All in one conversation.
+This chat won't affect your application.
+Your data is handled in line with our
+Privacy Policy
+.
+Maybe Later
+Try Now
