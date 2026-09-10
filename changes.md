@@ -1,7 +1,16 @@
 # Latest Scraper Results
 
-## 2026-09-09 07:48:26
+## 2026-09-10 07:47:40
 
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
+
+**Line changes detected!**
+
+```diff
++ About
+```
+
+---
 ### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
 
 **Line changes detected!**
@@ -16,49 +25,30 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ , x6
-- 2026 - Internship, Quantitative Research/Trading
-+ 2027 - Internship, Data Engineering
-+ 2027 - Internship, Quantitative Research
-+ 2027 - Internship, Software Engineering and Quantitative Development
-+ 2027 Internship - Security Engineering
-+ 2027 Internship/Graduate - FPGA Engineering
-+ 2027 Internship/Graduate - Infrastructure Engineering
-+ London x5
-+ Paris x4
-+ View opportunity x5
-+ Wrocław
-+ Zurich
++ ,
+- 2027 - Internship, Quantitative Research
++ 2027 - Internship, Quantitative Research and Trading
++ Paris
 ```
 
 ---
-### [https://www.quantedge.com/careers](https://www.quantedge.com/careers)
+### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Apply Now
-- If you're an individual who craves challenges and dreams of making a lasting
-+ Job Openings
-- Only shortlisted candidates will be notified.
-+ Quantedge Capital 2027 Analyst Recruitment - Technology
-+ Role
-+ Singapore
-+ We are currently recruiting for the following role(s):
-- impact, send your cover letter and resume to careers@quantedge.com.
+- Check
+- Hear From Our Leader
++ Hear From Our Leaders
 ```
 
 ---
-### [https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&](https://careers.twosigma.com/careers/OpenRoles/?5081=%5B16718737%5D&5081_format=3146&listFilterMode=1&jobRecordsPerPage=10&)
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
 
 **Line changes detected!**
 
 ```diff
-+ Engineering
-+ Internship
-+ Software Engineering Internship (Summer 2027)
-+ United States - NY New York
-+ View role x2
+No line changes.
 ```
 
 ---
