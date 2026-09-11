@@ -1,14 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-09-11 15:47:20
+## 2026-09-11 20:24:02
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-- Ch
-+ Reco
+- Reco
 ```
 
 ---
@@ -17,10 +16,7 @@
 **Line changes detected!**
 
 ```diff
-- Electrical Engineer Graduate (Data Center Engineering) - 2027 Start
-+ Show 12 out of 93 open roles
-- Show 12 out of 94 open roles
-+ Software Engineer Graduate (Data Management Suite, Traffic Infrastructure) - 2027 Start
+No line changes.
 ```
 
 ---
@@ -29,8 +25,7 @@
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 73 open roles
-- Show 12 out of 74 open roles
+No line changes.
 ```
 
 ---
@@ -39,8 +34,7 @@
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 75 open roles
-- Show 12 out of 76 open roles
+No line changes.
 ```
 
 ---
