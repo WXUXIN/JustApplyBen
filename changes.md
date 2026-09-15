@@ -1,14 +1,29 @@
 # Latest Scraper Results
 
-## 2026-09-14 08:30:28
+## 2026-09-15 08:20:39
 
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
+- Amsterdam
++ Chicago
+- London x3
++ Montréal
+- Python Software Engineer, Trading Platform
++ Senior Software Developer
+- Senior Software Engineer, Trading Platform, C++ x2
+```
+
+---
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Check my a
-- Rec
+- Check my application sta
++ Rec
 ```
 
 ---
@@ -17,10 +32,22 @@
 **Line changes detected!**
 
 ```diff
-+ Electrical Engineer Graduate (Data Center Engineering) - 2027 Start
-+ Show 12 out of 92 open roles
-- Show 12 out of 93 open roles
-- Software Engineer Graduate (Data Management Suite, Traffic Infrastructure) - 2027 Start
+No line changes.
+```
+
+---
+### [https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&](https://bloomberg.avature.net/careers/SearchJobs/?1845=%5B162487%5D&1845_format=3996&2562=%5B219290%5D&2562_format=6594&listFilterMode=1&jobRecordsPerPage=12&)
+
+**Line changes detected!**
+
+```diff
++ 1
++ Apply
++ Network Specialist - APAC Network Triage, Singapore
+- No jobs found - There are currently no open roles matching your search. Log in or create a profile to save your search and get alerts when opportunities open.
++ Save
++ Singapore, Singapore
++ results
 ```
 
 ---
