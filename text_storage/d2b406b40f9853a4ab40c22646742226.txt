@@ -110,6 +110,16 @@ Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
+AI Agent Algorithm Engineer Intern (Global E-Commerce,  Affiliate) - 2027 Start
+Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+AI Agent Algorithm Engineer Graduate (Global E-Commerce, Conversational AI) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
 Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
 Technology
 Bachelor/Master Graduate - 2027 Start
@@ -135,18 +145,8 @@ Technology - DevOps
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-AI Agent Algorithm Engineer Graduate (Global E-Commerce, Conversational AI) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
 Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
 Technology - Backend
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
-Data AI Engineer Intern (Global Payment) - 2027 Start
-Technology - Big data
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
