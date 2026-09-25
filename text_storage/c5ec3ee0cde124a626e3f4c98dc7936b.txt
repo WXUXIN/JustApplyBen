@@ -4,11 +4,11 @@ Error code 522
 Visit
 cloudflare.com
 for more information.
-2026-09-24 08:03:04 UTC
+2026-09-25 08:27:52 UTC
 You
 Browser
 Working
-Ashburn
+San Jose
 Cloudflare
 Working
 www.quantedge.com
@@ -23,11 +23,11 @@ If you're the owner of this website:
 Contact your hosting provider letting them know your web server is not completing requests. An Error 522 means that the request was able to connect to your web server, but that the request didn't finish. The most likely cause is that something on your server is hogging resources.
 Additional troubleshooting information here.
 Cloudflare Ray ID:
-a40044c7b97eae23
+a408a679cf3d1949
 •
 Your IP:
 Click to reveal
-40.79.245.26
+172.184.172.211
 •
 Performance & security by
 Cloudflare
