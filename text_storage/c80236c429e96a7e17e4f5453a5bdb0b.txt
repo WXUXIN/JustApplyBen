@@ -135,16 +135,16 @@ Technology - Backend
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Production System Engineer Intern (Infrastructure Engineering) - 2027 Start
-Technology - DevOps
-Undergraduate/Master Intern - 2027 Start
-Singapore
-Intern
 Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
 Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
+Production System Engineer Intern (Infrastructure Engineering) - 2027 Start
+Technology - DevOps
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
 Backend Software Engineer (SRE) Intern (Technical Infrastructure) - 2027 Start
 Technology - Backend
 Undergraduate/Master Intern - 2027 Start
