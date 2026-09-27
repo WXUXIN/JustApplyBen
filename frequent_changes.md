@@ -1,14 +1,14 @@
 # Latest Frequent Scraper Results
 
-## 2026-09-27 16:18:45
+## 2026-09-27 20:48:08
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-- Chec
-+ Check my a
+- Check my a
++ Rec
 ```
 
 ---
@@ -26,7 +26,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- Keep me logged in
++ Keep me logged in
 ```
 
 ---
@@ -53,7 +53,53 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Continue with Google x4
++ ,
++ , and
++ .
+- 0 Jobs jobs in Worldwide
++ Agree & Join
++ Already on Linkedin?
++ By clicking Agree & Join, you agree to the LinkedIn
+- ByteDance x2
+- Clear text x6
+- Continue with Google x2
++ Cookie Policy
+- Done x2
++ Email
+- Expand search
++ First name
+- Jobs x2
+- Jobs in Worldwide
+- Jobs jobs in Worldwide
++ Join LinkedIn
+- Join now
++ Last name
+- Learn more
+- Learning
+- New to LinkedIn?
++ New to Linkedin?
++ Not you?
++ Password (6+ characters)
+- Past 24 hours x3
+- Past month
+- Past week
+- People
+- Please make sure your keywords are spelled correctly
++ Privacy Policy
++ Remove photo
+- Reset
++ Security verification
++ Sign Up | LinkedIn
++ Sign in
+- Sign in to view more jobs
+- Sign in with Email
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ User Agreement
+- We couldn’t find a match for
+- We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
+- Where are the filters?
+- You're now using AI-powered job search
++ or
 ```
 
 ---
