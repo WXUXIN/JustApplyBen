@@ -125,6 +125,11 @@ Technology
 Project Intern
 Singapore
 Intern
+Data Engineer Graduate(TikTok Recommendation Ecosystem Architecture, Singapore) - 2027 Start (PhD)
+Technology - Big data
+PhD Graduates - 2027 Start
+Singapore
+Regular
 Technical Project Manager Graduate (Data Center Development) - 2027 Start
 Technology - Infrastructure
 Bachelor/Master Graduate - 2027 Start
@@ -145,12 +150,7 @@ Technology - Infrastructure
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Electrical Engineer Graduate (Data Center Engineering) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
-Show 12 out of 84 open roles
+Show 12 out of 87 open roles
 1
 2
 3
@@ -158,6 +158,7 @@ Show 12 out of 84 open roles
 5
 6
 7
+8
 Life at ByteDance
 Early Careers
 Americas
