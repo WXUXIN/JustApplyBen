@@ -156,6 +156,8 @@ Decline all
 Accept all
 Your AI assistant for careers at TikTok. Ask anything.
 Explore roles at TikTok and find opportunities that match your interests.
+Try Now
+Maybe Later
 Find your fit
 Upload your resume and share your interests to get personalized role recommendations, or get answers about the application process and recruitment policies.
 Check your Application Status
@@ -166,5 +168,3 @@ This chat won't affect your application.
 Your data is handled in line with our
 Privacy Policy
 .
-Maybe Later
-Try Now
