@@ -1,13 +1,14 @@
 # Latest Frequent Scraper Results
 
-## 2026-10-09 12:30:53
+## 2026-10-09 22:11:43
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
+- Re
++ Recom
 ```
 
 ---
@@ -16,8 +17,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 105 open roles
-- Show 12 out of 106 open roles
++ Washington D.C.
 ```
 
 ---
@@ -26,7 +26,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Washington D.C.
 ```
 
 ---
@@ -35,7 +35,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Washington D.C.
 ```
 
 ---
