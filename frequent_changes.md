@@ -1,13 +1,22 @@
 # Latest Frequent Scraper Results
 
-## 2026-10-11 12:02:06
+## 2026-10-11 17:40:46
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-- Recommen
++ Re
+```
+
+---
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+No line changes.
 ```
 
 ---
@@ -16,47 +25,7 @@
 **Line changes detected!**
 
 ```diff
-- ,
-- , and
-- .
-- About
-- Accessibility
-- Agree & Join
-- Already on Linkedin?
-+ Back
-- Brand Policy
-- By clicking Agree & Join, you agree to the LinkedIn
-- By clicking Continue to join or sign in, you agree to LinkedIn’s x2
-+ By clicking Continue, you agree to LinkedIn’s x2
-+ Click on the link to sign in instantly to your LinkedIn account.
-- Continue with Google x2
-- Cookie Policy
-- Email
-- First name
-- Guest Controls
-+ If you don’t see the email in your inbox, check your spam folder.
-- Join LinkedIn
-+ Keep me logged in
-- Last name
-- LinkedIn
-+ LinkedIn Login, Sign in | LinkedIn
-+ New to LinkedIn?
-- New to Linkedin?
-- Not you?
-- Password (6+ characters)
-- Privacy Policy
-- Remove photo
-+ Resend email
-- Security verification
-+ Send Feedback
-- Sign Up | LinkedIn
-- Sign in
-+ Sign in with Apple
-- Skip to main content
-+ Stay updated on your professional world.
-- User Agreement
-+ We’ve emailed a one-time link to your primary email address
-- or
+- Stay updated on your professional world.
 ```
 
 ---
@@ -83,53 +52,53 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-- ,
-- , and
-- .
-- Agree & Join
-- Already on Linkedin?
-- By clicking Agree & Join, you agree to the LinkedIn
-+ ByteDance x2
-+ Clear text x6
-+ Continue with Google x2
-- Cookie Policy
-+ Done x2
-- Email
-+ Expand search
-- First name
-+ Jobs x2
-+ Jobs Jobs at ByteDance in Worldwide | LinkedIn
-+ Jobs in Worldwide
-+ Jobs jobs in Worldwide
-- Join LinkedIn
-+ Join now
-- Last name
-+ Learn more
-+ Learning
-+ New to LinkedIn?
-- New to Linkedin?
-- Not you?
-- Password (6+ characters)
-+ Past 24 hours x3
-+ Past month
-+ Past week
-+ People
-+ Please make sure your keywords are spelled correctly
-- Privacy Policy
-- Remove photo
-+ Reset
-- Security verification
-- Sign Up | LinkedIn
-- Sign in
-+ Sign in to view more jobs
-+ Sign in with Email
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-- User Agreement
-+ We couldn’t find a match for
-+ We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
-+ Where are the filters?
-+ You're now using AI-powered job search
-- or
++ ,
++ , and
++ .
++ Agree & Join
++ Already on Linkedin?
++ By clicking Agree & Join, you agree to the LinkedIn
+- ByteDance x2
+- Clear text x6
+- Continue with Google x2
++ Cookie Policy
+- Done x2
++ Email
+- Expand search
++ First name
+- Jobs x2
+- Jobs Jobs at ByteDance in Worldwide | LinkedIn
+- Jobs in Worldwide
+- Jobs jobs in Worldwide
++ Join LinkedIn
+- Join now
++ Last name
+- Learn more
+- Learning
+- New to LinkedIn?
++ New to Linkedin?
++ Not you?
++ Password (6+ characters)
+- Past 24 hours x3
+- Past month
+- Past week
+- People
+- Please make sure your keywords are spelled correctly
++ Privacy Policy
++ Remove photo
+- Reset
++ Security verification
++ Sign Up | LinkedIn
++ Sign in
+- Sign in to view more jobs
+- Sign in with Email
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ User Agreement
+- We couldn’t find a match for
+- We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
+- Where are the filters?
+- You're now using AI-powered job search
++ or
 ```
 
 ---

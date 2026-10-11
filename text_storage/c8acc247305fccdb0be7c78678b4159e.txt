@@ -91,12 +91,12 @@ Singapore
 Taguig
 Tokyo
 Washington D.C.
-Data Science Intern (Global Payment) - 2027 Start
+Data AI Engineer Intern (Global Payment) - 2027 Start
 Technology - Big data
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Data AI Engineer Intern (Global Payment) - 2027 Start
+Data Science Intern (Global Payment) - 2027 Start
 Technology - Big data
 Undergraduate/Master Intern - 2027 Start
 Singapore
@@ -121,16 +121,16 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Data Engineer Graduate(TikTok Recommendation Ecosystem Architecture, Singapore) - 2027 Start (PhD)
-Technology - Big data
-PhD Graduates - 2027 Start
-Singapore
-Regular
 Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start
 Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
+Data Engineer Graduate(TikTok Recommendation Ecosystem Architecture, Singapore) - 2027 Start (PhD)
+Technology - Big data
+PhD Graduates - 2027 Start
+Singapore
+Regular
 Business Development and Commercial Strategy Graduate (Data Center Development, Data Center Acquisition) - 2027 Start
 Technology - Infrastructure
 Bachelor/Master Graduate - 2027 Start
