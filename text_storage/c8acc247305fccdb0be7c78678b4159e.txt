@@ -111,24 +111,29 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
 Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start
 Technology
 Project Intern
 Singapore
 Intern
+Backend Software Engineer Graduate (Data Platform, Data Management Suite) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
+Data Engineer Graduate(TikTok Recommendation Ecosystem Architecture, Singapore) - 2027 Start (PhD)
+Technology - Big data
+PhD Graduates - 2027 Start
+Singapore
+Regular
 Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start
 Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Data Engineer Graduate(TikTok Recommendation Ecosystem Architecture, Singapore) - 2027 Start (PhD)
-Technology - Big data
-PhD Graduates - 2027 Start
+Business Development and Commercial Strategy Graduate (Data Center Development, Data Center Acquisition) - 2027 Start
+Technology - Infrastructure
+Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
 Software Engineer Intern (Data Management Suite, Traffic Infrastructure) - 2027 Start
@@ -141,13 +146,8 @@ Technology - Infrastructure
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Business Development and Commercial Strategy Graduate (Data Center Development, Data Center Acquisition) - 2027 Start
+Technical Project Manager Graduate (Data Center Development) - 2027 Start
 Technology - Infrastructure
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
-Electrical Engineer Graduate (Data Center Engineering) - 2027 Start
-Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
