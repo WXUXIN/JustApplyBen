@@ -30,6 +30,7 @@ Madrid, Spain
 Miami, FL
 Munich, Germany
 New York, NY
+Norfolk, VA
 Oslo, Norway
 Palo Alto, CA
 Paris, France
@@ -37,7 +38,6 @@ San Diego, CA
 Seattle, WA
 Seoul, South Korea
 Singapore, Singapore
-Stockholm, Sweden
 Sydney, Australia
 Tokyo, Japan
 Vilnius, Lithuania

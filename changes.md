@@ -1,88 +1,108 @@
 # Latest Scraper Results
 
-## 2026-10-12 10:07:45
+## 2026-10-13 10:00:39
 
 ### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
 
 **Line changes detected!**
 
 ```diff
-- 10 x2
-+ 11 x2
-- 1‑10 of 10
-+ 1‑11 of 11
-+ Business Program Manager MBA Intern, 2027
-+ Copy link
-+ Currently enrolled in a MBA degree program in the EMEA region
-+ Email a friend
-+ Google
-+ Google |
-+ Intern & Apprentice
-+ Learn more
+- 11 x2
++ 15 x2
+- 1‑11 of 11
++ 1‑15 of 15
++ Ability to communicate in English fluently to participate in technical discussions.
++ Ability to communicate in English to support client relationship management in this region.
++ Copy link x4
++ Currently enrolled in a Bachelor's degree or Master's degree in Computer Science, Electronics, Information Technology, or similar technical area of study.
++ Currently enrolled in a Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, Statistics, Economics, Business Information Systems, or a related technical/quantitative field in the EMEA region.
++ Currently pursuing a Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.
++ Currently pursuing a Bachelor's, Master's, or PhD degree in Computer Science, or a related technical field.
++ Data Center Technician Intern, 2027
++ Email a friend x4
++ Enrolled in the penultimate academic year of a Bachelor’s or Master’s degree. x3
++ Experience installing a network or Linux system and with the basic concepts around these.
++ Experience with coding in C, C++, Java, JavaScript, Python, or another relevant programming language.
++ Experience with data structures, algorithms, and software design.
++ Experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
++ Experience working in Unix/Linux environments.
++ Forward Deployed Engineer Intern, 2027
++ Google x4
++ Google | x4
++ Intern & Apprentice x4
++ Learn more x4
 + London, UK x2
-+ Minimum qualifications
-+ Relevant practical or internship experience in program or project management.
-+ Share Business Program Manager MBA Intern, 2027
-- Showing 1 to 10 of 10 rows
-+ Showing 1 to 11 of 11 rows
-+ bar_chart
-+ corporate_fare
-+ email
-+ link
-+ place
-+ share
++ Minimum qualifications x4
++ Product Deployment Engineer BS/MS, Intern - 2027 (English)
++ Programming or scripting experience with at least one language (e.g., Python, JavaScript) and experience with SQL or data analysis.
++ Relevant practical or internship based experience building and executing structured/unstructured data pipelines, cloud platform databases, or AI/ML-driven workflows (such as RAG architectures).
++ Relevant practical or internship experience in technical project delivery, technical consulting, software development, or a customer-facing role.
++ Share Data Center Technician Intern, 2027
++ Share Forward Deployed Engineer Intern, 2027
++ Share Product Deployment Engineer BS/MS, Intern - 2027 (English)
++ Share Software Engineering Intern, 2027 (English)
+- Showing 1 to 11 of 11 rows
++ Showing 1 to 15 of 15 rows
++ Singapore x6
++ Software Engineering Intern, 2027 (English)
++ bar_chart x4
++ corporate_fare x4
++ email x4
++ link x4
++ place x4
++ share x4
 ```
 
 ---
-### [https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=Singapore&sector=&experience=Students%20and%20New%20Grads)
+### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
 
 **Line changes detected!**
 
 ```diff
-+ , x7
-+ . x2
-+ . © 2026 Qube Research & Technologies Limited. All rights reserved.
-+ 2027 - Internship, Security Engineer
-+ 2027 – Internship or Graduate, Quantitative Research and Trading
-+ 2027 – Internship or Graduate, Software Engineer and Quantitative Developer
-+ 2027 – Internship, Infrastructure Engineering
-+ About Us
-+ About us
-+ Any specific enquiries related to campus, internships and graduate programmes, please contact
-+ Beijing
-+ Careers x2
-+ Careers | QRT
-+ Commitments
-+ Contact Us
-+ Contact us
-+ Copy URL
-+ Disclosures and Reports
-+ Experience
-+ External Contributors
-+ For general recruitment you may contact
-+ Fraud and impersonation warnings
-+ Hong Kong x4
-+ Location
-- Our system thinks you might be a robot!
-+ Please apply online.
-- Please complete the captcha below to prove you're a human and proceed to the page you're trying to reach.
-+ Privacy policy
-+ QRT is an equal opportunity employer. We welcome diversity and consider it essential to our success. QRT empowers employees to work openly to achieve collective success. In addition to professional achievement, we offer initiatives and programs to enable employees to achieve a healthy work-life balance.
-+ Qube Research & Technologies Limited is authorised and regulated by the Financial Conduct Authority. Qube Research & Technologies Hong Kong Limited is licensed by the Hong Kong Securities and Futures Commission. Qube Research & Technologies Paris SAS is authorised and regulated by the French Authorities des Marches Financiers. Qube Research & Technologies Singapore Pte. Ltd is authorised and regulated by the Monetary Authority of Singapore. Qube Research and Technologies (DIFC) Limited is regulated by the Dubai Financial Services Authority. Qube Research and Technologies Switzerland AG is regulated by the Swiss Financial Market Supervisory Authority and is affiliated with
-- Robot Challenge Screen
-+ Sector
-+ Select sector
-+ Shanghai x2
-+ Singapore x5
-+ Students and New Grads
-- This page requires cookies to be enabled in your browser settings. Please check this setting and enable cookies (if disabled). sid:343
-+ View opportunity x4
-+ We are proud of our exceptionally talented and diverse teams who are driving QRT’s innovation and growth
-- We're really sorry about this, but it's getting harder and harder to tell the difference between humans and bots these days.
-+ campus@qube-rt.com
-+ global-recruitment@qube-rt.com
-+ https://www.finos.ch
-+ | x2
++ +2 more x2
+- 20 Items
++ 22 Items
+- AI Infrastructure
++ AI Research
++ AR/VR
+- Analytics
++ Artificial Intelligence
++ Bellevue, WA x3
+- Data & Analytics x2
+- Data Engineer Intern, Product Analytics (Summer 2027)
+- Data Engineering
+- Data Science
+- Data Scientist Intern, Product Analytics (PhD) (Summer 2027)
++ Electrical Engineering Intern
++ Engineering x4
++ Generative AI
+- Hardware
+- Infrastructure
+- Internship - Engineering, Tech & Design x2
++ Internship - PhD
++ Machine Learning
+- Mechanical Engineering Intern, Infrastructure
+- Page 1 of 2
++ Page 1 of 3
+- Production Systems Engineering Intern
++ Redmond, WA
++ Research Scientist Intern, Language and Agents (PhD)
++ Signal Integrity Intern
++ Software Engineer Intern, Machine Learning (PhD)
++ Software Engineer Intern, Systems and Infrastructure (PhD)
+- Structural Design Engineer - FEA (Intern)
++ Sunnyvale, CA x2
+- University Grad - Engineering, Tech & Design
++ ⋅ x8
+```
+
+---
+### [https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software](https://www.drw.com/work-at-drw/listings?filterType=keyword&value=software)
+
+**Line changes detected!**
+
+```diff
+No line changes.
 ```
 
 ---
@@ -91,7 +111,28 @@
 **Line changes detected!**
 
 ```diff
-- Re
++ Check my ap
+- Check my app
+```
+
+---
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
++ Show 12 out of 104 open roles
+- Show 12 out of 105 open roles
+```
+
+---
+### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
+
+**Line changes detected!**
+
+```diff
++ Norfolk, VA
+- Stockholm, Sweden
 ```
 
 ---
