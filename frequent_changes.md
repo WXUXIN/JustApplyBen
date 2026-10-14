@@ -1,14 +1,22 @@
 # Latest Frequent Scraper Results
 
-## 2026-10-14 16:25:18
+## 2026-10-14 21:15:54
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-- Check my
-+ Reco
+- Reco
+```
+
+---
+### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+No line changes.
 ```
 
 ---
@@ -17,212 +25,208 @@
 **Line changes detected!**
 
 ```diff
-- 1,170+ course
-- 1,190+ course
-- 1,260+ course
-- 1,370+ course
-- 1,420+ course
-- 1,510+ course
-- 1,560+ course x2
-- 1,880+ course
-- 1,950+ course
-- 120+ courses
-- 2,080+ courses
-- 2,180+ courses
-- 2,210+ courses
-- 2,820+ courses
-- 2,890+ courses
-- 3,280+ courses
-- 3,800+ courses
-- 330+ courses
-- 340+ courses
-- 390+ courses x2
-- 420+ courses
-- 430+ courses
-- 440+ courses x2
-- 520+ courses
-- 590+ courses
-- 660+ courses
-- 690+ courses
-- 720+ courses x2
-- 730+ courses
-- 750+ courses
-- 810+ courses
-- 920+ courses
-- 930+ courses
-- AEC
-- About x2
-- Accessibility
-- Accounting
-- Administrative
-- Administrative Assistant
-- Animation and Illustration
-- Anyone looking to navigate their professional life.
-- Articles
-- Artificial Intelligence (AI)
-- Arts and Design
-- Audio and Music
-+ Back
-- Blog
-- Brand Policy
-- Browse LinkedIn
-- Business Analysis and Strategy
-- Business Development
-- Business Software and Tools
-- Business Solutions
-- By clicking Continue to join or sign in, you agree to LinkedIn’s x2
-+ By clicking Continue, you agree to LinkedIn’s x2
-- CRM Software
-- Career
-- Career Development
-- Careers
-- Choose a topic to learn about
-+ Click on the link to sign in instantly to your LinkedIn account.
-- Cloud Computing
-- Community and Social Services
-- Companies
-- Connect with buyers who have first-hand experience to find the best products for you.
-- Connect with people who can help
-- Consulting
-- Conversations today could lead to opportunity tomorrow
-- Crossclimb
-- Customer Service x2
-- Cybersecurity
-- Data Science
-- Database Management
-- Desktop Publishing Software
-- DevOps
-- Developers
-- Directories
-- Discover relevant posts and expert insights — curated by topic and in one place.
-- Discover the best software tools
-- Diversity, Equity, and Inclusion (DEI)
-- E-Commerce Platforms
-- Ecommerce
-- Education x2
-+ Email or phone
-- Engineering
-- Entrepreneurship
-- Explore top LinkedIn content
-- Featured
-- Finance x2
-- Finance and Accounting
-- Find a course or training
-- Find a coworker or classmate
-- Find a new job
-- Find people you know
-- Find the right job or internship for you
-+ Forgot password?
-- From live videos, to stories, to newsletters and more, LinkedIn is full of ways to stay up to date on the latest discussions in your industry.
-- Games x2
-- General
-- Get started
-- Graphic Design
-- Guest Controls
-- Hardware
-- Healthcare Service
-- Help Center
-- Help Desk Software
-- Human Resources x2
-- Human Resources Management Systems
-- IT Help Desk
-+ If you don’t see the email in your inbox, check your spam folder.
-- Information Technology
-- Jobs x3
-- Join now
-- Join your colleagues, classmates, and friends on LinkedIn
-+ Keep me logged in
-- Keep your mind sharp with games
-- Leadership
-- Leadership and Management
-- Learn the skills you need to succeed
-- Learning x4
-- Legal
-- Let the right people know you’re open to work
-- LinkedIn
-+ LinkedIn Login, Sign in | LinkedIn
-- LinkedIn: Log In or Sign Up
-- Marketing x3
-- Media and Communications
-- Members
-- Military and Protective Services
-- Mini Sudoku
-- Mobile
-- Mobile Development
-- Motion Graphics and VFX
-- Network and System Administration
-- News
-- News Letters
-- No more next content
-- No more previous content
-- Operations
-+ Password
-- Patches
-- People
-- People Search
-- Photography
-- Pinpoint
-- Post a job
-- Post your job for millions of people to see
-- Posts
-- Press
-- Product Management
-- Product and Manufacturing
-- Productivity
-- Products x2
-- Professional Development
-- Program and Project Management
-- Project Management x2
-- Project Management Software
-- Purchasing
-- Quality Assurance
-- Queens
-- Real Estate
-- Recruiting Software
-- Research
-+ Resend email
-- Retail Associate
-- Sales x3
-- Sales Intelligence Software
-- Schools
-+ Send Feedback
-- Sending messages to people you know is a great way to strengthen relationships as you take the next step in your career.
-- Services x2
-+ Show
-- Show all x2
-- Show less
-- Show more
-- Sign Up
++ ,
++ , and
++ .
++ About
++ Accessibility
++ Agree & Join
++ Already on Linkedin?
+- Back
++ Brand Policy
++ By clicking Agree & Join, you agree to the LinkedIn
++ By clicking Continue to join or sign in, you agree to LinkedIn’s x2
+- By clicking Continue, you agree to LinkedIn’s x2
+- Click on the link to sign in instantly to your LinkedIn account.
++ Continue with Google x2
++ Cookie Policy
++ Email
++ First name
++ Guest Controls
+- If you don’t see the email in your inbox, check your spam folder.
++ Join LinkedIn
+- Keep me logged in
++ Last name
++ LinkedIn
+- LinkedIn Login, Sign in | LinkedIn
+- New to LinkedIn?
++ New to Linkedin?
++ Not you?
++ Password (6+ characters)
++ Privacy Policy
++ Remove photo
+- Resend email
++ Security verification
+- Send Feedback
++ Sign Up | LinkedIn
 + Sign in
-+ Sign in with Apple
-- Sign in with email
-- Skip to main content
-- Small Business and Entrepreneurship
-- Social Networking Software
-- Soft Skills & Emotional Intelligence
-- Software Development
-- Stay up to date on your industry
-- Support
-- Take a break and reconnect with your network through quick daily games.
-- Talent
-- Tango
-- Technology
-- Top Colleges
-- Top Companies
-- Top Content
-- Top Startups
-- Training and Education
-- User Experience
-- Video
-- Visualization and Real-Time
-- Web Design
-- Web Development
-- Welcome to your professional community
-+ We’ve emailed a one-time link to your primary email address
-- Who is LinkedIn for?
-- With the Open To Work feature, you can privately tell recruiters or publicly share with the LinkedIn community that you are looking for new job opportunities.
-- Zip
+- Sign in with Apple
++ Skip to main content
++ User Agreement
+- We’ve emailed a one-time link to your primary email address
 + or
+```
+
+---
+### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Data&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+No line changes.
+```
+
+---
+### [https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?recruitment_id_list=202%2C301%2C201&job_category_id_list=6704215862603155720&subject_id_list=&location_code_list=CT_163&keyword=Engineer&limit=12&offset=0)
+
+**Line changes detected!**
+
+```diff
+No line changes.
+```
+
+---
+### [https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company](https://www.linkedin.com/jobs/search/?currentJobId=4296859263&f_C=6575553&f_CR=102454443&f_TPR=r21600&geoId=92000000&origin=JOB_SEARCH_PAGE_JOB_FILTER&sortBy=R&spellCorrectionEnabled=true&trk=d_flagship3_company)
+
+**Line changes detected!**
+
+```diff
++ - Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
++ - Background in resource scheduling and optimization
++ - Collaborate with AI infrastructure teams to integrate specialized tooling and execution environments;
++ - Continuously improve platform efficiency and cost-effectiveness through system optimization;
++ - Contributions to open-source infrastructure projects
++ - Deep understanding of Linux, networking (TCP/IP, HTTP), and distributed systems.
++ - Design, develop, and optimize the core platform services and ecosystem components;
++ - Establish and enforce platform engineering best practices across internal product lines;
++ - Experience in infrastructure products (e.g., monitoring, logging, service mesh, storage).
++ - Experience with PaaS platforms or service deployment systems
++ - Familiarity with cloud-native technologies (Kubernetes, Docker) and large-scale system design.
++ - Knowledge of AI/ML platform infrastructure and tooling
++ - Proficiency in Go/Python/Rust/Typescript and strong systems programming skills.
++ 1 hour ago x5
++ 1 year ago
++ 16 minutes ago
++ 2 hours ago x20
++ 27
++ 3 hours ago
++ APAC Investigator, Global Legal Investigations x2
++ About The Team
++ About Us
++ Account Executive - Innovative Technical Sales (AI) x2
+- Agree & Join
+- Already on Linkedin?
++ Analog and Mixed Signal Design Engineer -Singapore x2
++ As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
++ Backend Engineer Graduate (Recommendation Architecture) - 2026 Start (PhD) x2
++ Be among the first 25 applicants
++ Be an early applicant x27
+- By clicking Agree & Join, you agree to the LinkedIn
++ By clicking Continue to join or sign in, you agree to LinkedIn’s
++ ByteDance x30
++ ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
++ Clear text x6
++ Continue with Google x6
++ Credit Risk & Anti-Fraud Manager (BNPL/Personal Loan) - Jakarta - Global Payment x2
++ Design-for-Test (DFT) Engineer - Singapore x2
++ Diversity & Inclusion​
++ Done x2
++ Easy Apply
+- Email
++ Email or phone
++ Employment type
++ Expand search
++ Finance ERP System Director - Corporate Information System x2
++ Finance Manager - Cloud Computing x2
+- First name
++ Forgot password?
++ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
++ Full-time
++ Get notified when a new job is posted.
++ Global Workforce Compliance Expert (Research & Process Construction) x2
++ Hong Kong SAR
++ IOS Software Engineer - Global Payment - Singapore x2
++ Industries
++ Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
++ Jakarta, Jakarta, Indonesia
++ Jobs x2
++ Jobs Jobs at ByteDance in Worldwide (27 Open Roles) | LinkedIn
++ Jobs in Worldwide x2
+- Join LinkedIn
++ Join now x2
++ Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+- Last name
++ Learn more
++ Learning
++ London, England, United Kingdom x2
++ Los Angeles, CA x2
++ Marketing and CSR Manager (Philippines E-commerce) x2
++ Merchant Financing Solutions Associate (Third-party Associate) - Global Payment - Malaysia x2
++ Mexico City, Mexico
++ Mid-Senior level
++ Minimum Qualifications:
++ Music Counsel, EMEA x2
++ Network Engineer Graduate (Network Infrastructure) - 2027 Start x2
++ New to LinkedIn? x2
+- New to Linkedin?
++ No longer accepting applications
+- Not you?
++ Operations Manager - Supply Chain and Procurement x2
++ Our mission is to enable safer deployment processes, expand deployment capabilities, and deliver robust control mechanisms to optimize business operations and reduce costs. As part of our drive for innovation, we are continuously expanding our PaaS offerings to support AI infrastructure development through next generation technologies with MCP and AI Sandbox.
++ Password
+- Password (6+ characters)
++ Past 24 hours x3
++ Past month
++ Past week
++ People
++ Preferred Qualifications:
++ Production System Engineer x2
++ Qualifications
++ Referrals increase your chances of interviewing at ByteDance by 2x
+- Remove photo
++ Report this job
++ Reset
++ Responsibilities
++ SOC / IP Verification Engineer -Singapore x2
++ San Jose, CA x4
+- Security verification
++ See who ByteDance has hired for this role
++ See who you know
++ Senior Backend Engineer (Payment Product and Solution) - Global Payment x2
++ Senior Backend Engineer – Global Payment x2
++ Seniority level
++ Set alert
++ Shanghai, Shanghai, China
++ Show
++ Show less
++ Show more
+- Sign Up | LinkedIn
++ Sign in to set job alerts for “Jobs” roles.
++ Sign in to view more jobs
++ Sign in with Email x2
++ Singapore x2
++ Singapore, Singapore x11
++ Site Reliability Engineer - System Service Global x2
++ Software Engineer - Service Platform
++ Solutions Architect x2
++ Strategic Partnerships Manager - Global Payment x2
++ Synthesis & STA Engineer - Singapore x2
++ São Paulo, São Paulo, Brazil
++ Taguig, National Capital Region, Philippines
++ Tax Counsel - US (Los Angeles) - Tax x2
++ Technology, Information and Internet
++ The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
++ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
++ Under 10 applicants
++ VAT Tax Compliance Manager x2
++ We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
++ What you will be doing:
++ Where are the filters?
++ Why Join ByteDance
++ Workforce Governance Expert x2
++ You're now using AI-powered job search
++ You've viewed all jobs for this search
++ 豆包AI大模型音乐数据专家 - Data语音 x2
 ```
 
 ---
