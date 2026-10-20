@@ -101,16 +101,21 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
 Backend Software Engineer Project Intern (Data Platform, Data Management Suite) - 2026 Start
 Technology
 Project Intern
 Singapore
 Intern
+Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
+AI Agent Algorithm Engineer Graduate (Global E-Commerce, Conversational AI) - 2027 Start
+Technology
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
 Backend Software Engineer Intern (Data Platform, Data Management Suite) - 2027 Start
 Technology
 Undergraduate/Master Intern - 2027 Start
@@ -121,13 +126,13 @@ Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-AI Agent Algorithm Engineer Graduate (Global E-Commerce, Conversational AI) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
 AI Agent Algorithm Engineer Intern (Global E-Commerce,  Affiliate) - 2027 Start
 Technology
+Undergraduate/Master Intern - 2027 Start
+Singapore
+Intern
+Production System Engineer Intern (Infrastructure Engineering) - 2027 Start
+Technology - DevOps
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
@@ -141,16 +146,11 @@ Technology - Backend
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Production System Engineer Intern (Infrastructure Engineering) - 2027 Start
-Technology - DevOps
+Data AI Engineer Intern (Global Payment) - 2027 Start
+Technology - Big data
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Software Engineer Graduate (Data Management Suite, Traffic Infrastructure) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
 Show 12 out of 87 open roles
 1
 2
