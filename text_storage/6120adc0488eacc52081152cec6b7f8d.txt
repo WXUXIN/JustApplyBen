@@ -114,35 +114,15 @@ On-site —
 Internship
 Seoul, South Korea
 Apply
-Forward Deployed Software Engineer, Internship - Defense Tech
-On-site —
-Internship
-Washington, D.C.
-Apply
 Forward Deployed Software Engineer, Internship - France
 Hybrid —
 Internship
 New York, NY
 Apply
-Forward Deployed Software Engineer, Internship - Intel
-On-site —
-Internship
-Washington, D.C.
-Apply
 Forward Deployed Software Engineer, Internship - UK Government
 On-site —
 Internship
 London, United Kingdom
-Apply
-Forward Deployed Software Engineer, Internship - US Government
-On-site —
-Internship
-Washington, D.C.
-Apply
-Forward Deployed Software Engineer, Internship - US Government
-On-site —
-Internship
-New York, NY
 Apply
 Forward Deployed Software Engineer, Internship - US Government
 On-site —
@@ -270,6 +250,16 @@ Software Engineer, Internship - Production Infrastructure
 On-site —
 Internship
 Washington, D.C.
+Apply
+Software Engineer, Internship - Query Engines
+On-site —
+Internship
+New York, NY
+Apply
+Software Engineer, Internship - Query Engines
+On-site —
+Internship
+London, United Kingdom
 Apply
 Year at Palantir - Software Engineer, Internship
 On-site —
