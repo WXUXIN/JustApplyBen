@@ -1,18 +1,23 @@
 # Latest Scraper Results
 
-## 2026-10-22 08:15:45
+## 2026-10-23 08:13:38
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-+ Communications
-+ Junior Commercial Associate — Works in Progress
-+ London
-- Software Engineer, Early Career — Immediate Start
-- Toronto
-- University
+- .
+- Continue
+- Enter your company website
+- Get industry insights and updates from Stripe
+- Privacy Policy
+- Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
+- Subscribe
+- Subscribed
+- Thanks for subscribing. Look out for Stripe updates in your inbox.
+- at any time.
+- unsubscribe
 ```
 
 ---
@@ -21,26 +26,54 @@
 **Line changes detected!**
 
 ```diff
-- 35 Items
-+ 37 Items
-+ 3D Software Engineering
-+ AI Research x2
-+ AR/VR
-+ Artificial Intelligence x2
-+ Computer Vision
-+ Facebook Reality Labs
-+ Internship - PhD x2
-+ London, UK
-- New York, NY x2
-- Product Security Engineer, Intern (Summer 2027)
-+ Research x2
-+ Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)
-+ Research Scientist Intern, Foundational Models for Robotics Research (PhD)
+- 37 Items
++ 46 Items
++ AI Infrastructure
++ AI Research
+- Artificial Intelligence x2
++ Bellevue, WA x4
++ Boston, MA x2
+- Burlingame, CA x3
+- Computer Vision x2
+- Detection & Response Security Engineer, Intern (Summer 2027)
++ Engineering
+- Enterprise Security Engineer, Intern (Summer 2027)
++ Infrastructure x2
+- Internship - Engineering, Tech & Design x2
+- Internship - PhD x2
+- London, UK
+- Machine Learning
++ Menlo Park, CA
++ New York, NY x2
+- Page 1 of 4
++ Page 1 of 5
++ Production Engineer Intern
++ Production Engineering
+- Redmond, WA x2
++ Research
+- Research Intern - Self-Improving Agentic Systems and AI Research Agents
++ Research Scientist Intern, AI Alignment
+- Research Scientist Intern, AI-Driven Neural Interfaces (PhD)
+- Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)
++ Research Scientist Intern, FAIR - Multimodal Foundations (PhD)
++ Research Scientist Intern, FAIR - Physical Engineering AI (PhD)
++ Research Scientist Intern, FAIR - Video Generation (PhD)
++ Research Scientist Intern, FAIR – Multi-Agent Systems and Memory (PhD)
+- Research Scientist Intern, Foundational Models for Robotics Research (PhD)
++ Research Scientist Intern, MSL Agents (PhD)
+- Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)
+- Research Scientist Intern, PhD — Meta Superintelligence Labs
+- Research Scientist Intern, Smart Glasses in Wearables AI (PhD)
++ Research Scientist Intern, Video Recommendations (PhD)
++ San Francisco, CA x2
++ Seattle, WA x4
 - Security x2
-- Security Engineer Posture Management, Intern (Summer 2027)
++ Software Engineering
++ Software Engineering Intern
+- Sunnyvale, CA
 - Technical Security x2
-- University Grad - Engineering, Tech & Design
-- ⋅
++ University Grad - PhD & Postdoc x2
++ ⋅ x8
 ```
 
 ---
@@ -49,8 +82,8 @@
 **Line changes detected!**
 
 ```diff
-+ Chicago
-+ Senior Software Engineer, Options Execution
+- AI Full Stack Software Developer
+- Montréal
 ```
 
 ---
@@ -59,22 +92,13 @@
 **Line changes detected!**
 
 ```diff
-- , x3
-- 2027 – Internship or Graduate, Quantitative Research and Trading
-- Beijing
-- Hong Kong
-- Shanghai
-- Singapore
-- View opportunity
-```
-
----
-### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
-
-**Line changes detected!**
-
-```diff
-- Business Acceleration Team x2
++ , x3
++ 2027 – Internship or Graduate, Quantitative Research and Trading
++ Beijing
++ Hong Kong
++ Shanghai
++ Singapore
++ View opportunity
 ```
 
 ---
@@ -83,17 +107,23 @@
 **Line changes detected!**
 
 ```diff
-- Ch
-+ Reco
+- Recommen
 ```
 
 ---
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
+### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
 
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Apply x2
++ Forward Deployed Software Engineer, Internship - US Government x2
++ Internship x2
++ New York, NY
++ North America
++ On-site — x2
++ Scholarship
++ Washington, D.C.
 ```
 
 ---

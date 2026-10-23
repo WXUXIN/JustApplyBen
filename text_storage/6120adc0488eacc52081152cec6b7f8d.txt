@@ -31,6 +31,7 @@ Miami, FL
 Munich, Germany
 New York, NY
 Norfolk, VA
+North America
 Oslo, Norway
 Palo Alto, CA
 Paris, France
@@ -71,6 +72,7 @@ All
 Fixed-Term
 Full-time
 Internship
+Scholarship
 Business Development
 Apply
 Meritocracy Fellowship
@@ -128,6 +130,16 @@ Forward Deployed Software Engineer, Internship - UK Government
 On-site —
 Internship
 London, United Kingdom
+Apply
+Forward Deployed Software Engineer, Internship - US Government
+On-site —
+Internship
+Washington, D.C.
+Apply
+Forward Deployed Software Engineer, Internship - US Government
+On-site —
+Internship
+New York, NY
 Apply
 Forward Deployed Software Engineer, Internship - US Government
 On-site —
