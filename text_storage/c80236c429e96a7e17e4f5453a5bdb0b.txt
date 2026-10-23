@@ -80,6 +80,7 @@ Madrid
 Mexico City
 Munich
 New York
+Paris
 Pasig
 Riyadh
 San Diego
@@ -88,6 +89,7 @@ Sao Paulo
 Seattle
 Seoul
 Singapore
+Stockholm
 Taguig
 Tokyo
 Washington D.C.
@@ -151,7 +153,7 @@ Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
-Show 12 out of 88 open roles
+Show 12 out of 89 open roles
 1
 2
 3
