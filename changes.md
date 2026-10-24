@@ -1,23 +1,23 @@
 # Latest Scraper Results
 
-## 2026-10-23 08:13:38
+## 2026-10-24 07:52:23
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-- .
-- Continue
-- Enter your company website
-- Get industry insights and updates from Stripe
-- Privacy Policy
-- Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
-- Subscribe
-- Subscribed
-- Thanks for subscribing. Look out for Stripe updates in your inbox.
-- at any time.
-- unsubscribe
++ .
++ Continue
++ Enter your company website
++ Get industry insights and updates from Stripe
++ Privacy Policy
++ Receive marketing communication from Stripe (including via automated systems) regarding product updates, industry news, and event invitations. You can
++ Subscribe
++ Subscribed
++ Thanks for subscribing. Look out for Stripe updates in your inbox.
++ at any time.
++ unsubscribe
 ```
 
 ---
@@ -26,54 +26,33 @@
 **Line changes detected!**
 
 ```diff
-- 37 Items
-+ 46 Items
+- 3D Software Engineering
+- 46 Items
++ 50 Items
 + AI Infrastructure
 + AI Research
-- Artificial Intelligence x2
-+ Bellevue, WA x4
-+ Boston, MA x2
-- Burlingame, CA x3
-- Computer Vision x2
-- Detection & Response Security Engineer, Intern (Summer 2027)
+- AR/VR
+- Artificial Intelligence
++ Bellevue, WA
+- Boston, MA x2
+- Computer Vision
 + Engineering
-- Enterprise Security Engineer, Intern (Summer 2027)
-+ Infrastructure x2
-- Internship - Engineering, Tech & Design x2
-- Internship - PhD x2
+- Facebook Reality Labs
++ Infrastructure
 - London, UK
-- Machine Learning
 + Menlo Park, CA
-+ New York, NY x2
-- Page 1 of 4
-+ Page 1 of 5
-+ Production Engineer Intern
-+ Production Engineering
-- Redmond, WA x2
-+ Research
-- Research Intern - Self-Improving Agentic Systems and AI Research Agents
-+ Research Scientist Intern, AI Alignment
-- Research Scientist Intern, AI-Driven Neural Interfaces (PhD)
-- Research Scientist Intern, Audio, Machine Learning and Computer Vision (PhD)
-+ Research Scientist Intern, FAIR - Multimodal Foundations (PhD)
-+ Research Scientist Intern, FAIR - Physical Engineering AI (PhD)
-+ Research Scientist Intern, FAIR - Video Generation (PhD)
-+ Research Scientist Intern, FAIR – Multi-Agent Systems and Memory (PhD)
-- Research Scientist Intern, Foundational Models for Robotics Research (PhD)
-+ Research Scientist Intern, MSL Agents (PhD)
-- Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)
-- Research Scientist Intern, PhD — Meta Superintelligence Labs
-- Research Scientist Intern, Smart Glasses in Wearables AI (PhD)
-+ Research Scientist Intern, Video Recommendations (PhD)
-+ San Francisco, CA x2
-+ Seattle, WA x4
-- Security x2
+- New York, NY x2
+- Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)
+- Research Scientist Intern, AI Alignment
+- Research Scientist Intern, FAIR - Multimodal Foundations (PhD)
++ Research Scientist Intern, Feed Recommendations (PhD)
++ Research Scientist Intern, Meta Recommendation Systems (PhD)
++ Research Scientist Intern, Meta Recommendation Systems - Core ML (PhD)
+- San Francisco, CA x2
++ Seattle, WA
 + Software Engineering
-+ Software Engineering Intern
-- Sunnyvale, CA
-- Technical Security x2
-+ University Grad - PhD & Postdoc x2
-+ ⋅ x8
+- University Grad - PhD & Postdoc
+- ⋅ x4
 ```
 
 ---
@@ -82,8 +61,8 @@
 **Line changes detected!**
 
 ```diff
-- AI Full Stack Software Developer
-- Montréal
++ Greenwich
++ Software Engineer - Cumberland/FICCO Front Office Systems
 ```
 
 ---
@@ -92,13 +71,50 @@
 **Line changes detected!**
 
 ```diff
-+ , x3
-+ 2027 – Internship or Graduate, Quantitative Research and Trading
-+ Beijing
-+ Hong Kong
-+ Shanghai
-+ Singapore
-+ View opportunity
+- , x7
+- . x2
+- . © 2026 Qube Research & Technologies Limited. All rights reserved.
+- 2027 - Internship, Security Engineer
+- 2027 – Internship or Graduate, Quantitative Research and Trading
+- 2027 – Internship or Graduate, Software Engineer and Quantitative Developer
+- 2027 – Internship, Infrastructure Engineering
+- About Us
+- About us
+- Any specific enquiries related to campus, internships and graduate programmes, please contact
+- Beijing
+- Careers x2
+- Careers | QRT
+- Commitments
+- Contact Us
+- Contact us
+- Copy URL
+- Disclosures and Reports
+- Experience
+- External Contributors
+- For general recruitment you may contact
+- Fraud and impersonation warnings
+- Hong Kong x4
+- Location
++ Our system thinks you might be a robot!
+- Please apply online.
++ Please complete the captcha below to prove you're a human and proceed to the page you're trying to reach.
+- Privacy policy
+- QRT is an equal opportunity employer. We welcome diversity and consider it essential to our success. QRT empowers employees to work openly to achieve collective success. In addition to professional achievement, we offer initiatives and programs to enable employees to achieve a healthy work-life balance.
+- Qube Research & Technologies Limited is authorised and regulated by the Financial Conduct Authority. Qube Research & Technologies Hong Kong Limited is licensed by the Hong Kong Securities and Futures Commission. Qube Research & Technologies Paris SAS is authorised and regulated by the French Authorities des Marches Financiers. Qube Research & Technologies Singapore Pte. Ltd is authorised and regulated by the Monetary Authority of Singapore. Qube Research and Technologies (DIFC) Limited is regulated by the Dubai Financial Services Authority. Qube Research and Technologies Switzerland AG is regulated by the Swiss Financial Market Supervisory Authority and is affiliated with
++ Robot Challenge Screen
+- Sector
+- Select sector
+- Shanghai x2
+- Singapore x5
+- Students and New Grads
++ This page requires cookies to be enabled in your browser settings. Please check this setting and enable cookies (if disabled). sid:343
+- View opportunity x4
+- We are proud of our exceptionally talented and diverse teams who are driving QRT’s innovation and growth
++ We're really sorry about this, but it's getting harder and harder to tell the difference between humans and bots these days.
+- campus@qube-rt.com
+- global-recruitment@qube-rt.com
+- https://www.finos.ch
+- | x2
 ```
 
 ---
@@ -107,23 +123,8 @@
 **Line changes detected!**
 
 ```diff
-- Recommen
-```
-
----
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
-
-**Line changes detected!**
-
-```diff
-+ Apply x2
-+ Forward Deployed Software Engineer, Internship - US Government x2
-+ Internship x2
-+ New York, NY
-+ North America
-+ On-site — x2
-+ Scholarship
-+ Washington, D.C.
+- Check my app
++ Recommend
 ```
 
 ---
