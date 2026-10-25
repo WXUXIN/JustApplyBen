@@ -1,40 +1,89 @@
-Sign Up | LinkedIn
-Agree & Join LinkedIn
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
+2 Data Engineer jobs in Singapore
 Skip to main content
 LinkedIn
-Join LinkedIn
-Not you?
-Remove photo
-Email
-Password (6+ characters)
-First name
-Last name
-By clicking Agree & Join, you agree to the LinkedIn
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
+Data Engineer in Singapore
+Expand search
+Jobs
+This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
+Jobs
+People
+Learning
+Clear text
+Clear text
+Clear text
+Clear text
+Clear text
+Sign in
+Join now
+50 miles (80 km)
+Exact location
+5 miles (8 km)
+10 miles (16 km)
+25 miles (40 km)
+50 miles (80 km)
+Done
+Past 24 hours
+Past 24 hours
+Past week
+Past 24 hours
+Past month
+Done
+Company
+Clear text
+Glencore
+Deutsche Bank
+Done
+Under 10 applicants
+Where are the filters?
+You're now using AI-powered job search
+We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
+Learn more
+Get notified about new
+Data Engineer
+jobs in
+Singapore
 .
-Agree & Join
-or
-Already on Linkedin?
-Sign in
-Security verification
-Sign in
+Sign in to create job alert
+2
+Data Engineer Jobs in Singapore
+Data Analytics Intern (H1 2027)
+Data Analytics Intern (H1 2027)
+Glencore
+Singapore, Singapore
+Actively Hiring
+2 hours ago
+Private Bank – Senior Business Analyst (Data Domain) - AVP
+Private Bank – Senior Business Analyst (Data Domain) - AVP
+Deutsche Bank
+Singapore, Singapore
+Be an early applicant
+2 hours ago
+You've viewed all jobs for this search
+Data Analytics Intern (H1 2027)
+Glencore
+Singapore, Singapore
+2 hours ago
+Over 200 applicants
+See who Glencore has hired for this role
+Apply
+Join or sign in to find your next job
+Join to apply for the
+Data Analytics Intern (H1 2027)
+role at
+Glencore
+Continue with Google
+Continue with Google
 Email or phone
 Password
 Show
 Forgot password?
 Sign in
+Sign in with Email
 or
+Continue with Google
+Continue with Google
+New to LinkedIn?
+Join now
 By clicking Continue to join or sign in, you agree to LinkedIn’s
 User Agreement
 ,
@@ -42,10 +91,120 @@ Privacy Policy
 , and
 Cookie Policy
 .
+Save
+Report this job
+Use AI to assess how you fit
+Get AI-powered advice on this job and more exclusive features.
+Am I a good fit for this job?
+Tailor my resume
+Sign in to access AI-powered advices
 Continue with Google
 Continue with Google
-New to Linkedin?
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+Continue with Google
+Continue with Google
+New to LinkedIn?
 Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to evaluate your skills
+Continue with Google
+Continue with Google
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+Continue with Google
+Continue with Google
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to tailor your resume
+Continue with Google
+Continue with Google
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+Continue with Google
+Continue with Google
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+As a Data Analytics Intern — Trading, you'll work on real business requirements alongside analysts, quants, and data engineers. Your job is to help us get more from our data — extracting and cleaning it, automating manual work, and building the tools and analytics that trading teams rely on.
+This is a hands-on, technical role. You'll be expected to code — from data cleaning in Python or SQL through to automation, analysis, and the use of AI. We'll match the depth of your work to your skills and to what the desk needs.
+This role sits within the analytics function supporting the trading desks, turning data into insights that inform market decisions — with exceptional candidates having the opportunity to work increasingly closely with the desks over time.
+Advanced scope (quant & engineering):
+If you have serious quantitative and coding depth, you can go further — building statistical/ML models and backtesting research on large datasets that feed directly into trading workflows.
+KEY RESPONSIBILITES
+Extract and clean data from APIs, web sources, portals, and internal databases
+Write Python/SQL to build the pipelines, scrapers, and tools the desk needs
+Apply LLMs and AI tools to problems that used to take manual effort
+Prepare charts, dashboards, and summaries for the desk
+Track vessel movements, cargo flows, refinery events, and supply/demand indicators
+Investigate and flag data-quality issues
+Advanced Scope (Quant & Engineering)
+Develop statistical and machine-learning models for trading workflows
+Run quantitative research and backtesting on large datasets
+Build production-grade Python and automated data pipelines
+Optimise and refactor existing systems for performance and reliability
+Education And Experience Requirement
+Pursuing a degree in a STEM, quantitative, analytical, or business field — for example Engineering, Computer Science, Data Science, Mathematics, Statistics, Quantitative Finance, Economics, Finance, Business, or Business Analytics
+An ability to code in Python and/or SQL — from data cleaning upward — or clear evidence that you can learn fast
+Strong analytical, problem-solving, and attention-to-detail skills
+The ability to take a business requirement and deliver a working result
+An interest in commodities, shipping, or data-driven analytics
+NICE TO HAVE
+Experience with data analysis, web scraping, or light automation
+Hands-on with Python data libraries (e.g. pandas, NumPy)
+Familiarity with statistics or machine learning (e.g. scikit-learn, PyTorch, TensorFlow)
+Exposure to cloud/data platforms (Databricks, AWS, Azure)
+BI tools (Power BI, Tableau)
+Understanding of commodity fundamentals or shipping logistics
+Who We Are
+Glencore is one of the world’s largest global diversified natural resource companies and a major producer and marketer of more than 60 commodities. Through a network of assets, customers and suppliers that spans the globe, we produce, process, recycle, source, market and distribute the commodities that advance everyday life.
+With over 140,000 employees and contractors and a strong footprint in over 30 countries in both established and emerging regions for natural resources, our marketing and industrial activities are supported by a global network of offices.
+Glencore’s customers are principally industrial consumers, such as those in the automotive, steel, power generation, battery manufacturing and oil sectors. We also provide financing, logistics and other services to producers and consumers of commodities.
+Important informationThis material does not purport to contain all of the information you may wish to consider. For further important information, including in connection with forward-looking statements and other cautionary information, refer to the Important notice section of Glencore’s 2025 Annual Report, which is available at glencore.com/publications. By their nature, forward-looking statements involve known and unknown risks, uncertainties and other factors which may cause actual results, performance or achievements to differ materially from any future events, results, performance, achievements or other outcomes expressed or implied by such forward-looking statements. This document does not constitute or form part of any offer or invitation to sell or issue, or any solicitation of any offer to purchase or subscribe for any securities. Other informationThe companies in which Glencore plc directly and indirectly has an interest are separate and distinct legal entities. In this document, “Glencore”, “Glencore group” and “Group” are used for convenience only where references are made to Glencore plc and its subsidiaries in general. These collective expressions are used for ease of reference only and do not imply any other relationship between the companies. Likewise, the words “we”, “us” and “our” are also used to refer collectively to members of the Group or to those who work for them. These expressions are also used where no useful purpose is served by identifying the particular company or companies. Note*: All applications will be subject to potential background checks. You will be informed if this will be the case. Further information about the processing of your personal data will be made available during the application process. We'll seek your explicit consent prior to processing the data.
+Show more
+Show less
+Seniority level
+Not Applicable
+Employment type
+Internship
+Industries
+Mining
+Referrals increase your chances of interviewing at Glencore by 2x
+See who you know
 LinkedIn
 © 2026
 About
@@ -95,3 +254,32 @@ Tiếng Việt (Vietnamese)
 简体中文 (Chinese (Simplified))
 正體中文 (Chinese (Traditional))
 Language
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to view more jobs
+Continue with Google
+Continue with Google
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+Continue with Google
+Continue with Google
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
