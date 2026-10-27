@@ -1,4 +1,15 @@
-Jobs Jobs at ByteDance in Worldwide (13 Open Roles) | LinkedIn
+Jobs Jobs at ByteDance in Worldwide (74 Open Roles) | LinkedIn
+LinkedIn respects your privacy
+LinkedIn and 3rd parties use essential and non-essential cookies to provide, secure, analyze and improve our Services, and to show you relevant ads (including
+professional and job ads
+) on and off LinkedIn. Learn more in our
+Cookie Policy
+.
+Select Accept to consent or Reject to decline non-essential cookies for this use. You can update your choices at any time in your
+settings
+.
+Accept
+Reject
 Skip to main content
 LinkedIn
 Jobs in Worldwide
@@ -37,86 +48,343 @@ jobs in
 Worldwide
 .
 Sign in to create job alert
-13
+74
 Jobs in Worldwide
-Machine Learning Engineer (User Growth & Intelligent Marketing) - Global e-Commerce
-Machine Learning Engineer (User Growth & Intelligent Marketing) - Global e-Commerce
+Android Engineer Graduate (Global Payment) - 2027 Start
+Android Engineer Graduate (Global Payment) - 2027 Start
 ByteDance
-Seattle, WA
-Actively Hiring
-13 hours ago
-Tech Lead Research Scientist, Physical AI Infra
-Tech Lead Research Scientist, Physical AI Infra
-ByteDance
-Seattle, WA
-Be an early applicant
-13 hours ago
-Senior Product Manager - Corporate Information Systems - AI Vertical Team
-Senior Product Manager - Corporate Information Systems - AI Vertical Team
-ByteDance
-Dubai, Dubai, United Arab Emirates
-Actively Hiring
-1 hour ago
-Senior Software Engineer, AI Infra Compute
-Senior Software Engineer, AI Infra Compute
-ByteDance
-Seattle, WA
-Actively Hiring
-14 hours ago
-AI-native Security Agent Engineer
-AI-native Security Agent Engineer
+Singapore
+22 hours ago
+Research Scientist - ByteBrain - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+Research Scientist - ByteBrain - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
 ByteDance
 San Jose, CA
-Actively Hiring
-14 hours ago
-Tech Lead Engineer, Physical AI Infra
-Tech Lead Engineer, Physical AI Infra
+Be an early applicant
+22 hours ago
+Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start
+Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start
 ByteDance
 Seattle, WA
-Be an early applicant
-13 hours ago
-销售管理分析师（政策管理方向）-Global Business Solutions
-销售管理分析师（政策管理方向）-Global Business Solutions
-ByteDance
-Shanghai, Shanghai, China
-Be an early applicant
-14 hours ago
-Model Frontier Risk Analyst
-Model Frontier Risk Analyst
+22 hours ago
+Machine Learning Engineer (Payment & Risk) - Global Payment - Singapore
+Machine Learning Engineer (Payment & Risk) - Global Payment - Singapore
 ByteDance
 Singapore, Singapore
 Be an early applicant
-5 hours ago
-豆包AI大模型内容策略运营（海外方向）-方舟MaaS
-豆包AI大模型内容策略运营（海外方向）-方舟MaaS
+22 hours ago
+Operations and Platform Engineer - Traffic Infrastructure
+Operations and Platform Engineer - Traffic Infrastructure
+ByteDance
+Singapore, Singapore
+Be an early applicant
+13 hours ago
+Site Reliability Engineer - Traffic Infrastructure
+Site Reliability Engineer - Traffic Infrastructure
+ByteDance
+Singapore, Singapore
+Be an early applicant
+13 hours ago
+Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2027 Start
+Machine Learning Engineer Graduate (Global E-Commerce, Recommendation) - 2027 Start
+ByteDance
+Singapore
+22 hours ago
+Applied Scientist - LLM Training System as a Service - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+Applied Scientist - LLM Training System as a Service - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+ByteDance
+San Jose, CA
+Be an early applicant
+22 hours ago
+增长AI产品经理-飞书
+增长AI产品经理-飞书
 ByteDance
 Beijing, Beijing, China
 Be an early applicant
 14 hours ago
-Software Development Engineer, Distributed NoSQL Database Systems
-Software Development Engineer, Distributed NoSQL Database Systems
+增长AI产品经理-飞书
+增长AI产品经理-飞书
 ByteDance
-San Jose, CA
-Actively Hiring
-13 hours ago
-AI and Cloud Solution Architect - BytePlus - Japan
-AI and Cloud Solution Architect - BytePlus - Japan
-ByteDance
-Tokyo, Tokyo, Japan
+Shanghai, Shanghai, China
 Be an early applicant
 14 hours ago
-Fraud Risk Operations Specialist - Global Payment - Singapore - Global Payment
-Fraud Risk Operations Specialist - Global Payment - Singapore - Global Payment
+Technical Program Manager - Cabling
+Technical Program Manager - Cabling
+ByteDance
+Seattle, WA
+Be an early applicant
+15 hours ago
+Senior Content Designer - Global Payment
+Senior Content Designer - Global Payment
 ByteDance
 Singapore, Singapore
-Actively Hiring
+Be an early applicant
+1 hour ago
+Network Engineer, Optical Long-haul and Submarine
+Network Engineer, Optical Long-haul and Submarine
+ByteDance
+San Jose, CA
+Be an early applicant
+15 hours ago
+Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+Research Scientist - Model Capability Boundary Exploration and AI Data Flywheel System Development - Global Frontier Tech Recruitment Program - 2027 Start (PhD)
+ByteDance
+San Jose, CA
+Be an early applicant
+22 hours ago
+Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start
+Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start
+ByteDance
+San Jose, CA
+22 hours ago
+Technical Program Manager - Cabling
+Technical Program Manager - Cabling
+ByteDance
+Ashburn, VA
+Be an early applicant
+15 hours ago
+BNPL Product Manager - Global Payment
+BNPL Product Manager - Global Payment
+ByteDance
+Singapore, Singapore
+Be an early applicant
+14 hours ago
+Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
+Big Data Engineer Graduate (Data Management Suite, Data Integration) - 2027 Start
+ByteDance
+Singapore
+22 hours ago
+Software Engineer (Payment Network) - Global Payment - Singapore Open - Global Payment
+Software Engineer (Payment Network) - Global Payment - Singapore Open - Global Payment
+ByteDance
+Singapore, Singapore
+3 hours ago
+Research Engineer Graduate (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)
+Research Engineer Graduate (Seed Model - AI Foundation Model Infrastructure) - 2027 Start (PhD)
+ByteDance
+San Jose, CA
+Be an early applicant
+22 hours ago
+Technical Program Manager - Cabling
+Technical Program Manager - Cabling
+ByteDance
+San Jose, CA
+Be an early applicant
+15 hours ago
+Network Operation Engineer, Physical Network Infrastructure
+Network Operation Engineer, Physical Network Infrastructure
+ByteDance
+Singapore, Singapore
 13 hours ago
-Category Account Manager, Home Improvement (Philippines E-Commerce)
-Category Account Manager, Home Improvement (Philippines E-Commerce)
+Software Engineer Graduate (AI Infra Compute) - 2027 Start
+Software Engineer Graduate (AI Infra Compute) - 2027 Start
+ByteDance
+Seattle, WA
+23 hours ago
+Enterprise Services AI Agent Engineer Graduate (Corporate Service System - Global Travel) - 2027 Start
+Enterprise Services AI Agent Engineer Graduate (Corporate Service System - Global Travel) - 2027 Start
+ByteDance
+Dubai, Dubai, United Arab Emirates
+22 hours ago
+Global Data Center Infrastructure Technology Expert (Commissioning), DCS
+Global Data Center Infrastructure Technology Expert (Commissioning), DCS
+ByteDance
+Jakarta, Jakarta, Indonesia
+14 hours ago
+Data Lake Infrastructure & Data Analytics Research Engineer Graduate (AML-Ark-US) - 2027 Start
+Data Lake Infrastructure & Data Analytics Research Engineer Graduate (AML-Ark-US) - 2027 Start
+ByteDance
+Seattle, WA
+22 hours ago
+Backend Software Engineer (Cloud Platform) - Traffic Infrastructure
+Backend Software Engineer (Cloud Platform) - Traffic Infrastructure
+ByteDance
+Singapore, Singapore
+Be an early applicant
+13 hours ago
+Backend Development Engineer Graduate (Infrastructure Platform Delivery) - 2027 Start
+Backend Development Engineer Graduate (Infrastructure Platform Delivery) - 2027 Start
+ByteDance
+San Jose, CA
+22 hours ago
+Applied Machine Learning Orchestration Graduate (AML) - 2027 Start
+Applied Machine Learning Orchestration Graduate (AML) - 2027 Start
+ByteDance
+Singapore
+22 hours ago
+Software Engineer Graduate (AI Compute) - 2027 Start (PhD)
+Software Engineer Graduate (AI Compute) - 2027 Start (PhD)
+ByteDance
+San Jose, CA
+Be an early applicant
+22 hours ago
+Research Engineer, Data Lake Infrastructure & Data Analytics Graduate (AML-Ark-US) - 2027 Start (PhD)
+Research Engineer, Data Lake Infrastructure & Data Analytics Graduate (AML-Ark-US) - 2027 Start (PhD)
+ByteDance
+Seattle, WA
+Be an early applicant
+22 hours ago
+Solutions Architect
+Solutions Architect
+ByteDance
+Los Angeles, CA
+Be an early applicant
+15 hours ago
+LLM Backend Engineer Graduate (Applied Machine Learning) - 2027 Start
+LLM Backend Engineer Graduate (Applied Machine Learning) - 2027 Start
+ByteDance
+San Jose, CA
+23 hours ago
+Strategic Account Executive - Innovative Technical Sales (AI)
+Strategic Account Executive - Innovative Technical Sales (AI)
+ByteDance
+Stockholm, Stockholm County, Sweden
+Be an early applicant
+15 hours ago
+AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2027 Start (PhD)
+AI/LLM Network Software Development Engineer Graduate (High Speed Network) - 2027 Start (PhD)
+ByteDance
+Seattle, WA
+Be an early applicant
+22 hours ago
+Consumer Financing Product Lead - Global Payment
+Consumer Financing Product Lead - Global Payment
+ByteDance
+Singapore, Singapore
+Be an early applicant
+13 hours ago
+EUI Sales Graduate (BytePlus) - 2027 Start
+EUI Sales Graduate (BytePlus) - 2027 Start
+ByteDance
+London, England, United Kingdom
+22 hours ago
+Research Scientist Computational Imaging Graduate (Pico) - 2027 Start (PhD) - Graduate (PICO Lab) - 2027 Start (PhD)
+Research Scientist Computational Imaging Graduate (Pico) - 2027 Start (PhD) - Graduate (PICO Lab) - 2027 Start (PhD)
+ByteDance
+San Jose, CA
+23 hours ago
+独立端产品经理（交易导购方向）-TikTok Shop
+独立端产品经理（交易导购方向）-TikTok Shop
+ByteDance
+Shanghai, Shanghai, China
+Be an early applicant
+5 hours ago
+AI & Cloud Solution Architect, BytePlus - Indonesia
+AI & Cloud Solution Architect, BytePlus - Indonesia
+ByteDance
+Jakarta, Jakarta, Indonesia
+Be an early applicant
+14 hours ago
+Software Engineer - AI Agent Infra Graduate (Security Engineering) - 2027 Start
+Software Engineer - AI Agent Infra Graduate (Security Engineering) - 2027 Start
+ByteDance
+San Jose, CA
+22 hours ago
+Card Growth Strategy Product Manager - Global Payment
+Card Growth Strategy Product Manager - Global Payment
+ByteDance
+San Jose, CA
+Be an early applicant
+13 hours ago
+Business Development and Commercial Strategy Graduate (Data Center Development, Data Center Acquisition) - 2027 Start
+Business Development and Commercial Strategy Graduate (Data Center Development, Data Center Acquisition) - 2027 Start
+ByteDance
+Singapore
+22 hours ago
+Brand Partnerships Manager (Growth / Mid-Market)
+Brand Partnerships Manager (Growth / Mid-Market)
 ByteDance
 Taguig, National Capital Region, Philippines
 Be an early applicant
 13 hours ago
+AI Vision Research Engineer Graduate- Pico 2026 Start (PHD)
+AI Vision Research Engineer Graduate- Pico 2026 Start (PHD)
+ByteDance
+San Jose, CA
+22 hours ago
+Innovation Tech Solution Sales Specialist (GenAI/Cloud) - BytePlus -  Malaysia
+Innovation Tech Solution Sales Specialist (GenAI/Cloud) - BytePlus -  Malaysia
+ByteDance
+Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
+14 hours ago
+独立端产品经理（基础体验方向）-TikTok Shop
+独立端产品经理（基础体验方向）-TikTok Shop
+ByteDance
+Shanghai, Shanghai, China
+Be an early applicant
+5 hours ago
+美妆护肤招商策略专家-抖音电商
+美妆护肤招商策略专家-抖音电商
+ByteDance
+Shanghai, Shanghai, China
+Be an early applicant
+14 hours ago
+MEA Regional Partnership Manager - BytePlus
+MEA Regional Partnership Manager - BytePlus
+ByteDance
+Riyadh, Riyadh, Saudi Arabia
+14 hours ago
+线下增长策略运营 - AI创新业务
+线下增长策略运营 - AI创新业务
+ByteDance
+Shanghai, Shanghai, China
+Be an early applicant
+4 hours ago
+线下增长策略运营 - AI创新业务
+线下增长策略运营 - AI创新业务
+ByteDance
+Beijing, Beijing, China
+Be an early applicant
+4 hours ago
+IOS Engineer Intern (Global Payment) - 2027 Start
+IOS Engineer Intern (Global Payment) - 2027 Start
+ByteDance
+Singapore
+Be an early applicant
+22 hours ago
+Software Engineer Intern (Global Payment-Financial Product) - 2027 Start
+Software Engineer Intern (Global Payment-Financial Product) - 2027 Start
+ByteDance
+Singapore
+22 hours ago
+Payment Strategy Business Development Project Intern (Global Payment) - 2027 Start
+Payment Strategy Business Development Project Intern (Global Payment) - 2027 Start
+ByteDance
+Tokyo, Tokyo, Japan
+22 hours ago
+Backend Software Engineer Intern (ByteCloud) - 2027 Start
+Backend Software Engineer Intern (ByteCloud) - 2027 Start
+ByteDance
+Singapore
+22 hours ago
+Cloud Site Relibility Engineer Intern (DCS), 2027 Start
+Cloud Site Relibility Engineer Intern (DCS), 2027 Start
+ByteDance
+Singapore
+Be an early applicant
+23 hours ago
+Student Researcher - (Seed Model - Video) – 2026 Start (PhD)
+Student Researcher - (Seed Model - Video) – 2026 Start (PhD)
+ByteDance
+San Jose, CA
+Be an early applicant
+23 hours ago
+Stability Agent Engineer Intern (Global Payment) - 2027 Start
+Stability Agent Engineer Intern (Global Payment) - 2027 Start
+ByteDance
+Singapore
+Be an early applicant
+22 hours ago
+Talent Acquisition Intern (Global Payment) - 2027 Start
+Talent Acquisition Intern (Global Payment) - 2027 Start
+ByteDance
+Singapore
+22 hours ago
+Creator/Content Operations Project Intern (Lemon8) - 2026 Start (BS/MS)
+Creator/Content Operations Project Intern (Lemon8) - 2026 Start (BS/MS)
+ByteDance
+Bangkok, Bangkok City, Thailand
+22 hours ago
+See more jobs
 You've viewed all jobs for this search
 Software Engineer - Service Platform
 ByteDance
@@ -126,6 +394,73 @@ Be among the first 25 applicants
 See who ByteDance has hired for this role
 No longer accepting applications
 Report this job
+Use AI to assess how you fit
+Get AI-powered advice on this job and more exclusive features.
+Am I a good fit for this job?
+Tailor my resume
+Sign in to access AI-powered advices
+Continue with Google
+Continue with Google
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+Continue with Google
+Continue with Google
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to evaluate your skills
+Continue with Google
+Continue with Google
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+Continue with Google
+Continue with Google
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to tailor your resume
+Continue with Google
+Continue with Google
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+Continue with Google
+Continue with Google
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
 Responsibilities
 About The Team
 The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
@@ -170,7 +505,6 @@ About
 Accessibility
 User Agreement
 Privacy Policy
-Your California Privacy Choices
 Cookie Policy
 Copyright Policy
 Brand Policy
@@ -222,6 +556,8 @@ Privacy Policy
 Cookie Policy
 .
 Sign in to view more jobs
+Continue with Google
+Continue with Google
 Email or phone
 Password
 Show
@@ -229,6 +565,8 @@ Forgot password?
 Sign in
 Sign in with Email
 or
+Continue with Google
+Continue with Google
 New to LinkedIn?
 Join now
 By clicking Continue to join or sign in, you agree to LinkedIn’s
