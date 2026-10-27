@@ -1,4 +1,4 @@
-Jobs Jobs at ByteDance in Worldwide (2 Open Roles) | LinkedIn
+Jobs Jobs at ByteDance in Worldwide (15 Open Roles) | LinkedIn
 Skip to main content
 LinkedIn
 Jobs in Worldwide
@@ -32,26 +32,117 @@ Where are the filters?
 You're now using AI-powered job search
 We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
 Learn more
-Get notified about new
-Jobs
-jobs in
-Worldwide
+Get notified when a new job is posted.
+Set alert
+Sign in to set job alerts for “Jobs” roles.
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
 .
-Sign in to create job alert
-2
+15
 Jobs in Worldwide
-独立端产品经理（交易导购方向）-TikTok Shop
-独立端产品经理（交易导购方向）-TikTok Shop
+Backend Software Engineer Graduate (ByteCloud) - 2027 Start
+Backend Software Engineer Graduate (ByteCloud) - 2027 Start
 ByteDance
-Shanghai, Shanghai, China
-Be an early applicant
-41 minutes ago
-独立端产品经理（基础体验方向）-TikTok Shop
-独立端产品经理（基础体验方向）-TikTok Shop
+Singapore
+Actively Hiring
+1 hour ago
+Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start
+Multi-Cloud CDN Scheduling Platform Engineer Graduate (CDN Platform) - 2027 Start
 ByteDance
-Shanghai, Shanghai, China
+Seattle, WA
 Be an early applicant
-38 minutes ago
+1 hour ago
+Software Engineer, Financial Product and Solution - Global Payment (San Jose)
+Software Engineer, Financial Product and Solution - Global Payment (San Jose)
+ByteDance
+San Jose, CA
+Be an early applicant
+2 hours ago
+Senior Content Designer - Global Payment
+Senior Content Designer - Global Payment
+ByteDance
+Singapore, Singapore
+Be an early applicant
+4 hours ago
+Research Scientist Graduate (Seed Model - LLM) - 2027 Start
+Research Scientist Graduate (Seed Model - LLM) - 2027 Start
+ByteDance
+San Jose, CA
+Actively Hiring
+1 hour ago
+Software Engineer, Global Payment - Global Payment
+Software Engineer, Global Payment - Global Payment
+ByteDance
+San Jose, CA
+Be an early applicant
+1 hour ago
+Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start (PhD)
+Software Engineer Graduate (AML-Engine-Orchestration) - 2027 Start (PhD)
+ByteDance
+Seattle, WA
+Be an early applicant
+1 hour ago
+Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)
+Machine Learning Engineer Graduate (E-Commerce Risk Control) - 2027 Start (PhD)
+ByteDance
+San Jose, CA
+Be an early applicant
+1 hour ago
+Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)
+Benefits Operation Data Analyst Project Intern - 2026 Start (BS/MS)
+ByteDance
+San Jose, CA
+Actively Hiring
+1 hour ago
+Student Researcher - (Seed Model - LLM - Post Training, Agent & Reinforcement Learning) – 2026 Start (PhD)
+Student Researcher - (Seed Model - LLM - Post Training, Agent & Reinforcement Learning) – 2026 Start (PhD)
+ByteDance
+San Jose, CA
+Be an early applicant
+1 hour ago
+Research Scientist Intern (Distributed NoSQL Database Systems) - 2027 Start (PhD)
+Research Scientist Intern (Distributed NoSQL Database Systems) - 2027 Start (PhD)
+ByteDance
+Seattle, WA
+Be an early applicant
+1 hour ago
+Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PHD)
+Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program - 2027 Start (PHD)
+ByteDance
+San Jose, CA
+Be an early applicant
+1 hour ago
+Integrated Marketing Project Intern (Lark APAC) - 2026 Start (BS/MS)
+Integrated Marketing Project Intern (Lark APAC) - 2026 Start (BS/MS)
+ByteDance
+Singapore
+Actively Hiring
+1 hour ago
+Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer
+Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern (AML-Ark-US) - 2027 Summer
+ByteDance
+San Jose, CA
+Actively Hiring
+1 hour ago
+Agency Partnerships Project Intern (E-Commerce) - 2026 Start (BS/MS)
+Agency Partnerships Project Intern (E-Commerce) - 2026 Start (BS/MS)
+ByteDance
+Taguig, National Capital Region, Philippines
+Actively Hiring
+1 hour ago
 You've viewed all jobs for this search
 Software Engineer - Service Platform
 ByteDance
@@ -61,6 +152,61 @@ Be among the first 25 applicants
 See who ByteDance has hired for this role
 No longer accepting applications
 Report this job
+Use AI to assess how you fit
+Get AI-powered advice on this job and more exclusive features.
+Am I a good fit for this job?
+Tailor my resume
+Sign in to access AI-powered advices
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to evaluate your skills
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Sign in to tailor your resume
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+Sign in with Email
+or
+New to LinkedIn?
+Join now
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
 Responsibilities
 About The Team
 The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
