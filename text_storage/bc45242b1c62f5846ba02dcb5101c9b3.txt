@@ -25,6 +25,8 @@ ByteDance
 Clear text
 ByteDance
 Done
+Easy Apply
+Under 10 applicants
 Reset
 Where are the filters?
 You're now using AI-powered job search
@@ -91,8 +93,6 @@ Privacy Policy
 Cookie Policy
 .
 Sign in to view more jobs
-Continue with Google
-Continue with Google
 Email or phone
 Password
 Show
@@ -100,8 +100,6 @@ Forgot password?
 Sign in
 Sign in with Email
 or
-Continue with Google
-Continue with Google
 New to LinkedIn?
 Join now
 By clicking Continue to join or sign in, you agree to LinkedIn’s
