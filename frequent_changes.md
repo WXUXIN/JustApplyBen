@@ -1,14 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-11-05 04:53:27
+## 2026-11-05 13:55:57
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-+ Re
-- Recommend jobs
+- Ch
 ```
 
 ---
@@ -17,8 +16,7 @@
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 101 open roles
-- Show 12 out of 107 open roles
+No line changes.
 ```
 
 ---
@@ -27,9 +25,7 @@
 **Line changes detected!**
 
 ```diff
-- 8
-+ Show 12 out of 84 open roles
-- Show 12 out of 90 open roles
+No line changes.
 ```
 
 ---
@@ -38,8 +34,7 @@
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 85 open roles
-- Show 12 out of 91 open roles
+No line changes.
 ```
 
 ---
