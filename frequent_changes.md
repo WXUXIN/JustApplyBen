@@ -1,13 +1,13 @@
 # Latest Frequent Scraper Results
 
-## 2026-11-05 13:55:57
+## 2026-11-05 23:13:37
 
 ### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
 
 **Line changes detected!**
 
 ```diff
-- Ch
++ Check my
 ```
 
 ---
@@ -25,7 +25,8 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-No line changes.
++ Data Engineer Graduate (TikTok Recommendation Ecosystem Architecture, Singapore) - 2027 Start (PhD)
+- Data Engineer Graduate(TikTok Recommendation Ecosystem Architecture, Singapore) - 2027 Start (PhD)
 ```
 
 ---
