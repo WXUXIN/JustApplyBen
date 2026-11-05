@@ -1,51 +1,61 @@
 # Latest Scraper Results
 
-## 2026-11-03 10:25:34
+## 2026-11-05 10:12:20
 
 ### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
 
 **Line changes detected!**
 
 ```diff
-+ 3D Software Engineering
+- +1 more
+- 3D Software Engineering
+- 70 Items
++ 75 Items
 - AI Infrastructure
-- AI Research x3
-+ AR/VR
++ AI Research x3
+- AR/VR
 - Artificial Intelligence x2
-- Bellevue, WA
-- Burlingame, CA x2
-+ Computer Vision x2
-+ Dublin, Ireland
-- Engineering
-- Facebook x3
-+ Facebook Reality Labs
-- Generative AI x2
-- Internship - Engineering, Tech & Design
-+ Internship - PhD x3
-+ London, UK x2
+- Bellevue, WA x2
+- Boston, MA
+- Computer Vision
+- Dublin, Ireland
+- Facebook Reality Labs
++ Generative AI x2
+- Infrastructure
+- Internship - PhD x2
 - Machine Learning
-- Menlo Park, CA
-+ Network Engineering
-+ Network Production Engineer Intern
-- Production Engineer Intern
-- Production Engineering
-+ Redmond, WA
-+ Research x2
-+ Research Scientist Intern PhD, PAR Safety Evals and Red Teaming x2
-+ Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)
-+ Research Scientist Intern, AI Core Machine Learning (PhD)
-- Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
-- Research Scientist Intern, Generative AI (PhD)
-+ Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)
-- Research Scientist Intern, On-Device AI Model Optimization (PhD)
-- Research Scientist Intern, Smart Glasses in Wearables AI (PhD)
-- Research Scientist Intern, Video RecSys (PhD)
-+ Seattle, WA
-- Singapore
+- Menlo Park, CA x3
+- Network Engineering
+- Network Production Engineer Intern
++ New York, NY
+- Page 1 of 7
++ Page 1 of 8
++ Production Engineer Intern
++ Production Engineering
++ Program Management
+- Redmond, WA
+- Research x2
+- Research Scientist Intern PhD, PAR Safety Evals and Red Teaming x2
+- Research Scientist Intern – Robotics, World Models & Embodied AI (PhD)
+- Research Scientist Intern, AI Core Machine Learning (PhD)
++ Research Scientist Intern, AI Maps (PhD)
++ Research Scientist Intern, AI Research - Speech & Audio (PhD) x2
++ Research Scientist Intern, Computer Vision - Video Intelligence (PhD)
+- Research Scientist Intern, FAIR - Multimodal Foundations (PhD)
++ Research Scientist Intern, Generative AI (PhD) (multiple locations)
++ Research Scientist Intern, ML Innovation for Products (PhD)
+- Research Scientist Intern, MSL - Agentic Post-Training (PhD)
++ Research Scientist Intern, Monetization Ranking & AI Foundations (PhD)
+- Research Scientist Intern, Multimodal Generative AI and Robotics (PhD)
+- Research Scientist Intern, Video Recommendations (PhD)
++ Singapore
 - Software Engineering
-+ Sunnyvale, CA
++ Sunnyvale, CA x2
++ Technical Program Manager Intern, Reality Labs — 2027
++ University Grad - Engineering, Tech & Design
 - University Grad - PhD & Postdoc
-+ ⋅
++ Zurich, Switzerland
+- ⋅ x4
 ```
 
 ---
@@ -54,48 +64,12 @@
 **Line changes detected!**
 
 ```diff
-+ Chicago x2
-+ Pricing & Derived Data - Senior Software Engineer
-- Senior Software Engineer - Research Technology
-+ Senior Software Engineer, Platform Services
-- Senior Software Engineer, Unified Platform - Trade Management, Trade and Order Processing, Platform Services
-+ Software Engineer - Trading Operations x2
-```
-
----
-### [https://caladan.xyz/careers/](https://caladan.xyz/careers/)
-
-**Line changes detected!**
-
-```diff
-- As a Senior Engineer you’ll be surrounded by smart and motivated colleagues with complimentary skillsets, offering a great platform for you to contribute ideas, commit code and help the team achieve tangible results.
-- As a Software Engineer at Caladan you will be part of a team responsible for owning a business area or application end to end.
-- As a Software Engineer you'll keep the systems that carry our orders to market fast, observable and dependable.
-- Ho Chi Minh City x2
-- Kraków x2
-- Kuala Lumpur x2
-- Operations x2
-- Senior Software Engineer
-- Singapore
-- Software Engineer (Ho Chi Minh)
-- Software Engineer (Kraków)
-- Technology x2
-- Trade Operations Specialist
-- View Details x4
-- We are looking for a Trade Operations Specialist who combines hands-on operational experience with strong analytical thinking, sound judgement and a drive to continuously improve how things work.
-```
-
----
-### [https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads](https://www.qube-rt.com/careers?location=London&sector=&experience=Students%20and%20New%20Grads)
-
-**Line changes detected!**
-
-```diff
-+ 2027 - Internship, Business Data Analytics
-+ 2027 - Internship, HR Technology
-+ 2027 - Internship, Surveillance
-+ London x3
-+ View opportunity x3
++ Greenwich
+- Remote
++ Senior Software Engineer, Unified Platform - Platform Services
++ Senior Software Engineer, Unified Platform - Trade Management and Trade & Order Processing
+- Senior Software Engineer, Unified Platform - Trade Management, Trade & Order Processing, Platform Services
+- Software Engineer, Trading – Cumberland Systematic
 ```
 
 ---
@@ -104,8 +78,8 @@
 **Line changes detected!**
 
 ```diff
-- R
-+ Re
++ Ch
+- Re
 ```
 
 ---
@@ -114,8 +88,7 @@
 **Line changes detected!**
 
 ```diff
-+ Show 12 out of 107 open roles
-- Show 12 out of 108 open roles
+No line changes.
 ```
 
 ---
