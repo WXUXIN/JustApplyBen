@@ -1,68 +1,24 @@
 # Latest Scraper Results
 
-## 2026-11-11 10:11:42
+## 2026-11-12 10:35:32
 
-### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
-
-**Line changes detected!**
-
-```diff
-+ PhD Data Scientist, Intern x2
-- PhD Machine Learning Engineer, Intern x2
-+ Seattle
-- Toronto
-```
-
----
 ### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
 
 **Line changes detected!**
 
 ```diff
-- 80 Items
-+ 82 Items
-- AI Infrastructure x2
-- AI Research x6
-+ Analytics x2
-- Artificial Intelligence x2
-- Bellevue, WA x2
-+ Burlingame, CA
-+ Data & Analytics x3
-+ Data Engineer Intern, Product Analytics (Summer 2027)
-+ Data Engineering
-+ Data Science x2
-+ Data Scientist Intern, Product Analytics (PhD) (Summer 2027)
-+ Data Scientist Intern, Product Analytics (Summer 2027)
-- Generative AI
-+ Infrastructure
-+ Internship - Engineering, Tech & Design x3
-- Internship - PhD
-+ London, UK
-- Machine Learning
-- Menlo Park, CA
-+ New York, NY x2
-- Page 1 of 8
-+ Page 1 of 9
-+ Production Engineer Intern x2
-+ Production Engineering x2
-+ Program Management
-- Research x6
-- Research Scientist Intern, AI Agents and Machine Learning (PhD)
-- Research Scientist Intern, AI Core Machine Learning (PhD)
-- Research Scientist Intern, AI Systems and Infrastructure (PhD)
-- Research Scientist Intern, Feed Recommendations (PhD)
-+ Research Scientist Intern, Foundation Model Optimization (PhD)
-- Research Scientist Intern, Generative AI & 3D Generation (PhD)
-+ Research Scientist Intern, MSL - Multimodal Interaction and Generation (PhD)
-- Research Scientist Intern, Muse Post-Training & Flywheel (PhD)
-- Research Scientist Intern, Ranking & Recommendations (PhD)
-- Research Scientist Intern, Robotics Foundation Models, Agentic RL (PhD)
-+ Research Scientist Intern, Search (PhD)
-- Research Scientist Intern, Synthetic Data for Computer Use Agents (PhD)
-- Software Engineering
-+ Technical Program Manager Intern, Reality Labs — 2027
-+ University Grad - Engineering, Tech & Design
-+ ⋅
++ AI Research
++ Artificial Intelligence x2
++ Computer Vision
+- Infrastructure
++ Machine Learning
+- Production Engineer Intern
+- Production Engineering
+- Research Scientist Intern,  AI Core Machine Learning (PhD)
++ Research Scientist Intern, LLM Memory and Skills (PhD)
++ Research Scientist Intern, TPU(PhD)
++ Seattle, WA
+- Sunnyvale, CA
 ```
 
 ---
@@ -80,23 +36,7 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ R
-- Reco
-```
-
----
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
-
-**Line changes detected!**
-
-```diff
-+ Apply x3
-+ Denver, CO
-+ Internship x3
-+ New York, NY x2
-+ On-site — x3
-+ Software Engineer, Intern - Connectivity Platform and Product x2
-+ Software Engineer, Internship - Data Connectors
++ Rec
 ```
 
 ---
@@ -105,171 +45,171 @@ No line changes.
 **Line changes detected!**
 
 ```diff
-+ - Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
-+ - Background in resource scheduling and optimization
-+ - Collaborate with AI infrastructure teams to integrate specialized tooling and execution environments;
-+ - Continuously improve platform efficiency and cost-effectiveness through system optimization;
-+ - Contributions to open-source infrastructure projects
-+ - Deep understanding of Linux, networking (TCP/IP, HTTP), and distributed systems.
-+ - Design, develop, and optimize the core platform services and ecosystem components;
-+ - Establish and enforce platform engineering best practices across internal product lines;
-+ - Experience in infrastructure products (e.g., monitoring, logging, service mesh, storage).
-+ - Experience with PaaS platforms or service deployment systems
-+ - Familiarity with cloud-native technologies (Kubernetes, Docker) and large-scale system design.
-+ - Knowledge of AI/ML platform infrastructure and tooling
-+ - Proficiency in Go/Python/Rust/Typescript and strong systems programming skills.
-+ 1 year ago
-+ 11 minutes ago
-+ 12 hours ago
-+ 15 hours ago x12
-+ 16 hours ago x19
-+ 17 minutes ago
-+ 18 hours ago x2
-+ 19 hours ago
-+ 23 hours ago x4
-+ 23 minutes ago
-+ 3 minutes ago
-+ 4 hours ago
-+ 46
-+ 7 hours ago
-+ 9 hours ago
-+ AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer x2
-+ APAC Crisis Management Specialist x2
-+ About The Team
-+ About Us
-+ Account Executive - Innovative Technical Sales (US Market Focus) (Chinese Speaking) x2
-+ Actively Hiring x21
-+ Agency Partner Manager - GBS x2
-+ Agency Project Intern (GBS) - 2026 Start x2
-- Agree & Join
-+ Algorithm Tech Lead Manager - Enterprise Solution RD  (San Jose) x2
-- Already on Linkedin?
-+ As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
-+ BNPL Growth Operations Manager (E-commerce Category) - Global Payment x2
-+ Bangkok, Bangkok City, Thailand x2
-+ Be among the first 25 applicants
-+ Be an early applicant x25
-+ Beijing, Beijing, China x2
-- By clicking Agree & Join, you agree to the LinkedIn
-+ By clicking Continue to join or sign in, you agree to LinkedIn’s
-+ ByteDance x49
-+ ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
-+ Chon Buri, Chon Buri, Thailand
-+ Clear text x6
-+ Cloud Site Relibility Engineer - DCS x2
-+ Consumer Financing Solutions Product Manager - Global Payment x2
-+ Content Operations Specialist - PICO Video x2
-- Continue with Google x2
-+ Creator Partnership Associate (Fashion Vertical) - Lemon8 x2
-+ Creator Partnership Senior Associate (Fashion Vertical) - Lemon8 x2
-+ Customer Success Project Intern (Lark Japan) - 2026 Start (BS/MS） x2
-+ Data Center Business Development & Commercial Manager, Energy - Data Center Development, APAC x2
-+ Data Center Network Automation Engineer x2
-+ Data Center Technical Project Manager, Data Center Development x2
-+ Data security Operation Specialist x2
-+ Diversity & Inclusion​
-+ Done x2
-+ Dubai, Dubai, United Arab Emirates x2
-+ Easy Apply
-- Email
-+ Email or phone
-+ Employment type
-+ Expand search
-+ Financial Service Partnership Director, UK&EU x2
-- First name
-+ Forgot password?
-+ Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
-+ Full-time
-+ GenAI Solution Architect - BytePlus - South Asia Market x2
-+ Get notified when a new job is posted.
-+ Global Network Commercial and Business Development Manager, Data Center Development x2
-+ HR Business Partner - ByteDance - Taguig x2
-+ HRBP Support Specialist - Global E-Commerce - Jakarta (Third-Party Associate) x2
-+ Industries
-+ Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
-+ Insurance Product Manager - Global Payment x2
-+ Jakarta, Jakarta, Indonesia
-+ Jobs x2
-+ Jobs Jobs at ByteDance in Worldwide (46 Open Roles) | LinkedIn
-+ Jobs in Worldwide x2
-- Join LinkedIn
-+ Join now x2
-- Last name
-+ Learn more
-+ Learning
-+ London, England, United Kingdom x2
-+ Madrid, Community of Madrid, Spain
-+ Marketing Intern (Creativity Service Platform, Japan) - 2027 Start x2
-+ Merchant Financing Product Manager - Global Payment - Global Payment x2
-+ Mid-Senior level
-+ Minimum Qualifications:
-+ New York, United States x2
-+ New to LinkedIn? x2
-- New to Linkedin?
-+ No longer accepting applications
-- Not you?
-+ Our mission is to enable safer deployment processes, expand deployment capabilities, and deliver robust control mechanisms to optimize business operations and reduce costs. As part of our drive for innovation, we are continuously expanding our PaaS offerings to support AI infrastructure development through next generation technologies with MCP and AI Sandbox.
-+ Partner Sales Manager - Thailand x2
-+ Password
-- Password (6+ characters)
-+ Past 24 hours x2
-+ Past month
-+ Past week
-+ Payroll Analyst - HR Operations - Singapore x2
-+ People
-+ Preferred Qualifications:
-+ Procurement Manager - Professional Service (BPO) x2
-+ Qualifications
-+ Referrals increase your chances of interviewing at ByteDance by 2x
-- Remove photo
-+ Report this job
-+ Research Scientist Graduate (ByteBrain) - 2027 Start (PhD) x2
-+ Research Scientist Graduate (Seed Model - Speech - Interaction & Learning) - 2026 Start (PhD) x2
-+ Research Scientist Graduate (Seed Model - Vision) - 2027 Start (PhD) x2
-+ Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Start (PhD) x2
-+ Reset
-+ Responsibilities
-+ Sales Development Representative (AI), BytePlus x2
-+ San Jose, CA x10
-+ Seattle, WA x2
-+ Security Web Gateway R&D Engineer x2
-- Security verification
-+ See who ByteDance has hired for this role
-+ See who you know
-+ Senior AI Legal Counsel - AI Legal x4
-+ Senior Software Engineer - Global Traffic Infrastructure x2
-+ Senior Software Engineer, Linux Kernel x2
-+ Seniority level
-+ Set alert
-+ Show
-+ Show less
-+ Show more
-- Sign Up | LinkedIn
-+ Sign in to set job alerts for “Jobs” roles.
-+ Sign in to view more jobs
-+ Sign in with Email x2
-+ Singapore, Singapore x15
-+ Site Reliability Engineer - Intern (Data Platform, Computer Platform) - 2027 Start x2
-+ Software Engineer - Service Platform x3
-+ Solution Engineer - Thailand Market, Lark APAC x2
-+ Strategic Account Executive - Innovative Technical Sales (AI) x4
-+ São Paulo, São Paulo, Brazil
-+ Taguig, National Capital Region, Philippines x3
-+ Tech Lead / Principal Engineer, Creator Agent Algorithm Infrastructure x2
-+ Technology, Information and Internet
-+ The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
-+ This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-+ Tokyo, Tokyo, Japan x2
-+ Under 10 applicants
-+ Washington, DC
-+ We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
-+ What you will be doing:
-+ Where are the filters?
-+ Why Join ByteDance
-+ You're now using AI-powered job search
-+ You've viewed all jobs for this search
-+ 税务信息化专家 x2
-+ 行业客户增长运营（即梦AI） - 剪映CapCut x2
+- - Bachelor’s or Master’s degree in Computer Science, Software Engineering, or a related field.
+- - Background in resource scheduling and optimization
+- - Collaborate with AI infrastructure teams to integrate specialized tooling and execution environments;
+- - Continuously improve platform efficiency and cost-effectiveness through system optimization;
+- - Contributions to open-source infrastructure projects
+- - Deep understanding of Linux, networking (TCP/IP, HTTP), and distributed systems.
+- - Design, develop, and optimize the core platform services and ecosystem components;
+- - Establish and enforce platform engineering best practices across internal product lines;
+- - Experience in infrastructure products (e.g., monitoring, logging, service mesh, storage).
+- - Experience with PaaS platforms or service deployment systems
+- - Familiarity with cloud-native technologies (Kubernetes, Docker) and large-scale system design.
+- - Knowledge of AI/ML platform infrastructure and tooling
+- - Proficiency in Go/Python/Rust/Typescript and strong systems programming skills.
+- 1 year ago
+- 11 minutes ago
+- 12 hours ago
+- 15 hours ago x12
+- 16 hours ago x19
+- 17 minutes ago
+- 18 hours ago x2
+- 19 hours ago
+- 23 hours ago x4
+- 23 minutes ago
+- 3 minutes ago
+- 4 hours ago
+- 46
+- 7 hours ago
+- 9 hours ago
+- AI Infrastructure Engineer Intern (Compute Efficiency & Scheduling) - 2027 Summer x2
+- APAC Crisis Management Specialist x2
+- About The Team
+- About Us
+- Account Executive - Innovative Technical Sales (US Market Focus) (Chinese Speaking) x2
+- Actively Hiring x21
+- Agency Partner Manager - GBS x2
+- Agency Project Intern (GBS) - 2026 Start x2
++ Agree & Join
+- Algorithm Tech Lead Manager - Enterprise Solution RD  (San Jose) x2
++ Already on Linkedin?
+- As ByteDancers, we strive to do great things with great people. We lead with curiosity, humility, and a desire to make impact in a rapidly growing tech company. By constantly iterating and fostering an "Always Day 1" mindset, we achieve meaningful breakthroughs for ourselves, our Company, and our users. When we create and grow together, the possibilities are limitless. Join us.​
+- BNPL Growth Operations Manager (E-commerce Category) - Global Payment x2
+- Bangkok, Bangkok City, Thailand x2
+- Be among the first 25 applicants
+- Be an early applicant x25
+- Beijing, Beijing, China x2
++ By clicking Agree & Join, you agree to the LinkedIn
+- By clicking Continue to join or sign in, you agree to LinkedIn’s
+- ByteDance x49
+- ByteDance is committed to creating an inclusive space where employees are valued for their skills, experiences, and unique perspectives. Our platform connects people from across the globe and so does our workplace. At ByteDance, our mission is to inspire creativity and enrich life. To achieve that goal, we are committed to celebrating our diverse voices and to creating an environment that reflects the many communities we reach. We are passionate about this and hope you are too.​
+- Chon Buri, Chon Buri, Thailand
+- Clear text x6
+- Cloud Site Relibility Engineer - DCS x2
+- Consumer Financing Solutions Product Manager - Global Payment x2
+- Content Operations Specialist - PICO Video x2
++ Continue with Google x2
+- Creator Partnership Associate (Fashion Vertical) - Lemon8 x2
+- Creator Partnership Senior Associate (Fashion Vertical) - Lemon8 x2
+- Customer Success Project Intern (Lark Japan) - 2026 Start (BS/MS） x2
+- Data Center Business Development & Commercial Manager, Energy - Data Center Development, APAC x2
+- Data Center Network Automation Engineer x2
+- Data Center Technical Project Manager, Data Center Development x2
+- Data security Operation Specialist x2
+- Diversity & Inclusion​
+- Done x2
+- Dubai, Dubai, United Arab Emirates x2
+- Easy Apply
++ Email
+- Email or phone
+- Employment type
+- Expand search
+- Financial Service Partnership Director, UK&EU x2
++ First name
+- Forgot password?
+- Founded in 2012, ByteDance's mission is to inspire creativity and enrich life. With a suite of more than a dozen products, including TikTok, Lemon8, CapCut and Pico as well as platforms specific to the China market, including Toutiao, Douyin, and Xigua, ByteDance has made it easier and more fun for people to connect with, consume, and create content.​
+- Full-time
+- GenAI Solution Architect - BytePlus - South Asia Market x2
+- Get notified when a new job is posted.
+- Global Network Commercial and Business Development Manager, Data Center Development x2
+- HR Business Partner - ByteDance - Taguig x2
+- HRBP Support Specialist - Global E-Commerce - Jakarta (Third-Party Associate) x2
+- Industries
+- Inspiring creativity is at the core of ByteDance's mission. Our innovative products are built to help people authentically express themselves, discover and connect – and our global, diverse teams make that possible. Together, we create value for our communities, inspire creativity and enrich life - a mission we work towards every day.​
+- Insurance Product Manager - Global Payment x2
+- Jakarta, Jakarta, Indonesia
+- Jobs x2
+- Jobs Jobs at ByteDance in Worldwide (46 Open Roles) | LinkedIn
+- Jobs in Worldwide x2
++ Join LinkedIn
+- Join now x2
++ Last name
+- Learn more
+- Learning
+- London, England, United Kingdom x2
+- Madrid, Community of Madrid, Spain
+- Marketing Intern (Creativity Service Platform, Japan) - 2027 Start x2
+- Merchant Financing Product Manager - Global Payment - Global Payment x2
+- Mid-Senior level
+- Minimum Qualifications:
+- New York, United States x2
+- New to LinkedIn? x2
++ New to Linkedin?
+- No longer accepting applications
++ Not you?
+- Our mission is to enable safer deployment processes, expand deployment capabilities, and deliver robust control mechanisms to optimize business operations and reduce costs. As part of our drive for innovation, we are continuously expanding our PaaS offerings to support AI infrastructure development through next generation technologies with MCP and AI Sandbox.
+- Partner Sales Manager - Thailand x2
+- Password
++ Password (6+ characters)
+- Past 24 hours x2
+- Past month
+- Past week
+- Payroll Analyst - HR Operations - Singapore x2
+- People
+- Preferred Qualifications:
+- Procurement Manager - Professional Service (BPO) x2
+- Qualifications
+- Referrals increase your chances of interviewing at ByteDance by 2x
++ Remove photo
+- Report this job
+- Research Scientist Graduate (ByteBrain) - 2027 Start (PhD) x2
+- Research Scientist Graduate (Seed Model - Speech - Interaction & Learning) - 2026 Start (PhD) x2
+- Research Scientist Graduate (Seed Model - Vision) - 2027 Start (PhD) x2
+- Research Scientist Intern (Applied Machine Learning-Enterprise) - 2026 Start (PhD) x2
+- Reset
+- Responsibilities
+- Sales Development Representative (AI), BytePlus x2
+- San Jose, CA x10
+- Seattle, WA x2
+- Security Web Gateway R&D Engineer x2
++ Security verification
+- See who ByteDance has hired for this role
+- See who you know
+- Senior AI Legal Counsel - AI Legal x4
+- Senior Software Engineer - Global Traffic Infrastructure x2
+- Senior Software Engineer, Linux Kernel x2
+- Seniority level
+- Set alert
+- Show
+- Show less
+- Show more
++ Sign Up | LinkedIn
+- Sign in to set job alerts for “Jobs” roles.
+- Sign in to view more jobs
+- Sign in with Email x2
+- Singapore, Singapore x15
+- Site Reliability Engineer - Intern (Data Platform, Computer Platform) - 2027 Start x2
+- Software Engineer - Service Platform x3
+- Solution Engineer - Thailand Market, Lark APAC x2
+- Strategic Account Executive - Innovative Technical Sales (AI) x4
+- São Paulo, São Paulo, Brazil
+- Taguig, National Capital Region, Philippines x3
+- Tech Lead / Principal Engineer, Creator Agent Algorithm Infrastructure x2
+- Technology, Information and Internet
+- The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
+- This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
+- Tokyo, Tokyo, Japan x2
+- Under 10 applicants
+- Washington, DC
+- We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
+- What you will be doing:
+- Where are the filters?
+- Why Join ByteDance
+- You're now using AI-powered job search
+- You've viewed all jobs for this search
+- 税务信息化专家 x2
+- 行业客户增长运营（即梦AI） - 剪映CapCut x2
 ```
 
 ---
