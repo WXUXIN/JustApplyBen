@@ -1,199 +1,51 @@
-Data Engineer Jobs in Singapore (10 Open Roles) | LinkedIn
+Sign Up | LinkedIn
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
 Skip to main content
 LinkedIn
-Data Engineer in Singapore
-Expand search
-Jobs
-This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-Jobs
-People
-Learning
-Clear text
-Clear text
-Clear text
-Clear text
-Clear text
-Sign in
-Join now
-50 miles (80 km)
-Exact location
-5 miles (8 km)
-10 miles (16 km)
-25 miles (40 km)
-50 miles (80 km)
-Done
-Past 24 hours
-Past 24 hours
-Past week
-Past 24 hours
-Past month
-Done
-Company
-Clear text
-TikTok
-ByteDance
-OCBC
-Scoot
-TEKsystems
-Done
-Easy Apply
-Under 10 applicants
-Where are the filters?
-You're now using AI-powered job search
-We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
-Learn more
-Get notified about new
-Data Engineer
-jobs in
-Singapore
+Join LinkedIn
+Not you?
+Remove photo
+Email
+Password (6+ characters)
+First name
+Last name
+By clicking Agree & Join, you agree to the LinkedIn
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
 .
-Sign in to create job alert
-10
-Data Engineer Jobs in Singapore
-Senior Software Engineer, Data Programme
-Senior Software Engineer, Data Programme
-GovTech Singapore
-Singapore, Singapore
-Be an early applicant
-5 hours ago
-Senior Database Engineer
-Senior Database Engineer
-OCBC
-Singapore, Singapore
-Actively Hiring
-5 hours ago
-AI Developer
-AI Developer
-TEKsystems
-Singapore, Singapore
-Actively Hiring
-4 hours ago
-Senior Business Analyst – Optimisation
-Senior Business Analyst – Optimisation
-Scoot
-East Region, Singapore
-3 hours ago
-Group Data Office - AI Product Builder (VP)
-Group Data Office - AI Product Builder (VP)
-OCBC
-Singapore, Singapore
-Actively Hiring
-3 hours ago
-Software Engineer, Ads Delivery
-Software Engineer, Ads Delivery
-TikTok
-Singapore, Singapore
-Be an early applicant
-3 hours ago
-[2027 Internship] CPV AI Integration Engineer Intern
-[2027 Internship] CPV AI Integration Engineer Intern
-MediaTek
-Singapore
-Actively Hiring
-3 hours ago
-Senior Backend Engineer – Global Payment
-Senior Backend Engineer – Global Payment
-ByteDance
-Singapore, Singapore
-Be an early applicant
-3 hours ago
-Senior Backend Engineer (Payment Product and Solution) - Global Payment
-Senior Backend Engineer (Payment Product and Solution) - Global Payment
-ByteDance
-Singapore, Singapore
-Be an early applicant
-2 hours ago
-Backend Software Engineer (Transactions) - TikTok Local Services - Singapore
-Backend Software Engineer (Transactions) - TikTok Local Services - Singapore
-TikTok
-Singapore, Singapore
-Be an early applicant
-3 hours ago
-You've viewed all jobs for this search
-Senior Software Engineer, Data Programme
-GovTech Singapore
-Singapore, Singapore
-5 hours ago
-Be among the first 25 applicants
-See who GovTech Singapore has hired for this role
-Apply
-Save
-Report this job
-GovTech is the lead agency driving Singapore’s Smart Nation initiatives and public sector digital transformation. As the Centre of Excellence for Infocomm Technology and Smart Systems (ICT & SS), GovTech develops the Singapore Government’s capabilities in Data Science & Artificial Intelligence, Application Development, Smart City Technology, Digital Infrastructure, and Cybersecurity.
-At GovTech, we offer you a purposeful career to make lives better where we empower our people to master their craft through robust learning and development opportunities all year round.
-Play a part in Singapore’s vision to build a Smart Nation and embark on your meaningful journey to build tech for public good. Join us to advance our mission and shape your future with us today!
-Learn more about GovTech at tech.gov.sg.
-The Government Technology Agency (GovTech) aims to transform the delivery of Government digital services by taking an "outside-in" view, putting citizens and businesses at the heart of everything we do. We also develop the Smart Nation infrastructure and applications, and facilitate collaboration with citizens and businesses to co-develop technologies.
-Join us as we support Singapore's vision of building a Smart Nation - a nation of possibilities empowered through info-communications technology and related engineering.
-[What you will be working on]
-Who we are
-The mission of GovTech's Data Programme is to deliver fit-for-purpose data assets and services for policy making, service delivery and operations across Whole-of-Government (WOG). Our programme creates value through enablement - reducing friction for agencies so they can move faster and make better decisions in their work with existing government datasets.
-Key Technical Responsibilities:
-You will contribute to the development of one or more of our four strategic technical initiatives:
-Standardised Data Platform
-Build and maintain unified data platform infrastructure for government agencies
-Develop APIs and services that standardise data ingestion, processing, and storage
-Create reusable components and templates for agency data platform implementation
-Implement data connectors and integration tools for legacy systems
-Unified Frontend / DataHive
-Develop the central data discovery and access request platform
-Build intuitive user interfaces for data catalogue browsing and metadata search
-Implement request management workflows and approval systems
-Create responsive web applications that serve both data consumers and providers
-Unified Serving Backbone
-Design and implement standardised data delivery APIs and microservices
-Build robust data serving infrastructure that can handle high-volume requests
-Develop authentication and authorisation systems for secure data access
-Create monitoring and alerting systems for data delivery pipelines
-Observability & Governance Infrastructure
-Build central observability systems for data quality monitoring and lineage tracking
-Develop dashboards and analytics tools for data usage patterns
-Implement automated data quality checks and validation frameworks
-Create audit trails and compliance reporting systems
-What the role is
-Role
-You will work on both small and large scale projects, building and maintaining the infrastructure behind them. We are fully aligned with the Government's cloud-first policy and you will bring capability to help us realize this. The role includes:
-Managing the development, deployment, orchestration and maintenance of data pipelines for our products
-Ensuring the scalability, performance, and reliability of Cloud-based applications
-Providing DevOps architecture implementation and operational support
-Architecture and planning for cloud deployments (Private and Public cloud)
-Developing and managing processes, automation, best practices, documentation
-Development and operation of continuous integration and deployment pipelines.
-What it is like working here
-We build products that serve a variety of agency users, who use them to solve highly meaningful problems pertinent to our society, from transportation, to education, to healthcare. The public sector is full of opportunities where even the simplest software can have a big impact on people’s lives. We are here to improve how we live as a society through what we can offer as a government.
-Rapid Prototyping - Instead of spending too much time debating ideas we prefer testing them. This identifies potential problems quickly, and more importantly, conveys what is possible to others easily.
-Reliable Productization - To scale an idea, a prototype or a Minimum Viable Product to a software product, we scrutinize and commit to its usability, reliability, scalability and maintainability.
-Ownership - In addition to technical responsibilities, this means having ideas on how things should be done and taking responsibility for seeing them through. Building something that you believe in is the best way to build something good.
-Continuous Learning - Working on new ideas often means not fully understanding what you are working on. Taking time to learn new architectures, frameworks, technologies, and even languages is not just encouraged but essential
-[What we are looking for]
-The Customers For Our Products Are Normally Agency Users, Which Means That Breadth Of Knowledge In Government IT Infrastructure And Experience In Government Networks Will Help. Since Our Direction Is Cloud-first, You Will Likely Have Some Experience In Patch/update Scheduling, And Knowledge Of Security Incident Response Procedures. A Disciplined Approach And Strong Problem-solving Instincts Are Fundamental To Succeed. Your Aptitude For Completing The Tasks And Attitude To Continuous Learning Are More Valued Than Any Formal Certification. To Succeed, You Will Need To Possess Some Of The Following
-Excellent problem solving and methodical troubleshooting skills
-Strong knowledge and experience in DevOps automation, containerization and orchestration using tools eg. Ansible, Airflow, Docker, Kubernetes, Terraform, Artifactory/Nexus Sonatype
-Cloud computing deployment and management experience in AWS, GCP
-Strong scripting skills e.g. Python, Bash, JavaScript, Scala, Rust, Go
-Strong understanding of Apache Spark/Flink, Hadoop, distributed file systems and resource scaling/scheduling, streaming message queues (RabbitMQ, Kafka)
-Strong understanding of virtualization and networking concepts
-Experience with patch maintenance, regression testing and security incident response
-Experience with interactive workloads, machine learning toolkits and how they integrate with cloud computing e.g. Databricks, KX
-Experience with highly scalable distributed systems
-Experience with on-premise deployments, government application and networking infrastructure/routing
-Breadth of knowledge - OS, networking, distributed computing, cloud computing
-What we offer you:
-GovTech is an equal opportunity employer committed to fostering an inclusive workplace that values diverse voices and perspectives, as we believe that diversity is the foundation to innovation.
-Our employee benefits are based on a total rewards approach, offering a holistic and market-competitive suite of perks. These include leave benefits to meet your work-life needs and employee wellness programs.
-We champion flexible work arrangements (subject to your job role) and trust that you will manage your own time to deliver your best, wherever you are, and whatever works best for you.
-Learn more about life inside GovTech at go.gov.sg/GovTechCareers.
-Stay connected with us on social media at go.gov.sg/ConnectWithGovTech
-Show more
-Show less
-Seniority level
-Mid-Senior level
-Employment type
-Full-time
-Industries
-Construction, Software Development, and IT Services and IT Consulting
-Referrals increase your chances of interviewing at GovTech Singapore by 2x
-See who you know
+Agree & Join
+or
+Already on Linkedin?
+Sign in
+Security verification
+Sign in
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Continue with Google
+Continue with Google
+New to Linkedin?
+Join now
 LinkedIn
 © 2026
 About
@@ -243,28 +95,3 @@ Tiếng Việt (Vietnamese)
 简体中文 (Chinese (Simplified))
 正體中文 (Chinese (Traditional))
 Language
-Agree & Join LinkedIn
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Sign in to view more jobs
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Sign in with Email
-or
-New to LinkedIn?
-Join now
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
