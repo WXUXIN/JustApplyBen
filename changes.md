@@ -1,49 +1,18 @@
 # Latest Scraper Results
 
-## 2026-11-17 11:30:02
+## 2026-11-18 11:01:06
 
-### [https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK](https://www.google.com/about/careers/applications/jobs/results/?src=Online/Google%20Website/ByF&distance=50&employment_type=INTERN&company=Fitbit&company=Google&location=Singapore&location=London,%20UK)
+### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-- 10 x2
-- 1‑10 of 10
-+ 1‑7 of 7
-+ 7 x2
-- Ability to communicate in English fluently to participate in technical discussions.
-- Copy link x3
-- Currently enrolled in a Bachelor's degree or Master's degree in Computer Science, Electronics, Information Technology, or similar technical area of study.
-- Currently pursuing a Bachelor's or Master's degree in Computer Science, Engineering, or a related technical field.
-- Currently pursuing a Bachelor's, Master's, or PhD degree in Computer Science, or a related technical field.
-- Data Center Technician Intern, 2027
-- Email a friend x3
-- Enrolled in the penultimate academic year of a Bachelor’s or Master’s degree. x3
-- Experience installing a network or Linux system and with the basic concepts around these.
-- Experience with coding in C, C++, Java, JavaScript, Python, or another relevant programming language.
-- Experience with data structures, algorithms, and software design.
-- Experience with software development in one or more programming languages (e.g., Python, C, C++, Java, JavaScript).
-- Experience working in Unix/Linux environments.
-- Forward Deployed Engineer Intern, 2027
-- Google x3
-- Google | x3
-- Intern & Apprentice x3
-- Learn more x3
-- Minimum qualifications x3
-- Relevant practical or internship based experience building and executing structured/unstructured data pipelines, cloud platform databases, or AI/ML-driven workflows (such as RAG architectures).
-- Share Data Center Technician Intern, 2027
-- Share Forward Deployed Engineer Intern, 2027
-- Share Software Engineering Intern, 2027 (English)
-- Showing 1 to 10 of 10 rows
-+ Showing 1 to 7 of 7 rows
-- Singapore x6
-- Software Engineering Intern, 2027 (English)
-- bar_chart x3
-- corporate_fare x3
-- email x3
-- link x3
-- place x3
-- share x3
+- Controllership
+- Controllership Intern
++ PhD Data Scientist, Intern
+- Seattle
++ South San Francisco HQ
++ University
 ```
 
 ---
@@ -52,14 +21,43 @@
 **Line changes detected!**
 
 ```diff
-+ Engineering
-+ Generative AI
-+ Machine Learning
++ AI Infrastructure
+- AI Research x5
++ AR/VR
++ Artificial Intelligence x2
+- Bellevue, WA x2
++ Detection & Response Security Engineer, Intern (Summer 2027)
++ Engineering x3
++ Enterprise Security Engineer, Intern (Summer 2027)
++ Hardware
++ Infrastructure
++ Internship - Engineering, Tech & Design x3
+- Internship - PhD x2
 - Menlo Park, CA
-+ Research Scientist Intern, LLM-Native Recommendation Systems (PhD)
-- Research Scientist Intern, Scam and Trust (PhD)
-+ Singapore
-+ University Grad - PhD & Postdoc
++ New York, NY x5
++ Product Security Engineer, Intern (Summer 2027)
++ Program Management
+- Research x6
+- Research Scientist Intern,  AI Core Machine Learning (PhD)
+- Research Scientist Intern, AI Agents and Machine Learning (PhD)
+- Research Scientist Intern, Ads Quality (PhD)
+- Research Scientist Intern, Central Applied Science (PhD)
+- Research Scientist Intern, FM Quality ML (PhD)
+- Research Scientist Intern, Integrity (Trust and Safety) AI (PhD)
+- Research Scientist Intern, ML Innovation for Products (PhD)
+- Research Scientist Intern, Monetization Ranking & AI Foundations (PhD)
++ Research Scientist Intern, PhD — Meta Superintelligence Labs
++ Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)
++ Security x4
++ Security Engineer Posture Management, Intern (Summer 2027)
++ Software Engineer Intern, Machine Learning (PhD)
++ Software Engineering
+- Sunnyvale, CA x3
++ Technical Program Management
++ Technical Program Manager Intern, Reality Labs — 2027
++ Technical Security x4
++ University Grad - Engineering, Tech & Design
+- ⋅
 ```
 
 ---
@@ -68,10 +66,23 @@
 **Line changes detected!**
 
 ```diff
-- Chicago
-+ London
-- Software Developer
-+ Software Engineer, Trading – Cumberland Systematic
++ EU/UK Regulatory Notice
+```
+
+---
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
+
+**Line changes detected!**
+
+```diff
++ 2027 Asia Investment Services Internship
+- 6 Open Roles
++ 7 Open Roles
++ FOCUS
++ Hong Kong   |   Singapore
++ Human Capital  |  Operations  |  Trade Support & Reporting
++ LOCATION
++ ROLE
 ```
 
 ---
@@ -80,7 +91,7 @@
 **Line changes detected!**
 
 ```diff
-+ Check
+- R
 ```
 
 ---
@@ -90,6 +101,19 @@
 
 ```diff
 No line changes.
+```
+
+---
+### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
+
+**Line changes detected!**
+
+```diff
++ Apply
++ Forward Deployed Software Engineer, Internship - Warp Speed
++ Internship
++ New York, NY
++ On-site —
 ```
 
 ---
