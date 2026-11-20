@@ -1,22 +1,61 @@
 # Latest Scraper Results
 
-## 2026-11-19 11:04:03
+## 2026-11-20 10:51:28
 
 ### [https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University](https://stripe.com/jobs/search?office_locations=Asia+Pacific--Singapore&tags=University)
 
 **Line changes detected!**
 
 ```diff
-- Communications
-- Financial Data Analyst Intern, Technical Operations
-- Junior Commercial Associate, Works in Progress
-- London
-+ New York
-- Payments
-+ PhD Machine Learning Engineer, Intern x2
-- Singapore
-+ Toronto
-+ University x2
++ Financial Data Analyst Intern, Technical Operations
+- New York
++ Payments
+- PhD Machine Learning Engineer, Intern
++ Singapore
+- University
+```
+
+---
+### [https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA](https://www.metacareers.com/jobs?roles%5B0%5D=Internship&offices%5B0%5D=London%252C%2520UK&offices%5B1%5D=Singapore&offices%5B2%5D=Menlo%2520Park%252C%2520CA&offices%5B3%5D=New%2520York%252C%2520NY&offices%5B4%5D=Seattle%252C%2520WA)
+
+**Line changes detected!**
+
+```diff
+- 83 Items
++ 85 Items
++ AI Research x2
++ Analytics
++ Artificial Intelligence
++ Bellevue, WA x3
++ Data & Analytics
++ Data Science
++ Data Scientist Intern, Product Analytics (Summer 2027)
+- Detection & Response Security Engineer, Intern (Summer 2027)
+- Engineering
+- Enterprise Security Engineer, Intern (Summer 2027)
+- Hardware
+- Internship - Engineering, Tech & Design x2
++ Internship - PhD x3
++ Machine Learning
++ Menlo Park, CA x2
+- New York, NY x3
+- Product Security Engineer, Intern (Summer 2027)
++ Research x2
++ Research Scientist Intern, AI Core Machine Learning (PhD)
++ Research Scientist Intern, MSL Agents (PhD)
++ Research Scientist Intern, Monetization Ranking & AI Foundations (PhD)
+- Research Scientist Intern, PhD — Meta Superintelligence Labs
+- Research Scientist Intern, Systems ML - SW/HW Co-Design - CPUSys (PhD)
++ Research Scientist Intern, Video Recommendations (PhD)
++ Seattle, WA
+- Security x4
+- Security Engineer Posture Management, Intern (Summer 2027)
++ Sunnyvale, CA x2
+- Technical Security x4
++ UX Research Intern, Quantitative (Summer 2027)
+- University Grad - Engineering, Tech & Design
+- University Grad - PhD & Postdoc
++ ⋅ x5
 ```
 
 ---
@@ -25,42 +64,19 @@
 **Line changes detected!**
 
 ```diff
-- Chicago x2
-- London
-- Senior Software Engineer, Trading Platform, C++
-- Senior Software Engineer, Unified Platform - Digital Assets
-- Software Developer Intern
+No line changes.
 ```
 
 ---
-### [https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory](https://lifeattiktok.com/referral/tiktok/campus/?keywords=Engineer&category=&location=CT_163&project=7459986622530078983%2C7459987887569733896&type=&job_hot_flag=&current=1&limit=10&functionCategory)
+### [https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney](https://careers.point72.com/?experience=internships&location=singapore;hong%20kong;sydney)
 
 **Line changes detected!**
 
 ```diff
-- Check my application st
-+ Reco
-```
-
----
-### [https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0](https://joinbytedance.com/search?job_category_id_list=&location_code_list=CT_163&recruitment_id_list=202%2C301%2C201&subject_id_list=&tag_id_list=&keyword=Engineer&limit=12&offset=0)
-
-**Line changes detected!**
-
-```diff
-+ Show 12 out of 100 open roles
-- Show 12 out of 101 open roles
-+ Sydney
-```
-
----
-### [https://jobs.lever.co/palantir?commitment=Internship](https://jobs.lever.co/palantir?commitment=Internship)
-
-**Line changes detected!**
-
-```diff
-- Software Engineer, Intern - Connectivity Platform and Product x2
-+ Software Engineer, Internship - Connectivity Platform and Product x2
++ 2027 Asia Economist Intern
+- 2027 Economist Intern
++ 2027 Trader Intern (12-week program)
+- 2027 Trader Summer Intern (12-week program)
 ```
 
 ---
