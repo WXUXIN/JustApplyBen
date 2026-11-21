@@ -129,18 +129,23 @@ Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-Backend Software Engineer (SRE) Graduate (Cloud Infrastructure) - 2027 Start
-Technology - Backend
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
 Production System Engineer Intern (Infrastructure Engineering) - 2027 Start
 Technology - DevOps
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
+Backend Software Engineer (SRE) Graduate (Cloud Infrastructure) - 2027 Start
+Technology - Backend
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
 Fullstack Software Engineer Graduate (Global Payment) - 2027 Start - Graduate (Global Payment) - 2027 Start
 Technology - Frontend
+Bachelor/Master Graduate - 2027 Start
+Singapore
+Regular
+AI Agent Algorithm Engineer Graduate (Global E-Commerce, Conversational AI) - 2027 Start
+Technology
 Bachelor/Master Graduate - 2027 Start
 Singapore
 Regular
@@ -149,11 +154,6 @@ Technology
 Undergraduate/Master Intern - 2027 Start
 Singapore
 Intern
-AI Agent Algorithm Engineer Graduate (Global E-Commerce, Conversational AI) - 2027 Start
-Technology
-Bachelor/Master Graduate - 2027 Start
-Singapore
-Regular
 Show 12 out of 100 open roles
 1
 2
