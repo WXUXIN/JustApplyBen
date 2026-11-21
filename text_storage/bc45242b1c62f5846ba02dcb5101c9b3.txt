@@ -1,4 +1,4 @@
-Jobs Jobs at ByteDance in Worldwide (20 Open Roles) | LinkedIn
+Jobs Jobs at ByteDance in Worldwide (4 Open Roles) | LinkedIn
 Skip to main content
 LinkedIn
 Jobs in Worldwide
@@ -38,126 +38,30 @@ jobs in
 Worldwide
 .
 Sign in to create job alert
-20
+4
 Jobs in Worldwide
-Partner Sales Manager, Lark APAC - Hanoi
-Partner Sales Manager, Lark APAC - Hanoi
-ByteDance
-Hanoi, Hanoi, Vietnam
-Be an early applicant
-5 hours ago
-Partner Sales Manager - Lark APAC - HCMC
-Partner Sales Manager - Lark APAC - HCMC
-ByteDance
-Ho Chi Minh City, Vietnam
-Be an early applicant
-5 hours ago
-Software Engineer (Financial Product and Solution) - Global Payment - Singapore
-Software Engineer (Financial Product and Solution) - Global Payment - Singapore
-ByteDance
-Singapore, Singapore
-Be an early applicant
-5 hours ago
-Self-Built CDN Platform Engineer
-Self-Built CDN Platform Engineer
-ByteDance
-San Jose, CA
-Be an early applicant
-1 hour ago
-Safeguarding Manager - Global Payment - London
-Safeguarding Manager - Global Payment - London
-ByteDance
-London, England, United Kingdom
-Be an early applicant
-4 hours ago
-Data Center Mechanical Engineer
-Data Center Mechanical Engineer
+Account Executive - Innovative Technical Sales (AI)
+Account Executive - Innovative Technical Sales (AI)
 ByteDance
 San Jose, CA
 Be an early applicant
 4 hours ago
-Software Engineer (Payment Network) - Global Payment - Singapore Open
-Software Engineer (Payment Network) - Global Payment - Singapore Open
+Engineering Manager, Applied Machine Learning (Inference)
+Engineering Manager, Applied Machine Learning (Inference)
 ByteDance
-Singapore, Singapore
+San Jose, CA
 Be an early applicant
 5 hours ago
-Data Center Mechanical Engineer
-Data Center Mechanical Engineer
+Account Executive - Innovative Technical Sales (AI)
+Account Executive - Innovative Technical Sales (AI)
 ByteDance
 New York, United States
 Be an early applicant
 4 hours ago
-Director of Sales - Lark - Indonesia
-Director of Sales - Lark - Indonesia
+Machine Learning Training Framework Engineer – Data AML
+Machine Learning Training Framework Engineer – Data AML
 ByteDance
-Jakarta, Jakarta, Indonesia
-Be an early applicant
-5 hours ago
-Solution Engineer - SaaS Commercial Lark - Japan
-Solution Engineer - SaaS Commercial Lark - Japan
-ByteDance
-Tokyo, Tokyo, Japan
-Be an early applicant
-5 hours ago
-HR Operations Advisor - MY
-HR Operations Advisor - MY
-ByteDance
-Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia
-Be an early applicant
-5 hours ago
-APAC Procurement Specialist
-APAC Procurement Specialist
-ByteDance
-Tokyo, Tokyo, Japan
-Be an early applicant
-5 hours ago
-Data Center Security Program Manager, Data Center Development
-Data Center Security Program Manager, Data Center Development
-ByteDance
-Singapore, Singapore
-Be an early applicant
-5 hours ago
-Head of Sales - Lark - Japan
-Head of Sales - Lark - Japan
-ByteDance
-Tokyo, Tokyo, Japan
-Be an early applicant
-5 hours ago
-GenAI Solutions Architect - BytePlus - Chinese Speaker (Third-Party Associate)
-GenAI Solutions Architect - BytePlus - Chinese Speaker (Third-Party Associate)
-ByteDance
-Riyadh, Riyadh, Saudi Arabia
-Be an early applicant
-4 hours ago
-Head of Global Payments Technology Audit - Internal Audit
-Head of Global Payments Technology Audit - Internal Audit
-ByteDance
-Singapore, Singapore
-Be an early applicant
-4 hours ago
-User Operations Manager - Live Streaming - 抖音直播
-User Operations Manager - Live Streaming - 抖音直播
-ByteDance
-Hong Kong SAR
-Be an early applicant
-5 hours ago
-Customer Success Manager - Lark Japan
-Customer Success Manager - Lark Japan
-ByteDance
-Tokyo, Tokyo, Japan
-Be an early applicant
-5 hours ago
-Category Account Manager, FMCG, Groceries (Philippines E-Commerce)
-Category Account Manager, FMCG, Groceries (Philippines E-Commerce)
-ByteDance
-Taguig, National Capital Region, Philippines
-Be an early applicant
-4 hours ago
-Marketing Manager – Lark Japan
-Marketing Manager – Lark Japan
-ByteDance
-Tokyo, Tokyo, Japan
+San Jose, CA
 Be an early applicant
 5 hours ago
 You've viewed all jobs for this search
@@ -169,61 +73,6 @@ Be among the first 25 applicants
 See who ByteDance has hired for this role
 No longer accepting applications
 Report this job
-Use AI to assess how you fit
-Get AI-powered advice on this job and more exclusive features.
-Am I a good fit for this job?
-Tailor my resume
-Sign in to access AI-powered advices
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Sign in with Email
-or
-New to LinkedIn?
-Join now
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Sign in to evaluate your skills
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Sign in with Email
-or
-New to LinkedIn?
-Join now
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Sign in to tailor your resume
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Sign in with Email
-or
-New to LinkedIn?
-Join now
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
 Responsibilities
 About The Team
 The Service Platform team builds the cloud foundation that powers ByteDance's global ecosystem, providing comprehensive infrastructure solutions including serverless computing and resource quota management for full-stack engineering teams across the organization.
