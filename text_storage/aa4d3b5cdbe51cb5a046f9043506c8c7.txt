@@ -1,169 +1,51 @@
-Data Engineer Jobs in Singapore (9 Open Roles) | LinkedIn
+Sign Up | LinkedIn
+Agree & Join LinkedIn
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
 Skip to main content
 LinkedIn
-Data Engineer in Singapore
-Expand search
-Jobs
-This button displays the currently selected search type. When expanded it provides a list of search options that will switch the search inputs to match the current selection.
-Jobs
-People
-Learning
-Clear text
-Clear text
-Clear text
-Clear text
-Clear text
-Sign in
-Join now
-50 miles (80 km)
-Exact location
-5 miles (8 km)
-10 miles (16 km)
-25 miles (40 km)
-50 miles (80 km)
-Done
-Past 24 hours
-Past 24 hours
-Past week
-Past 24 hours
-Past month
-Done
-Company
-Clear text
-Autodesk
-Agoda
-Evolution Singapore
-Urban Redevelopment Authority of Singapore (URA)
-Activate Interactive
-Done
-Easy Apply
-Under 10 applicants
-Where are the filters?
-You're now using AI-powered job search
-We're working to bring back all filters, but in the meantime, you can type them directly into your search to refine your results.
-Learn more
-Get notified about new
-Data Engineer
-jobs in
-Singapore
+Join LinkedIn
+Not you?
+Remove photo
+Email
+Password (6+ characters)
+First name
+Last name
+By clicking Agree & Join, you agree to the LinkedIn
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
 .
-Sign in to create job alert
-9
-Data Engineer Jobs in Singapore
-Data Migration Consultant, Oracle/SuccessFactors (2-Year Renewable Contract)
-Data Migration Consultant, Oracle/SuccessFactors (2-Year Renewable Contract)
-Evolution Singapore
-Singapore, Singapore
-Actively Hiring
-17 minutes ago
-Senior Mulesoft Developer
-Senior Mulesoft Developer
-Capgemini
-Singapore, Singapore
-Actively Hiring
-1 hour ago
-Intern, Finance (Digital Transformation) (Jan to Jun 2027)
-Intern, Finance (Digital Transformation) (Jan to Jun 2027)
-Mapletree
-Singapore, Singapore
-Be an early applicant
-1 minute ago
-Staff Software Engineer, GenAI
-Staff Software Engineer, GenAI
-Agoda
-Singapore
-Be an early applicant
-2 hours ago
-Senior Full Stack Developer
-Senior Full Stack Developer
-Urban Redevelopment Authority of Singapore (URA)
-Singapore, Singapore
-Be an early applicant
-1 hour ago
-Software Development Engineer
-Software Development Engineer
-Autodesk
-Singapore, Singapore
-Actively Hiring
-2 hours ago
-Full Stack Developer - GS26027
-Full Stack Developer - GS26027
-Activate Interactive
-Singapore, Singapore
-Be an early applicant
-1 hour ago
-AI Applications Executive
-AI Applications Executive
-Minmed Group Pte Ltd
-Singapore, Singapore
-Be an early applicant
-1 hour ago
-Software Development Engineer
-Software Development Engineer
-Autodesk
-Singapore, Singapore
-Actively Hiring
-2 hours ago
-You've viewed all jobs for this search
-Data Migration Consultant, Oracle/SuccessFactors (2-Year Renewable Contract)
-Evolution Singapore
-Singapore, Singapore
-17 minutes ago
-92 applicants
-See who Evolution Singapore has hired for this role
-Apply
-Save
-Report this job
-Direct message the job poster from Evolution Singapore
-Ryan Nguyen
-Ryan Nguyen
-Dear Applicant,
-If you or someone you know is interested, please send the CV directly to Ryan.Nguyen@evolutionjobs.sg (preferred, as I may overlook some CVs due to the high volume).
-Please note that CAT1 clearance is required for this role.
-About the Role
-We are looking for an experienced
-Data Migration Consultant
-to support a large-scale digital transformation project within the public sector.
-In this role, you will be responsible for executing end-to-end data migration activities, ensuring the accurate, secure, and seamless migration of data across enterprise systems. You will work closely with business stakeholders, functional consultants, and technical teams to understand data requirements, perform data mapping and transformation, and ensure data quality throughout the migration lifecycle.
-Key Responsibilities
-Participate in end-to-end data migration activities, from data assessment and preparation through to migration execution and post-migration validation.
-Analyse existing data structures and source systems to understand data requirements and migration dependencies.
-Perform data extraction, cleansing, transformation, mapping, and loading activities.
-Support data migration involving Oracle platforms and/or SAP SuccessFactors.
-Develop and maintain data mapping documents, migration specifications, and data transformation rules.
-Conduct data quality checks, validation, reconciliation, and issue resolution to ensure accuracy and completeness of migrated data.
-Work closely with business users, functional consultants, and technical teams to gather requirements and address data-related challenges.
-Support migration testing activities, including mock migrations, User Acceptance Testing (UAT), and cutover preparation.
-Identify data discrepancies, investigate root causes, and recommend appropriate solutions.
-Prepare migration documentation, status reports, and technical deliverables.
-Provide post-migration support to ensure successful data transition and system stabilisation.
-Requirements
-Bachelor's degree in Computer Science, Information Technology, Engineering, or a related discipline.
-3+ years of experience in data migration, data conversion, or enterprise system implementation projects.
-Must have hands-on experience in at least one of the following:
-Oracle Data Migration / Oracle database migration.
-SAP SuccessFactors data migration and implementation.
-Good understanding of data migration processes, including data extraction, transformation, cleansing, mapping, loading, and validation.
-Experience with data quality management, data reconciliation, and migration testing.
-Ability to analyse complex data structures and troubleshoot data-related issues.
-Strong communication and stakeholder management skills, with the ability to work with both technical and business teams.
-Good documentation and problem-solving skills.
-Preferred Qualifications
-Experience working on large-scale enterprise transformation or system implementation projects.
-Previous experience supporting government or public sector technology projects.
-Familiarity with ERP, HRMS, or enterprise application migration.
-Exposure to ETL tools, SQL, or data integration technologies.
-Oracle or SAP-related certifications would be an advantage.
-Show more
-Show less
-Seniority level
-Mid-Senior level
-Employment type
-Contract
-Industries
-Staffing and Recruiting
-Referrals increase your chances of interviewing at Evolution Singapore by 2x
-See who you know
+Agree & Join
+or
+Already on Linkedin?
+Sign in
+Security verification
+Sign in
+Email or phone
+Password
+Show
+Forgot password?
+Sign in
+or
+By clicking Continue to join or sign in, you agree to LinkedIn’s
+User Agreement
+,
+Privacy Policy
+, and
+Cookie Policy
+.
+Continue with Google
+Continue with Google
+New to Linkedin?
+Join now
 LinkedIn
 © 2026
 About
@@ -213,28 +95,3 @@ Tiếng Việt (Vietnamese)
 简体中文 (Chinese (Simplified))
 正體中文 (Chinese (Traditional))
 Language
-Agree & Join LinkedIn
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
-Sign in to view more jobs
-Email or phone
-Password
-Show
-Forgot password?
-Sign in
-Sign in with Email
-or
-New to LinkedIn?
-Join now
-By clicking Continue to join or sign in, you agree to LinkedIn’s
-User Agreement
-,
-Privacy Policy
-, and
-Cookie Policy
-.
